@@ -7583,3 +7583,17 @@ Does not affect [[jeffrey-oracle]]
 ## [2026-09-13] ingest | Luna migration closure and OpenClaw retirement
 
 Source: [[luna-integration-learning-2026-09-13]]. Copied immutable raw record, created source and IntegrationLearningClosure concept, updated OpenClaw entity, EvidenceShaFreeze concept, source/concept index entries and overview. Oracle impact: current user retirement means do not resurrect OpenClaw debt; Hermes remains distinct. Recorded as a dated log update without rewriting the historical oracle synthesis.
+
+## [2026-09-17] ingest | Sprite-builder swarm five traps (PR #436)
+
+Source: [[feedback-2026-09-17-sprite-builder-swarm-five-traps]]. Copied raw memory file, created source page and two concepts ([[SquashMergeAuthorityDoclintTrap]], [[FixedOverlayStackingTrap]]), updated index. Does not affect [[jeffrey-oracle]].
+
+## [2026-09-17] ingest | Dormant git hook masquerades as repository gate
+
+Source: [[feedback-2026-09-17-dormant-git-hook-masquerades-as-repository-gate]]. Copied raw memory file, created source page and new concept [[DormantGitHook]], updated index. Does not affect [[jeffrey-oracle]] — this is a harness/tooling-safety lesson, not a user-facing product or preference change.
+## [2026-09-17] ingest | world_logic.py LOC ratchet hit by legit fix; relocate to owning module, not a ratchet bump
+- 2026-09-18 04:19 UTC: Ingested feedback_2026-09-17_automated_write_to_primary_account_policy_violation.md
+
+## [2026-09-18] ingest | Dragon Knight campaign (Rukka, 90 scenes)
+
+Source: [[dragon-knight-J3ayS7vC]]. Ingested campaign played by Rukka (rukkagamer@gmail.com, UID: GfQAYGvCBSQAPkAf7A1OCLQ0hYg2, campaign ID: J3ayS7vCM5baegGrMqW1, title: 'Dragon Knight', 90 scenes) into wiki source and raw archive.
