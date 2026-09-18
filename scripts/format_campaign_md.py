@@ -19,6 +19,15 @@ import os
 import re
 import sys
 
+# Connect to centralized document_generator engine in worldarchitect.ai
+try:
+    for repo_path in ["/Users/jleechan/projects/worktree_exported_campaigns", "/Users/jleechan/worldarchitect.ai"]:
+        if os.path.exists(repo_path) and repo_path not in sys.path:
+            sys.path.insert(0, repo_path)
+    from mvp_site.document_generator import story_text_to_markdown as _canonical_story_to_markdown
+except ImportError:
+    _canonical_story_to_markdown = None
+
 def parse_dice_rolls(raw_block: str) -> str:
     formatted = []
     for raw_line in raw_block.strip().split("\n"):
@@ -89,6 +98,8 @@ def format_timestamp(ts: str) -> str:
     return ts
 
 def story_text_to_markdown(story_text: str, campaign_title: str = "", campaign_id: str = "") -> str:
+    if _canonical_story_to_markdown is not None:
+        return _canonical_story_to_markdown(story_text, campaign_title=campaign_title, campaign_id=campaign_id)
     cleaned = story_text.replace("\\\\n", "\\n")
     title = campaign_title or "Untitled Campaign"
     scenes_split = re.split(r"={10,}\s*SCENE (\d+)\s*={10,}", cleaned)
