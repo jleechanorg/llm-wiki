@@ -35,3 +35,6 @@ The workflow extracts gate commands from design docs in the branch and runs them
 ## Files
 - `.github/workflows/design-doc-gate.yml` — the CI workflow
 - `roadmap/level-up-engine-single-responsibility-design-2026-04-14.md` — design doc with grep gates section
+
+## Related Sources
+- [[feedback-2026-09-17-worldlogic-loc-ratchet-hit-by-legit-fix-relocate-not-bump]] — 2026-09-17: the "world_logic.py line count" gate (by then tightened to <=12681) was tripped by a genuine PR #9913 bug fix; correct response was relocating new logic to its owning helper module (prompt_utils.py), not bumping the ratchet.
