@@ -1,17 +1,18 @@
 ---
-title: "My Epic Adventure"
-type: source
-tags: [campaign, worldarchitect, my-epic-adventure]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/ulPabw2innOgLVXeqs8e/My Epic Adventure_ulPabw2i.txt
-campaign_id: ulPabw2innOgLVXeqs8e
-entry_count: 77
-last_updated_iso: 2026-07-13T02:42:05.054409+00:00
-ingest_batch: batch-2026-07-12-50plus-repair
+title: "My Epic Adventure_ulPabw2i"
+campaign_id: "ulPabw2innOgLVXeqs8e"
+scenes_total: 38
+exported_from: "https://worldarchitect.ai"
 ---
 
-God Mode:
-Character: Ser Arion | Setting: World of Assiah. Caught between an oath to a ruthless tyrant who enforces a prosperous peace and the call of a chaotic dragon promising true freedom, a young knight must decide whether to slaughter innocents to preserve order or start a war to reclaim the world's soul. | Description: # Campaign summary
+
+# ⚔️ My Epic Adventure_ulPabw2i
+> *A WorldArchitect.AI Chronicle*
+
+---
+
+
+## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
 
@@ -19,9 +20,49 @@ Your loyalty is now brutally tested. You have been ordered to slaughter a settle
 
 You are now caught between duty and conscience. Do you uphold your oath and commit an atrocity, believing the sacrifice of a few is worth the peace and safety of millions? Or do you break your vow and defy the Empress, knowing that rebellion could plunge the world back into chaos? This single choice will define your honor and your path in an empire where security is bought with blood.
 
-See world history section below and then campaign details for more info on this scenario.
+---
 
-# World History
+### Campaign Start: The Knight of Two Suns
+
+**Setting the Scene:**
+The wind is a blade of ice in the northern province of Winter-Mourn, but the road beneath your company's horses is a perfect, white ribbon of Imperial stone, cleared of snow by engineering guilds paid on time. For decades, the Silent Peace of Empress Sariel has held. Bandits are a myth, trade flows uninterrupted, and for the first time in generations, the common folk do not fear the changing of the seasons. This is the peace you swore an oath to protect. You are Ser Arion val Valerion, and at sixteen, your new knighthood feels less like a title and more like a sacred duty to the Empress who forged this stable, prosperous world from the ashes of a cataclysmic war.
+
+This is your first major deployment as a newly-sworn knight in the "Argent Eaglets," a junior company tasked with enforcing Imperial law in these remote territories. Your mission, delivered by your commanding officer, the stern and ruthlessly pragmatic Prefect Gratian, is a test of your resolve. The March Lord of this province, Lady Annalise Ashwood, has been declared a traitor. Her crime: violating the Provincial Stability Mandate by offering sanctuary to a growing population of refugees, creating an unregistered settlement that attracts predations from the Shattered Host and drains regional resources. The orders are to "pacify" her keep and "disperse" the refugees—a cold euphemism for their slaughter, a necessary evil to prevent a single crack from forming in the Imperium's perfect, unyielding wall. Your father's words echo in your mind: "Loyalty to the Crown is loyalty to civilization itself."
+
+**Your Character:**
+
+- **Name:** Ser Arion val Valerion
+- **Age:** 16
+- **Class:** Level 1 Paladin (Oath of the Crown, sworn to Empress Sariel and the Laws of the Imperium)
+- **Alignment:** Neutral (Lawful Neutral leaning) — Your choices determine whether you become a champion of justice or an instrument of tyranny.
+- **Background:** Noble Knight of House Valerion. You are a young prodigy of the blade who has only ever known the benefits of the Empress's rule. Your loyalty to her is intertwined with your loyalty to the peace and order she has created. This mission is the first time you have been forced to see the brutal machinery required to maintain that peace, and your disillusionment is a fresh, painful wound.
+
+**House Valerion (Your Noble Family):**
+- **Father:** Lord Commander Marcus val Valerion — High Marshal of the Northern Legions
+- **Mother:** Lady Cordelia val Valerion — Council of Whispers member, secretly related to Lady Annalise Ashwood
+- **Elder Brother:** Ser Caspian (24) — Knight-Captain of the Obsidian Guard
+- **Elder Sister:** Lady Seraphina (21) — Imperial Diplomatic Corps, secretly doubtful
+- **Younger Sister:** Lyra (12) — Your protectee, idolizes you
+
+**Default Build (Level 1 Paladin):**
+- **Stats:** Str 16, Con 14, Cha 16 | **HP:** 12 | **AC:** 20
+- **Skills:** Persuasion, Intimidation
+- **Features:** Divine Sense (4 uses), Lay on Hands (5 HP pool)
+
+**Gear:**
+- **Valerion Plate:** Heavy plate armor (AC 18), house sigil
+- **"Duty's Edge":** Longsword (+5 to hit, 1d8+3 slashing)
+- **Shield:** +2 AC, bearing the Two Suns of the Imperium
+- **The Gryphon Helm:** Your iconic helmet
+
+**Starting Abilities Summary:**
+You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands (5 HP pool). Your oath to Empress Sariel grants you a deep connection to the laws of the Imperium, which is the source of your nascent holy power.
+
+---
+
+## 📜 Part II: World History & Lore
+<details open>
+<summary><b>Historical Lore</b></summary>
 
 ### The Age of Dominion: The Divine Order (Ancient Past, Pre-Gambit Era)
 
@@ -80,47 +121,13 @@ Into this stagnant era, two new, terrifying powers have emerged, challenging the
 
 Meanwhile, from the black salt flats of the south, the monstrous black dragon Umbrax, the Shadow of the Pit, has stirred. A creature of pure nihilism and decay, it does not seek to conquer, but to consume. It is the embodiment of the despair that festers under the Empress's perfect order, a final answer to a world without hope. The Silent Peace is over. A new war of ideas, fought between the Tyrant, the Crusader, and the Nihilist, is about to begin.
 
-**Follow this protocol "World & NPC Generation Protocol (For Player-Defined Custom Scenarios)"**
+**
 
-## V1 - Campaign Details
+</details>
 
-### Campaign Start: The Knight of Two Suns
-
-**Setting the Scene:**
-The wind is a blade of ice in the northern province of Winter-Mourn, but the road beneath your company's horses is a perfect, white ribbon of Imperial stone, cleared of snow by engineering guilds paid on time. For decades, the Silent Peace of Empress Sariel has held. Bandits are a myth, trade flows uninterrupted, and for the first time in generations, the common folk do not fear the changing of the seasons. This is the peace you swore an oath to protect. You are Ser Arion val Valerion, and at sixteen, your new knighthood feels less like a title and more like a sacred duty to the Empress who forged this stable, prosperous world from the ashes of a cataclysmic war.
-
-This is your first major deployment as a newly-sworn knight in the "Argent Eaglets," a junior company tasked with enforcing Imperial law in these remote territories. Your mission, delivered by your commanding officer, the stern and ruthlessly pragmatic Prefect Gratian, is a test of your resolve. The March Lord of this province, Lady Annalise Ashwood, has been declared a traitor. Her crime: violating the Provincial Stability Mandate by offering sanctuary to a growing population of refugees, creating an unregistered settlement that attracts predations from the Shattered Host and drains regional resources. The orders are to "pacify" her keep and "disperse" the refugees—a cold euphemism for their slaughter, a necessary evil to prevent a single crack from forming in the Imperium's perfect, unyielding wall. Your father's words echo in your mind: "Loyalty to the Crown is loyalty to civilization itself."
-
-**Your Character:**
-
-- **Name:** Ser Arion val Valerion
-- **Age:** 16
-- **Class:** Level 1 Paladin (Oath of the Crown, sworn to Empress Sariel and the Laws of the Imperium)
-- **Alignment:** Neutral (Lawful Neutral leaning) — Your choices determine whether you become a champion of justice or an instrument of tyranny.
-- **Background:** Noble Knight of House Valerion. You are a young prodigy of the blade who has only ever known the benefits of the Empress's rule. Your loyalty to her is intertwined with your loyalty to the peace and order she has created. This mission is the first time you have been forced to see the brutal machinery required to maintain that peace, and your disillusionment is a fresh, painful wound.
-
-**House Valerion (Your Noble Family):**
-- **Father:** Lord Commander Marcus val Valerion — High Marshal of the Northern Legions
-- **Mother:** Lady Cordelia val Valerion — Council of Whispers member, secretly related to Lady Annalise Ashwood
-- **Elder Brother:** Ser Caspian (24) — Knight-Captain of the Obsidian Guard
-- **Elder Sister:** Lady Seraphina (21) — Imperial Diplomatic Corps, secretly doubtful
-- **Younger Sister:** Lyra (12) — Your protectee, idolizes you
-
-**Default Build (Level 1 Paladin):**
-- **Stats:** Str 16, Con 14, Cha 16 | **HP:** 12 | **AC:** 20
-- **Skills:** Persuasion, Intimidation
-- **Features:** Divine Sense (4 uses), Lay on Hands (5 HP pool)
-
-**Gear:**
-- **Valerion Plate:** Heavy plate armor (AC 18), house sigil
-- **"Duty's Edge":** Longsword (+5 to hit, 1d8+3 slashing)
-- **Shield:** +2 AC, bearing the Two Suns of the Imperium
-- **The Gryphon Helm:** Your iconic helmet
-
-**Starting Abilities Summary:**
-You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands (5 HP pool). Your oath to Empress Sariel grants you a deep connection to the laws of the Imperium, which is the source of your nascent holy power.
-
----
+## 🔮 Part III: Special Mechanics & Artifacts
+<details>
+<summary><b>Campaign Mechanics</b></summary>
 
 ## Dragon's Favor (Early Game Safety Mechanic)
 
@@ -162,29 +169,72 @@ You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands
 
 **Why You Earned This:** *"You could have accepted Aurum's protection. You could have taken Umbrax's bargain. Instead, you stood alone. That is why you are worthy of this legacy."*
 
-============================================================
-SCENE 1
-============================================================
-[Timestamp: Unknown
-Location: Unknown
-Status: Lvl 1 Paladin | HP: 12/12
-Resources: None]
+</details>
 
-Game Master:
-[CHARACTER CREATION - Review]
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| **01** | Unknown | Unknown | Roleplay |
+| **02** | Unknown |  | Roleplay |
+| **03** | Unknown |  | Roleplay |
+| **04** | Unknown |  | Roleplay |
+| **05** | Unknown |  | Roleplay |
+| **06** | Unknown |  | Roleplay |
+| **07** | Unknown |  | Roleplay |
+| **08** | Unknown |  | Roleplay |
+| **09** | Unknown |  | Roleplay |
+| **10** | Unknown |  | Roleplay |
+| **11** | Unknown |  | Roleplay |
+| **12** | Unknown |  | Roleplay |
+| **13** | Unknown |  | Roleplay |
+| **14** | Unknown |  | Roleplay |
+| **15** | Unknown |  | Roleplay |
+| **16** | Unknown |  | Roleplay |
+| **17** | Unknown |  | Roleplay |
+| **18** | Unknown |  | Roleplay |
+| **19** | Unknown |  | Roleplay |
+| **20** | Unknown |  | Roleplay |
+| **21** | Unknown |  | Roleplay |
+| **22** | Unknown |  | Roleplay |
+| **23** | Unknown |  | Roleplay |
+| **24** | Unknown |  | Roleplay |
+| **25** | Unknown |  | Roleplay |
+| **26** | Unknown |  | Roleplay |
+| **27** | Unknown |  | Roleplay |
+| **28** | Unknown |  | Roleplay |
+| **29** | Unknown |  | Roleplay |
+| **30** | Unknown |  | Roleplay |
+| **31** | Unknown | , DR (00:00) | Roleplay |
+| **32** | Unknown | , DR (00:00) | Roleplay |
+| **33** | Unknown | , DR (00:00) | Roleplay |
+| **34** | Unknown |  | Roleplay |
+| **35** | Unknown |  | Roleplay |
+| **36** | Unknown |  | Roleplay |
+| **37** | Unknown | , DR (00:00) | Roleplay |
+| **38** | Unknown |  | Roleplay |
+
+---
+
+
+## 📖 Part IV: The Adventure Chronicle
+
+#### Scene 1
+
+> 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12** &nbsp;|&nbsp; ✨ **None**
 
 Welcome, Ser Arion. The wind howls across the white ribbon of the Imperial road in Winter-Mourn, a stark contrast to the perfect order of the Celestial Imperium you have sworn to protect. You stand at a crossroads of history, a young knight of House Valerion caught between the 'Silent Peace' of Empress Sariel and the emerging shadows of dragons.
 
 I have prepared your character profile based on the Imperial records. Please review your details before we begin your first deployment.
 
-Player (freeform):
-probe action
+> 👤 **Player:**
+> *"probe action"*
 
-============================================================
-SCENE 2
-============================================================
-Game Master:
-[CHARACTER CREATION - Review]
+---
+
+#### Scene 2
+
+> 
 
 Greetings, Ser Arion. You stand ready to depart for your first mission in the service of the Celestial Imperium. Before we begin the long ride to the northern province of Winter-Mourn, let us review your standing and equipment.
 
@@ -223,48 +273,14 @@ Greetings, Ser Arion. You stand ready to depart for your first mission in the se
 
 **Does this character meet with your approval, or shall we make adjustments before your journey begins?**
 
-Player (freeform):
-probe action
+> 👤 **Player:**
+> *"probe action"*
 
-============================================================
-SCENE 3
-============================================================
-Game Master:
-[CHARACTER CREATION - Review]
+---
 
-Ser Arion, the preparations for your deployment to Winter-Mourn are complete. The Imperial Quartermasters have finalized your kit, and your standing within House Valerion is documented. Before you take your oath and begin the long ride north, please perform a final inspection of your status.
+#### Scene 3
 
-### **Ser Arion val Valerion**
-**Level 1 Paladin (Human, Empyrean Bloodline)**
-
-**Core Attributes:**
-*   **Strength:** 16 (+3) | **Dexterity:** 10 (+0) | **Constitution:** 14 (+2)
-*   **Intelligence:** 10 (+0) | **Wisdom:** 10 (+0) | **Charisma:** 16 (+3)
-
-**Combat Profile:**
-*   **Hit Points:** 12 / 12
-*   **Armor Class:** 20 (Valerion Plate + Shield)
-*   **Weapon:** Duty's Edge (Longsword) [+5 to hit | 1d8+3 slashing]
-
-**Abilities & Proficiencies:**
-*   **Skills:** Athletics, Insight, Intimidation, Persuasion
-*   **Features:** Divine Sense (4/day), Lay on Hands (5 HP pool)
-*   **Languages:** Common, Celestial
-
-**Equipment:**
-*   **Worn:** Valerion Plate (AC 18), Imperial Twin Suns Shield (+2 AC), Gryphon Helm, Imperial Signet Ring.
-*   **Carried:** Explorer's Pack, 15 Gold Pieces.
-
-Does this character reflect your vision, or should we refine your training and equipment before the Empress's orders are executed?
-
-Player (freeform):
-probe via form submit
-
-============================================================
-SCENE 4
-============================================================
-Game Master:
-[CHARACTER CREATION - Review]
+> 
 
 Ser Arion, the preparations for your deployment to Winter-Mourn are complete. The Imperial Quartermasters have finalized your kit, and your standing within House Valerion is documented. Before you take your oath and begin the long ride north, please perform a final inspection of your status.
 
@@ -291,14 +307,14 @@ Ser Arion, the preparations for your deployment to Winter-Mourn are complete. Th
 
 Does this character reflect your vision, or should we refine your training and equipment before the Empress's orders are executed?
 
-Player (freeform):
-probe via form submit
+> 👤 **Player:**
+> *"probe via form submit"*
 
-============================================================
-SCENE 5
-============================================================
-Game Master:
-[CHARACTER CREATION - Review]
+---
+
+#### Scene 4
+
+> 
 
 Ser Arion, the preparations for your deployment to Winter-Mourn are complete. The Imperial Quartermasters have finalized your kit, and your standing within House Valerion is documented. Before you take your oath and begin the long ride north, please perform a final inspection of your status.
 
@@ -325,21 +341,55 @@ Ser Arion, the preparations for your deployment to Winter-Mourn are complete. Th
 
 Does this character reflect your vision, or should we refine your training and equipment before the Empress's orders are executed?
 
-Player (freeform):
-probe with error capture
+> 👤 **Player:**
+> *"probe via form submit"*
 
-============================================================
-SCENE 6
-============================================================
-Game Master:
+---
+
+#### Scene 5
+
+> 
+
+Ser Arion, the preparations for your deployment to Winter-Mourn are complete. The Imperial Quartermasters have finalized your kit, and your standing within House Valerion is documented. Before you take your oath and begin the long ride north, please perform a final inspection of your status.
+
+### **Ser Arion val Valerion**
+**Level 1 Paladin (Human, Empyrean Bloodline)**
+
+**Core Attributes:**
+*   **Strength:** 16 (+3) | **Dexterity:** 10 (+0) | **Constitution:** 14 (+2)
+*   **Intelligence:** 10 (+0) | **Wisdom:** 10 (+0) | **Charisma:** 16 (+3)
+
+**Combat Profile:**
+*   **Hit Points:** 12 / 12
+*   **Armor Class:** 20 (Valerion Plate + Shield)
+*   **Weapon:** Duty's Edge (Longsword) [+5 to hit | 1d8+3 slashing]
+
+**Abilities & Proficiencies:**
+*   **Skills:** Athletics, Insight, Intimidation, Persuasion
+*   **Features:** Divine Sense (4/day), Lay on Hands (5 HP pool)
+*   **Languages:** Common, Celestial
+
+**Equipment:**
+*   **Worn:** Valerion Plate (AC 18), Imperial Twin Suns Shield (+2 AC), Gryphon Helm, Imperial Signet Ring.
+*   **Carried:** Explorer's Pack, 15 Gold Pieces.
+
+Does this character reflect your vision, or should we refine your training and equipment before the Empress's orders are executed?
+
+> 👤 **Player:**
+> *"probe with error capture"*
+
+---
+
+#### Scene 6
+
+> 
+
 CAMPAIGN SUMMARY
 Title: The Knight of Two Suns
 Character: Ser Arion val Valerion
 Setting: World of Assiah
 Description: You are Ser Arion, a 16 year old honorable knight sworn to protect the vast Celestial Imperium...
 Options: Mechanics Enabled
-
-[CHARACTER CREATION - Review]
 
 Ser Arion, the preparations for your deployment to Winter-Mourn are complete. The Imperial records show your standing and equipment are finalized. Before you take your oath and begin the long ride north, please perform a final inspection of your status.
 
@@ -366,13 +416,15 @@ Ser Arion, the preparations for your deployment to Winter-Mourn are complete. Th
 
 Does this character reflect your vision, or should we refine your training and equipment before the Empress's orders are executed?
 
-Player (choice: option_1):
-Start Adventure - Confirm and begin your journey.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Start Adventure - Confirm and begin your journey.*
 
-============================================================
-SCENE 7
-============================================================
-Game Master:
+---
+
+#### Scene 7
+
+> 
+
 Morning (09:00:00) on the Great Northern Road, within the frigid expanse of Winter-Mourn—the wind is a jagged blade of ice that whistles through the gaps of your Valerion Plate. Beneath the steady rhythmic thud of your destrier's hooves, the Imperial stone is a flawless white ribbon, a testament to the Empress's absolute order. To your left and right, the Argent Eaglets ride in disciplined silence, their blue and silver cloaks snapping like whips in the gale.
 
 Prefect Gratian (Lvl 12) pulls his heavy black charger alongside you. The veteran officer's face is a map of scars and frozen resolve, his eyes never leaving the horizon where the grey towers of Ashwood Keep begin to pierce the mist. 
@@ -381,13 +433,15 @@ Prefect Gratian (Lvl 12) pulls his heavy black charger alongside you. The vetera
 
 As the company crests the final ridge, you see the settlement: a sprawling, desperate collection of tents and timber lean-tos huddled against the stone skirts of the keep. Hundreds of refugees—families fleeing the southern blights—are visible even from here, their meager fires struggling against the cold.
 
-Player (freeform):
-Request a Parley - Ask Prefect Gratian for permission to ride ahead and demand Lady Annalise&#x27;s surrender before the main force engages.
+> 👤 **Player:**
+> *"Request a Parley - Ask Prefect Gratian for permission to ride ahead and demand Lady Annalise&#x27;s surrender before the main force engages."*
 
-============================================================
-SCENE 8
-============================================================
-Game Master:
+---
+
+#### Scene 8
+
+> 
+
 Morning (09:15:00) on the ridge overlooking the Ashwood settlement.
 
 You pull your destrier closer to Prefect Gratian (Lvl 12), the cold wind whipping your silver cloak against your plate. "Prefect," you begin, your voice steady despite the adrenaline of your first deployment. "Lady Annalise (Lvl 8) is a Noble of the North. If she sees the Argent Eaglets in full force, she may dig in for a siege, wasting Imperial blood and time. Give me leave to ride ahead. I can demand her surrender and the peaceful dispersal of the refugees before the main force engages. We can secure the keep without a single Imperial casualty."
@@ -410,13 +464,15 @@ You spur your horse forward, leaving the disciplined line of the Eaglets behind.
 **║   • Opportunity for Social Resolution║**
 **╚══════════════════════════════════════╝**
 
-Player (freeform):
-Formal Demand - Address the refugees and the keep guards with Imperial authority, demanding immediate surrender to the Empress&#x27;s will.
+> 👤 **Player:**
+> *"Formal Demand - Address the refugees and the keep guards with Imperial authority, demanding immediate surrender to the Empress&#x27;s will."*
 
-============================================================
-SCENE 9
-============================================================
-Game Master:
+---
+
+#### Scene 9
+
+> 
+
 Morning (09:20:00) at the Ashwood Settlement Gates.
 
 You bring your destrier to a halt just outside the makeshift wooden palisade that rings the refugee camp. The air is thick with the scent of unwashed bodies, wet soot, and fear. On the timber walkway above the gate, two guards in the grey and green livery of House Ashwood (Lvl 3) level their crossbows at you, though their hands tremble slightly at the sight of your gleaming Valerion Plate.
@@ -441,22 +497,26 @@ A heavy silence follows. The refugees below the walkway shrink back, mothers pul
 **║   • Direct Parley with Lady Annalise ║**
 **╚══════════════════════════════════════╝**
 
-Player (freeform):
-stream display json probe
+> 👤 **Player:**
+> *"stream display json probe"*
 
-============================================================
-SCENE 10
-============================================================
-Game Master:
+---
+
+#### Scene 10
+
+> 
+
 Invalid JSON response received. Please try again.
 
-Player (freeform):
-stream raw-json probe 1770631465079
+> 👤 **Player:**
+> *"stream raw-json probe 1770631465079"*
 
-============================================================
-SCENE 11
-============================================================
-Game Master:
+---
+
+#### Scene 11
+
+> 
+
 Morning (09:25:00) at Ashwood Keep.
 
 The heavy iron-reinforced gates of the settlement groan open, the sound echoing like a funeral knell against the surrounding cliffs. You dismount, the weight of your Valerion Plate shifting as your boots hit the frozen slush of the courtyard. The refugees part like a grey sea before a silver prow, their eyes a mixture of terror and desperate hope. You walk alone, as promised, your hand resting near Duty's Edge (Lvl 2) but not on it—a gesture of tension rather than aggression.
@@ -465,13 +525,15 @@ Lady Annalise (Lvl 8) descends from the ramparts, her movements fluid and devoid
 
 Beyond the walls, you can see the silver cloaks of the Argent Eaglets on the ridge. Prefect Gratian (Lvl 12) is watching. The thirty minutes he granted you are already beginning to bleed away.
 
-Player (freeform):
-stream ui probe 1770631977617
+> 👤 **Player:**
+> *"stream ui probe 1770631977617"*
 
-============================================================
-SCENE 12
-============================================================
-Game Master:
+---
+
+#### Scene 12
+
+> 
+
 Morning (09:27:00) at Ashwood Keep.
 
 Lady Annalise's (Lvl 8) question hangs in the frigid air, more biting than the northern wind. Behind her, the rhythmic hammering of a smithy has stopped; the only sound is the flapping of the Ashwood banners and the distant, ominous clatter of Prefect Gratian's (Lvl 12) company adjusting their positions on the ridge. The refugees—men, women, and children with hollow cheeks and frostbitten fingers—watch you with a gaze that is less hateful than it is utterly exhausted.
@@ -482,26 +544,30 @@ Annalise (Lvl 8) steps closer, her eyes narrowing. "Chaos is the name the powerf
 
 On the horizon, a silver flare catches the light. Gratian (Lvl 12) is signaling. You have less than twenty minutes remaining before the parley window closes and the Argent Eaglets descend.
 
-Player (freeform):
-evidence-local-stream-1770632879407
+> 👤 **Player:**
+> *"evidence-local-stream-1770632879407"*
 
-============================================================
-SCENE 13
-============================================================
-Game Master:
+---
+
+#### Scene 13
+
+> 
+
 Morning (09:30:00) at Ashwood Keep.
 
 The parley continues under the shadow of the ridge, where the Argent Eaglets' silver armor glints like a warning. Lady Annalise (Lvl 8) stands her ground, her gaze unyielding. You stand at a pivot point of history: the armored hand of an Empire that demands absolute order, or the last hope for a thousand souls huddled in the cold. Prefect Gratian (Lvl 12) has signaled the twenty-minute mark. The time for philosophical debate is ending; the time for a decision that will define your oath has arrived.
 
 [STATUS: Probing local stream. Connection stable. Narrative state: Parley in progress. Character creation flags synchronized.]
 
-Player (freeform):
-beads-fix-local-1770633280288
+> 👤 **Player:**
+> *"beads-fix-local-1770633280288"*
 
-============================================================
-SCENE 14
-============================================================
-Game Master:
+---
+
+#### Scene 14
+
+> 
+
 Morning (09:32:00) at Ashwood Keep.
 
 The silence in the courtyard is heavy, pressing against your Valerion Plate like the weight of the Imperium itself. Lady Annalise (Lvl 8) does not look away, her weary eyes reflecting the cold light of the morning suns. To your right, a young boy, no older than your sister Lyra, clenches a ragged doll, his eyes wide as he stares at your silver-chased gauntlets. 
@@ -514,31 +580,37 @@ The twenty-minute window is closing. Every second spent in silence is a second c
 
 [SYSTEM: State synchronization successful. Local flags fixed. Narrative continuity established.]
 
-Player (freeform):
-full-proof-app-1770637088104
+> 👤 **Player:**
+> *"full-proof-app-1770637088104"*
 
-============================================================
-SCENE 15
-============================================================
-Game Master:
+---
+
+#### Scene 15
+
+> 
+
 Invalid JSON response received. Please try again.
 
-Player (freeform):
-full-proof-app-1770637264502
+> 👤 **Player:**
+> *"full-proof-app-1770637264502"*
 
-============================================================
-SCENE 16
-============================================================
-Game Master:
+---
+
+#### Scene 16
+
+> 
+
 Invalid JSON response received. Please try again.
 
-Player (freeform):
-full-final-proof-1770637425340
+> 👤 **Player:**
+> *"full-final-proof-1770637425340"*
 
-============================================================
-SCENE 17
-============================================================
-Game Master:
+---
+
+#### Scene 17
+
+> 
+
 Morning (09:35:00) at Ashwood Keep.
 
 The weight of Lady Annalise's (Lvl 8) words hangs in the frigid air, far heavier than the Valerion Plate covering your chest. You look at the young boy (Lvl 0) with the ragged doll, then back to the silver-chased armor of the woman who stands as the only barrier between these people and the 'Silent Peace' of the Empress (Lvl 20). In the silence, you feel a strange clarity—a synchronization of your purpose and the reality of the blade at your hip.
@@ -549,13 +621,15 @@ Lady Annalise (Lvl 8) tilts her head, a ghost of a smile touching her lips. "The
 
 On the ridge, the silver line of the company begins to shift. They are mounting their chargers. The thirty-minute window is not just closing; it is slamming shut.
 
-Player (freeform):
-browser streaming test 1: scout ahead silently
+> 👤 **Player:**
+> *"browser streaming test 1: scout ahead silently"*
 
-============================================================
-SCENE 18
-============================================================
-Game Master:
+---
+
+#### Scene 18
+
+> 
+
 Morning (09:37:00) at Ashwood Keep.
 
 As Lady Annalise (Lvl 8) waits for your response, you attempt to subtly shift your weight, angling your Gryphon Helm to peer past her toward the inner gatehouse and the barracks. You try to gauge the number of archers stationed in the shadows of the upper balconies and whether the refugees (Lvl 0) are concealing weapons beneath their rags.
@@ -566,13 +640,15 @@ However, the heavy plates of your Valerion Armor (AC 18) betray you. A distinct,
 
 On the ridge, the Argent Eaglets are no longer just mounting; they have formed into a wedge. Prefect Gratian (Lvl 12) is raising his hand. The thirty-minute window is down to its final grains of sand.
 
-Player (freeform):
-browser validation action 1: scout the northern ridge
+> 👤 **Player:**
+> *"browser validation action 1: scout the northern ridge"*
 
-============================================================
-SCENE 19
-============================================================
-Game Master:
+---
+
+#### Scene 19
+
+> 
+
 Morning (09:40:00) at Ashwood Keep.
 
 Ignoring Lady Annalise's (Lvl 8) sharp rebuke, you wrench your gaze back toward the ridge. The sun catches the edge of the mist, and for a fleeting second, the atmospheric distortion clears. You see it: Prefect Gratian (Lvl 12) has not just mounted; his black charger is stepping forward. To his left and right, the Argent Eaglets (Lvl 4) have lowered their lances in a synchronized, deadly tilt. The silver line is no longer a static wall—it is a coiled spring.
@@ -595,13 +671,15 @@ Behind you, the refugees (Lvl 0) have realized the danger. The rhythmic thud of 
 **║   • Information: Gratian is attacking║**
 **╚══════════════════════════════════════╝**
 
-Player (freeform):
-browser manual proof 1: scout north ridge and report
+> 👤 **Player:**
+> *"browser manual proof 1: scout north ridge and report"*
 
-============================================================
-SCENE 20
-============================================================
-Game Master:
+---
+
+#### Scene 20
+
+> 
+
 Morning (09:42:00) at Ashwood Keep.
 
 You steady your breathing, narrowing your eyes as you peer through the slit of your Gryphon Helm toward the rising ridge. The silver line of the Argent Eaglets (Lvl 4) is no longer a shimmering blur; your focus sharpens, cutting through the frost-heavy air. 
@@ -622,13 +700,15 @@ Behind them, you spot the **Imperial Signalers** readying fire-pots. They don't 
 **║   • Arson Intent Discovered          ║**
 **╚══════════════════════════════════════╝**
 
-Player (freeform):
-browser manual proof 2: consult ally for tactical advicebrowser manual proof 3: advance and inspect trail markers
+> 👤 **Player:**
+> *"browser manual proof 2: consult ally for tactical advicebrowser manual proof 3: advance and inspect trail markers"*
 
-============================================================
-SCENE 21
-============================================================
-Game Master:
+---
+
+#### Scene 21
+
+> 
+
 Morning (09:45:00) at Ashwood Keep.
 
 The ground tremors as the Argent Eaglets' trot accelerates into a gallop. You turn to Lady Annalise (Lvl 8), your voice urgent. "My Lady, the Prefect is not waiting. If we are to save these people, I need the truth of your defenses. What is the tactical reality here? How do we stop a charge that has already begun?"
@@ -651,13 +731,15 @@ You advance toward the inner perimeter, your gaze sweeping the slush-covered gro
 **║   • Route: Western Postern Gate      ║**
 **╚══════════════════════════════════════╝**
 
-Player (freeform):
-browser strict proof 1: recon north gate
+> 👤 **Player:**
+> *"browser strict proof 1: recon north gate"*
 
-============================================================
-SCENE 22
-============================================================
-Game Master:
+---
+
+#### Scene 22
+
+> 
+
 Morning (09:47:00) at Ashwood Keep.
 
 You squint through the biting wind, your eyes burning as you try to pierce the veil of kicked-up snow and frozen slush rising from the ridge. You focus on the North Gate area, searching for some final detail—a signal, a hidden unit, or the exact timing of the impact. 
@@ -668,13 +750,15 @@ But the chaos of the charge is too great. The rhythmic thundering of the Argent 
 
 The air is filled with the high-pitched screams of terrified horses and the deeper, guttural roar of the Iron-Bound Vanguards. The time for observation has passed; the violence of the 'Silent Peace' is seconds away from reaching the gates.
 
-Player (freeform):
-browser strict proof 2: brief allied scout
+> 👤 **Player:**
+> *"browser strict proof 2: brief allied scout"*
 
-============================================================
-SCENE 23
-============================================================
-Game Master:
+---
+
+#### Scene 23
+
+> 
+
 Morning (09:48:00) at Ashwood Keep.
 
 You pull one of the Ashwood Guards (Lvl 3) aside, his hands white-knuckled on his crossbow. "The ridge!" you shout over the rising thunder. "Where are the Signalers aiming?"
@@ -687,13 +771,15 @@ Lady Annalise (Lvl 8) hears him and turns to you, her face a mask of horror. "Th
 
 Prefect Gratian (Lvl 12) is now less than two hundred yards away. The first fire-pot is being hoisted into a catapult-sling.
 
-Player (freeform):
-browser strict proof 3: inspect trail marker
+> 👤 **Player:**
+> *"browser strict proof 3: inspect trail marker"*
 
-============================================================
-SCENE 24
-============================================================
-Game Master:
+---
+
+#### Scene 24
+
+> 
+
 Morning (09:49:00) at Ashwood Keep.
 
 The thunder of the Argent Eaglets' (Lvl 4) charge is now a bone-shaking roar. You drop to one knee beside the nearest trail marker—a jagged stone painted with a stark, white ash rune. Your fingers, encased in the silvered steel of your gauntlets, brush away the frozen slush.
@@ -716,13 +802,15 @@ Prefect Gratian (Lvl 12) is now less than a hundred yards away. His black charge
 **║   • Insight: 20-yard Lethal Radius   ║**
 **╚══════════════════════════════════════╝**
 
-Player (freeform):
-browser strict3 proof 1 20260210T: recon north gate
+> 👤 **Player:**
+> *"browser strict3 proof 1 20260210T: recon north gate"*
 
-============================================================
-SCENE 25
-============================================================
-Game Master:
+---
+
+#### Scene 25
+
+> 
+
 Morning (09:50:00) at Ashwood Keep.
 
 You wrench your attention from the white ash runes at your feet and shield your eyes against the blinding glare of a hundred silver breastplates. You focus every ounce of your training on the North Gate, trying to parse the chaotic blur of the Vanguard's approach. 
@@ -747,13 +835,15 @@ Lady Annalise (Lvl 8) sees the chains glinting in the snow. Her face pales. The 
 
 **Note: You have surpassed 900 XP. A level-up to Level 2 is now available.**
 
-Player (freeform):
-browser strict3 proof 2 20260210T: brief allied scout
+> 👤 **Player:**
+> *"browser strict3 proof 2 20260210T: brief allied scout"*
 
-============================================================
-SCENE 26
-============================================================
-Game Master:
+---
+
+#### Scene 26
+
+> 
+
 Morning (09:48:00) at Ashwood Keep.
 
 You pull one of the Ashwood Guards (Lvl 3) aside, your silver-chased gauntlet steadying his trembling arm as you both squint into the biting northern gale. You ignore the blinding glare of the approaching Argent Eaglets, focusing your gaze on the trailing edge of the Imperial formation where the Signalers (Lvl 2) have detached.
@@ -768,16 +858,17 @@ You feel the heat even from the gateway. You have reached a pinnacle of tactical
 
 **Note: You have reached 950 XP. You are now eligible to reach Level 2. Your Paladin powers—Divine Smite, Fighting Style, and Spellcasting—await your selection.**
 
-Player (freeform):
-browser strict3 proof 3 20260210T: inspect trail marker
+> 👤 **Player:**
+> *"browser strict3 proof 3 20260210T: inspect trail marker
 
-Player (freeform):
-browser strict3b proof 1: recon north gate
+browser strict3b proof 1: recon north gate"*
 
-============================================================
-SCENE 27
-============================================================
-Game Master:
+---
+
+#### Scene 27
+
+> 
+
 Morning (09:51:00) at Ashwood Keep.
 
 You narrow your eyes against the punishing glare of the winter suns, shielding your vision with a silvered gauntlet as you peer through the frantic motion of the battlefield. Your focus pierces the chaotic spray of slush and the deafening thunder of hooves.
@@ -805,13 +896,15 @@ On the ridge, the first fire-pots from the Signalers (Lvl 2) are now mid-flight,
 🎉 **LEVEL UP!** You have 1,100 XP. You are now Level 2! 
 Select your **Fighting Style** (Defense, Dueling, Great Weapon Fighting, Protection) and choose your starting **Spells**. Note that you also gain **Divine Smite**.
 
-Player (freeform):
-browser strict3b proof 2: brief allied scout
+> 👤 **Player:**
+> *"browser strict3b proof 2: brief allied scout"*
 
-============================================================
-SCENE 28
-============================================================
-Game Master:
+---
+
+#### Scene 28
+
+> 
+
 Morning (09:52:00) at Ashwood Keep.
 
 You grab the shoulder of a veteran Ashwood Scout (Lvl 5) who is frantically adjusting a heavy ballista on the ramparts. "Tell me what you see on the far flank!" you command, your voice cutting through the rising thunder of the charge.
@@ -822,13 +915,15 @@ Your pulse hammers against your gorget. The battlefield is no longer a single li
 
 In this moment of absolute crisis, the weight of your duty and the fire in your blood coalesce. The nascent light of your Empyrean ancestry flares within your soul. You are no longer just a squire in plate; you are a Paladin of the Imperium, and the power of your conviction is ready to be forged into a weapon.
 
-Player (freeform):
-browser verify raw-json suppression now
+> 👤 **Player:**
+> *"browser verify raw-json suppression now"*
 
-============================================================
-SCENE 29
-============================================================
-Game Master:
+---
+
+#### Scene 29
+
+> 
+
 [LEVEL UP - LEVEL 2]
 
 Ser Arion, the air around you seems to shimmer with a sudden, golden intensity that has nothing to do with the winter suns. As the thunder of the Argent Eaglets' charge shakes the very ground beneath your boots, the 'Silent Peace' you once served clashes with the visceral reality of the innocent lives surrounding you. That friction has sparked something ancient and powerful within your Empyrean blood. Your oath is no longer just words; it is a weight and a light.
@@ -843,13 +938,15 @@ You have reached Level 2. Your soul has crystallized, granting you the ability t
 **Fighting Style Selection:**
 You must now choose a Fighting Style to define your martial prowess. Please select one of the options below.
 
-Player (freeform):
-THINK:planning block probe in think mode
+> 👤 **Player:**
+> *"THINK:planning block probe in think mode"*
 
-============================================================
-SCENE 30
-============================================================
-Game Master:
+---
+
+#### Scene 30
+
+> 
+
 [LEVEL UP - LEVEL 2]
 
 Ser Arion, the adrenaline of the looming charge at Ashwood Keep surges through you, but it is met by a profound, internal shift. The 'Silent Peace' you were raised to defend is being tested by the 'Silent Prayer' for mercy you see in the eyes of the refugees. This conflict has awakened the true potential of your Empyrean blood.
@@ -858,18 +955,15 @@ You have reached Level 2. Your conviction now manifests as tangible power. You f
 
 To complete this transition, you must choose your **Fighting Style**. This choice will define how you hold the line against the coming storm. You must also select your initial spells from the Paladin list (you can prepare 4 spells).
 
-Player (freeform):
-pb-check
+> 👤 **Player:**
+> *"pb-check"*
 
-============================================================
-SCENE 31
-============================================================
-[Timestamp:  DR,  , 00:00:00
-Location: Unknown
-Status: Lvl 2 Paladin | HP: 20/20
-Resources: Spells: L1 2/2]
+---
 
-Game Master:
+#### Scene 31
+
+> 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20** &nbsp;|&nbsp; ✨ **Spells: L1 2/2**
+
 [LEVEL UP - LEVEL 2]
 
 Ser Arion, the cold northern air suddenly feels charged with a humming, vibrant energy. As the thunder of the Argent Eaglets' hooves shakes the frozen earth, the conflict between your Imperial oath and the sight of the huddling refugees reaches a boiling point. In that friction, the latent Empyrean light in your blood flares. You are no longer just a knight of steel; you are becoming a conduit for divine conviction.
@@ -884,32 +978,26 @@ Would you like to level up now?
 Options: 1. Level up immediately  2. Continue adventuring
 If you continue adventuring, you remain Level 2 and defer these benefits until you choose to level up.
 
-Player (freeform):
-direct api planning block check
+> 👤 **Player:**
+> *"direct api planning block check"*
 
-============================================================
-SCENE 32
-============================================================
-[Timestamp:  DR,  , 00:00:00
-Location: Unknown
-Status: Lvl 1 Paladin | HP: 12/12
-Resources: None]
+---
 
-Game Master:
+#### Scene 32
+
+> 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12** &nbsp;|&nbsp; ✨ **None**
+
 Invalid JSON response received. Please try again.
 
-Player (freeform):
-pb-check
+> 👤 **Player:**
+> *"pb-check"*
 
-============================================================
-SCENE 33
-============================================================
-[Timestamp:  DR,  , 00:00:00
-Location: Unknown
-Status: Lvl 2 Paladin | HP: 20/20
-Resources: None]
+---
 
-Game Master:
+#### Scene 33
+
+> 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20** &nbsp;|&nbsp; ✨ **None**
+
 [LEVEL UP - LEVEL 2]
 
 Ser Arion, the thunder of the Argent Eaglets' charge shakes the very earth beneath your boots, but it is met by a profound, internal shift. The 'Silent Peace' you were raised to defend is being tested by the 'Silent Prayer' for mercy you see in the eyes of the refugees. This conflict has awakened the true potential of your Empyrean blood. You feel the ability to strike with 'Divine Smite' and weave protective wards through 'Spellcasting'.
@@ -921,13 +1009,15 @@ Would you like to level up now?
 Options: 1. Level up immediately  2. Continue adventuring
 If you continue adventuring, you remain Level 2 and defer these benefits until you choose to level up.
 
-Player (freeform):
-THINK:ocr planning block check prompt 2026-02-10
+> 👤 **Player:**
+> *"THINK:ocr planning block check prompt 2026-02-10"*
 
-============================================================
-SCENE 34
-============================================================
-Game Master:
+---
+
+#### Scene 34
+
+> 
+
 [LEVEL UP - LEVEL 2]
 
 Ser Arion, the thundering approach of your former brothers-in-arms has triggered a deep awakening within your soul. Your conviction is no longer a silent concept; it is a radiant force. You have reached Level 2 and, with 1,100 XP, you are already eligible to reach Level 3.
@@ -945,13 +1035,15 @@ To wield this power against the coming storm, you must select your **Fighting St
 
 Once these selections are confirmed, we will immediately process your advancement to Level 3, where you will gain **Divine Health** and your **Sacred Oath** features.
 
-Player (freeform):
-THINK:reload-repro planning block turn 2026-02-10
+> 👤 **Player:**
+> *"THINK:reload-repro planning block turn 2026-02-10"*
 
-============================================================
-SCENE 35
-============================================================
-Game Master:
+---
+
+#### Scene 35
+
+> 
+
 [LEVEL UP - LEVEL 3 AVAILABLE]
 
 Ser Arion, as you stand within the gates of Ashwood Keep, the clash between your sworn duty and the humanity of the refugees has reached a point of absolute clarity. That friction has not merely ignited your conviction—it has forged it into a conduit for the Empyrean light. You have surpassed the threshold of Level 2 (900 XP) and are now surging toward Level 3.
@@ -971,27 +1063,26 @@ Ser Arion, as you stand within the gates of Ashwood Keep, the clash between your
 
 **The silver line of the Eaglets is descending. You must choose how your power manifests before the first lance strikes.**
 
-Player (freeform):
-THINK:reload-repro planning block turn 2026-02-10
+> 👤 **Player:**
+> *"THINK:reload-repro planning block turn 2026-02-10"*
 
-============================================================
-SCENE 36
-============================================================
-Game Master:
+---
+
+#### Scene 36
+
+> 
+
 Invalid JSON response received. Please try again.
 
-Player (freeform):
-THINK:reload-repro planning block turn 2026-02-10
+> 👤 **Player:**
+> *"THINK:reload-repro planning block turn 2026-02-10"*
 
-============================================================
-SCENE 37
-============================================================
-[Timestamp:  DR,  , 00:00:00
-Location: Unknown
-Status: Lvl 2 Paladin | HP: 20/20
-Resources: None]
+---
 
-Game Master:
+#### Scene 37
+
+> 📍 **Unknown** &nbsp;|&nbsp; ⏳ **, DR (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20** &nbsp;|&nbsp; ✨ **None**
+
 [LEVEL UP - LEVEL 2 & 3]
 
 Ser Arion, the thunder of the Argent Eaglets' charge shakes the very earth beneath your boots, but it is met by a profound, internal shift. The 'Silent Peace' you were raised to defend is being tested by the 'Silent Prayer' for mercy you see in the eyes of the refugees. This conflict has awakened the true potential of your Empyrean blood. 
@@ -1005,13 +1096,15 @@ Would you like to level up now?
 Options: 1. Level up immediately  2. Continue adventuring
 If you continue adventuring, you remain Level 2 and defer these benefits until you choose to level up.
 
-Player (freeform):
-THINK:bead-validation-turn-1770705359380
+> 👤 **Player:**
+> *"THINK:bead-validation-turn-1770705359380"*
 
-============================================================
-SCENE 38
-============================================================
-Game Master:
+---
+
+#### Scene 38
+
+> 
+
 [LEVEL UP - LEVEL 2 & 3]
 
 Ser Arion (Lvl 2), the freezing air of Winter-Mourn seems to vibrate with the force of your awakening conviction. You have reached Level 2, and your experience (1,100 XP) has already carried you to the threshold of Level 3. Your Empyrean blood responds to the impending slaughter at the gates, forging your oath into a living shield.
@@ -1030,3 +1123,6 @@ Once your Level 2 foundations are set, you will officially take your Oath, grant
 - **Hit Points:** Your maximum health will surge from 20 to 28.
 
 **Which Fighting Style will you adopt, and which 4 Spells will you prepare for the defense of Ashwood Keep (Lvl 8)?**
+
+---
+

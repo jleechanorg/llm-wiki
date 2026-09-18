@@ -1,22 +1,61 @@
 ---
-title: "Derek"
-type: source
-tags: [campaign, worldarchitect, derek]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/oSpVZmb6hpgw74ITwZ1J/Derek_oSpVZmb6.txt
-campaign_id: oSpVZmb6hpgw74ITwZ1J
-entry_count: 50
-last_updated_iso: 2026-07-13T02:34:07.309248+00:00
-ingest_batch: batch-2026-07-12-50plus
+title: "Derek_oSpVZmb6"
+campaign_id: "oSpVZmb6hpgw74ITwZ1J"
+scenes_total: 25
+exported_from: "https://worldarchitect.ai"
 ---
+
+
+# ⚔️ Derek_oSpVZmb6
+> *A WorldArchitect.AI Chronicle*
+
+---
+
+
+## 🛡️ Part I: Campaign Background
 
 God Mode:
 A brave knight in a land of dragons needs to choose between killing an evil dragon or joining its side.
 
-============================================================
-SCENE 1
-============================================================
-Game Master:
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| **01** | Unknown |  | Roleplay |
+| **02** | Unknown |  | Roleplay |
+| **03** | Unknown |  | Roleplay |
+| **04** | Unknown |  | Roleplay |
+| **05** | Unknown |  | Roleplay |
+| **06** | Unknown |  | Roleplay |
+| **07** | Unknown |  | Roleplay |
+| **08** | Unknown |  | Roleplay |
+| **09** | Unknown |  | Roleplay |
+| **10** | Unknown |  | Roleplay |
+| **11** | Unknown |  | Roleplay |
+| **12** | Unknown |  | Roleplay |
+| **13** | Unknown |  | Roleplay |
+| **14** | Unknown |  | Roleplay |
+| **15** | Unknown |  | Roleplay |
+| **16** | Unknown |  | Roleplay |
+| **17** | Unknown |  | Roleplay |
+| **18** | Unknown |  | Roleplay |
+| **19** | Unknown |  | Roleplay |
+| **20** | Unknown |  | Roleplay |
+| **21** | Unknown |  | Roleplay |
+| **22** | Unknown |  | Roleplay |
+| **23** | Unknown |  | Roleplay |
+| **24** | Unknown |  | Roleplay |
+| **25** | Unknown |  | Roleplay |
+
+---
+
+
+## 📖 Part IV: The Adventure Chronicle
+
+#### Scene 1
+
+> 
+
 [DEBUG_START]
 Starting a new campaign. The user has provided a setting (Assiah) and a premise (Brave Knight vs. Dragon). I must now initiate the Calibration Phase as per the `calibration_instruction.md`.
 
@@ -89,13 +128,15 @@ Initial state proposal will be a simple status update.
 }
 [END_STATE_UPDATES_PROPOSED]
 
-Player (freeform):
-(a)
+> 👤 **Player:**
+> *"(a)"*
 
-============================================================
-SCENE 2
-============================================================
-Game Master:
+---
+
+#### Scene 2
+
+> 
+
 [DEBUG_START]
 The user has selected option (a), accepting the "Hero Points" system. My instructions are to finalize this rule and proceed to the next step of calibration: character creation. I will acknowledge their choice, narratively transition to the character creation phase, and prompt them for the necessary details (name, archetype, motivation) to begin building their character profile and sheet. I will also remind them of the companion generation protocol. The word count should be around 300 words. My state update will reflect the finalization of the new rule and the move to the next phase.
 [DEBUG_END]
@@ -135,15 +176,17 @@ Updating state to reflect the acceptance of the Hero Points rule and the transit
 }
 [END_STATE_UPDATES_PROPOSED]
 
-Player (freeform):
-1. Sir Andrew
+> 👤 **Player:**
+> *"1. Sir Andrew
 2. Vengeful Paladin out to destroy all dragons
-3. Destroy dragonkind just as a dragon had destroyed his hometown
+3. Destroy dragonkind just as a dragon had destroyed his hometown"*
 
-============================================================
-SCENE 3
-============================================================
-Game Master:
+---
+
+#### Scene 3
+
+> 
+
 [DEBUG_START]
 The user has provided the core concept for the player character: Sir Andrew, a Vengeful Paladin. I will now flesh this out using the `character_template.md` and `character_sheet_template.md` protocols. I will also generate the three companions as required by the `narrative_system_instruction.md`. Finally, I will generate the complete initial game state as mandated by `game_state_instruction.md` before writing the opening narrative scene.
 
@@ -298,13 +341,15 @@ What would you like to do next?
 3.  **[Consult your Companions]:** Ask Kiera for her assessment of the terrain ahead or Brennan for his sense of the land.
 4.  **[Other]:** You can also describe a different action you'd like to take.
 
-Player (freeform):
-3
+> 👤 **Player:**
+> *"3"*
 
-============================================================
-SCENE 4
-============================================================
-Game Master:
+---
+
+#### Scene 4
+
+> 
+
 [DEBUG_START]
 The user chose option 3, "Consult your Companions." I will now create a narrative where Sir Andrew asks Kiera and Brennan for their input. This will involve a skill check for Kiera's scouting assessment and a more atmospheric, magical assessment from Brennan, reflecting their respective roles and MBTI types. Gareth will react with concern, and Andrew will process their input through his vengeful lens. This moves the plot forward by adding detail and potential future threats to the journey.
 [DEBUG_END]
@@ -335,13 +380,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-3
+> 👤 **Player:**
+> *"3"*
 
-============================================================
-SCENE 5
-============================================================
-Game Master:
+---
+
+#### Scene 5
+
+> 
+
 [DEBUG_START]
 The user chose option 3: "Prepare for Ambush." This is a proactive, strategic choice. My task is to narrate the setup for this ambush. I will have Kiera make a Survival check to find a suitable location. I will then describe each character taking their position, reflecting their personality and skills. The narrative will build tension and end as the goblin patrol comes into view, giving the player the initiative for the next turn. I'll also add the goblins to the game state as a hidden/approaching encounter.
 [DEBUG_END]
@@ -424,13 +471,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 6
-============================================================
-Game Master:
+---
+
+#### Scene 6
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 02:25 PM
 Location: The Eastern March, Dragon's Tooth foothills.
@@ -466,13 +515,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 7
-============================================================
-Game Master:
+---
+
+#### Scene 7
+
+> 
+
 ```json
 {
   "narrative": "[SESSION_HEADER]\nTimestamp: Year 1620, Kythorn, Day 10, 02:25 PM\nLocation: The Eastern March, Dragon's Tooth foothills.\nStatus: Lvl 1 Fighter/Paladin | HP: 12/12 | Gold: 25gp\nResources:\n- Hero Points: 1/1\n\n[DEBUG_START]\nThe user has chosen to proceed with Play-by-Play Combat. I will now roll initiative for all combatants and set up the combat state. Kiera's initial attack already hit, so Goblin Scout 1 is out. Brennan's initial attack on the Goblin Leader will be resolved now.\n\n**Brennan's Initial Attack Damage (Stone Shard):**\n[DEBUG_ROLL_START]Rolling Brennan's stone shard damage: 1d4 = 3 (Bludgeoning)\nGoblin Leader HP: 10 - 3 = 7[DEBUG_END]\n\n[COMBAT LOG: ENABLED]\n\nThe sudden chaos of the ambush shattered the mountain's silence. The lead Goblin scout crumpled, Kiera's arrow buried deep in its throat. Simultaneously, jagged shards of earth erupted beneath the Goblin Leader, Brennan's magic tearing at his legs. He shrieked, clutching his thigh as he stumbled. The remaining two goblins froze, their eyes wide with terror and confusion.\n\nSir Andrew’s roar, 'For Oakhaven! Now!', echoed through the pass, a grim promise of the vengeance to come. The time for waiting was over. The hunt had begun. The scent of pine and damp earth was now mixed with the coppery tang of fresh blood.\n\n**Initiative Rolls:**\n[DEBUG_ROLL_START]Rolling Initiative for Sir Andrew: 1d20+3 = 18+3 = 21\nRolling Initiative for Kiera Varrus: 1d20+3 = 10+3 = 13\nRolling Initiative for Gareth Ashfeld: 1d20+2 = 7+2 = 9\nRolling Initiative for Brennan of the Stones: 1d20+2 = 12+2 = 14\nRolling Initiative for Goblin Leader: 1d20+2 = 6+2 = 8\nRolling Initiative for Goblin Scout 2: 1d20+2 = 15+2 = 17\nRolling Initiative for Goblin Scout 3: 1d20+2 = 1+2 = 3[DEBUG_END]\n\n**Initiative Order:**\n1.  Sir Andrew (21)\n2.  Goblin Scout 2 (17)\n3.  Brennan of the Stones (14)\n4.  Kiera Varrus (13)\n5.  Goblin Leader (8)\n6.  Gareth Ashfeld (9)\n7.  Goblin Scout 3 (3)\n\n\n**COMBAT STATE:**\nAllies:\n-   Sir Andrew (Lvl 1 Fighter/Paladin) - HP: 12/12 - Status: Healthy\n-   Brennan of the Stones (Lvl 1 Mage) - HP: 9/9 - Status: Healthy\n-   Kiera Varrus (Lvl 1 Scout) - HP: 10/10 - Status: Healthy\n-   Gareth Ashfeld (Lvl 1 Healer) - HP: 8/8 - Status: Healthy\nEnemies:\n-   Goblin Scout 2 (Lvl 1 Scout) - HP: 7/7 - Status: Healthy\n-   Goblin Leader (Lvl 1 Leader) - HP: 7/10 - Status: Wounded\n-   Goblin Scout 3 (Lvl 1 Scout) - HP: 7/7 - Status: Healthy\n\n***\n\n**ROUND 1 - SIR ANDREW'S TURN!**\n\nSir Andrew, your roar signals the ambush. The lead goblin scout is down, and their leader stumbles, clutching his leg. You stand at the mouth of the narrow pass, longsword drawn, shield ready. The remaining two goblins are reeling, desperately looking for an escape. What is your command?\n\nYour available actions this turn:\n*   **Action:** Attack, Cast a Spell (if applicable), Special Combat Action (Shove, Disarm, Help, Dodge, Ready, Use Object)\n*   **Bonus Action:** (Requires specific ability/spell)\n*   **Movement:** Up to 30 ft\n*   **Free Interaction:** (Minor actions like drawing/stowing weapon, speaking short phrase)\n\n--- PLANNING BLOCK ---\nWhat would you like to do next?\n1.  **[Attack Goblin Leader]:** Engage the wounded Goblin Leader in melee.\n2.  **[Attack Goblin Scout 2]:** Target the nearest healthy Goblin Scout.\n3.  **[Defensive Posture]:** Take the Dodge action to make yourself harder to hit.\n4.  **[Other]:** You can also describe a different action you'd like to take.",
@@ -540,13 +591,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-What spells do I have?
+> 👤 **Player:**
+> *"What spells do I have?"*
 
-============================================================
-SCENE 8
-============================================================
-Game Master:
+---
+
+#### Scene 8
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 02:25 PM
 Location: The Eastern March, Dragon's Tooth foothills.
@@ -599,10 +652,12 @@ Entity Tracking Validation Result:
 God Mode:
 what spells does my main character have
 
-============================================================
-SCENE 9
-============================================================
-Game Master:
+---
+
+#### Scene 9
+
+> 
+
 [Mode: DM MODE]
 Understood. You are asking for the specific spells Sir Andrew, as a Level 1 Fighter/Paladin in the Destiny system, currently has.
 
@@ -666,13 +721,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-4.  **[Other]:*. Think. What are my spells
+> 👤 **Player:**
+> *"4.  **[Other]:*. Think. What are my spells"*
 
-============================================================
-SCENE 10
-============================================================
-Game Master:
+---
+
+#### Scene 10
+
+> 
+
 [Mode: DM MODE]
 Understood. You are asking for the specific spells Brennan of the Stones, as a Level 1 Mage in the Destiny system, currently has available.
 
@@ -763,13 +820,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 11
-============================================================
-Game Master:
+---
+
+#### Scene 11
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 02:25 PM
 Location: The Eastern March, Dragon's Tooth foothills.
@@ -828,10 +887,12 @@ Entity Tracking Validation Result:
 God Mode:
 how much damage did stone shard do?
 
-============================================================
-SCENE 12
-============================================================
-Game Master:
+---
+
+#### Scene 12
+
+> 
+
 [DEBUG_START]
 The user's input is a `GOD MODE` query about damage. I need to switch to DM MODE, answer the question, then return to STORY MODE to process the previous action taken (Kiera attacking Goblin Scout 2). I must also explicitly update the combat state to reflect Goblin Scout 3's defeat.
 [DEBUG_END]
@@ -970,13 +1031,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 13
-============================================================
-Game Master:
+---
+
+#### Scene 13
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 02:45 PM
 Location: The Eastern March, Dragon's Tooth foothills.
@@ -1012,13 +1075,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 14
-============================================================
-Game Master:
+---
+
+#### Scene 14
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 03:30 PM
 Location: The Eastern March, deep within the Dragon's Tooth foothills.
@@ -1050,13 +1115,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 15
-============================================================
-Game Master:
+---
+
+#### Scene 15
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:00 PM
 Location: The Dragon's Tooth mountains, approaching the dragon's lair.
@@ -1092,13 +1159,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 16
-============================================================
-Game Master:
+---
+
+#### Scene 16
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
 Location: The Dragon's Tooth mountains, within the dragon's lair mist.
@@ -1135,13 +1204,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 17
-============================================================
-Game Master:
+---
+
+#### Scene 17
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
 Location: The Dragon's Tooth mountains, within the dragon's lair mist.
@@ -1175,13 +1246,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 18
-============================================================
-Game Master:
+---
+
+#### Scene 18
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
 Location: The Dragon's Tooth mountains, within the dragon's lair.
@@ -1247,13 +1320,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-3
+> 👤 **Player:**
+> *"3"*
 
-============================================================
-SCENE 19
-============================================================
-Game Master:
+---
+
+#### Scene 19
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
 Location: The Dragon's Tooth mountains, within the dragon's lair.
@@ -1314,13 +1389,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 20
-============================================================
-Game Master:
+---
+
+#### Scene 20
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
 Location: The Dragon's Tooth mountains, within the dragon's lair.
@@ -1379,13 +1456,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-1
+> 👤 **Player:**
+> *"1"*
 
-============================================================
-SCENE 21
-============================================================
-Game Master:
+---
+
+#### Scene 21
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
 Location: The Dragon's Tooth mountains, within the dragon's lair.
@@ -1438,13 +1517,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-Proceed
+> 👤 **Player:**
+> *"Proceed"*
 
-============================================================
-SCENE 22
-============================================================
-Game Master:
+---
+
+#### Scene 22
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
 Location: The Dragon's Tooth mountains, within the dragon's lair.
@@ -1512,13 +1593,15 @@ Entity Tracking Validation Result:
 - Confidence: 1.00
 [DEBUG_VALIDATION_END]
 
-Player (freeform):
-Cast Cure Wounds on Sir Andrew
+> 👤 **Player:**
+> *"Cast Cure Wounds on Sir Andrew"*
 
-============================================================
-SCENE 23
-============================================================
-Game Master:
+---
+
+#### Scene 23
+
+> 
+
 [SESSION_HEADER]
 Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
 Location: The Dragon's Tooth mountains, within the dragon's lair.
@@ -1564,4 +1647,185 @@ Kiera, hidden in the shadows, your bow ready. Sir Andrew lies unconscious, but G
 Your available actions this turn:
 *   **Action:** Attack, Special Combat Action (Shove, Disarm, Help, Dodge, Ready, Use Object)
 *   **Bonus Action:** (Requires specific ability/spell)
-*   **Movement:*
+*   **Movement:** Up to 30 ft
+*   **Free Interaction:** (Minor actions)
+
+--- PLANNING BLOCK ---
+What would you like to do next?
+1.  **[Attack Dragon (Ranged)]:** Use your bow to make a ranged attack against the Young Green Dragon.
+2.  **[Seek Better Cover]:** Try to move to a more concealed or advantageous position within the cavern.
+3.  **[Prepare for Dragon's Breath]:** Ready an action to move if the dragon begins to gather its breath weapon.
+4.  **[Other]:** You can also describe a different action you'd like to take.
+
+[DEBUG_VALIDATION_START]
+Entity Tracking Validation Result:
+- Expected entities: ['Sir Andrew', 'Kiera Varrus', 'Gareth Ashfeld', 'Brennan of the Stones']
+- Found entities: ['Sir Andrew', 'Kiera Varrus', 'Gareth Ashfeld', 'Brennan of the Stones']
+- Missing entities: []
+- Confidence: 1.00
+[DEBUG_VALIDATION_END]
+
+> 👤 **Player:**
+> *"1"*
+
+---
+
+#### Scene 24
+
+> 
+
+[SESSION_HEADER]
+Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
+Location: The Dragon's Tooth mountains, within the dragon's lair.
+Status: Lvl 1 Fighter/Paladin | HP: 5/12 | Gold: 25gp
+Resources:
+- Hero Points: 1/1
+
+**ROUND 2 - KIERA VARRUS'S TURN!**
+
+Kiera, hidden in the shadows, your bow ready. Sir Andrew lies unconscious, but Gareth's desperate healing has pulled him back from the brink of death. The Young Green Dragon seems focused on its fallen foe, its massive head swiveling, its molten gold eyes burning with a terrible satisfaction, not yet fully aware of your precise position.
+
+A grim resolve settled on Kiera Varrus's face. The knight was down, but not out. And this overgrown lizard had just made a critical error by underestimating the rest of them. She drew back her bowstring, her movements fluid and silent as she took a precise aim, not at the dragon's thick hide, but at the sensitive membrane of its eye. It was a risky shot, but a potential game-changer.
+
+[DEBUG_ROLL_START]Rolling Kiera's ranged attack (Shortbow): 1d20+3 = 17+3 = 20 (Success vs Defense 16)
+Kiera's Shortbow: 1d20 + 3 (Coordination Modifier) + 2 (Combat Prowess Bonus) = 1d20+5. My apologies, the previous roll for Kiera's shortbow was incorrectly calculated. Her proficiency is +2 (Level 1 Combat Prowess) +1 (Coordination Modifier) +2 (from Scout Class Feature for Ranged Weapons) = +5. The roll is 17+5 = 22, which is a Success against Defense 16.[DEBUG_END]
+
+Kiera's arrow, a silent, black-fletched missile, flew true. It struck the dragon squarely in the left eye, piercing the sensitive orb with a sickening wet thud. The beast let out a deafening, high-pitched shriek of pure, unadulterated agony, a sound that vibrated through the cavern and sent loose stones skittering from the ceiling. Its massive head thrashed wildly, sending spray from its eye across the cavern, a furious, wounded bellow filling the air.
+
+[DEBUG_ROLL_START]Rolling Kiera's damage: 1d6+3 = 6+3 = 9 (Piercing) (Kiera's damage is weapon die + Coordination Modifier, but she has a racial or class bonus to ranged damage of +3. So 1d6+3)
+Young Green Dragon HP: 106 - 9 = 97/127[DEBUG_END]
+
+The dragon roared, a sound now laced with pain and blinding fury. Its massive body thrashed, its tail slamming against the cavern wall with enough force to send a shower of dust and small rocks raining down. It was no longer just enraged; it was a maddened beast, its focus shattered by the searing pain in its eye. Its movements became more erratic, its targeting less precise. Gareth Ashfeld, still trembling, managed a small, hopeful gasp as he witnessed the impossible shot.
+
+
+**COMBAT STATE:**
+Allies:
+-   Sir Andrew (Lvl 1 Fighter/Paladin) - HP: 5/12 - Status: Unconscious
+-   Kiera Varrus (Lvl 1 Scout) - HP: 10/10 - Status: Healthy
+-   Brennan of the Stones (Lvl 1 Mage) - HP: 9/9 - Status: Healthy
+-   Gareth Ashfeld (Lvl 1 Healer) - HP: 8/8 - Status: Healthy
+Enemies:
+-   Young Green Dragon (CR 8 Dragon) - HP: 97/127 - Status: Wounded, Enraged, Blinded (Left Eye), Maddened
+
+***
+
+**ROUND 2 - BRENNAN OF THE STONES'S TURN!**
+
+Brennan, you are positioned high atop the largest boulder, overlooking the cavern. Kiera has just landed a devastating shot on the dragon's eye, driving the beast into a frenzy of pain and rage. Sir Andrew lies unconscious below, but alive. The dragon's movements are now wild and unpredictable, its focus less precise. What is your command?
+
+Your available actions this turn:
+*   **Action:** Attack, Cast a Spell, Special Combat Action (Shove, Disarm, Help, Dodge, Ready, Use Object)
+*   **Bonus Action:** (Requires specific ability/spell)
+*   **Movement:** Up to 25 ft
+*   **Free Interaction:** (Minor actions)
+
+--- PLANNING BLOCK ---
+What would you like to do next?
+1.  **[Attack Dragon (Stone Shard)]:** Use a ranged spell attack against the Young Green Dragon.
+2.  **[Use Earth Grip]:** Expend 5 EP to create difficult terrain around the dragon, potentially hindering its erratic movement.
+3.  **[Cast Stone Skin on Self]:** Expend 5 EP to harden your skin, gaining +2 Defense.
+4.  **[Other]:** You can also describe a different action you'd like to take.
+
+[DEBUG_VALIDATION_START]
+Entity Tracking Validation Result:
+- Expected entities: ['Sir Andrew', 'Kiera Varrus', 'Gareth Ashfeld', 'Brennan of the Stones']
+- Found entities: ['Sir Andrew', 'Kiera Varrus', 'Gareth Ashfeld', 'Brennan of the Stones']
+- Missing entities: []
+- Confidence: 1.00
+[DEBUG_VALIDATION_END]
+
+> 👤 **Player:**
+> *"2"*
+
+---
+
+#### Scene 25
+
+> 
+
+[SESSION_HEADER]
+Timestamp: Year 1620, Kythorn, Day 10, 04:05 PM
+Location: The Dragon's Tooth mountains, within the dragon's lair.
+Status: Lvl 1 Fighter/Paladin | HP: 12/12 | Gold: 25gp
+Resources:
+- Hero Points: 1/1
+
+**ROUND 1 - BRENNAN OF THE STONES'S TURN!**
+
+Brennan, perched high above the cavern, watched the immense dragon thrash in fury. Sir Andrew’s bold strike and Kiera’s well-placed arrow had clearly enraged the beast, drawing its molten gold eyes to the defiant mortals. Gareth Ashfeld, below, remained a statue of pure terror. Brennan, however, found a grim resolve in the mountain’s ancient pain, its agitation mirroring his own determination.
+
+He chose not to impede the creature's movement; he would strike it directly. His hands, resting on the raw stone of the boulder, glowed with a faint, earthy light. With a guttural whisper, he tore a jagged fragment directly from the living rock beneath him and hurled it with surprising force at the green dragon's massive skull.
+
+[DEBUG_ROLL_START]Rolling Brennan's ranged spell attack (Stone Shard): 1d20+2 = 13+2 = 15 (Success vs Defense 16 - target's effective Defense is 16: 10 + 5 (Coordination) + 1 (Natural Armor))[DEBUG_END]
+
+The stone shard hissed through the air, a miniature missile of raw earth magic. It struck the dragon’s head with a dull thud, bouncing harmlessly off its thick, jade-colored scales. The blow was solid, but the dragon merely blinked, its attention barely diverted from Sir Andrew and Kiera. Brennan’s expression remained stoic, even as his forehead furrowed slightly in frustration. The beast was tougher than anticipated.
+
+**COMBAT STATE:**
+Allies:
+-   Sir Andrew (Lvl 1 Fighter/Paladin) - HP: 12/12 - Status: Healthy
+-   Kiera Varrus (Lvl 1 Scout) - HP: 10/10 - Status: Healthy
+-   Brennan of the Stones (Lvl 1 Mage) - HP: 9/9 - Status: Healthy
+-   Gareth Ashfeld (Lvl 1 Healer) - HP: 8/8 - Status: Healthy
+Enemies:
+-   Young Green Dragon (CR 8 Dragon) - HP: 106/127 - Status: Wounded, Enraged
+
+***
+
+**ROUND 1 - YOUNG GREEN DRAGON'S TURN!**
+
+The Young Green Dragon, wounded by Sir Andrew's blade and Kiera's arrow, and now stung by Brennan's futile attack, lets out a deafening roar of pure, unadulterated fury. Its molten gold eyes, narrowed with malevolent intent, sweep across the cavern. The air around its snout begins to shimmer with a faint, acidic tang, rapidly thickening into a visible, green-tinged haze. It focuses its terrible wrath on the prone Sir Andrew and the terrified Gareth Ashfeld, who hovers near him.
+
+"ROOAAARRR!" The dragon unleashes a torrent of corrosive acid, a suffocating, emerald-green cone of death that washes over Sir Andrew's fallen form and engulfs Gareth.
+
+[DEBUG_ROLL_START]Rolling Gareth Ashfeld's Health Save (vs DC 16): 1d20+1 = 4+1 = 5 (Failure)
+Rolling Sir Andrew's Health Save (vs DC 16): 1d20+2 = 11+2 = 13 (Failure)
+[DEBUG_END]
+
+Both Gareth and Sir Andrew are too slow, too stunned by terror and injury, to fully evade the dragon's terrible breath. The acid washes over them, sizzling against their skin and armor.
+
+[DEBUG_ROLL_START]Rolling Young Green Dragon's Acid Breath Damage: 12d6 Acid = 2, 4, 1, 6, 3, 5, 2, 1, 4, 5, 3, 6 = 42 (Acid)
+
+Gareth Ashfeld HP: 8 - 42 = -34 (Defeated - Instantly killed by massive damage)
+Sir Andrew HP: 5 - 42 = -37 (Defeated - Instantly killed by massive damage)
+[DEBUG_END]
+
+Gareth Ashfeld screams, a sound of pure agony, as the acid melts flesh and bone. He collapses, his body dissolving into a horrifying, smoking ruin. Sir Andrew, already unconscious, simply twitches as the corrosive breath reduces him to a mangled, unrecognizable corpse. The stench of burned flesh and acid fills the cavern.
+
+The Young Green Dragon, its fury sated for a moment, lowers its massive head, its molten gold eyes gleaming with cold satisfaction. The cavern falls silent, save for the dripping acid and the low, rumbling purr of the victorious beast. Kiera Varrus, hidden in the shadows, stares in wide-eyed horror, her bow forgotten. Brennan of the Stones, high on his boulder, is utterly still, his face a mask of profound, stoic grief.
+
+**COMBAT STATE:**
+Allies:
+-   Kiera Varrus (Lvl 1 Scout) - HP: 10/10 - Status: Healthy
+-   Brennan of the Stones (Lvl 1 Mage) - HP: 9/9 - Status: Healthy
+Enemies:
+-   Young Green Dragon (CR 8 Dragon) - HP: 106/127 - Status: Wounded, Enraged
+
+***
+
+**ROUND 2 - KIERA VARRUS'S TURN!**
+
+Kiera, hidden in the shadows, your bow ready. Sir Andrew and Gareth Ashfeld lie dead, consumed by the dragon's acid. You and Brennan of the Stones are the only ones left. The Young Green Dragon, its terrible wrath sated, is still alert, its gaze sweeping the cavern. What is your command?
+
+Your available actions this turn:
+*   **Action:** Attack, Special Combat Action (Shove, Disarm, Help, Dodge, Ready, Use Object)
+*   **Bonus Action:** (Requires specific ability/spell)
+*   **Movement:** Up to 30 ft
+*   **Free Interaction:** (Minor actions)
+
+--- PLANNING BLOCK ---
+What would you like to do next?
+1.  **[Attack Dragon (Ranged)]:** Use your bow to make a ranged attack against the Young Green Dragon.
+2.  **[Attempt to Retreat]:** Try to escape the cavern and the terrifying dragon.
+3.  **[Seek Better Cover]:** Try to move to a more concealed or advantageous position within the cavern.
+4.  **[Other]:** You can also describe a different action you'd like to take.
+
+[DEBUG_VALIDATION_START]
+Entity Tracking Validation Result:
+- Expected entities: ['Sir Andrew', 'Kiera Varrus', 'Gareth Ashfeld', 'Brennan of the Stones']
+- Found entities: ['Sir Andrew', 'Kiera Varrus', 'Gareth Ashfeld', 'Brennan of the Stones']
+- Missing entities: []
+- Confidence: 1.00
+[DEBUG_VALIDATION_END]
+
+---
+

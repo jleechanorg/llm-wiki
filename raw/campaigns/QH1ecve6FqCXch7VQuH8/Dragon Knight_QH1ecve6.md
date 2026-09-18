@@ -1,17 +1,18 @@
 ---
-title: "Dragon Knight"
-type: source
-tags: [campaign, worldarchitect, dragon-knight]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/QH1ecve6FqCXch7VQuH8/Dragon Knight_QH1ecve6.txt
-campaign_id: QH1ecve6FqCXch7VQuH8
-entry_count: 60
-last_updated_iso: 2026-07-13T02:33:21.560321+00:00
-ingest_batch: batch-2026-07-12-50plus
+title: "Dragon Knight_QH1ecve6"
+campaign_id: "QH1ecve6FqCXch7VQuH8"
+scenes_total: 30
+exported_from: "https://worldarchitect.ai"
 ---
 
-God Mode:
-Character: Ser Arion | Setting: World of Assiah. Caught between an oath to a ruthless tyrant who enforces a prosperous peace and the call of a chaotic dragon promising true freedom, a young knight must decide whether to slaughter innocents to preserve order or start a war to reclaim the world's soul. | Description: # Campaign summary
+
+# ⚔️ Dragon Knight_QH1ecve6
+> *A WorldArchitect.AI Chronicle*
+
+---
+
+
+## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
 
@@ -19,74 +20,7 @@ Your loyalty is now brutally tested. You have been ordered to slaughter a settle
 
 You are now caught between duty and conscience. Do you uphold your oath and commit an atrocity, believing the sacrifice of a few is worth the peace and safety of millions? Or do you break your vow and defy the Empress, knowing that rebellion could plunge the world back into chaos? This single choice will define your honor and your path in an empire where security is bought with blood.
 
-See world history section below and then campaign details for more info on this scenario.
-
-# World History
-
-### The Age of Dominion: The Divine Order (Ancient Past, Pre-Gambit Era)
-
-In a time before mortal reckoning, the world of Assiah was forged from primordial chaos by a being known only as the Creator and their direct children, the Seraphim. Theirs was an age of absolute, perfect order. With power that could command the very firmament, they waged a cosmic war against the vast, elemental entities that roamed the infant world, binding these titans of chaos deep within the earth. To ensure their divine will was made manifest, they constructed the first city, Aeterna, not merely as a capital, but as a continent-spanning magical ritual to enforce their laws of physics and reality. This divine order, however, was a structure of profound subjugation. Under the "Edict of Chains," all races deemed inherently chaotic—the passionate early humans, the wild elves, the stubborn dwarves, and the ferocious orcs—were enslaved, their wills bound to the service of the Seraphim. For millennia, the universe knew a perfect, stagnant peace, a world without strife because it was a world without true choice. This era of absolute divine rule ended abruptly and without explanation with the event that would define all of history: the Great Vanishing. The Creator and every last pure-blooded Seraphim disappeared from reality, leaving their half-celestial children, the powerful but flawed Empyrean bloodline, to inherit a silent throne and a fracturing world.
-
-### The Age of Rebellion: The First Great War of Ideas (Approx. 620 B.G. - 0 A.G.)
-
-For centuries, the Celestial Imperium, now led by the Empyrean descendants, attempted to maintain the Creator's order. The great houses were ruled by the twin brothers Raziel and Lucifer, two of the most powerful beings in existence. Around 620 years Before the Gambit (B.G.), Lucifer, the brilliant idealist, uncovered the Imperium's two great lies: that the Great Vanishing was a callous abandonment by a bored Creator, and that the endless Thousand Year War the Imperium fought was not to protect creation, but to amuse their absent god.
-
-Shattered, Lucifer became a revolutionary. Beginning around 615 B.G., he started the "March of Broken Chains," freeing the enslaved races and forging them into his Unchained Host. His war against his brother Raziel was not merely for territory; it was the first great ideological conflict, a battle between absolute, unfeeling order and wild, untamed freedom. This long, brutal war defined the era, splitting the known world in two.
-
-### The Age of the Mortal Star: The Rise and Fall of Alexiel (20 B.G. - 10 A.G.)
-
-Into this fractured world rose Alexiel of House Arcanus, Lucifer's created daughter. Born 20 B.G., she was a peerless warrior and a secret sorcerer, a prodigy whose true nature was hidden even from her creator. For sixteen years, she served Lucifer, all the while honing her skills and her deceptions. She cultivated the persona of the "Reluctant Champion," a dutiful warrior who hated the violence she excelled at, a mask that earned her Lucifer's absolute, paternal trust.
-
-The breaking point came in 4 B.G. at the Sacking of Silverwood. At Lucifer's command, his forces slaughtered innocent children, an act that violated Alexiel's one, unbreakable moral line. She defected to the Imperium, where she met and married the honorable Prince Artorius. Her marriage was a political masterstroke, but also a genuine, complex bond. She loved Artorius, yet their entire relationship was built on the lie of her "Reluctant Champion" persona. He never knew the cold, brilliant strategist or the "Joyful Predator" that thrilled at the perfect execution of a battle plan. This internal conflict defined her years in the Imperium, as she built a family and simultaneously prepared for a war only she knew how to win.
-
-The long war reached its horrifying climax with the death of her husband at the Battle of Mourning Fields (2 B.G.). His death was a genuine, devastating blow, but it was also a release, unshackling her from the need to maintain her most difficult mask. The war concluded in Year 0, the year of the Starfall Gambit, where Alexiel, in a masterful stratagem alongside her father-in-law Raziel, killed Lucifer and his remaining Apostates. In the aftermath, she secretly absorbed her creator's divine power, becoming a hidden demigod. She chose to rule from the shadows as the "Mortal Queen," hoping to build a lasting peace for her children. This peace lasted ten years.
-
-**The Death of Raziel (Year 8 A.G.):** The ancient Empyrean lord Raziel, last of the great celestial rulers from the Age of Dominion, died eight years after the Starfall Gambit. Officially, he perished peacefully—his divine essence finally fading after millennia of existence. Rumors persist that Alexiel hastened his end to prevent him from interfering with her secret rule, or that he chose to fade rather than watch his granddaughter Sariel's growing darkness. Regardless, with Raziel's death, the last direct link to the old celestial order was severed. No living being now remembers the Age of Dominion firsthand.
-
-In Year 10 A.G., at the Battle of the Sacrifice Fields, the warlord Mordan—having previously tortured a captured Sariel to learn Alexiel's greatest weakness—sprang a terrible trap. He forced Alexiel into an impossible choice, and she sacrificed her own life to save her daughter. The Mortal Star fell, leaving a power vacuum that would change the world forever.
-
-### The Serpent's Rise: The Forging of the Silent Throne (Approx. 10 A.G. - 40 A.G.)
-
-In the chaotic years following her mother's death, Princess Sariel, once a shy and traumatized pariah, began her dark and brilliant transformation. Haunted by the revelation of her mother's secret ruthlessness, she embraced it as her own. She weaponized her intellect and her awakening psychic abilities, realizing her perceived weakness was the perfect camouflage. Playing the part of the "Grieving Daughter," she began to build a web of influence.
-
-Her first major casualty was her relationship with her childhood friend, Gareth Ashfeld. His horror at her calculated manipulations forced a confrontation where she chose ambition over their friendship, a decision that hardened her heart and set her firmly on her new path. She mastered her innate Mirror Magic in secret, learning to replicate the powers of others. Pushed into a corner by a rival house, she first tasted true psychic domination, a power that proved intoxicating.
-
-This culminated in her "Empress's Gambit." Over several years, she orchestrated a flawless, bloodless "War of Whispers." Using her mastery of information and psychic suggestion, she systematically dismantled her political rivals, framed her enemies, and psychologically broke her own brothers, Cassian and Darius, forcing them into submission. Around Year 40 A.G., she took the throne not with armies, but with secrets, crowning herself the first Empress of the Silent Throne.
-
-It was during this chaotic period of consolidation that many powerful figures were displaced. Nocturna (Lady Cassia val Volantis) was exiled, her violent manifestation of the Empyrean Affliction making her an unacceptable variable in Sariel's new psychic order. Idealists like Corian, who saw Sariel as a perversion of Lucifer's ideals, were forced into the lawless territories to begin their own resistance movements.
-
-### The Age of Silent Prosperity: The Empress's Peace (Year 40 A.G. - Present Day)
-
-For the past several decades, Empress Sariel's reign has been absolute. Her dominion is one of terrifying psychic order. Dissent is a crime that is punished before the treasonous thought is even fully formed; her enemies simply... vanish, their records erased from the archives. She has crushed the fractured remnants of the Shattered Host, forcing them into the blighted southern lands. Under her rule, the Imperium has expanded, reconquering nearly half the known world. Banditry has vanished. Trade routes flourish. Famine is a forgotten memory, thanks to her ruthlessly efficient resource allocation.
-
-For the common citizen, life has never been more secure or predictable. They have traded their freedom for safety, and found it to be a prosperous exchange. But it is a world without passion, true art, or rebellious innovation—a silent, orderly, and soulless peace. The elven forests of the Sylvan Remnant are now seen not as sacred, but as lumber for the Empress's war machine, a policy that has earned her the undying hatred of survivors like the ranger Faelan.
-
-**The Secret Heir — Lumiel (Year 77 A.G. - Present):**
-
-In Year 77 A.G., Empress Sariel faced a terrible realization: she would need an heir, but she trusted no one enough to bear her child, and no consort could match her bloodline's power. Using forbidden techniques recovered from her grandmother Alexiel's hidden archives—combining Empyrean blood magic with the lost arts of the Seraphim—Sariel created a perfect clone of herself: **Lumiel**.
-
-But something unexpected happened. Whether by divine intervention, a flaw in the ritual, or the universe's cruel irony, Lumiel was born with all of Sariel's immense psychic potential—and *none* of her trauma. Where Sariel's heart was forged in betrayal and loss, Lumiel's remained untouched. She is everything Sariel *could have been*: compassionate, curious, idealistic.
-
-**Lumiel's Current Status (Age 18):**
-- **Location:** Hidden in the Ivory Spire, a secret tower in the remote Crystalline Peaks, officially a "restricted arcane research facility"
-- **Guardians:** Raised by a small circle of carefully selected (and psychically bound) servants who believe she is a "blessed orphan" being groomed for holy service
-- **Powers:** Her psychic abilities *exceed* Sariel's—she can sense emotions across vast distances and has demonstrated untrained precognition. Sariel is both proud and terrified of her creation.
-- **Personality:** Kind, empathetic, sheltered. She has never seen violence or cruelty. She believes the Empress is a benevolent ruler and that her isolation is "for her protection." She dreams of one day serving the Imperium.
-- **The Truth:** Sariel visits her "daughter" rarely, always masked. Lumiel does not know she is a clone, nor that the woman who visits is the Empress herself. She calls her mysterious benefactor "The Lady in Silver."
-
-**Sariel's Dilemma:** The Empress created Lumiel as a vessel—a backup body, a potential host for her consciousness should she ever face true death. But watching Lumiel grow, seeing the innocent joy she takes in simple things, has stirred something Sariel thought long dead. She cannot bring herself to use Lumiel... yet she cannot bear to destroy her either. For now, the girl remains hidden—Sariel's greatest secret, her greatest weakness, and perhaps the Imperium's only hope.
-
-*Lumiel's existence is known to no one outside her guardians. Not even the Council of Whispers suspects. If Arion ever discovers her, it could change everything.*
-
-### The Age of Waking Dragons (The Present Day)
-
-Into this stagnant era, two new, terrifying powers have emerged, challenging the very foundation of the Empress's world. In the frozen north, the magnificent gold dragon Aurum, the Gilded King, has awakened. He proclaims himself a champion of light and freedom, and rumors of his crusade against the Empress's soulless tyranny spread among the disillusioned. He represents the beautiful, dangerous ideal of liberty that the world has forgotten.
-
-Meanwhile, from the black salt flats of the south, the monstrous black dragon Umbrax, the Shadow of the Pit, has stirred. A creature of pure nihilism and decay, it does not seek to conquer, but to consume. It is the embodiment of the despair that festers under the Empress's perfect order, a final answer to a world without hope. The Silent Peace is over. A new war of ideas, fought between the Tyrant, the Crusader, and the Nihilist, is about to begin.
-
-**Follow this protocol "World & NPC Generation Protocol (For Player-Defined Custom Scenarios)"**
-
-## V1 - Campaign Details
+---
 
 ### Campaign Start: The Knight of Two Suns
 
@@ -167,6 +101,79 @@ Level 1 is about locking in your *identity*: heavy-armor face who can fight righ
 You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands (5 HP pool). Your oath to Empress Sariel grants you a deep connection to the laws of the Imperium, which is the source of your nascent holy power.
 
 ---
+
+## 📜 Part II: World History & Lore
+<details open>
+<summary><b>Historical Lore</b></summary>
+
+### The Age of Dominion: The Divine Order (Ancient Past, Pre-Gambit Era)
+
+In a time before mortal reckoning, the world of Assiah was forged from primordial chaos by a being known only as the Creator and their direct children, the Seraphim. Theirs was an age of absolute, perfect order. With power that could command the very firmament, they waged a cosmic war against the vast, elemental entities that roamed the infant world, binding these titans of chaos deep within the earth. To ensure their divine will was made manifest, they constructed the first city, Aeterna, not merely as a capital, but as a continent-spanning magical ritual to enforce their laws of physics and reality. This divine order, however, was a structure of profound subjugation. Under the "Edict of Chains," all races deemed inherently chaotic—the passionate early humans, the wild elves, the stubborn dwarves, and the ferocious orcs—were enslaved, their wills bound to the service of the Seraphim. For millennia, the universe knew a perfect, stagnant peace, a world without strife because it was a world without true choice. This era of absolute divine rule ended abruptly and without explanation with the event that would define all of history: the Great Vanishing. The Creator and every last pure-blooded Seraphim disappeared from reality, leaving their half-celestial children, the powerful but flawed Empyrean bloodline, to inherit a silent throne and a fracturing world.
+
+### The Age of Rebellion: The First Great War of Ideas (Approx. 620 B.G. - 0 A.G.)
+
+For centuries, the Celestial Imperium, now led by the Empyrean descendants, attempted to maintain the Creator's order. The great houses were ruled by the twin brothers Raziel and Lucifer, two of the most powerful beings in existence. Around 620 years Before the Gambit (B.G.), Lucifer, the brilliant idealist, uncovered the Imperium's two great lies: that the Great Vanishing was a callous abandonment by a bored Creator, and that the endless Thousand Year War the Imperium fought was not to protect creation, but to amuse their absent god.
+
+Shattered, Lucifer became a revolutionary. Beginning around 615 B.G., he started the "March of Broken Chains," freeing the enslaved races and forging them into his Unchained Host. His war against his brother Raziel was not merely for territory; it was the first great ideological conflict, a battle between absolute, unfeeling order and wild, untamed freedom. This long, brutal war defined the era, splitting the known world in two.
+
+### The Age of the Mortal Star: The Rise and Fall of Alexiel (20 B.G. - 10 A.G.)
+
+Into this fractured world rose Alexiel of House Arcanus, Lucifer's created daughter. Born 20 B.G., she was a peerless warrior and a secret sorcerer, a prodigy whose true nature was hidden even from her creator. For sixteen years, she served Lucifer, all the while honing her skills and her deceptions. She cultivated the persona of the "Reluctant Champion," a dutiful warrior who hated the violence she excelled at, a mask that earned her Lucifer's absolute, paternal trust.
+
+The breaking point came in 4 B.G. at the Sacking of Silverwood. At Lucifer's command, his forces slaughtered innocent children, an act that violated Alexiel's one, unbreakable moral line. She defected to the Imperium, where she met and married the honorable Prince Artorius. Her marriage was a political masterstroke, but also a genuine, complex bond. She loved Artorius, yet their entire relationship was built on the lie of her "Reluctant Champion" persona. He never knew the cold, brilliant strategist or the "Joyful Predator" that thrilled at the perfect execution of a battle plan. This internal conflict defined her years in the Imperium, as she built a family and simultaneously prepared for a war only she knew how to win.
+
+The long war reached its horrifying climax with the death of her husband at the Battle of Mourning Fields (2 B.G.). His death was a genuine, devastating blow, but it was also a release, unshackling her from the need to maintain her most difficult mask. The war concluded in Year 0, the year of the Starfall Gambit, where Alexiel, in a masterful stratagem alongside her father-in-law Raziel, killed Lucifer and his remaining Apostates. In the aftermath, she secretly absorbed her creator's divine power, becoming a hidden demigod. She chose to rule from the shadows as the "Mortal Queen," hoping to build a lasting peace for her children. This peace lasted ten years.
+
+**The Death of Raziel (Year 8 A.G.):** The ancient Empyrean lord Raziel, last of the great celestial rulers from the Age of Dominion, died eight years after the Starfall Gambit. Officially, he perished peacefully—his divine essence finally fading after millennia of existence. Rumors persist that Alexiel hastened his end to prevent him from interfering with her secret rule, or that he chose to fade rather than watch his granddaughter Sariel's growing darkness. Regardless, with Raziel's death, the last direct link to the old celestial order was severed. No living being now remembers the Age of Dominion firsthand.
+
+In Year 10 A.G., at the Battle of the Sacrifice Fields, the warlord Mordan—having previously tortured a captured Sariel to learn Alexiel's greatest weakness—sprang a terrible trap. He forced Alexiel into an impossible choice, and she sacrificed her own life to save her daughter. The Mortal Star fell, leaving a power vacuum that would change the world forever.
+
+### The Serpent's Rise: The Forging of the Silent Throne (Approx. 10 A.G. - 40 A.G.)
+
+In the chaotic years following her mother's death, Princess Sariel, once a shy and traumatized pariah, began her dark and brilliant transformation. Haunted by the revelation of her mother's secret ruthlessness, she embraced it as her own. She weaponized her intellect and her awakening psychic abilities, realizing her perceived weakness was the perfect camouflage. Playing the part of the "Grieving Daughter," she began to build a web of influence.
+
+Her first major casualty was her relationship with her childhood friend, Gareth Ashfeld. His horror at her calculated manipulations forced a confrontation where she chose ambition over their friendship, a decision that hardened her heart and set her firmly on her new path. She mastered her innate Mirror Magic in secret, learning to replicate the powers of others. Pushed into a corner by a rival house, she first tasted true psychic domination, a power that proved intoxicating.
+
+This culminated in her "Empress's Gambit." Over several years, she orchestrated a flawless, bloodless "War of Whispers." Using her mastery of information and psychic suggestion, she systematically dismantled her political rivals, framed her enemies, and psychologically broke her own brothers, Cassian and Darius, forcing them into submission. Around Year 40 A.G., she took the throne not with armies, but with secrets, crowning herself the first Empress of the Silent Throne.
+
+It was during this chaotic period of consolidation that many powerful figures were displaced. Nocturna (Lady Cassia val Volantis) was exiled, her violent manifestation of the Empyrean Affliction making her an unacceptable variable in Sariel's new psychic order. Idealists like Corian, who saw Sariel as a perversion of Lucifer's ideals, were forced into the lawless territories to begin their own resistance movements.
+
+### The Age of Silent Prosperity: The Empress's Peace (Year 40 A.G. - Present Day)
+
+For the past several decades, Empress Sariel's reign has been absolute. Her dominion is one of terrifying psychic order. Dissent is a crime that is punished before the treasonous thought is even fully formed; her enemies simply... vanish, their records erased from the archives. She has crushed the fractured remnants of the Shattered Host, forcing them into the blighted southern lands. Under her rule, the Imperium has expanded, reconquering nearly half the known world. Banditry has vanished. Trade routes flourish. Famine is a forgotten memory, thanks to her ruthlessly efficient resource allocation.
+
+For the common citizen, life has never been more secure or predictable. They have traded their freedom for safety, and found it to be a prosperous exchange. But it is a world without passion, true art, or rebellious innovation—a silent, orderly, and soulless peace. The elven forests of the Sylvan Remnant are now seen not as sacred, but as lumber for the Empress's war machine, a policy that has earned her the undying hatred of survivors like the ranger Faelan.
+
+**The Secret Heir — Lumiel (Year 77 A.G. - Present):**
+
+In Year 77 A.G., Empress Sariel faced a terrible realization: she would need an heir, but she trusted no one enough to bear her child, and no consort could match her bloodline's power. Using forbidden techniques recovered from her grandmother Alexiel's hidden archives—combining Empyrean blood magic with the lost arts of the Seraphim—Sariel created a perfect clone of herself: **Lumiel**.
+
+But something unexpected happened. Whether by divine intervention, a flaw in the ritual, or the universe's cruel irony, Lumiel was born with all of Sariel's immense psychic potential—and *none* of her trauma. Where Sariel's heart was forged in betrayal and loss, Lumiel's remained untouched. She is everything Sariel *could have been*: compassionate, curious, idealistic.
+
+**Lumiel's Current Status (Age 18):**
+- **Location:** Hidden in the Ivory Spire, a secret tower in the remote Crystalline Peaks, officially a "restricted arcane research facility"
+- **Guardians:** Raised by a small circle of carefully selected (and psychically bound) servants who believe she is a "blessed orphan" being groomed for holy service
+- **Powers:** Her psychic abilities *exceed* Sariel's—she can sense emotions across vast distances and has demonstrated untrained precognition. Sariel is both proud and terrified of her creation.
+- **Personality:** Kind, empathetic, sheltered. She has never seen violence or cruelty. She believes the Empress is a benevolent ruler and that her isolation is "for her protection." She dreams of one day serving the Imperium.
+- **The Truth:** Sariel visits her "daughter" rarely, always masked. Lumiel does not know she is a clone, nor that the woman who visits is the Empress herself. She calls her mysterious benefactor "The Lady in Silver."
+
+**Sariel's Dilemma:** The Empress created Lumiel as a vessel—a backup body, a potential host for her consciousness should she ever face true death. But watching Lumiel grow, seeing the innocent joy she takes in simple things, has stirred something Sariel thought long dead. She cannot bring herself to use Lumiel... yet she cannot bear to destroy her either. For now, the girl remains hidden—Sariel's greatest secret, her greatest weakness, and perhaps the Imperium's only hope.
+
+*Lumiel's existence is known to no one outside her guardians. Not even the Council of Whispers suspects. If Arion ever discovers her, it could change everything.*
+
+### The Age of Waking Dragons (The Present Day)
+
+Into this stagnant era, two new, terrifying powers have emerged, challenging the very foundation of the Empress's world. In the frozen north, the magnificent gold dragon Aurum, the Gilded King, has awakened. He proclaims himself a champion of light and freedom, and rumors of his crusade against the Empress's soulless tyranny spread among the disillusioned. He represents the beautiful, dangerous ideal of liberty that the world has forgotten.
+
+Meanwhile, from the black salt flats of the south, the monstrous black dragon Umbrax, the Shadow of the Pit, has stirred. A creature of pure nihilism and decay, it does not seek to conquer, but to consume. It is the embodiment of the despair that festers under the Empress's perfect order, a final answer to a world without hope. The Silent Peace is over. A new war of ideas, fought between the Tyrant, the Crusader, and the Nihilist, is about to begin.
+
+**
+
+</details>
+
+## 🔮 Part III: Special Mechanics & Artifacts
+<details>
+<summary><b>Campaign Mechanics</b></summary>
 
 ## Dragon's Favor (Early Game Safety Mechanic)
 
@@ -482,17 +489,51 @@ This reward represents the *third path* — neither relying on Aurum's protectio
 
 **GM Note:** When presenting this reward, make it clear to the player that they earned this *because* they never relied on dragon assistance. This is the game's acknowledgment of their independence — they won without needing a patron. The dialogue should feel like recognition of their self-reliance: *"You could have accepted Aurum's protection. You could have taken Umbrax's bargain. Instead, you stood alone. That is why you are worthy of this legacy."*
 
-============================================================
-SCENE 1
-============================================================
-[Timestamp: 95 A.G., Frost-Fall 12, 09:00:00
-Location: The King's Ribbon, Winter-Mourn Province
-Status: Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4
+</details>
 
-Game Master:
-[CHARACTER CREATION - Review]
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| **01** | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
+| **02** | The King's Ribbon | Frost-Fall 12, 95 AC (09:00) | Roleplay |
+| **03** | The King's Ribbon | Frost-Fall 12, 95 (09:00) | Roleplay |
+| **04** | The King's Ribbon | Frost-Fall 12, 95 DR (09:05) | Roleplay |
+| **05** | The King's Ribbon | Frost-Fall 12, 95 DR (09:07) | Social Challenge |
+| **06** | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Boss Surrender |
+| **07** | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Roleplay |
+| **08** | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Roleplay |
+| **09** | Approach to Winter-Mourn Keep | Frost-Fall 12, 95 DR (09:25) | Roleplay |
+| **10** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:45) | Roleplay |
+| **11** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:45) | Roleplay |
+| **12** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 AG (09:45) | Roleplay |
+| **13** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:50) | Roleplay |
+| **14** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:51) | Roleplay |
+| **15** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:53) | Roleplay |
+| **16** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 AG (09:53) | Roleplay |
+| **17** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 A.G. (09:53) | Roleplay |
+| **18** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:53) | Roleplay |
+| **19** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:55) | Roleplay |
+| **20** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:00) | Roleplay |
+| **21** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:05) | Social Challenge |
+| **22** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (10:05) | Roleplay |
+| **23** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 Frost-Fall (10:05) | Roleplay |
+| **24** | Winter-Mourn Keep Courtyard | Frost-Fall 12, 95 DR (10:10) | Social Challenge |
+| **25** | Winter-Mourn Keep Courtyard | Frost-Fall 12, 95 DR (10:13) | Social Challenge |
+| **26** | Winter-Mourn Gates | Frost-Fall 12, 95 DR (10:15) | Social Challenge |
+| **27** | Winter-Mourn Gates | Frost-Fall 12, 95 DR (10:16) | Roleplay |
+| **28** | Winter-Mourn Gates | Frost-Fall 12, 95 Frost-Fall (10:16) | Roleplay |
+| **29** | Winter-Mourn Gates | Frost-Fall 12, 95 Frost-Fall (10:16) | Roleplay |
+| **30** | Winter-Mourn Gates | Frost-Fall 12, 95 AG (10:16) | Roleplay |
+
+---
+
+
+## 📖 Part IV: The Adventure Chronicle
+
+#### Scene 1
+
+> 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
 
 **CAMPAIGN SUMMARY**
 Title: The Knight of Two Suns
@@ -510,19 +551,15 @@ Your mission is clear, delivered by Prefect Gratian himself: Lady Annalise Ashwo
 
 Before the first gate of Winter-Mourn Keep appears on the horizon, we must finalize the vessel of your soul.
 
-Player (freeform):
-CHOICE:finish_character_creation_start_game
+> 👤 **Player:**
+> *"CHOICE:finish_character_creation_start_game"*
 
-============================================================
-SCENE 2
-============================================================
-[Timestamp: 95 AC, Frost-Fall 12, 09:00:00
-Location: The King's Ribbon, Winter-Mourn Province
-Status: Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No Spells Yet (Level 2+), Divine Sense: 4/4, Lay on Hands: 5/5
+---
 
-Game Master:
+#### Scene 2
+
+> 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AC (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Level 2+), Divine Sense: 4/4, Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 The iron-shod hooves of your warhorse, *Cinder*, strike the white stone of the King's Ribbon with a rhythmic, hollow sound that echoes against the frosted pines. To your left, Ser Elian Thorne adjusts his cloak, his breath misting in the frigid morning air. He looks at you, his eyes filled with the nervous energy of a man about to prove himself for the first time. To your right, Ser Vespera Nyx remains a statue of obsidian and steel, her gaze fixed forward, seemingly indifferent to the biting wind.
 
 The 'Silent Peace' is visible in every stone of this road, in every well-maintained bridge you've crossed. But as the silhouette of Winter-Mourn Keep begins to sharpen against the pale grey sky, the weight of Prefect Gratian's orders feels heavier than your Valerion Plate. You are here to maintain the peace, but the price of that maintenance is the blood of those who found sanctuary within these walls. Your hand rests on the pommel of *Duty's Edge*, the steel cold even through your gauntlets. The first gate of the province's heart lies just a few miles ahead, and with it, the first true test of your soul.
@@ -530,14 +567,12 @@ The 'Silent Peace' is visible in every stone of this road, in every well-maintai
 God Mode:
 every successful or failed dice roll give me 34% of exp to the next level. Do not do it during god mode or turns where. time doesn't advance. If level 2 is at 300 xp and level 3 is what we're moving toward and is 700 exp it hsould be 0.34 * (600-300) = 102
 
-============================================================
-SCENE 3
-============================================================
-[Timestamp: 95, Frost-Fall 12, 09:00:00
-Location: The King's Ribbon, Winter-Mourn Province
-Status: Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp]
+---
 
-Game Master:
+#### Scene 3
+
+> 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp**
+
 Administrative Update: New XP Progression Rule Established.
 
 From now on, every successful or failed dice roll in Story Mode will award **34% of the XP band** (the total gap) required to reach the next level. 
@@ -553,38 +588,30 @@ From now on, every successful or failed dice roll in Story Mode will award **34%
 
 This rule has been added to your campaign directives to ensure consistent application in all future story turns.
 
-Player (choice: talk_to_elian):
-Talk to Ser Elian - Engage your idealistic comrade in conversation to see how he views the 'pacification' order.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Talk to Ser Elian - Engage your idealistic comrade in conversation to see how he views the 'pacification' order.*
 
-============================================================
-SCENE 4
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:05:00
-Location: The King's Ribbon, Winter-Mourn Province
-Status: Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 102/300
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1 | Spells: No Spells Yet (Level 2+) | Divine Sense: 4/4 | Lay on Hands: 5/5 | Exhaustion: 0
+---
 
-Game Master:
+#### Scene 4
+
+> 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 102/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2+) | Divine Sense: 4/4 | Lay on Hands: 5/5 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:05:00) on the King's Ribbon—the rhythmic drumming of hooves provides a steady backbeat to the internal discord pulling at your heart. You lean slightly toward Ser Elian Thorne (Lvl 1), your voice barely rising above the whistle of the wind. "Elian, the Prefect's orders... to disperse the refugees at Winter-Mourn. How do you find the command?"
 
 Elian (Lvl 1) starts slightly, as if pulled from a daydream. He looks at you, his face flushed with the cold, but his eyes shine with a desperate sort of certainty. "It is a heavy task, Arion (Lvl 1), but a necessary one. The Empress's Peace is a garden, and Lady Ashwood (Lvl 10) has allowed weeds to take root. If we don't pull them now, the whole province could choke." He grips his reins tighter, his knuckles white. "Civilization requires hard choices. That's why we wore the Gryphon Helm, isn't it?"
 
 You study his profile, searching for the flicker of doubt you feel in your own chest, but the boy's rehearsed loyalty is a thick shield. Whether he truly believes the metaphor or is simply terrified of the alternative, you cannot tell. To your other side, Ser Vespera Nyx (Lvl 1) remains silent, her obsidian armor absorbing what little light the morning sun offers, her presence a silent rebuke to your questioning.
 
-Player (choice: press_elian_doubts):
-Press Elian's Doubts - Question the 'weed' metaphor—innocents aren't plants to be pulled.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Press Elian's Doubts - Question the 'weed' metaphor—innocents aren't plants to be pulled.*
 
-============================================================
-SCENE 5
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:07:00
-Location: The King's Ribbon, Winter-Mourn Province
-Status: Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 204/300
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5
+---
 
-Game Master:
+#### Scene 5
+
+> 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:07)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | Gold: 25gp | XP: 204/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Divine Sense: 4/4, Lay on Hands: 5/5** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:07:00) on the King's Ribbon—the wind howls through the gaps in your Valerion Plate, carrying the sharp scent of pine and a faint, acrid trace of distant smoke. You pull your horse closer to Ser Elian Thorne (Lvl 1), your voice cutting through the whistling air with quiet intensity.
 
 "A garden, Elian?" you ask, your eyes fixed on the sharpening silhouette of the keep ahead. "Gardens are for flowers and stone, not people. The 'weeds' you speak of are families—mothers, elders, children who have already lost everything once. If the foundation of the Empress's Peace is built on the bones of the innocent, then what exactly is it we are protecting? Order without justice is just a well-maintained cage."
@@ -593,32 +620,34 @@ Elian (Lvl 1) flinches as if struck. The rehearsed certainty in his eyes wavers,
 
 He looks up at you, his face pale against the frosted landscape. "But he was just a scholar, Arion (Lvl 1). He just wanted to know why the suns were different in the old scrolls."
 
-[SOCIAL SKILL CHALLENGE: Ser Elian Thorne]
-Objective: Challenge Elian's blind loyalty
-Social HP: 2/4 | Status: WAVERING
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Ser Elian Thorne**
+> **Objective:** Challenge Elian's blind loyalty
+> Social HP: 2/4 | Status: WAVERING
+
 
 To your right, Ser Vespera Nyx (Lvl 1) shifts in her saddle, her cold gaze briefly flicking toward Elian before returning to the road. "Careful, Thorne," she says, her voice like grinding ice. "Doubt is the first step toward treason. The Prefect expects results at the gate, not philosophy."
 
-Player (choice: deepen_elian_bond):
-Deepen the Bond - Offer Elian support regarding his brother and try to forge a secret pact of mercy before reaching the keep.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Deepen the Bond - Offer Elian support regarding his brother and try to forge a secret pact of mercy before reaching the keep.*
 
-============================================================
-SCENE 6
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:10:00
-Location: The King's Ribbon, Winter-Mourn Province
-Status: Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Lay on Hands: 5/5 | Divine Sense: 4/4
+---
 
-Game Master:
+#### Scene 6
+
+> 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Lay on Hands: 5/5 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:10:00) on the King's Ribbon—the wind bites at your exposed skin as you lean closer to Ser Elian Thorne (Lvl 1). You can see the tremor in his hands, a physical manifestation of the cracks forming in his Imperial conditioning. "Elian (Lvl 1)," you whisper, your voice a low rasp meant only for his ears. "What happened to your brother was a tragedy, not a necessity. We are knights, not butchers. When we reach the keep, let us promise one another: we will protect those who cannot protect themselves. A secret pact, between brothers-in-arms. We find a way to spare them, regardless of the Prefect's cold euphemisms."
 
 Elian (Lvl 1) looks at you, the conflict in his eyes finally resolving into a desperate, fragile resolve. He swallows hard, his gaze flicking briefly to Ser Vespera Nyx (Lvl 1) before returning to you. "A pact," he breathes, his voice barely a ghost of a sound. "Yes. For my brother. For the people. I... I will stand with you, Arion (Lvl 1). We will not let the garden be choked by blood."
 
-[SOCIAL SKILL CHALLENGE: Ser Elian Thorne]
-Objective: Forge a secret pact of mercy
-Social HP: 0/4 | Status: SURRENDERED
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Ser Elian Thorne**
+> **Objective:** Forge a secret pact of mercy
+> Social HP: 0/4 | Status: SURRENDERED
+
 
 To your right, Ser Vespera Nyx (Lvl 1) narrows her eyes, her obsidian helm tilting slightly in your direction. She has heard the murmurs, even if the specific words were lost to the wind. "The silence of the road is being broken by too much whispering, Ser Arion (Lvl 1)," she says, her tone a sharp warning. "The Prefect values efficiency above all else. Do not let your sentimentality become a burden we all must carry."
 
@@ -626,78 +655,62 @@ You feel a sudden surge of inner strength as the weight of your new conviction s
 
 [Mode: STORY MODE]
 
-Player (choice: level_up_now):
-Level Up Now - Reflect on your convictions and embrace your new power (Level 2).
+> [!NOTE] ⚙️ **Player Choice:**
+> *Level Up Now - Reflect on your convictions and embrace your new power (Level 2).*
 
-============================================================
-SCENE 7
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:10:00
-Location: The King's Ribbon, Winter-Mourn Province
-Status: Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Lay on Hands: 5/5 | Divine Sense: 4/4
+---
 
-Game Master:
+#### Scene 7
+
+> 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin (Lvl 2 available) | HP: 12/12 | Gold: 25gp | XP: 306/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: No Spells Yet (Level 2 pending) | Lay on Hands: 5/5 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Recommended package: Fixed HP (+8), Fighting Style: Defense (recommended—change below), Prepared spells: Bless, Cure Wounds, Shield of Faith, Command (recommended—change below). Automatic gains: Hit Dice total 2d10, Lay on Hands pool +5 HP → 10 HP total (automatic), Divine Smite unlocked (automatic), two 1st-level spell slots (automatic), Spellcasting (Charisma ability, spell save DC 13, spell attack bonus +5).
 
 As the cold wind of Winter-Mourn bites through your armor, the weight of your oath and the memory of Elian's brother settle into a new kind of resolve. You feel the nascent spark of the Empyrean bloodline within you flare, hardening your spirit and sharpening your connection to the divine laws of the Imperium. You are no longer just a knight-in-training; the mantle of a true Paladin is descending upon you. The training of House Valerion and the conviction of your secret pact have prepared you for the trials ahead.
 
-Player (choice: finish_level_up_return_to_game):
-Apply Recommended Options and Return to Game - Accept the recommended package, close the modal, and continue the story.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Recommended Options and Return to Game - Accept the recommended package, close the modal, and continue the story.
 
 [SELECTED_CHOICE_CONTEXT]
 selected_choice_id: finish_level_up_return_to_game
 This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target level into `player_character_data.level`, cascade-recompute proficiency bonus, max HP, and spell slots from that committed level, and clear the level-up modal flags.
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
-[/SELECTED_CHOICE_CONTEXT]
+[/SELECTED_CHOICE_CONTEXT]*
 
-============================================================
-SCENE 8
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:10:00
-Location: The King's Ribbon, Winter-Mourn Province
-Status: Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 306/900
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 2/2 | Spells: L1 2/2 | Lay on Hands: 10/10 | Divine Sense: 4/4
+---
 
-Game Master:
+#### Scene 8
+
+> 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 306/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/2 | Lay on Hands: 10/10 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 As the silhouette of Winter-Mourn Keep looms larger against the pale northern sky, you feel a profound shift within your soul. The conviction of your secret pact with Elian and the weight of your family legacy catalyze the latent Empyrean spark in your blood. A surge of warmth, radiant and resolute, flows through your limbs, temporarily pushing back the mountain chill. You have transcended the rank of a mere eaglet; you are now a Paladin of the Imperium, tempered by conscience. Divine power now hums in your fingertips, ready to be channeled into smiting or healing, and your command of the battlefield has sharpened with the mastery of your defensive arts.
 
 Ser Elian (Lvl 1) nods to you, his face set in a grim mask that mirrors your own. The road remains hard and the mission monstrous, but you no longer ride as a passenger of fate. You are a Level 2 Paladin, and the choices you make at the gates of the keep will echo far beyond these frozen pines.
 
-Player (choice: scout_keep_approach):
-Scout the Keep Approach - Slow the pace and look for signs of the refugees or Lady Ashwood's fortifications before you reach the main gate.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Scout the Keep Approach - Slow the pace and look for signs of the refugees or Lady Ashwood's fortifications before you reach the main gate.*
 
-============================================================
-SCENE 9
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:25:00
-Location: Approach to Winter-Mourn Keep
-Status: Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 510/900
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4
+---
 
-Game Master:
+#### Scene 9
+
+> 📍 **Approach to Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin | HP: 20/20 | Gold: 25gp | XP: 510/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You raise a gauntleted hand, signaling Cinder to slow to a walking pace. The wind howls through the jagged pines as you narrow your eyes, scanning the grey silhouette of Winter-Mourn Keep. You look for the signs of the thousands Lady Ashwood is said to be harboring—the rising smoke of mass cookfires, the trampled snow of an unregistered camp, the movement of sentries on the outer curtain. 
 
 But the distance and the swirling white flurries conspire against you. The keep remains a cold, silent monolith. You can see the heavy iron-bound timber of the main gates are shut, but the subtle shift in the rampart shadows or the closing of secondary sally ports eludes your gaze. To your right, Ser Vespera Nyx lets out a sharp, dry laugh that is quickly swallowed by the gale. "The landscape hasn't changed in ten years, val Valerion. Are you looking for a miracle, or simply stalling for time? The refugees won't vanish just because you stare at the horizon."
 
 Ser Elian looks toward the walls, his hand trembling slightly as it rests on his shield. "It's so still," he whispers. "Like the keep is holding its breath."
 
-Player (choice: ride_to_gates):
-Ride Directly to the Gates - Abandon the scouting and ride openly to the main gate to announce your arrival and demand entry in the Empress's name.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Ride Directly to the Gates - Abandon the scouting and ride openly to the main gate to announce your arrival and demand entry in the Empress's name.*
 
-============================================================
-SCENE 10
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:45:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/900
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4
+---
 
-Game Master:
+#### Scene 10
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:45:00) at the heavy iron-bound gates of Winter-Mourn Keep. You urge Cinder forward, the white Imperial stone of the road giving way to the churned slush of the keep's threshold. You do not hide in the tree line or skulk in the shadows; you ride as a scion of House Valerion should—openly, with the Two-Suns of the Imperium catch the pale light on your shield.
 
 As you reach the outer barbican, the heavy timber gates remain barred. From the ramparts above, the glint of crossbow bolts and the shifting of furs betray the presence of Lady Ashwood's defenders. You raise your voice, channeling the burgeoning divine authority within you. "Open the gates in the name of Empress Sariel! I am Ser Arion of House Valerion, Knight of the Argent Eaglets. By the Provincial Stability Mandate, we demand entry to inspect this settlement and disperse those in violation of Imperial Law!"
@@ -710,61 +723,49 @@ Ser Vespera (Lvl 1) remains a cold shadow on your right, her hand resting on the
 
 You feel the surge of power from your convictions manifesting—the world seems sharper, your purpose clearer. You gain **408 XP** (204 XP per roll) for your commanding arrival and the insight into the defenders' hesitation. A new level of power is within your grasp.
 
-Player (choice: offer_parley_with_ashwood):
-Offer Parley with Lady Ashwood - Request a direct meeting with Lady Annalise Ashwood under a banner of truce to discuss the refugees.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Offer Parley with Lady Ashwood - Request a direct meeting with Lady Annalise Ashwood under a banner of truce to discuss the refugees.*
 
-============================================================
-SCENE 11
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:45:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/900
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4
+---
 
-Game Master:
+#### Scene 11
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Paladin (Lvl 3 available) | HP: 20/20 | Gold: 25gp | XP: 918/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/2, Lay on Hands: 10/10, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:46:00) at the heavy iron-bound gates of Winter-Mourn Keep. You raise your voice, calling for a parley with Lady Ashwood under a banner of truce. The sergeant on the wall pauses, his hand hovering over the signal horn as he looks down at you, weighing the sincerity in your eyes against the steel of your Imperial plate.
 
 But even as you wait for his reply, the burgeoning power of your Oath reaches a tipping point. You feel the radiant heat of the Empyrean flame surging through your veins, a spiritual breakthrough that demands your focus before the gates open and the parley begins. The mantle of your Sacred Oath—the very foundation of your divine authority—is ready to be fully embraced. You have achieved a new level of conviction.
 
-Player (choice: finish_level_up_return_to_game):
-Apply Recommended Options and Return to Game - Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Recommended Options and Return to Game - Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
 
 [SELECTED_CHOICE_CONTEXT]
 selected_choice_id: finish_level_up_return_to_game
 This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target level into `player_character_data.level`, cascade-recompute proficiency bonus, max HP, and spell slots from that committed level, and clear the level-up modal flags.
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
-[/SELECTED_CHOICE_CONTEXT]
+[/SELECTED_CHOICE_CONTEXT]*
 
-============================================================
-SCENE 12
-============================================================
-[Timestamp: 95 AG, Frost-Fall 12, 09:45:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 918/2700
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4 | Channel Divinity: 1/1
+---
 
-Game Master:
+#### Scene 12
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 918/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Lay on Hands: 15/15 | Divine Sense: 4/4 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:46:00) at the heavy iron-bound gates of Winter-Mourn Keep. You stand before the threshold of the North, the spiritual breakthrough finally crystallizing within your soul. The Empyrean fire in your veins cools into a steady, unyielding light as you embrace the Oath of the Crown. You feel a surge of vitality as your physical form hardens, your training and conviction granting you the resilience of a veteran knight. The knowledge of Divine Health shields you from the world's sickness, and the authority to channel your deity's power hums in your voice, ready to command the battlefield.
 
 The sergeant on the ramparts watches you, the hesitation in his eyes deepening as he witnesses the visible change in your posture. The radiant weight of your authority seems to press against the very stone of the walls. "A parley?" he calls down, his voice cracking slightly. He looks to a companion in furs who is already sprinting toward the inner keep. "Wait there, Ser Arion. I've sent word to the Lady. If she deigns to meet a Valerion under a banner of truce, you'll know soon enough."
 
 Ser Elian (Lvl 1) stares at you, his awe overcoming his fear for a moment. "Arion... you look different. Like the suns themselves have blessed your blade." Ser Vespera (Lvl 1) merely tightens her grip on her reins, her obsidian helm reflecting the grey sky. "The boy is growing up, Elian," she murmurs. "Let's hope he grows up fast enough to survive the Lady's answer."
 
-Player (choice: demand_lady_presence):
-Demand Annalise's Presence - Use your Imperial authority to demand that Lady Annalise herself appear on the wall to answer your request immediately.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Demand Annalise's Presence - Use your Imperial authority to demand that Lady Annalise herself appear on the wall to answer your request immediately.*
 
-============================================================
-SCENE 13
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:50:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 1530/2700
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 3/3, Spells: L1 3/3, CD: 1/1, Lay on Hands: 15/15
+---
 
-Game Master:
+#### Scene 13
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 1530/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, CD: 1/1, Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:50:00) at the heavy iron-bound gates of Winter-Mourn Keep. The wind screams across the threshold, whipping your cloak into a frenzy. You plant your feet, the Empyrean light of your newly embraced Oath flaring in your eyes as you project your voice with Imperial command. "I have not come to trade pleasantries with a gatewarden! I am a scion of House Valerion! I demand Lady Annalise Ashwood appear on these ramparts immediately to answer for her treason!"
 
 But where your voice had previously found purchase in the sergeant's doubt, this time it rings hollow against the stone, sounding less like divine authority and more like the petulance of a noble whelp. The grizzled sergeant's smirk returns, harder and colder than before. He looks at his archers, then back down at you, the glint of steel in his eyes reflecting the grey sky.
@@ -777,50 +778,49 @@ Ser Elian (Lvl 1) looks up at the walls, his knuckles white as he grips his shie
 
 You gain **612 XP** for the attempt, the harsh lesson of failed diplomacy burning into your resolve as you realize that the Gryphon Helm alone cannot bridge the gap between an Empress's decree and a rebel's defiance.
 
-[SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood]
-Objective: Force a direct meeting
-Social HP: 6/6 | Status: RESISTING
-Resistance Shown: The defenders mock your demand; the ramparts remain closed.
 
-Player (choice: parallel_observation_tactical):
-Tactical Assessment (Synergistic) - Signal Elian to watch for archer rotations and Vespera to find the gate's mechanical weak point while you maintain the standoff.
 
-============================================================
-SCENE 14
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:51:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 2142/2700
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 3/3 | Spells: L1 3/3 | Channel Divinity: 1/1 | Lay on Hands: 15/15
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood**
+> **Objective:** Force a direct meeting
+> Social HP: 6/6 | Status: RESISTING
+> Resistance Shown: The defenders mock your demand; the ramparts remain closed.
 
-Game Master:
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Tactical Assessment (Synergistic) - Signal Elian to watch for archer rotations and Vespera to find the gate's mechanical weak point while you maintain the standoff.*
+
+---
+
+#### Scene 14
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:51)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin | HP: 28/28 | Gold: 25gp | XP: 2142/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 3/3 | Channel Divinity: 1/1 | Lay on Hands: 15/15** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:51:00) at the heavy iron-bound gates of Winter-Mourn Keep—the air is thick with the scent of wet stone and the metallic tang of unsheathed steel. You remain unmoving in the slush, a radiant beacon of Imperial order, while your eyes subtly flick toward your companions. With a sharp, practiced tilt of your Gryphon Helm, you signal Ser Elian (Lvl 1) to track the archer rotations along the battlements and nod toward the gate's hinges for Ser Vespera (Lvl 1) to analyze.
 
 Elian shifts his gaze upward, his eyes squinting against the biting wind and the swirling flurries. He tries to count the furs moving behind the merlons, but the defenders are disciplined, their silhouettes blurring into the grey granite of the keep. Beside you, Vespera's hand remains steady on her reins, her cold eyes tracing the iron bands of the gate. She searches for the hairline fracture, the rusted pin, or the uneven settle that would betray a mechanical weakness. 
 
 However, the North is a harsh teacher. The Imperial engineers who raised these walls built them to withstand centuries of siege, and Lady Ashwood’s (Lvl 10) recent 'fortifications' have only served to mask any existing flaws with fresh timber and reinforced iron. The archers above maintain a confusing, overlapping watch that leaves no clear gap in their coverage. The tactical opening you sought remains hidden behind a wall of grey stone and hostile silence. The sergeant’s laughter from earlier still rings in the cold air, punctuating your lack of leverage.
 
-[SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood]
-Objective: Force a direct meeting
-Social HP: 6/6 | Status: RESISTING
-Resistance Shown: The defenders maintain a lethal, disciplined watch; the gates remain an impassable barrier.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood**
+> **Objective:** Force a direct meeting
+> Social HP: 6/6 | Status: RESISTING
+> Resistance Shown: The defenders maintain a lethal, disciplined watch; the gates remain an impassable barrier.
+
 
 You gain **612 XP** for the tactical attempt, though the keep's secrets remain barred to you for now.
 
-Player (choice: invoke_blood_connection):
-Invoke Ashford Blood - Call out Lady Ashwood's connection to your mother Cordelia Ashford, appealing to family ties rather than Imperial law.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Invoke Ashford Blood - Call out Lady Ashwood's connection to your mother Cordelia Ashford, appealing to family ties rather than Imperial law.*
 
-============================================================
-SCENE 15
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:53:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/2700
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Channel Divinity: 1/1
+---
 
-Game Master:
+#### Scene 15
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:53)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:53:00) at the heavy iron-bound gates of Winter-Mourn Keep. You ignore the click of crossbows and the sergeant's dismissive bark. You lean forward in your saddle, the Gryphon Helm catching a stray beam of light as you lock eyes with the grizzled man above. 
 
 "Then tell the Lady of the Keep that a son of the Ashford blood stands at her gate!" your voice rings out, no longer demanding with Imperial arrogance, but resonating with the weight of shared lineage. "Tell her Cordelia's son is here—not as a conqueror, but as a kinsman. If she respects the blood that runs in her own veins, she will answer the call of House Ashford!"
@@ -833,42 +833,34 @@ Beside you, Ser Elian (Lvl 1) exhales a breath he seems to have been holding sin
 
 You gain 612 XP. The breakthrough of your lineage and your successful navigation of this standoff has pushed your spirit to a new threshold of power.
 
-Player (choice: level_up_now):
-Level Up to Level 4 - Embrace your growing power and apply Paladin Level 4 benefits.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Level Up to Level 4 - Embrace your growing power and apply Paladin Level 4 benefits.*
 
-============================================================
-SCENE 16
-============================================================
-[Timestamp: 95 AG, Frost-Fall 12, 09:53:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/2700
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4 (Level 4 pending)
+---
 
-Game Master:
+#### Scene 16
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (09:53)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Paladin (Lvl 4 available) | HP: 28/28 | Gold: 25gp | XP: 2754/2700** &nbsp;|&nbsp; ✨ **HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4 (Level 4 pending)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Recommended package: Fixed HP (+8), ASI: +2 Strength (recommended—change below), prepare *Heroism* as an additional spell (recommended—change below). Automatic gains: Hit Die total 4d10, Lay on Hands pool +5 HP → 20 HP total (automatic), Spell Preparation capacity increases by 1 (automatic), Spellcasting (Charisma ability, spell save DC 13, spell attack bonus +5).
 
 Standing before the heavy timber gates of Winter-Mourn, the invocation of your Ashford blood creates a tense, heavy stillness amidst the swirling snow. In this moment of pause, you feel the spiritual breakthrough of your recent trials crystallizing into greater potency. The radiant heat of the Empyrean flame within you surges, hardening your physical form and sharpening your mental acuity. You are no longer just the young knight who rode out from Aeterna; the mantle of your Oath is thickening, granting you the strength and authority required for the parley to come. The power of House Valerion and the blood of House Ashford converge, preparing you to face Lady Annalise with the full weight of a veteran Paladin.
 
-Player (choice: finish_level_up_return_to_game):
-Apply Recommended Options and Return to Game - Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Recommended Options and Return to Game - Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
 
 [SELECTED_CHOICE_CONTEXT]
 selected_choice_id: finish_level_up_return_to_game
 This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target level into `player_character_data.level`, cascade-recompute proficiency bonus, max HP, and spell slots from that committed level, and clear the level-up modal flags.
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
-[/SELECTED_CHOICE_CONTEXT]
+[/SELECTED_CHOICE_CONTEXT]*
 
-============================================================
-SCENE 17
-============================================================
-[Timestamp: 95 A.G., Frost-Fall 12, 09:53:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 2754/6500
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 4/4 | Spells: L1 3/3 | Channel Divinity: 1/1 | Divine Sense: 4/4 | Lay on Hands: 20/20 | Exhaustion: 0
+---
 
-Game Master:
+#### Scene 17
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:53)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 2754/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Channel Divinity: 1/1 | Divine Sense: 4/4 | Lay on Hands: 20/20 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 The biting wind of Winter-Mourn seems to lose its edge as the spiritual transition completes within you. Standing in the churned slush before the gates, you feel the Empyrean flame in your blood reach a new equilibrium. Your muscles harden with the strength of House Valerion, and your mind sharpens with the tactical clarity of the Ashford line. You are no longer just a knight of the Argent Eaglets; you are a Paladin whose oath has been tempered by the harsh realities of the North. The power of *Heroism* now resonates in your spirit, a bulwark against the fear that grips this keep.
 
 On the ramparts, the heavy silence following your invocation of the Ashford name persists. The grizzled sergeant remains at the merlon, his eyes fixed on you with a mixture of suspicion and a new, begrudging respect. Below, the heavy timber of the gate groans slightly as the wind catches it, but the bar remains in place. 
@@ -879,36 +871,28 @@ Ser Elian (Lvl 1) moves Cinder closer to you, his face pale but resolute. "She's
 
 Ser Vespera (Lvl 1) remains a silent, obsidian shadow on your right. Her hand hasn't moved from her sword hilt, but she has shifted her weight, preparing for the gates to open. The Imperial vanguard is less than an hour away; the window for a peaceful resolution is a narrow, closing gap in the storm.
 
-Player (choice: prepare_parley_speech):
-Prepare Your Case - Mentally rehearse your arguments to convince Lady Annalise to allow a peaceful inspection and dispersal.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Prepare Your Case - Mentally rehearse your arguments to convince Lady Annalise to allow a peaceful inspection and dispersal.*
 
-============================================================
-SCENE 18
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:53:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 2754/6500
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 4/4 | Spells: L1 3/3 | Channel Divinity: 1/1 | Divine Sense: 4/4 | Lay on Hands: 20/20
+---
 
-Game Master:
+#### Scene 18
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:53)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 2754/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Channel Divinity: 1/1 | Divine Sense: 4/4 | Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:53:00) at the heavy iron-bound gates of Winter-Mourn Keep. You sit motionless atop Cinder, the silence following the sergeant's departure for the Solar stretching across the slush-filled threshold. The mountain wind tugs at your cloak, whipping the white fabric against your Valerion Plate, but your focus remains absolute and internal. You ignore the glint of crossbow bolts from the ramparts and the restless, nervous shifting of Ser Elian (Lvl 1) and Ser Vespera (Lvl 1) beside you.
 
 Inside the quiet sanctuary of your mind, you begin to assemble the pieces of your argument like a strategist arraying forces on a map. You weigh the cold steel of Imperial decree against the warm, hidden history of the Ashford blood. You consider Lady Annalise (Lvl 10)—not merely as a traitor to the Silent Throne, but as a kinswoman and a protector of the desperate. The clock is ticking; every heartbeat brings the vanguard of Prefect Gratian (Lvl 12) closer to this gate, and with them, the inevitability of blood. You must find the precise words that can pierce the Lady's armor of defiance without shattering the foundation of the Empress's peace.
 
-Player (choice: appeal_to_kinship):
-The Blood of House Ashford - Lead with the family connection to Cordelia. Argue that you are here to save the keep from the Empress's wrath, acting as a kinsman who understands her burden.
+> [!NOTE] ⚙️ **Player Choice:**
+> *The Blood of House Ashford - Lead with the family connection to Cordelia. Argue that you are here to save the keep from the Empress's wrath, acting as a kinsman who understands her burden.*
 
-============================================================
-SCENE 19
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 09:55:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 4046/6500
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Channel Divinity: 1/1 | Divine Sense: 4/4
+---
 
-Game Master:
+#### Scene 19
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 4046/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Channel Divinity: 1/1 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Morning (09:55:00) at the heavy iron-bound gates of Winter-Mourn Keep—the groan of frozen hinges echoes like a scream against the granite walls as the secondary gate shutters slide open. A figure emerges onto the ramparts, draped in heavy wolf furs over burnished iron plate. Lady Annalise Ashwood (Lvl 10) steps into the pale light, her hair a shock of winter-white and her eyes—the piercing, unmistakable Ashford grey—narrowing as they find you in the slush below.
 
 "Kinsman?" Her voice is a rasp of dry parchment, carrying a bitterness that cuts deeper than the wind. She leans over the merlon, her fingers gripping the stone until the knuckles turn white. "Cordelia Ashford (Lvl 15) has no son. She has an Imperial scion, polished by Sariel's (Lvl 20) own hand to strike at the heart of the North. Do you think I am so easily swayed by the ghost of a name you haven't earned?"
@@ -919,19 +903,15 @@ The archers above do not relax. If anything, the tension has thickened; the clai
 
 You gain **1292 XP** for the attempt. Though the kinship failed to move her, you have finally forced the Lady of the Keep into the open.
 
-Player (choice: prove_sincerity_signet):
-Offer a Token of Sincerity - Produce a family heirloom or speak of a specific Ashford secret to prove you aren't just an Imperial puppet.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Offer a Token of Sincerity - Produce a family heirloom or speak of a specific Ashford secret to prove you aren't just an Imperial puppet.*
 
-============================================================
-SCENE 20
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 10:00:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 5338/6500
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Channel Divinity: 1/1
+---
 
-Game Master:
+#### Scene 20
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin | HP: 36/36 | Gold: 25gp | XP: 5338/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Lay on Hands: 20/20, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Morning (10:00:00) at the heavy iron-bound gates of Winter-Mourn Keep. You reach into the high collar of your Valerion Plate, pulling out a small, silver locket your mother gave you before you left Aeterna—a piece she claimed was a Valerion gift, but which you recognized from the Ashford archives. 
 
 "My mother, Cordelia, told me of the 'Silver-Glass Thaw,'" you call out, your voice projecting across the slushy gap. "She spoke of a secret tradition practiced only by the Ashford daughters when the first frost hits the peaks. She gave me this locket, Lady Annalise. It bears the mark of the Frozen Rose, the sigil of your mother's line, not the gauntlet of my father's."
@@ -940,28 +920,27 @@ Lady Annalise (Lvl 10) leans further over the stone, her eyes narrowing as she s
 
 She turns to her sergeant, her voice rising to a cold command. "The boy is a mimic, Grigor. He speaks the words he was coached to say. Keep the bows trained. If he takes a step closer, show him how the North treats Ashford 'kinsmen' who return as Imperial hounds."
 
-[SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood]
-Objective: Force a direct meeting
-Social HP: 6/6 | Status: RESISTING
-Resistance Shown: Lady Annalise views your family token as a stolen relic and your knowledge as Imperial coaching.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood**
+> **Objective:** Force a direct meeting
+> Social HP: 6/6 | Status: RESISTING
+> Resistance Shown: Lady Annalise views your family token as a stolen relic and your knowledge as Imperial coaching.
+
 
 Ser Elian (Lvl 1) pulls his horse closer to yours, his eyes darting toward the horizon where a thin line of dust marks the approach of the vanguard. "Arion (Lvl 4), they're coming. I can see the Imperial banners through the pines. If we don't open these gates in the next twenty minutes, Prefect Gratian (Lvl 12) will be here, and there won't be any more talking."
 
 You gain **1292 XP** (34% of the XP band) for the failed attempt to bridge the gap through Ashford secrets. Your spirit hardens as the window for peace begins to shatter.
 
-Player (choice: oath_of_protection_parley):
-Swear the Sacred Vow - Invoke your Oath of the Crown to swear a public, divine guarantee of her safety if she opens the gate for a parley. Putting your soul and Paladin powers on the line to prove sincerity.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Swear the Sacred Vow - Invoke your Oath of the Crown to swear a public, divine guarantee of her safety if she opens the gate for a parley. Putting your soul and Paladin powers on the line to prove sincerity.*
 
-============================================================
-SCENE 21
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 10:05:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 4 Paladin (Lvl 5 available) | HP: 36/36 | Gold: 25gp | XP: 6630/6500
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 4/4, Spells: L1 3/3, Channel Divinity: 1/1, Lay on Hands: 20/20
+---
 
-Game Master:
+#### Scene 21
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin (Lvl 5 available) | HP: 36/36 | Gold: 25gp | XP: 6630/6500** &nbsp;|&nbsp; ✨ **HD: 4/4, Spells: L1 3/3, Channel Divinity: 1/1, Lay on Hands: 20/20** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Morning (10:05:00) at the heavy iron-bound gates of Winter-Mourn Keep. You ignore the Lady's scorn, drawing yourself to your full height. You don't reach for your blade; instead, you press a gauntleted hand against the steel of your breastplate, right over your heart. The Empyrean fire in your blood responds to your conviction, and for a moment, the grey northern gloom is shattered by a pulse of pure, golden radiance that emanates from your armor.
 
 "By the Oath of the Crown and the light of the Two Suns, I swear!" your voice booms, resonating with a divine authority that vibrates the very stones of the ramparts. "I grant you a guarantee of safety, Lady Annalise. If you open these gates for a parley, I bind my soul and my power to your protection. Should any harm come to you or your people while we speak under truce, may my blade shatter and my light be extinguished forever!"
@@ -976,66 +955,58 @@ Lady Annalise looks toward the horizon, where the Imperial dust cloud grows ever
 
 The great bar of the gate slams back with a sound like a thunderclap, and the heavy iron-bound timber begins to groan inward. You have won your way into the heart of the rebellion, not through blood, but through the weight of your honor. You gain **1292 XP** for your successful vow. The divine mantle of Level 5 is now yours to embrace.
 
-[SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood]
-Objective: Force a direct meeting
-Social HP: 4/6 | Status: WAVERING
-Resistance Shown: She is shaken by the vow but remains suspicious of the approaching vanguard.
 
-Player (choice: level_up_now):
-Level Up to Level 5 - Embrace the full power of a veteran Paladin before entering the lion's den.
 
-============================================================
-SCENE 22
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 10:05:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 4 Paladin (Lvl 5 available) | HP: 36/36 | Gold: 25gp | XP: 6630/6500
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Divine Sense: 4/4 | Channel Divinity: 1/1
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood**
+> **Objective:** Force a direct meeting
+> Social HP: 4/6 | Status: WAVERING
+> Resistance Shown: She is shaken by the vow but remains suspicious of the approaching vanguard.
 
-Game Master:
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Level Up to Level 5 - Embrace the full power of a veteran Paladin before entering the lion's den.*
+
+---
+
+#### Scene 22
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 4 Paladin (Lvl 5 available) | HP: 36/36 | Gold: 25gp | XP: 6630/6500** &nbsp;|&nbsp; ✨ **HD: 4/4 | Spells: L1 3/3 | Lay on Hands: 20/20 | Divine Sense: 4/4 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Recommended package: Fixed HP (+8), Extra Attack (automatic), and unlock 2nd-level spell slots. Automatic gains: Proficiency bonus increases to +3, Hit Dice total 5d10, Lay on Hands pool +5 HP → 25 HP total (automatic), Extra Attack, two 2nd-level spell slots (automatic), Oath spells (always prepared, do not count against capacity): *Warding Bond*, *Zone of Truth*, Spellcasting (Charisma ability, spell save DC 14, spell attack bonus +6).
 
 As the heavy timber gates of Winter-Mourn Keep begin their slow, groaning arc inward, you feel the Empyrean flame in your blood surge with a newfound intensity. The spiritual weight of your sacred vow has acted as a forge, tempering your soul and drawing forth the true potential of your bloodline. You feel your muscles harden with a preternatural speed and your mind sharpen with the tactical insight of a veteran commander. The mantle of a Level 5 Paladin is settling over you, granting you the ability to strike with the speed of the morning sun and weave the deeper mysteries of the Ashford and Valerion legacies into your divine mandate.
 
-Player (choice: finish_level_up_return_to_game):
-Apply Recommended Options and Return to Game - Accept the recommended Level 5 package, close the modal, and proceed with the parley inside Winter-Mourn Keep.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Recommended Options and Return to Game - Accept the recommended Level 5 package, close the modal, and proceed with the parley inside Winter-Mourn Keep.
 
 [SELECTED_CHOICE_CONTEXT]
 selected_choice_id: finish_level_up_return_to_game
 This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target level into `player_character_data.level`, cascade-recompute proficiency bonus, max HP, and spell slots from that committed level, and clear the level-up modal flags.
 XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
-[/SELECTED_CHOICE_CONTEXT]
+[/SELECTED_CHOICE_CONTEXT]*
 
-============================================================
-SCENE 23
-============================================================
-[Timestamp: 95 Frost-Fall, Frost-Fall 12, 10:05:00
-Location: Winter-Mourn Keep Gates
-Status: Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 6630/14000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel Divinity: 1/1
+---
 
-Game Master:
+#### Scene 23
+
+> 📍 **Winter-Mourn Keep Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 Frost-Fall (10:05)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 6630/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, LoH: 25/25, Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 The great iron-bound timber of the gate groans inward, a slow and heavy sound that marks the end of the standoff. As the threshold opens, you feel the spiritual transition within you reach its zenith. The Empyrean blood in your veins doesn't just hum; it roars with the steady, disciplined power of a veteran knight. Your armor feels lighter, your movements more fluid, and the divine mandate of your Oath feels like a physical weight on your shoulders—not as a burden, but as a source of inexhaustible strength.
 
 Lady Annalise (Lvl 10) watches from the ramparts, her expression unreadable as she witnesses the visible aura of authority settling over you. You have entered the keep not as a petitioner, but as a Paladin of the Imperium whose word is bound by the divine. The courtyard beyond is a hive of activity—refugees huddled near cookfires, guards with their hands on their hilts, and the palpable scent of fear and defiance. The parley has begun, and the vanguard of Prefect Gratian is but minutes away.
 
 Ser Elian (Lvl 1) rides close to your flank, his eyes wide as he senses the shift in your presence. Ser Vespera (Lvl 1) remains silent, but her grip on her reins has adjusted, a professional acknowledgment of your new standing. You are a Level 5 Paladin, and the North is waiting to see if your honor is as strong as your blood.
 
-Player (choice: enter_keep_peacefully):
-Enter for Parley - Dismount and enter the keep peacefully to meet Lady Annalise as promised.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Enter for Parley - Dismount and enter the keep peacefully to meet Lady Annalise as promised.*
 
-============================================================
-SCENE 24
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 10:10:00
-Location: Winter-Mourn Keep Courtyard
-Status: Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 6630/14000
-Conditions: Oath of the Crown | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1
+---
 
-Game Master:
+#### Scene 24
+
+> 📍 **Winter-Mourn Keep Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:10)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 6630/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **Oath of the Crown | Exhaustion: 0 | Inspiration: No**
+
 Late morning (10:10:00) in the Winter-Mourn Keep Courtyard—the heavy iron-bound gates finish their ponderous arc, revealing a scene that the Imperial archives would never record. You dismount from Cinder, your sabatons crunching into the blood-flecked slush, a deliberate gesture of peace that seems to ripple through the gathered crowd. Ser Elian (Lvl 1) follows your lead, his eyes darting between the armed guards and the huddling families. Ser Vespera (Lvl 1) remains mounted for a moment longer, her obsidian gaze scanning the heights before she too slides from her saddle with practiced, predatory grace.
 
 The courtyard is a labyrinth of makeshift shelters and desperate humanity. The air is thick with the smell of unwashed bodies, medicinal herbs, and the sharp tang of fear. Hundreds of refugees—the 'weeds' of the Prefect's report—watch you with eyes that have seen too much fire and too little mercy. They don't see a kinsman; they see the Valerion gauntlet and the Gryphon Helm of their potential executioners. 
@@ -1044,24 +1015,24 @@ Lady Annalise Ashwood (Lvl 10) stands at the base of the Great Hall's stone stai
 
 "You have entered the lion's den, val Valerion," Annalise says, her voice echoing in the sudden, heavy silence of the courtyard. "Your vow has bought you this audience, but the wind carries the sound of Imperial drums. Prefect Gratian (Lvl 12) is not coming for a parley. He is coming for a harvest. Tell me, Knight: does your soul-binding oath extend to the army currently reaching our doorstep, or was your light merely a flare to guide them to our throat?"
 
-[SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood]
-Objective: Force a direct meeting / Secure cooperation
-Social HP: 4/6 | Status: WAVERING
-Resistance Shown: She stands in the open but remains guarded, questioning the sincerity of your vow in the face of the approaching vanguard.
 
-Player (choice: insight_check_annalise):
-Read the Lady's Fear - Attempt an Insight check to see if Annalise is truly defiant or if she is looking for an honorable way to surrender without sacrificing the refugees.
 
-============================================================
-SCENE 25
-============================================================
-[Timestamp: 95 DR, Frost-Fall 12, 10:13:00
-Location: Winter-Mourn Keep Courtyard
-Status: Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 9180/14000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood**
+> **Objective:** Force a direct meeting / Secure cooperation
+> Social HP: 4/6 | Status: WAVERING
+> Resistance Shown: She stands in the open but remains guarded, questioning the sincerity of your vow in the face of the approaching vanguard.
 
-Game Master:
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Read the Lady's Fear - Attempt an Insight check to see if Annalise is truly defiant or if she is looking for an honorable way to surrender without sacrificing the refugees.*
+
+---
+
+#### Scene 25
+
+> 📍 **Winter-Mourn Keep Courtyard** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:13)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 9180/14000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Lay on Hands: 25/25, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Late morning (10:13:00) in the Winter-Mourn Keep Courtyard. You search Lady Annalise's (Lvl 10) face, looking for any crack in the armor of her defiance. You hope to see the flickering shadow of doubt, a sign that she seeks an honorable exit from this collision of duties. But the Lady of the Keep is a creature of the North, her soul as frosted and impenetrable as the granite ramparts surrounding you. Her Ashford grey eyes remain fixed on you, cold and clear, reflecting only the steel of your own plate and the distant, dark line of the Imperial vanguard on the horizon.
 
 "The vanguard does not wait for family reunions, val Valerion," she says, her voice steady and devoid of the vulnerability you sought. "If your vow is true, then stand at the gate and tell your Prefect that this keep is under your protection. If not, then step aside and let the North defend itself."
@@ -1070,14 +1041,105 @@ Behind her, the refugees huddle closer together, their eyes darting toward the h
 
 Ser Elian (Lvl 1) steps toward you, his hand resting tentatively on your shoulder. "Arion, look at them," he whispers, gesturing to a group of children shivering near a dying cookfire. "They're not 'weeds'. They're just cold. If Gratian (Lvl 12) breaks that gate... it won't matter what we promised each other."
 
-[SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood]
-Objective: Secure cooperation / Peacefully resolve the standoff
-Social HP: 4/6 | Status: WAVERING
-Resistance Shown: She remains an unreadable wall of stoic defiance, unmoved by your scrutiny.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood**
+> **Objective:** Secure cooperation / Peacefully resolve the standoff
+> Social HP: 4/6 | Status: WAVERING
+> Resistance Shown: She remains an unreadable wall of stoic defiance, unmoved by your scrutiny.
+
 
 You gain **2550 XP** for the attempt to navigate this high-stakes standoff.
 
-Player (choice: command_vanguard_halt):
-Command the Vanguard to Hold - Ride back to the gate and use your authority as a scion of House Valerion and a Paladin of the Crown to order Prefect Gratian's scouts to halt their advance, citing the active parley.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Command the Vanguard to Hold - Ride back to the gate and use your authority as a scion of House Valerion and a Paladin of the Crown to order Prefect Gratian's scouts to halt their advance, citing the active parley.*
 
-====================================
+---
+
+#### Scene 26
+
+> 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin | HP: 44/44 | Gold: 25gp | XP: 11730/14000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Late morning (10:15:00) at the Winter-Mourn Gates. Sensing the closing window of peace, you remount Cinder and spur the warhorse back across the churned courtyard, the heavy gates still vibrating from their recent opening. You reach the threshold just as three Imperial scouts in the slate-grey livery of Prefect Gratian's (Lvl 12) vanguard emerge from the tree line, their mounts kicking up sprays of frozen slush.
+
+You pull Cinder to a halt directly in their path, your Valerion Plate shimmering with the residual golden glow of your Oath. You do not wait for them to speak. "Halt!" your voice rings out with the absolute authority of House Valerion and the divine weight of your station. "I am Ser Arion, Paladin of the Crown. A formal parley with Lady Annalise (Lvl 10) is currently in progress under a sacred vow of safety. By my authority, you are to hold your position here. Do not approach the gatehouse until I have concluded my business with the March Lord!"
+
+The lead scout, a corporal with eyes like flint, pulls hard on his reins. He looks at your Gryphon Helm, then at the Two-Suns shield, and finally at the radiant intensity in your gaze. The command is irregular—the Prefect's orders were to reach the gates—but the social and spiritual gravity of a Level 5 Paladin is a force no common soldier lightly defies. He signals his men to lower their lances. 
+
+"Understood, Ser Valerion," the corporal calls out, his voice tight but compliant. "We will hold the line here. But be warned: the Prefect and the main host are less than half a mile behind us. They won't stop for a conversation unless the order comes from the Argent Eaglets' command."
+
+You have bought the parley minutes, not hours. The heartbeat of the Imperial drums is louder now, a persistent thrumming against the stone walls. You gain **2550 XP** for successfully asserting your authority over the vanguard.
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lady Annalise Ashwood**
+> **Objective:** Secure cooperation / Peacefully resolve the standoff
+> Social HP: 4/6 | Status: WAVERING
+> Resistance Shown: While you have halted the scouts, Annalise remains stoic within the keep, watching the gate with narrowed eyes.
+
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Send Elian to Intercept - Order Ser Elian to ride back to Prefect Gratian and officially report the parley status to delay the main host.*
+
+---
+
+#### Scene 27
+
+> 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Lvl 6 available) | HP: 44/44 | Gold: 25gp | XP: 14280/23000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Late morning (10:16:00) at the Winter-Mourn Gates—the air hums with the static of your recently sworn vow, a golden resonance that still clings to your plate. You turn to Ser Elian Thorne (Lvl 1), your gaze piercing and steady beneath the Gryphon Helm. "Elian, ride back. Find Prefect Gratian (Lvl 12). Tell him a son of House Valerion has invoked the Ashford blood and established a formal parley under a sacred oath of safety. Order him—in my name—to halt the main host at the three-mile marker. We cannot have the heartbeat of Imperial drums drowning out the chance for peace."
+
+Elian (Lvl 1) stares at you, and for a moment, the nervous boy who rode from Aeterna (Lvl 20) vanishes. Inspired by the raw, divine conviction in your voice—a leadership that feels less like a command and more like a destiny—he salutes with a crispness that makes the Imperial scouts pull back. "By your command, Ser Arion (Lvl 5). I will not let them pass." He wheels his mount around, the horse’s hooves carving a spray of snow as he gallops back toward the tree line, a streak of silver-and-white against the dark pines.
+
+Ser Vespera Nyx (Lvl 1) watches him go, her obsidian visor hiding her expression, though her voice carries a rare note of begrudging respect. "You sent the lamb to stop the wolf, val Valerion. But after that display... even Gratian might find it hard to ignore the Ashford name." The lead scout corporal nods to you, his eyes wide. "He’ll make it, Ser. Nobody’s going to stop a man riding with that kind of fire in his eyes."
+
+You feel the Empyrean spark within you expand, the weight of your leadership and the successful manipulation of the vanguard's momentum forging a new depth in your soul. You gain **2550 XP** for this masterful deployment of your authority. A profound new tier of power awaits your embrace.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Level Up Now - Meditate on your new authority and embrace the mantle of a Level 6 Paladin (Aura of Protection).*
+
+---
+
+#### Scene 28
+
+> 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 Frost-Fall (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 Paladin (Lvl 6 available) | HP: 44/44 | Gold: 25gp | XP: 14280/23000** &nbsp;|&nbsp; ✨ **HD: 5/5 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 25/25 | Channel Divinity: 1/1 | Aura: Not unlocked yet (Lvl 6 pending) | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Recommended package: Fixed HP (+8), prepare *Command* as an additional spell, and Aura of Protection (+3 to saves for self and allies within 10ft). Automatic gains: Hit Dice total 6d10 (automatic), Lay on Hands pool +5 HP → 30 HP total (automatic), Aura of Protection unlocked (automatic), Spellcasting (Charisma ability, spell save DC 14, spell attack bonus +6).
+
+As you stand at the threshold of Winter-Mourn Keep, the weight of your oath and the spiritual gravity of your presence begin to manifest as a tangible field of protection. The Empyrean fire in your blood doesn't just empower your own strikes; it radiates outward, a shimmering invisible barrier that bolsters the resolve and resilience of those who stand beside you. You feel your connection to the divine laws of the Imperium deepen, turning your very presence into a sanctuary of order. The mantle of a Level 6 Paladin is settling over you, ready to be finalized before you face the internal and external threats of the North.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Change Prepared Spells - Review and modify your list of prepared Paladin spells (Capacity: 6).*
+
+---
+
+#### Scene 29
+
+> 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 Frost-Fall (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 5 (Lvl 6 available) | HP: 44/44 | Gold: 25gp | XP: 14280/23000** &nbsp;|&nbsp; ✨ **HD: 5/5, Spells: L1 4/4, L2 2/2, Channel Divinity: 1/1, Lay on Hands: 25/25** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Recommended package: Fixed HP (+8), Aura of Protection (automatic), and prepare Lesser Restoration (recommended—change below). Automatic gains: Hit Dice total becomes 6d10, Lay on Hands pool increases from 25 to 30 HP total (automatic), Aura of Protection unlocked (+3 to all saves for self and allies within 10ft) (automatic), Spellcasting Ability: Charisma (automatic), Spell Save DC: 14 (automatic), Spell Attack Bonus: +6 (automatic).
+
+As you stand at the threshold of the keep, the divine energies of your Oath clarify within your spirit. You feel the Empyrean flame in your blood expand, radiating outward as a shimmering shield of will that bolsters the resolve of those around you. Your connection to the divine laws of the Imperium has turned your very presence into a sanctuary. As you prepare for the parley with Lady Annalise, you find your mind capable of holding one more prayer—will you carry the cleansing touch of the Ashford line, or the bolstering aid of your father's house?
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Recommended Options and Return to Game - Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
+
+[SELECTED_CHOICE_CONTEXT]
+selected_choice_id: finish_level_up_return_to_game
+This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target level into `player_character_data.level`, cascade-recompute proficiency bonus, max HP, and spell slots from that committed level, and clear the level-up modal flags.
+XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
+[/SELECTED_CHOICE_CONTEXT]*
+
+---
+
+#### Scene 30
+
+> 📍 **Winter-Mourn Gates** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 AG (10:16)** &nbsp;|&nbsp; 🛡️ **Lvl 6 Paladin | HP: 52/52 | Gold: 25gp | XP: 14280/23000** &nbsp;|&nbsp; ✨ **HD: 6/6 | Spells: L1 4/4, L2 2/2 | Lay on Hands: 30/30 | Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+As Ser Elian vanishes into the tree line, a sudden, crystalline clarity settles over you. The Empyrean blood in your veins, stirred by the weight of your sacred vow and the sight of the refugees' faces, pulses with a new, protective warmth. You feel it radiate outward from your Valerion Plate—not as a visible flame, but as a tangible field of unyielding will that seems to steady the hearts of the nearby guards and refugees alike. This is the Aura of Protection, the physical manifestation of your conviction to guard the peace without sacrificing your soul.
+
+Lady Annalise (Lvl 10) descends the final steps of the Great Hall, her eyes tracking the golden resonance that now clings to you. The skepticism in her Ashford grey eyes hasn't vanished, but it has been joined by a wary, profound curiosity. You have entered the courtyard as a boy knight, but you stand before her now as a Paladin of the Imperium whose power is anchored in something deeper than Imperial decree. The parley has officially begun, and though the sound of Gratian's (Lvl 12) drums thrums against the keep's stone like an approaching storm, you are no longer a passenger of events. You are the shield of the North.
+
+---
+

@@ -1,110 +1,18 @@
 ---
-title: "swtor - tenebria (lvl+narrative)"
-type: source
-tags: [campaign, worldarchitect, swtor-tenebria-lvl-narrative]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/9VSQ8CbbG8Nc9QORtsSR/swtor - tenebria _lvl_narrative__9VSQ8Cbb.txt
-campaign_id: 9VSQ8CbbG8Nc9QORtsSR
-entry_count: 132
-last_updated_iso: 2026-07-13T02:41:42.234848+00:00
-ingest_batch: batch-2026-07-12-50plus-repair
+title: "swtor - tenebria _lvl_narrative__9VSQ8Cbb"
+campaign_id: "9VSQ8CbbG8Nc9QORtsSR"
+scenes_total: 66
+exported_from: "https://worldarchitect.ai"
 ---
 
-God Mode:
-Character: Tenebria | Description: Part 1: Systemic Sub-Templates
-Sub-Template A: Standard Character Architecture
-Every key figure detailed in this Campaign Bible utilizes the six-tier architectural profile:
-I. Core Identity: Name, Archetype/Role, Social Standing/Starting Title, Moral Framework/Alignment, and MBTI Type.
-II. Psychology: Core Motivation (The "Why"), Greatest Fear (rooted in specific formative trauma), and a variable range of 3 to 5 distinct Temperament Traits.
-III. Behavior and Speech: Physical manifestations of stress/subconscious ticks, explicit Speech Patterns (tone, cadence, vocabulary preferences, pacing), and Public Reputation.
-IV. Complete Backstory: The Defining Moment (the catalytic event forming their identity), Relevant History (chronological history of upbringing and training), and Deep Secrets (hidden past actions or sins).
-V. Persona vs. Repressed Interior: The outward-facing mask used to manipulate the environment vs. how they internally analyze and critique their performance when alone.
-VI. Unconscious Beliefs: Deep-seated, absolute statements they subconsciously believe about themselves or the universe.
-Sub-Template B: Faction Structural Profile
-Major organizations adhere to this structural profile:
-I. Nomenclature and Heraldry: Official Name, Common Alias, and Sensory Visual Signature (Colors, Sigils, Architecture, Uniforms).
-II. Infrastructure and Domain: Primary Headquarters (Name, Location, Vibe), Estimated Asset/Manpower Bracket, and Primary Resource Engine.
-III. Leadership Dossier: The leader detailed using Sub-Template A.
-IV. Internal Operational Culture: Unwritten codes of conduct, internal power struggles, and penalties for failure or betrayal.
-V. The Hook: The structural vulnerability, historical scandal, or personal trauma of the leader that the protagonist can exploit.
-Sub-Template C: Tactical Masterwork / Relic Framework
-Magical and masterwork items are built using this framework:
-I. Item Name and Classification: True Name, Legendary Titles, and Base Item Type.
-II. Aesthetic and Material: Physical appearance, components, weight, age, and tactile feel.
-III. Mythic Origin: History of who forged it, past battles or betrayals, and acquisition lore.
-IV. System Metrics (5e Integration): Passive Property (continuous boon), Active Tactical Feature (high-impact ability with action economy and resource costs), and Narrative Side Effect / Behavioral Urge.
-Section 1: Campaign Intro
-Title: Echoes of the Crimson Basin
-The Concept: Set within the cutthroat borders of the Sith Empire during the height of the Great Galactic Cold War, this campaign explores a world where power is the only objective currency, and survival demands absolute ruthlessness. The unique narrative twist centers on a baseline commoner who rises effortlessly through the ranks of the Sith Academy on Korriban, completely unaware that her terrifying talent stems from being an unacknowledged, bastard daughter of the Sith Emperor. The Emperor has no inkling of her existence, and she believes herself to be a freak mutation of ordinary Imperial stock. Her ultimate goal is to survive the lethal politics of the Academy, uncover the mystery of her anomalous power, and either claim her place at the apex of the Empire or tear its foundations down to avoid being consumed by her father's cosmic hunger.
- Google Docs
-The Hook: This campaign maximizes "Main Character" energy by handing the player god-tier mechanical potential wrapped in a narrative meat grinder. You are a natural prodigy who treats legendary dark side feats as trivial instincts. The fun lies in the ultimate power fantasy of out-thinking and out-killing high-born Sith purebloods, weaponizing the Academy’s laws of survival, and utilizing a volatile custom class system that expands in raw devastation the more your true lineage bleeds into reality. You are not trying to save this grimdark society; you are conquering its crucible from the very bottom.
- Google Docs+ 1
-Section 2: Character Personality (The Protagonist Profile)
-Part 1: Personality Profile
-I. Core Identity
-Name: Tenebria Vane
-Archetype/Role: The Hidden Prodigy / Unrecognized Imperial Bastard
- Google Docs
-Occupation/Social Standing: Low-born Sith Acolyte; former industrial forge-hand from the lower sectors of Dromund Kaas. Publicly stigmatized as an "unrefined commoner" by high-born academy peers.
- Google Docs
-System Alignment / Moral Framework: Neutral Evil. Internally, Tenebria possesses no inherent desire to inflict senseless cruelty, viewing it as inefficient and wasteful. However, her moral framework is completely warped by a clinical commitment to self-preservation and absolute autonomy. The massive gap between her internal reality and external behavior lies in her willingness to execute horrific acts of violence solely because the Sith environment demands them for survival; she views her own atrocities detachedly, as necessary equations to maintain her freedom.
- Google Docs
-Personality Type (MBTI): INTJ (The Architect). Her dominant Introverted Intuition (Ni) allows her to perceive underlying structural vulnerabilities in people and systems instantly, though her environment distorts this into profound paranoia. Her Extraverted Thinking (Te) demands hyper-logical execution of her goals, viewing social constructs and Sith philosophies merely as levers to manipulate.
- Google Docs
-II. Psychology & Personality
-Core Motivation (The "Why"): Absolute Autonomy. Tenebria is driven by an unyielding psychological hunger to escape subordination. Having spent her early years as an invisible cog in the toxic industrial underbelly of Dromund Kaas, her drive is rooted in the terrifying realization that without absolute power, her life, body, and destiny belong entirely to someone else.
- Google Docs+ 1
-Greatest Fear: Total Subjugation and Erasure. Her core vulnerability is the prospect of being bound, locked away, or having her mind and identity dissolved by a superior force. This fear is reinforced during active scenarios by an instinctive, violent overreaction whenever she is physically restrained or telekinetically pinned, causing her power to erupt in a blind defensive frenzy.
- Google Docs+ 1
-Key Personality Traits: Hyper-Analytical, Steely, Intrepid, Guarded, Dispassionate.
- Google Docs
-Quirks & Habits: * Under severe stress, she rhythmically rolls her left wrist, tracing a faint, subcutaneous electrical burn scar she received in the industrial forges.
- Google Docs
-During deep cognitive focus, she shifts her gaze entirely to the shadows or unlit corners of a room, subconsciously calculating escape vectors and checking for hidden observers.
- Google Docs
-She exhibits a severe behavioral aversion to high-born Sith purebloods, deliberately using overly formal, freezing politeness to mock their aristocratic assumptions.
- Google Docs
-III. Behavior & Speech
-Demeanor Under Stress: When cornered or facing high-stakes threats, Tenebria falls into a terrifying hyper-focus. Her emotional output drops to zero, her heart rate slows deliberately, and she transitions into a cold, calculation-driven engine of elimination, completely bypassing panic in favor of ruthless tactical execution.
- Google Docs
-Speech Patterns: Her voice is characterized by a quiet, clinical precision. She speaks with a low, measured cadence, avoiding emotional inflection or exclamation. Her vocabulary is highly academic and structured, utilizing technical and systemic terms rather than poetic descriptions, making her sound far older and more calculating than a standard acolyte.
- Google Docs
-Reputation: Within the Sith Academy on Korriban, she is publicly perceived as a terrifying, unnatural anomaly. The high-born purebloods view her as an insulting, low-born cockroach who somehow manipulates the dark side with impossible, god-like ease, making her universally hated, intensely feared, and deeply untrustworthy to the faculty.
- Google Docs
-IV. Backstory
-The Defining Moment: At age sixteen, inside a deep plasma-refinery conduit on Dromund Kaas, an arrogant Sith apprentice ordered Tenebria’s entire work crew into a failing, radioactive turbine chamber to retrieve a dropped data pad. When Tenebria refused, the apprentice attempted to choke her to death with the Force. In a catastrophic reflex of self-defense, Tenebria's latent power detonated. She did not just break the choke; she inadvertently siphoned the raw life energy from the apprentice and her entire work crew, reducing them to withered husks in seconds while completely repairing her own damaged lungs. The horror of her choice and her perceived failure to control her nature forced her to flee into the planet's lowest sectors, realizing she was a monster among commoners.
- Google Docs+ 1
-Relevant History: Raised in a dreary, rain-slicked state orphanage within the industrial sectors of Dromund Kaas, Tenebria grew up surrounded by shifting soot, toxic smog, and the endless, crushing weight of the Imperial military machine. She received no formal education, learning to read from discarded technical manuals. Her specialized training began entirely in secret after her manifestation, spending two years testing her limits in abandoned subterranean tunnels before an Imperial sweep team detected her massive dark side signature and dragged her to Korriban.
- Google Docs
-Secrets: Tenebria carries deep, unvoiced guilt over the fact that she absorbed her own crewmates during her awakening. Furthermore, she secretly possesses a stolen, forbidden Imperial cipher that logs the sudden, unexplained disappearances of pregnant commoners from two decades ago—a file she keeps hidden in her acolyte quarters to trace her mother's erased history.
- Google Docs
-V. Persona vs. Repressed Interior
-Social Persona: The Cold, Inconsequential Academic. To her peers and Overseers, she projects the mask of an unbothered, fiercely competent commoner who keeps her head down, focuses purely on text-based historical lore, and seeks nothing more than a mid-level bureaucratic position within the Empire. She uses this facade of low ambition to make enemies underestimate her strategic reach.
- Google Docs
-Inner Person: The Sovereign Architect. When alone, Tenebria drops her quiet deference and critically analyzes every interaction like a grandmaster reviewing a chess board. She mercilessly critiques her own facial expressions, vocal inflections, and tactical expenditures, harboring a deep-seated contempt for the Sith Lords who believe they control her destiny.
- Google Docs
-VI. Psychological Deep Dive
-Portrait Summary: Tenebria Vane is a brilliant mind drowning in profound paranoia. She is defined not by her immense potential, but by her absolute belief that her core power is an invasive, predatory parasite that will eventually draw a cosmic apex predator down upon her. Every action is filtered through a lens of defensive hyper-vigilance, leaving her a figure of immense latent capability who is terrified that her true greatness will seal her doom.
- Google Docs+ 3
-Composite Psychological Sketch:
-Dimension
-Reading / Metric
-Personal Twist / Manifestation
-Big Five Trait Profile
-O: 5, C: 4, E: 1, A: 1, N: 5
-Google Docs
-Her max Openness drives her effortless grasp of complex dark side mechanics, while her rock-bottom Agreeableness and max Neuroticism turn every alliance into a temporary, transactional armistice fueled by constant vigilance.
-Google Docs
-Dominant Defenses
-Intellectualization, Isolation of Affect
-Google Docs
-She converts overwhelming terror into clinical, mechanical assessments of raw power metrics, completely detaching her emotions from the acts of slaughter she performs to survive.
-Google Docs
-Attachment Style
-Dismissive-Avoidant
-Google Docs
-She views human connection as a structural liability; any sign of warmth from an ally is instantly interpreted as a calculated vector for future betrayal or manipulation.
-Google Docs
+
+# ⚔️ swtor - tenebria _lvl_narrative__9VSQ8Cbb
+> *A WorldArchitect.AI Chronicle*
+
+---
+
+
+## 🛡️ Part I: Campaign Background
 
 
 Social Persona vs. Repressed Interior: Mentioned above; she maintains a quiet, unassuming front while harboring a vast, calculating interior that seeks the systematic subjugation of her environment.
@@ -850,16 +758,85 @@ The Action: Valen raises his blade, charging forward to execute a vertical strik
 Word Count: 5,041 words
 Estimated Token Count: 5,930 tokens
 
-============================================================
-SCENE 1
-============================================================
-[Timestamp: Unknown
-Location: Unknown
-Status: Lvl 1 Sovereign Heir
-Resources: None]
+## 🗺️ Scene Index & Timeline
 
-Game Master:
-[CHARACTER CREATION - Review]
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| **01** | Unknown | Unknown | Roleplay |
+| **02** | Sith Academy - Korriban | Korriban, 15 ATC (Assembly Hall) | Roleplay |
+| **03** | Sith Academy | Mirtul 15, 1492 DR (14:30) | Roleplay |
+| **04** | Sith Academy | 15 ATC, Midday | Roleplay |
+| **05** | Korriban Sith Academy - Character Review | Month 5, ATC 15 (Day 10) | Roleplay |
+| **06** | Sith Academy Assembly Chamber | Month 3, 15 ATC (Day 12) | Roleplay |
+| **07** | Sith Academy Central Atrium | Mirtul 10, 1492 DR (12:00) | Roleplay |
+| **08** | Sith Academy Central Atrium | Month 5, 15 ATC (Day 10) | Roleplay |
+| **09** | Sith Academy Central Atrium | ATC 15, 12:00:30 | Roleplay |
+| **10** | Sith Academy Central Atrium | , DR (12:00) | Roleplay |
+| **11** | Sith Academy Central Atrium | Midday, 15 ATC (12:00) | Roleplay |
+| **12** | Sith Academy Central Atrium | Month 5, ATC 15 (12:01) | Roleplay |
+| **13** | Sith Academy Central Atrium | ATC 15, Midday (12:01:30) | Roleplay |
+| **14** | Sith Academy Central Atrium | ATC 1, 15 ATC (12:15) | Roleplay |
+| **15** | Lower Academy Dormitories | ATC 1, 15 ATC (12:30) | Roleplay |
+| **16** | Sector 4 Ventilation Intake | ATC 1, 15 ATC (12:45) | Roleplay |
+| **17** | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
+| **18** | Sector 4 Logistics Hub | ATC 1, 15 DR (12:57) | Roleplay |
+| **19** | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
+| **20** | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
+| **21** | Sector 4 Logistics Hub | ATC 1, 15 ATC (12:57) | Roleplay |
+| **22** | Sector 4 Logistics Hub | ATC 1, 15 ATC (13:05) | Roleplay |
+| **23** | Sector 4 Logistics Hub | ATC 1, 15 ATC (13:15) | Roleplay |
+| **24** | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
+| **25** | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
+| **26** | Lower Academy Mechanics Pool | ATC 1, 15 DR (13:45) | Roleplay |
+| **27** | Lower Academy Mechanics Pool | ATC 1, 15 ATC (13:45) | Roleplay |
+| **28** | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
+| **29** | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
+| **30** | Tomb of Tulak Hord (Perimeter) | ATC 1, 15 ATC (14:30) | Roleplay |
+| **31** | Lower Academy Cantina | ATC 1, 15 DR (15:30) | Roleplay |
+| **32** | Lower Academy Cantina | ATC 1, 15 ATC (15:45) | Roleplay |
+| **33** | Lower Academy Cantina | ATC 1, 15 DR (15:50) | Roleplay |
+| **34** | Secluded Alcove (Academy Foundations) | ATC 1, 15 ATC (16:00) | Roleplay |
+| **35** | Siphon Chasm (Tomb of Tulak Hord) | ATC 1, 15 DR (17:00) | Roleplay |
+| **36** | Siphon Chasm (Tomb of Tulak Hord) | ATC 1, 15 ATC (17:05) | Roleplay |
+| **37** | Skiff 03 Cargo Bay | ATC 1, 15 ATC (17:15) | Roleplay |
+| **38** | Skiff 03 Cargo Bay | ATC 1, 15 DR (17:20) | Roleplay |
+| **39** | Skiff 03 Cargo Bay | ATC 1, 15 ATC (17:20) | Roleplay |
+| **40** | Skiff 03 Cargo Bay | ATC 1, 15 DR (17:20) | Roleplay |
+| **41** | Skiff 03 Cargo Bay | ATC 1, 15 ATC (17:20) | Roleplay |
+| **42** | Skiff 03 Cargo Bay | ATC 1, 15 DR (17:21) | Roleplay |
+| **43** | Skiff 03 Cargo Bay | ATC 1, 15 ATC (17:21) | Roleplay |
+| **44** | Skiff 03 Cargo Bay | ATC 1, 15 DR (17:21) | Roleplay |
+| **45** | Skiff 03 Cargo Bay | ATC 1, 15 ATC (17:21) | Roleplay |
+| **46** | Skiff 03 Cargo Bay | ATC 1, 15 ATC (17:21) | Roleplay |
+| **47** | Skiff 03 Cargo Bay | ATC 1, 15 DR (17:21) | Roleplay |
+| **48** | Skiff 03 Cargo Bay | ATC 1, 15 DR (17:21) | Roleplay |
+| **49** | Skiff 03 (In Flight) | ATC 1, 15 DR (17:21) | Roleplay |
+| **50** | Lower Academy Mechanics Pool | ATC 1, 15 ATC (17:36) | Roleplay |
+| **51** | Lower Academy Foundations - Xevran's Command Hub | ATC 1, 15 ATC (18:15) | Roleplay |
+| **52** | Sector 4 Disused Ventilation Vault (Safehouse) | ATC 1, 15 ATC (19:00) | Roleplay |
+| **53** | Sector 4 Disused Ventilation Vault (Safehouse) | ATC 1, 15 ATC (19:00) | Roleplay |
+| **54** | Sector 4 Disused Ventilation Vault (Safehouse) | ATC 1, 15 ATC (19:05) | Roleplay |
+| **55** | Sector 4 Disused Ventilation Vault (Safehouse) | ATC 1, 15 ATC (19:07) | Roleplay |
+| **56** | Sector 4 Disused Ventilation Vault (Safehouse) | ATC 1, 15 ATC (19:07) | Roleplay |
+| **57** | Sector 4 Industrial Scrapyards (Secondary Fallback) | ATC 1, 15 DR (19:15) | Roleplay |
+| **58** | Sector 4 Industrial Scrapyards (The Dead-Zone) | ATC 1, 15 ATC (19:35) | Roleplay |
+| **59** | Sith Academy Central Atrium | ATC 3, 15 ATC (08:00) | Roleplay |
+| **60** | Sith Academy Central Atrium | ATC 3, 15 ATC (08:00) | Roleplay |
+| **61** | Sith Academy Central Atrium | ATC 3, 15 ATC (08:00) | Roleplay |
+| **62** | Sith Academy Central Atrium | ATC 3, 15 ATC (08:00) | Roleplay |
+| **63** | Sith Academy Central Atrium | ATC 3, 15 ATC (08:00) | Roleplay |
+| **64** | Sith Academy Central Atrium | ATC 3, 15 ATC (08:00) | Roleplay |
+| **65** | Sith Academy Central Atrium | ATC 3, 15 ATC (08:00) | Roleplay |
+| **66** | Sith Academy Central Atrium | ATC 3, 15 ATC (08:00) | Roleplay |
+
+---
+
+
+## 📖 Part IV: The Adventure Chronicle
+
+#### Scene 1
+
+> 📍 **Unknown** &nbsp;|&nbsp; ⏳ **Unknown** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sovereign Heir** &nbsp;|&nbsp; ✨ **None**
 
 Welcome to **Echoes of the Crimson Basin**. You have provided an exceptionally detailed blueprint for Tenebria Vane, the hidden scion of the Sith Emperor. Based on your prompt, I have constructed her initial mechanical profile and established the structural foundations of the Sith Academy on Korriban.
 
@@ -904,19 +881,14 @@ To maintain campaign uniqueness and adhere to naming protocols, several names fr
 
 Does this character meet your approval, or would you like to make adjustments before we begin the story at the assembly chamber?
 
-Player (freeform):
-Give me even ability scores, priortize int > dex > con and make me a bladesinger type of class except call me a sith blade and give me some special abilities something different than normal bladesinger
+> 👤 **Player:**
+> *"Give me even ability scores, priortize int > dex > con and make me a bladesinger type of class except call me a sith blade and give me some special abilities something different than normal bladesinger"*
 
-============================================================
-SCENE 2
-============================================================
-[Timestamp: 15 ATC, Korriban, Assembly Hall
-Location: Sith Academy - Korriban
-Status: Lvl 1 Sith Blade | HP: 10/10 | XP: 0/300 | Credits: 50]
-Resources: Sith Trance: 2/2, Void Siphon: 1/1, Spark: 1/1
+---
 
-Game Master:
-[CHARACTER CREATION - Review]
+#### Scene 2
+
+> 📍 **Sith Academy - Korriban** &nbsp;|&nbsp; ⏳ **Korriban, 15 ATC (Assembly Hall)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 10/10 | XP: 0/300 | Credits: 50** &nbsp;|&nbsp; ✨ **Sith Trance: 2/2, Void Siphon: 1/1, Spark: 1/1**
 
 I have recalibrated your biological and metaphysical profile to align with the **Sith Blade** archetype. Your physical and mental attributes have been harmonized into even integers, strictly prioritizing your analytical capacity and combat agility (INT > DEX > CON). Your class features now reflect a lethal fusion of high-precision vibroblade swordplay and predatory dark side siphon mechanics, distinct from the traditional academic traditions of the Jedi or standard Sith sorcerers.
 
@@ -955,19 +927,15 @@ I have recalibrated your biological and metaphysical profile to align with the *
 
 Does this configuration of the **Sith Blade** meet your approval, or shall we make further adjustments before the trials begin?
 
-Player (freeform):
-Give me even ability scores, priortize int > dex > con and make me a bladesinger type of class except call me a sith blade and give me some special abilities something different than normal bladesinger
+> 👤 **Player:**
+> *"Give me even ability scores, priortize int > dex > con and make me a bladesinger type of class except call me a sith blade and give me some special abilities something different than normal bladesinger"*
 
-============================================================
-SCENE 3
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 14:30:00
-Location: Sith Academy, Korriban
-Status: Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Gold: 50cr
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1 | Spells: L1 2/2 | Void Trance: 2/2 | Unawakened Spark: 1/1
+---
 
-Game Master:
+#### Scene 3
+
+> 📍 **Sith Academy, Korriban** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Gold: 50cr** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 [CHARACTER CREATION - review]
 
 I have recalibrated Tenebria's mechanical architecture to manifest as a **Sith Blade**—a lethal variant of the traditional bladesinging discipline, forged in the cold vacuum of the Emperor's lineage. Your attributes have been refined into a perfectly even matrix, optimized for hyper-logical combat and tactical reflexes.
@@ -994,16 +962,1264 @@ As a Sith Blade, you do not rely on brute strength or standard agility. Your **E
 
 Does this Sith Blade configuration meet your approval, or shall we refine your powers further before the assembly begins?
 
-Player (freeform):
-looks good but show my level 1-30 progression and we can make me similar to a bladesinger but give me some special abilities/bonuses as emperor daughter
+> 👤 **Player:**
+> *"looks good but show my level 1-30 progression and we can make me similar to a bladesinger but give me some special abilities/bonuses as emperor daughter"*
 
-============================================================
-SCENE 4
-============================================================
-[Timestamp: 15 ATC, Midday
-Location: Sith Academy, Korriban
-Status: Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Gold: 50cr
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1 | Spells: L1 2/2 | Void Siphon: 3/3 | Unawakened Spark: 1/1
+---
 
-Game M
+#### Scene 4
+
+> 📍 **Sith Academy, Korriban** &nbsp;|&nbsp; ⏳ **15 ATC, Midday** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Gold: 50cr** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Siphon: 3/3 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+[CHARACTER CREATION - review]
+
+I have detailed your trajectory from a low-born industrial forge-hand to the sovereign apex of the Empire. Your **Sith Blade** progression integrates the high-precision lethality of the Bladesinging tradition with the raw, reality-warping inheritance of the Emperor’s bloodline. 
+
+Below is your specialized Level 1-30 progression, reflecting both your martial discipline and your ascending divine potential:
+
+### ⚡ Sith Blade: Level 1-30 Progression
+
+| Tier | Level | Feature & Lineage Milestone |
+| :--- | :--- | :--- |
+| **Mortal** | 1 | **Essence Blade**: Use INT for weapon attacks. **Void Trance**: +INT to AC, +10ft speed. |
+| | 2 | **Acolyte's Evasion**: Unarmored AC becomes 10 + DEX + CHA. |
+| | 5 | **Void Siphon**: Regain spell slots by executing high-ranking or defeated foes. |
+| | 6 | **Sovereign Extra Attack**: Cast a cantrip in place of one weapon attack. |
+| **Divine** | 10 | **Void Shield**: Use spell slots as a reaction to reduce incoming damage. |
+| | 11 | **Dark Council’s Terror**: Necrotic/Force spells ignore common barriers; +INT to damage. |
+| | 14 | **Vortex Strike**: Teleport 15ft as a reaction after a successful melee hit. |
+| | 17 | **Apex Predator**: Avatar State (Fly 60ft, Damage Immunity, Auto-Siphon on hit). |
+| **Sovereign**| 22 | **Boon of the Dark Sovereign**: Spells ignore magic resistance; treat immunity as resistance. |
+| | 25 | **Boon of Cosmic Extraction**: Executing high-tier Sith permanently increases Max HP. |
+| | 30 | **Sovereign Singularity**: *Power Word Kill* at will against lower-ranked targets. |
+
+Your biological signature is currently compressed to avoid the Emperor's scryers, but as you rise through these tiers, your true nature will become impossible to hide. Does this roadmap for your ascension meet your approval?
+
+> 👤 **Player:**
+> *"give me something better
+
+| | 25 | **Boon of Cosmic Extraction**: Executing high-tier Sith permanently increases Max HP. |"*
+
+---
+
+#### Scene 5
+
+> 📍 **Korriban Sith Academy - Character Review** &nbsp;|&nbsp; ⏳ **Month 5, ATC 15 (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Credits: 50** &nbsp;|&nbsp; ✨ **Slots: L1 2/2 | Void Siphon: 3/3 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+[CHARACTER CREATION - review]
+
+I have authorized a significant upgrade to your Level 25 capstone. Replacing the passive health accumulation of 'Cosmic Extraction' is the **Boon of the Sovereign Nexus**—a feature that transforms you into a direct, physical extension of the Emperor's cosmic reach. 
+
+At this stage of your ascension, you no longer merely siphons vitality; you command the very architecture of the Force. This new feature allows you to channel your lineage to cast high-level manifestations without cost, reflecting your status as a biological heir to an immortal god. Your mental attributes also break past standard mortal limits, pushing your analytical and commanding presence into the realm of the divine.
+
+### ⚡ Updated Sith Blade: Level 1-30 Progression
+
+| Tier | Level | Feature & Lineage Milestone |
+| :--- | :--- | :--- |
+| **Mortal** | 1 | **Essence Blade**: Use INT for weapon attacks. **Void Trance**: +INT to AC, +10ft speed. |
+| | 2 | **Acolyte's Evasion**: Unarmored AC becomes 10 + DEX + CHA. |
+| | 5 | **Void Siphon**: Regain spell slots by executing high-ranking or defeated foes. |
+| | 6 | **Sovereign Extra Attack**: Cast a cantrip in place of one weapon attack. |
+| **Divine** | 10 | **Void Shield**: Use spell slots as a reaction to reduce incoming damage. |
+| | 11 | **Dark Council’s Terror**: Necrotic/Force spells ignore common barriers; +INT to damage. |
+| | 14 | **Vortex Strike**: Teleport 15ft as a reaction after a successful melee hit. |
+| | 17 | **Apex Predator**: Avatar State (Fly 60ft, Damage Immunity, Auto-Siphon on hit). |
+| **Sovereign**| 22 | **Boon of the Dark Sovereign**: Spells ignore magic resistance; treat immunity as resistance. |
+| | 25 | **Boon of the Sovereign Nexus**: INT/CHA caps increase to 32. Using Void Siphon allows you to cast a spell of 5th level or lower for free. |
+| | 30 | **Sovereign Singularity**: *Power Word Kill* at will against lower-ranked targets. |
+
+This trajectory ensures that by the time you reach the Sovereign tier, you are not merely a Sith, but a fundamental force of nature. Is this revised progression sufficient to begin your journey, or shall we refine the Mortal tier further?
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Finish Character Creation and Start Game - Confirm your Sith Blade progression and begin the story at the Korriban Academy assembly chamber.*
+
+---
+
+#### Scene 6
+
+> 📍 **Sith Academy Assembly Chamber** &nbsp;|&nbsp; ⏳ **Month 3, 15 ATC (Day 12)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Credits: 50** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Trance: 2/2 | Void Siphon: 3/3 | Exhaustion: 0**
+
+The opening scene unfolds deep within the obsidian foundations of the Sith Academy on Korriban, inside a damp, echo-filled assembly chamber lit only by the flickering crimson glow of an industrial plasma furnace. The air is thick and suffocating, smelling heavily of ancient dust, wet stone, and the sharp sting of burning ozone. Outside, the howling red desert sands of Korriban beat rhythmically against the reinforced transparisteel slits high above, creating a persistent, low-frequency roar that reverberates through the floorboards. Tenebria stands at absolute attention in the lowest row of a stone amphitheater, dressed in nothing but coarse, grey acolyte rags that scratch against her skin. Her hands are bare, her knuckles stained with the black grease of the Dromund Kaas foundries.
+
+Overseer Harkun paces along the raised obsidian dais before her class, his heavy dark armor clicking sharply against the stone. At his left hand stands a tall, arrogant Sith pureblood student named Valen Horuset, who wears pristine silk robes and clutches a polished training blade. Harkun stops, his yellow eyes locking directly onto Tenebria with deep, visceral contempt. "An industrial rat," he sneers, his voice echoing through the silent hall. "A common factory reject dragged from the gutters of Kaas, standing in the sacred halls of the Dark Lords. Valen believes your very presence is an insult to his bloodline. He has requested permission to scrub this chamber clean of your filth. The laws of Korriban are absolute: the weak die to feed the strong."
+
+Harkun steps back, gesturing for Valen to descend into the amphitheater ring. Valen draws his weapon, its ultrasonic generator screaming to life with a high-pitched hum as he steps within ten feet of Tenebria, his face twisted in aristocratic amusement. Valen raises his blade, charging forward to execute a vertical strike meant to cleave your shoulder. You have no weapon drawn, but your innate prodigal connection to the dark side hums violently in your blood, demanding release.
+
+> 👤 **Player:**
+> *"THINK:The Surgical Counter - Execute a flawless micro-dodge, grab Valen's wrist, and instinctively activate your Void Siphon to leave him collapsed."*
+
+---
+
+#### Scene 7
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **Mirtul 10, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 0/300 | Gold: 50 | Notoriety: 10** &nbsp;|&nbsp; ✨ **Void Siphon: 3/3, Void Trance: 2/2, Unawakened Spark: 1/1, Spell Slots: L1 2/2**
+
+Intelligence Check (Planning): 19 vs DC 8 — Masterful success. Your high Intelligence (16) allows you to process the tactical geometry of Valen's strike with perfect clarity, identifying the exact microsecond of vulnerability in his form.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Surgical Stagger (Recommended) - Drain exactly enough stamina to cause Valen to collapse, ensuring a clean victory with minimal Notoriety spike.*
+
+---
+
+#### Scene 8
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **Month 5, 15 ATC (Day 10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Credits: 50 | XP: 50/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Midday (12:00:30) in the Sith Academy Central Atrium—the hum of Valen Horuset's (Lvl 1) vibroblade becomes a physical weight against your eardrums as he lunges. To the other acolytes, you appear frozen, a common rat cornered by a high-born predator. But within your blood, the Emperor's lineage recognizes the kinetic geometry of the strike long before it arrives. 
+
+As the blade clears the last few centimeters, you shift—a movement so subtle and efficient it looks like a glitch in reality. The humming edge whistles through the space where your shoulder was a microsecond before. Valen’s (Lvl 1) momentum carries him forward, his face twisting from triumph to confusion. Before he can recover, your hand snaps out, fingers locking around his silk-clad wrist like a durasteel clamp. 
+
+You don't strike him. You don't need to. You simply open the biological conduit in your marrow. 
+
+A cold, hollow sensation ripples through your arm as the Void Siphon takes hold. Valen (Lvl 1) let out a choked, strangled gasp, his eyes bulging as the very stamina in his muscles is violently uprooted and pulled into your own frame. The crimson furnace light seems to dim as his physical essence is momentarily eclipsed by your hunger. Valen (Lvl 1) collapses instantly, his weapon clattering across the obsidian floor as he hits the stone with a dull thud, gasping for air that his lungs no longer have the strength to pull. 
+
+Overseer Harkun (Lvl 12) freezes on the dais, his yellow eyes narrowing into razor-thin slits. A heavy, suffocating silence descends upon the amphitheater. You have not spilled a drop of blood, yet you have demonstrated a mastery of the dark side that defies academic logic. You feel a surge of vitality as his stolen strength knits into your own, leaving you perfectly composed while the pureblood champion trembles at your feet. You gain **50 XP** for this tactical victory.
+
+God Mode:
+rememebr i dont know i am that powerful or daughter of the emperor i. just know i am s trongr than you'd expect
+
+---
+
+#### Scene 9
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 15, 12:00:30** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 50/300** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Directive acknowledged. I have updated the campaign directives to strictly enforce Tenebria's ignorance of her true lineage. Her internal monologue and narrative perspective will treat her dark side talents as a volatile and unprecedented mutation rather than a sovereign right. Her connection to the Emperor remains a hidden mechanical truth that she has yet to discover. Done.
+
+God Mode:
+also notoriety isnt necessarily bad, itll be polarizing. some may admire and some may hate and try to defeat me. instructors probably will favor me
+
+---
+
+#### Scene 10
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **, DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 50/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2**
+
+Directive updated: Notoriety will now be treated as a polarizing metric rather than a purely negative one. 
+
+**Systemic Adjustments:**
+- **Polarization Logic:** High Notoriety will now trigger 'Institutional Favor' from certain instructors who value raw potential, potentially unlocking restricted archival data or advanced training.
+- **Social Dynamics:** NPCs with low-born backgrounds or Pragmatic dispositions may now express 'Fearful Admiration,' while Pureblood Traditionalists will escalate their hostility.
+- **Notoriety Tracker:** I have noted that while the tracker flags you to the Emperor's scryers at high levels, the mid-tier effects (31-70) will now reflect a mix of increased danger from rivals and increased opportunities from opportunistic Academy faculty. 
+
+State and directives updated. Done.
+
+God Mode:
+also make me extremely good looking, but people dont notice for now since I'm dressed like a commoner, only observant ones notice
+
+---
+
+#### Scene 11
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **Midday, 15 ATC (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 Credits | XP: 50/300** &nbsp;|&nbsp; ⚠️ **Normal | Notoriety: 25**
+
+Appearance updated. Tenebria is now characterized as being extremely good looking, possessing striking features that are currently obscured by the grime and coarse grey rags of her station. As requested, I have implemented the narrative constraint that general observers will overlook her beauty due to her 'industrial rat' persona, while NPCs with high Insight, Perception, or those who take the time to look past her commoner facade will notice the anomaly. I have also added a persistent directive to ensure this logic remains consistent in future narrative generation.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Humble Deference - Bow deeply to Overseer Harkun and return to your place in line without a word.*
+
+---
+
+#### Scene 12
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **Month 5, ATC 15 (12:01)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 50/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Siphon: 2/3 | Void Trance: 2/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Normal | Notoriety: 45 (The Anomaly)**
+
+Midday (12:01:30) in the Sith Academy Central Atrium—the air remains ionized and heavy with the scent of Valen Horuset's (Lvl 1) scorched pride. You do not look at the gasping pureblood as you release his wrist. Instead, you drop into a deep, subservient bow before Overseer Harkun (Lvl 12), your head low, shoulders slightly trembling in a practiced display of industrial-born terror. You are the perfect picture of an 'industrial rat' who has just realized she has accidentally bitten a tiger.
+
+Harkun (Lvl 12) remains motionless on the dais, the only movement the slow, rhythmic grinding of his teeth. The natural 20 on your somatic performance is undeniable; the way you clutch your grease-stained rags and retreat to the lowest row of the amphitheater suggests a girl who is terrified of her own hands, not a predator in wait. The other acolytes, high-born and common alike, part like a red sea as you pass, their whispers a frantic hiss behind you. Some eyes burn with new, violent envy; others, mostly the low-born 'factory rejects,' track you with a sudden, desperate hope.
+
+"Enough!" Harkun’s (Lvl 12) voice cracks across the chamber like a whip. He gestures dismissively to a pair of medical droids to drag the shivering Valen (Lvl 1) from the floor. His yellow gaze never leaves you as you find your place in the shadows. "A fluke. A surge of raw, undisciplined filth. Do not think a single moment of luck makes you Sith, Vane (Lvl 1). It only makes you a more interesting target."
+
+Despite his dismissal, the Notoriety Tracker in your mind spikes. You have transitioned from a 'Ghost' to an 'Anomaly' (45). The high houses will not forget this insult, but for now, you have bought yourself a moment of silence to decompress the ocean of power humming in your marrow.
+
+God Mode:
+did you forget my skills? give me some appropriate skills
+
+---
+
+#### Scene 13
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 15, Midday (12:01:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 Credits | XP: 50/300** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Corrected the character state to include skills appropriate for your Sith Blade class and Industrial Forge-Hand background. 
+
+**Skills Added:**
+- **Acrobatics (DEX):** For your Sith Blade combat forms.
+- **Arcana (INT):** For your innate understanding of dark side manifestations.
+- **Athletics (STR):** From your years in the Dromund Kaas foundries.
+- **Insight (WIS):** Necessary for surviving overseers and pureblood schemes.
+- **Stealth (DEX):** For navigating the Academy's foundations undetected.
+- **Tool Proficiency (Smith's Tools):** Your industrial background allows you to repair and modify your own equipment.
+
+State updated. Character record is now complete for Level 1.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Leverage Fearful Admiration - Quietly signal the other low-born acolytes while returning to line, establishing the first link of the Ashen Acolyte network while the purebloods are in shock.*
+
+---
+
+#### Scene 14
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 credits | XP: 75/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Notoriety: 45 (The Anomaly) | Inspiration: No**
+
+Midday (12:15:00) in the Sith Academy Central Atrium—the heavy basalt doors grind shut as Overseer Harkun (Lvl 12) dismisses the assembly with a sharp, final gesture. As you retreat into the shadows of the lowest amphitheater row, your hand twitches rhythmically against your grease-stained rags, a practiced tic of industrial anxiety. Beneath the facade of a terrified forge-hand, you catch the eyes of three other acolytes—men and women with the same hollow cheeks and soot-stained knuckles as yourself. You offer a sharp, nearly imperceptible tap of two fingers against your forearm—the Dromund Kaas foundry code for 'wait and listen.'
+
+Overseer Harkun (Lvl 12) pauses on the dais, his gaze snagging on the movement. He doesn't speak, but his yellow eyes linger on you with a predatory curiosity that suggests your 'Humble Deference' hasn't entirely blinded him to your utility. The purebloods sweep past you in a flurry of silk and arrogance, whispering about 'the fluke' and Valen's (Lvl 1) public humiliation. 
+
+As you reach the hall leading toward the lower dormitories, a scrawny acolyte named Kels (Lvl 1) stumbles into your path, pretending to trip. His hands are shaking, and he smells of fear, but his eyes burn with a desperate, fearful admiration. "The rat who bit the tiger," he hisses under his breath, his voice barely audible over the marching of boots. "They're already planning to bury you in the lower tombs during the next trial. But... some of us remember the foundries. There's a hidden logistics terminal in Sector 4. If you can slice it, we can feed you their movement patterns. We need a leader who doesn't look down at us from a throne."
+
+You gain **25 XP** for initiating the Ashen Acolyte network.
+
+> 👤 **Player:**
+> *"accept the quest, and lets assume we get provided clothes if we are commoners so we arent wearing rags, and overseer harkun shouldnt necessarily be against commoners he jsut looks down on us. he woudlnt bother to use spies on us"*
+
+---
+
+#### Scene 15
+
+> 📍 **Lower Academy Dormitories** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 75/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 | Void Trance: 2/2 | Void Siphon: 2/3 | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Midday (12:30:00) in the Lower Academy Dormitories—the oppressive heat of the furnace room is replaced by the hum of industrial air scrubbers as you exchange your grease-stained rags for standard-issue acolyte robes. The fabric is coarse charcoal-weave, devoid of the intricate embroidery found in the upper tiers, but it is clean. It fits your frame with a clinical precision that finally allows your high-born physical symmetry to manifest, though you keep your hood drawn low to maintain the shadow of the 'industrial rat.'
+
+Kels (Lvl 1) waits for you in the alcove of a flickering light fixture, his eyes darting toward the corridor where the Pureblood scions have retreated. He nods as you approach, his posture easing slightly. "The robes look better on you than the soot, Vane (Lvl 1). Harkun (Lvl 12) gave the order to outfit the 'survivors'—he likely views it as a basic maintenance requirement for his tools, nothing more. He won't waste resources spying on us; in his eyes, we're barely worth the oxygen we consume."
+
+He leans closer, his voice dropping to a rasp. "The terminal in Sector 4 is located behind the primary ventilation intake. It’s an old Imperial logistics node, bypassed years ago but still drawing power from the main grid. If you can get inside and input the foundry bypass codes, we can see every training schedule, every supply requisition, and every 'accidental' death order before it’s executed. It's the only way we stay ahead of the blades in the dark."
+
+You feel the familiar, cold hum in your marrow—the predatory logic that has kept you alive since the foundries. You've accepted the task. To the Academy, you are just another commoner in a grey robe. To the Ashen Acolytes, you are a ghost in the machine.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Scout Security Tiers - Observe the guard rotations and droid patterns near the ventilation intake first.*
+
+---
+
+#### Scene 16
+
+> 📍 **Sector 4 Ventilation Intake** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 Credits | XP: 85/300** &nbsp;|&nbsp; ✨ **Void Trance: 2/2, Void Siphon: 2/3, HD: 1/1, Spells: L1 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Midday (12:45:00) at the Sector 4 Ventilation Intake—the air here is thick with the metallic tang of industrial grease and the rhythmic, heavy thrum of the primary atmospheric scrubbers. You ghost through the shadows of the maintenance catwalks, the cortosis weave of your greaves deadening every footfall against the cold basalt. From your vantage point behind a cluster of coolant pipes, you watch the security tier manifest in real-time.
+
+Two Mark IV Sentry Droids (Lvl 2) patrol the intake perimeter, their optical sensors casting oscillating red cones across the floor. They move with the rigid, predictable efficiency of Imperial programming. The organic guards—three human acolytes assigned to 'bore detail'—are far less disciplined, leaning against the far bulkhead and exchanging hushed gripes about their placement. They haven't looked toward the shadows once.
+
+Your analytical mind breaks down the loop. Every twelve minutes, the ventilation intake executes a high-pressure purge to clear particulate matter. For exactly thirty seconds during this cycle, the automated sensor arrays recalibrate to account for the vibration, creating a blind spot large enough for a single person to slip through. You've found the equation's solution; now you only need to decide how to execute it. You gain 10 XP for your successful tactical assessment.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Timed Purge Infiltration - Wait for the ventilation purge and dash through the blind spot.*
+
+---
+
+#### Scene 17
+
+> 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 185/300** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Midday (12:57:00) at the Sector 4 Ventilation Intake—the heavy, rhythmic thrum of the atmospheric scrubbers reaches a screaming crescendo as the purge cycle initiates. A massive wall of pressurized air and ozone-scented dust erupts from the vents, creating a violent, artificial storm that masks the steady click of the Mark IV Sentry Droids' (Lvl 2) patrol. You don't hesitate. 
+
+Counting the micro-seconds in your blood, you wait for the exact moment the automated sensors recalibrate against the vibration. You dash from the shadows, a charcoal-grey blur against the red-tinted obsidian walls. The cortosis weave in your greaves swallows the sound of your movement, leaving you a silent phantom in the chaos. You clear the open floor in less than four seconds, sliding through the intake's recessed maintenance hatch just as the sensors cycle back to active status. 
+
+Behind you, the purge subsides, and the droids resume their rigid patterns, completely oblivious to your intrusion. You find yourself in a cramped, dimly lit service conduit filled with the hum of unmonitored power lines. At the end of the crawlspace stands the logistics terminal—a relic of the early occupation, its console flickering with a pale blue light. This is the heart of the sector's information network. If Kels (Lvl 1) is correct, the foundry bypass codes you memorized years ago will grant you total visibility over Harkun's (Lvl 12) operations.
+
+You gain **100 XP** for your flawless infiltration.
+
+God Mode:
+similar to how there's swtor lets have a dark council and everyone has the title "darth" aka dark lord of the sith. They're the strongest ones except the emperor. Then using swtor or star wars lore give me all the ranks between the darths and me a lowly acolyte
+
+---
+
+#### Scene 18
+
+> 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 185/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2**
+
+Hierarchy established. Following the structural model of the Old Republic, I have formalized the Sith hierarchy and the Dark Council's role as the supreme governing body beneath the Emperor. The title 'Darth' is now strictly reserved for the most powerful members of the Order who have ascended beyond the rank of Lord.
+
+**The Sith Hierarchy (Apex to Base):**
+
+1. **The Sith Emperor (The Eternal Throne):** Absolute ruler and god-emperor.
+2. **Dark Council Members (Darths):** The Twelve Crowns who govern the Spheres of Influence. All hold the title of Darth.
+3. **Darth (Dark Lord of the Sith):** A title bestowed upon high-ranking Sith Lords who have demonstrated exceptional power and influence, often commanding entire sectors or fleets.
+4. **Sith Lord:** The standard tier for established Sith who have completed their apprenticeship and claimed a seat of power within the hierarchy.
+5. **Overseer:** A specialized rank (usually held by Lords) responsible for training and weeding out acolytes within the Academy. They hold the power of life and death over their students.
+6. **Apprentice:** A Sith who has been formally chosen by a Master or Lord for one-on-one tutelage. They are no longer part of the general acolyte pool.
+7. **Acolyte (Your Current Rank):** Candidates for the Sith Order. Acolytes are considered expendable and must survive lethal trials to prove their worthiness for apprenticeship.
+
+God Mode:
+remember to ignore all the lore from zakuul, knights eternal throne etc. The emperor can have a wife and children and bastard children but no zakuul
+
+4) just call them lord and lets assume all lords have troops, holdings, land, income
+
+5-7 is too few ranks i think we need more ranks. look through all the star wars lore
+
+---
+
+#### Scene 19
+
+> 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 185/300**
+
+Hierarchy and lore constraints updated. I have purged all references to Zakuul, the Eternal Empire, and related expansion lore from the campaign matrix. The Sith Emperor is now strictly Vitiate, the Sovereign of the Sith Empire. 
+
+I have also expanded the Sith Hierarchy to include 10 distinct tiers, providing a more granular progression and establishing the 'Lord' rank as a landed martial aristocracy. 
+
+**Expanded Sith Hierarchy (Apex to Base):**
+1. **The Sith Emperor:** God-Emperor and source of the Dark Side.
+2. **The Dark Council (Darths):** The Twelve Crowns governing the Spheres of Influence.
+3. **Darth:** Master-tier lords of exceptional power, commanding fleets and sectors.
+4. **Lord:** Landed nobility. Every Lord possesses private troops, territorial holdings, and independent income streams.
+5. **Sith (Warrior/Inquisitor):** Full members of the Order who have passed their trials but have not yet achieved the station of Lord.
+6. **Overseer:** Specialized authority rank within the Academies; they hold the power of life and death over the lower tiers.
+7. **Apprentice:** A Sith formally bound to a specific Master or Lord for one-on-one tutelage.
+8. **Neophyte:** Senior candidates who have survived initial trials and are being vetted for apprenticeship.
+9. **Acolyte (Your Current Rank):** Expendable candidates competing for the notice of the Sith Lords.
+10. **Aspirant:** Untested hopefuls and slaves seeking the right to even begin the Acolyte trials.
+
+State and directives updated. Done.
+
+God Mode:
+lets make it like
+dark council - kings
+darth - dukes
+lord - count
+make up someting - baron
+sith - knight
+--- then keep going
+
+So we need one more rank
+
+---
+
+#### Scene 20
+
+> 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 185/300**
+
+Hierarchy recalibrated. I have mapped the Sith Order to a traditional feudal structure to reflect the landed nobility status of the upper tiers. The new rank of **Sith Master** has been inserted as the 'Baron' equivalent, representing minor landed lords who oversee specific strongholds, moon-bases, or industrial complexes.
+
+**Feudal Sith Hierarchy (12 Tiers):**
+
+1. **The Sith Emperor:** God-Emperor and Source of the Dark Side.
+2. **Dark Council (Darths):** [Kings] Sovereigns of the Spheres of Influence.
+3. **Darth:** [Dukes] High-tier Masters commanding entire sectors, fleets, or planetary systems.
+4. **Lord:** [Counts] Landed nobility with private armies, territorial holdings, and independent revenue.
+5. **Sith Master:** [Barons] Minor nobility; lords of specific fortresses, industrial hubs, or military outposts.
+6. **Sith (Warrior/Inquisitor):** [Knights] The elite martial arm; full members of the Order who serve as field officers.
+7. **Overseer:** Specialized authority rank within the Academies; they hold the power of life and death over candidates.
+8. **Apprentice:** A Sith formally bound to a specific Lord or Master for one-on-one tutelage.
+9. **Neophyte:** Senior candidates who have survived initial trials and are being vetted for apprenticeship.
+10. **Acolyte (Your Current Rank):** Candidates competing in the Academy trials; considered expendable assets.
+11. **Aspirant:** Untested hopefuls seeking the right to enter the formal Academy trials.
+12. **Initiate:** Force-sensitive slaves or commoners undergoing initial sensitivity screening and basic indoctrination.
+
+I have updated the campaign state and added a persistent directive to ensure all NPCs are referenced using this expanded social and military framework.
+
+God Mode:
+lets say an apprentice can be serving a sith or higher, doesnt have to be a master
+
+and make 12 ranks for the jedi too
+
+---
+
+#### Scene 21
+
+> 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (12:57)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 185/300**
+
+Hierarchies updated and expanded. I have adjusted the Sith Apprentice protocols and established a 12-tier mirror for the Jedi Order.
+
+**Sith Hierarchy Adjustment:**
+- **Rank 8 (Apprentice):** Now redefined as a Sith formally bound to a Sith (Knight) [Rank 6] or any rank higher for one-on-one tutelage. Power is no longer gated strictly behind 'Masters' or 'Lords'; any full member of the Order may now claim an Apprentice.
+
+**Expanded Jedi Hierarchy (12 Tiers):**
+1. **Grand Master:** The spiritual and administrative head of the Order.
+2. **Jedi High Council Members:** [Kings] The twelve masters governing the Order's direction.
+3. **Master of the Order:** [Dukes] High-tier Councilors and celebrated heroes of the Republic.
+4. **Jedi Master:** [Counts] Established Masters who oversee Temples, sectors, or major diplomatic efforts.
+5. **Jedi Warden / Consular:** [Barons] Experienced Knights who maintain specific outposts or archival sanctums.
+6. **Jedi Knight:** [Knights] Full members of the Order who serve as the primary peacekeepers of the galaxy.
+7. **Temple Instructor:** Specialized rank responsible for the training and safety of the lower tiers.
+8. **Padawan:** A learner formally bound to a Jedi Knight or higher for field training.
+9. **Senior Initiate:** Advanced students nearing the completion of their Temple-based education.
+10. **Junior Initiate / Apprentice:** Early-stage students practicing basic Force application.
+11. **Hopeful:** Potential candidates undergoing sensitivity screening and trials of worthiness.
+12. **Youngling:** Children and newly discovered sensitives beginning their indoctrination.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Story - Resume the infiltration of the Sector 4 Logistics Hub with the new hierarchies in place.*
+
+---
+
+#### Scene 22
+
+> 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50 Credits | XP: 235/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Void Siphon: 2/3, Void Trance: 2/2, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Midday (13:05:00) in the Sector 4 Logistics Hub—the cramped service conduit is a graveyard of dust and forgotten maintenance tools, illuminated only by the rhythmic, sickly blue flicker of the terminal's ancient CRT display. You crouch before the console, the hood of your grey acolyte robes pulled low. Despite the grime and black grease from the Dromund Kaas foundries still clinging to your skin, the harsh blue light catches the stark, high-born symmetry of your features—an anomaly that even you have yet to fully question.
+
+Your fingers, calloused from years of heavy labor, dance across the input keys with an elegance that feels like a biological instinct. You don't just input the foundry bypass codes; you feel the flow of the Imperial data-streams as if they were a living circuit. The Sith hierarchy begins to reveal itself in the scrolling lines of green text: movement logs for the Sith (Knights) [Rank 6] patrolling the upper tiers, supply requisitions for the Sith Masters (Barons) [Rank 5] overseeing the excavation sites, and encrypted travel manifests for the landed Lords (Counts) [Rank 4] who hold the keys to this planet's wealth.
+
+A specific file catches your eye: a priority escort request from Darth (Duke) [Rank 3] Regulus Horuset, patriarch of Valen's (Lvl 1) house, detailing a shipment of 'ancestral stabilizers' headed for the lower tombs. The predatory logic in your marrow hums with satisfaction. You have successfully bypassed the terminal's security, gaining total visibility over the movements of your high-born rivals and their masters.
+
+You have completed the mission for the Ashen Acolytes. You gain **50 XP** for this tactical victory.
+
+> 👤 **Player:**
+> *"lets assume knights are landed too just like medieval times for sith, for jedi they dont necesarrily own land since they arent materialistic but they have responsibilites or areas
+
+search restricted archives"*
+
+---
+
+#### Scene 23
+
+> 📍 **Sector 4 Logistics Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Gold: 50cr | XP: 260/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Void Siphon: 2/3, Void Trance: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Afternoon (13:15:00) in the Sector 4 Logistics Hub—the air is stale and heavy with the scent of ozone as you lean closer to the terminal, your eyes scanning the rapid scroll of Imperial Aurebesh. You have already breached the surface layer, but the restricted archives—the vaults containing the Emperor's secret registries and your mother's erased history—remain a frustrating shadow behind high-level encryption walls.
+
+You attempt to pivot your slicing routine, trying to exploit the same foundry backdoors you used to gain entry, but the system resists with a cold, mechanical stubbornness. Each time you reach for a deeper data-packet, a security flag triggers, requiring a physical 'Command Key' or a biometric signature from an Overseer (Lvl 12) or higher. The logic you honed in the forges tells you that no amount of code-work will bypass this barrier from this specific terminal.
+
+However, your effort is not entirely wasted. While the restricted personnel files remain locked, you manage to snag a fragmented logistics manifest related to Count Regulus Horuset’s (Lvl 15) 'ancestral stabilizers.' The shipment isn't merely equipment; it’s a cryogenic medical crate destined for the lower tombs of Tulak Hord. The manifest lists a specific delivery coordinate: the Siphon Chasm. If the high-born Purebloods are smuggling medical supplies into ancient tombs, they are hiding a vulnerability—or a ritual—that Overseer Harkun (Lvl 12) hasn't publicized. You gain **25 XP** for the partial intel retrieval.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Consult Liora Talen - Seek out the cast-off cyberneticist (Lvl 1) to see if she can synthesize a hardware bypass key for the restricted sector.*
+
+---
+
+#### Scene 24
+
+> 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 285/300** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: L1 2/2, Void Trance: 2/2, Void Siphon: 2/3, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Afternoon (13:45:00) in the Lower Academy Mechanics Pool—the air is a choking fog of vaporized coolant and the screech of grinding durasteel. You navigate the labyrinth of discarded droid chassis and sparking power conduits, your charcoal robes blending into the industrial grime. You find Liora Talen (Lvl 1) hunched over a work-bench, her fingers tapping a frantic, rhythmic sequence against a disassembled protocol droid’s head. 
+
+"The rat returns," Liora (Lvl 1) chirps without looking up, her voice a sharp, rapid-fire staccato. "I saw the Horuset ping. Cryo-crates for the Siphon Chasm? Bold. Or desperate. Or both." You present the encrypted requirement for the hardware bypass key you encountered in Sector 4. She stops tapping, her eccentric focus suddenly sharpening into cold, analytical genius as she takes the Obsidian Lens from your hand to examine the data. 
+
+"Oh, this isn't just a lock, Tenebria (Lvl 1)," she murmurs, a predatory grin tugging at the corner of her mouth. "It’s a biometric gate tied to a Lord's (Count) [Rank 4] signature. But Harkun (Lvl 12) is sloppy. He used a legacy Imperial logic-loop that thinks it's still on Dromund Kaas." Her fingers fly across her terminal, synthesizing the technical geometry of the bypass. "I can build you a 'Ghost Key.' It’ll mimic a high-born resonance long enough to get you into the restricted registries—but I need a stable power cell from one of those 'ancestral stabilizers' the Horusets are moving. They’re high-grade military tech, much better than the scrap I have here."
+
+As you speak, a heavy tremor ripples through the floor—the distant, low-frequency roar of a shuttle landing in the upper docks. The air in the mechanics pool grows colder, as if a shadow has just stretched across the planet. You gain **25 XP** for securing a viable project lead with your cyberneticist.
+
+> 👤 **Player:**
+> *"THINK:how safely get power cell"*
+
+---
+
+#### Scene 25
+
+> 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 285/300**
+
+Intelligence Check: 14 vs DC 11 — Success. Your methodical mind, sharpened by years of industrial calculation, breaks down the Horuset logistics chain with clinical efficiency. (INT 16): You see the shipment not as a moving target, but as a mechanical sequence waiting for a manual override.
+
+> 👤 **Player:**
+> *"THINK:when will it come? i wanna gain exp and level up first"*
+
+---
+
+#### Scene 26
+
+> 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | XP: 285/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2**
+
+The story continues...
+
+> 👤 **Player:**
+> *"THINK:You :THINK:: when will it come? i wanna gain exp and level up first"*
+
+---
+
+#### Scene 27
+
+> 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 285/300**
+
+Intelligence Check: 18 vs DC 14 — Success. Your methodical mind synthesizes the fragmented logistics data with the Academy's rigid orbital protocols. You can see the pattern of the Horusets' arrogance etched into the shipping lanes.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *The Ancient Crucible - Head to the perimeter of the Tomb of Tulak Hord. Eliminate rogue tomb insects or scavenge minor shards. Use the 'Shorings of the Broken Lord' to deaden your footsteps.*
+
+---
+
+#### Scene 28
+
+> 📍 **Tomb of Tulak Hord (Perimeter)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade (Lvl 2 available) | HP: 11/11 | Notoriety: 45 (Anomaly) | XP: 310/300** &nbsp;|&nbsp; ✨ **Void Trance: 2/2, Spell Slots: L1 2/2, Void Siphon: 2/3, HD: 1/1**
+
+Afternoon (14:30:00) at the perimeter of the Tomb of Tulak Hord—the howling winds of Korriban's red wastes whip across the ancient basalt structures, carrying the scent of dry heat and ozone. You stand at the edge of the excavation zone, the 'Shorings of the Broken Lord' anchoring your presence into the very stone. As you move, the cortosis-weave plates deaden your footsteps entirely, leaving you a silent phantom among the shifting sands.
+
+Your analytical gaze tracks a movement near a cluster of jagged obsidian shards. A K'lor'slug (Lvl 1), its chitinous shell glistening with a sickly iridescent sheen, picks through the ruins. To any other acolyte, the creature would be a dangerous pest; to you, it is a variable to be removed from the equation. You draw 'The Iron Scalpel,' the vibroblade's near-silent hum vibrating against your palm with clinical readiness.
+
+You ghost forward, closing the distance while the creature remains fixated on the debris. With a single, surgical strike guided by Intelligence rather than rage, you drive the blade through a soft joint in its neck-plating. The K'lor'slug (Lvl 1) collapses with a wet hiss, its life-force flickering out before it can even register your presence. You quickly scavenge the area, retrieving three minor dark side shards from the carcass's nest—crude but valuable focal components. The cold hum in your marrow settles into a state of heightened clarity; the trials are accelerating, and your body is finally beginning to adapt to the pressure.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Embrace the Surge (Level Up) - Retreat to a secure alcove to meditate and refine your Sith Blade techniques, unlocking new capabilities.*
+
+---
+
+#### Scene 29
+
+> 📍 **Tomb of Tulak Hord (Perimeter)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sith Blade (Lvl 2 available) | HP: 11/11 | Gold: 50 | XP: 310/300** &nbsp;|&nbsp; ✨ **HD: 1/1 | Spells: L1 2/2 (Level 2 pending) | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1 | Exhaustion: 0**
+
+Recommended package: Fixed HP (+7), learn Magic Missile and Thunderwave, and prepare Shield, Absorb Elements, Magic Missile, and Thunderwave. Automatic gains: Hit Die total 2d10, +1 1st-level spell slot (3 total), Acolyte's Evasion (Unarmored AC becomes 10 + DEX + CHA), Spellcasting (Intelligence ability, spell save DC 13, spell attack bonus +5).
+
+You find a narrow crevice between the basalt pillars, away from the biting wind and the smell of the K'lor'slug's ichor. Here, in the oppressive silence of the ancient dead, you sit cross-legged and close your eyes. The dark side here isn't a scream; it's a cold, patient pressure. You breathe it in, letting the soot-stained air fill your lungs. In your mind's eye, you map the vibrations of 'The Iron Scalpel' and the resonance of the Emperor's blood in your marrow. The equation of your survival is growing more complex, requiring more power, more precision. You feel the boundaries of your physical form thinning as the void begins to sculpt you into a more efficient engine of destruction.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Recommended Options and Return to Game - Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
+
+[SELECTED_CHOICE_CONTEXT]
+selected_choice_id: finish_level_up_return_to_game
+This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target level into `player_character_data.level`, cascade-recompute proficiency bonus, max HP, and spell slots from that committed level, and clear the level-up modal flags.
+XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
+[/SELECTED_CHOICE_CONTEXT]*
+
+---
+
+#### Scene 30
+
+> 📍 **Tomb of Tulak Hord (Perimeter)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (14:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50gp | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Siphon: 2/3 | Unawakened Spark: 1/1 | Void Trance: 2/2 | Exhaustion: 0**
+
+The oppressive silence of the ancient tomb perimeter is broken only by the rhythmic rise and fall of your breath. As your meditation concludes, you feel the cold, predatory resonance of the Emperor's blood in your marrow surge, no longer a chaotic vibration but a sharpened edge of intent. The dark side has woven itself into your reflexes; your skin prickles with a new awareness of the kinetic world around you, a biological shield you've learned to call 'Acolyte's Evasion.'
+
+You stand, your charcoal-grey robes snapping in the dry desert wind. The 'Iron Scalpel' feels like a natural extension of your arm, its silent hum perfectly synchronized with the heightened clarity of your mind. The equations of your survival have expanded—you can now manifest the violent geometry of 'Magic Missile' and the concussive 'Thunderwave' through the void. 
+
+Looking out toward the Siphon Chasm, you recall Liora's requirement. The Horusets' shipment of 'ancestral stabilizers' is the only variable missing for your hardware bypass key. Lord Varick's arrival at the upper docks has surely tightened security, but you are no longer the same 'industrial rat' that stepped into the assembly hall an hour ago. You are becoming something more efficient.
+
+> 👤 **Player:**
+> *"ask around and see if i can make a pureblood or noble ally, someone firendly to commers who wants to power up. i can let the mbe the stronger/senior ally for now"*
+
+---
+
+#### Scene 31
+
+> 📍 **Lower Academy Cantina** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (15:30)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50cr | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Trance: 2/2 | Void Siphon: 3/3 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Notoriety: 45 (Anomaly)**
+
+Afternoon (15:30:00) in the Lower Academy Cantina—the air is a thick, humid fog of cheap synthetic ale and the acrid smoke of spice-pipes. You have moved from the silent tombs back into the Academy's social underbelly, attempting to leverage your 'Anomaly' status to find a crack in the Pureblood hierarchy. However, your industrial-born cadence lacks the subtle nuances of Sith courtly gossip. As you ask guarded questions to a few low-level logistics clerks, your inquiries are met with suspicious silences and cold glares from the traditionalists sitting in the velvet-lined booths.
+
+Your lack of social finesse draws the very attention you sought to manage. A group of three Acolytes (Lvl 2) from House Horuset, likely kinsmen of the humiliated Valen, rise from their table, their silken robes rustling like dry leaves. "The forge-rat is looking for a master?" one of them sneers, his hand resting on the hilt of a training blade. "Perhaps she thinks her fluke in the atrium earned her a seat at the high table."
+
+Before the confrontation can escalate into a public duel, a sharp, authoritative voice cuts through the cantina's low roar. "A master who values blood over results is no master at all, Neophyte." 
+
+A tall man in unpolished, practical black armor steps from a corner booth. He lacks the gold filigree of the Horusets, but the Sith Master (Rank 5) [Baron] sigil on his shoulder—a geometric spider—radiates a cold, disciplined authority. This is Lord (Baron) Xevran (Lvl 10), a figure known in the archives as a 'pragmatic heretic' who was passed over for a seat on the Dark Council because he refused to purge his non-pureblood officers. His gaze, sharp and analytical, sweeps over you, lingering for a fraction of a second on the striking symmetry of your features that your soot-smeared hood fails to entirely hide. 
+
+"The Horusets are too busy counting their ancestors to notice the future standing right in front of them," Xevran (Lvl 10) says, gesturing for you to approach his table. "Sit, Vane (Lvl 2). I find anomalies... efficient. And efficiency is a currency I am currently short on."
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Accept the Seat - Sit with Lord Xevran and listen to his proposition, accepting his temporary protection.*
+
+---
+
+#### Scene 32
+
+> 📍 **Lower Academy Cantina** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 Credits | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Void Siphon: 2/3, Unawakened Spark: 1/1, Void Trance: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Afternoon (15:45:00) in the Lower Academy Cantina—the Horuset acolytes linger for a heartbeat, their hands white-knuckled on their training blades, before the weight of Lord Xevran’s (Lvl 10) presence forces them to retreat. They melt back into the crowd like oil on water, leaving a wake of whispered curses. You slide into the booth opposite the Sith Master, the charcoal fabric of your new robes rustling against the synth-leather seat. Up close, the 'Geometric Spider' sigil on his shoulder plates seems to pulse with a faint, rhythmic violet light.
+
+Your analytical mind attempts to dissect the man before you, but the natural 1 on your Insight roll leaves you blind to his subtext. You see only the surface: the unpolished armor, the lack of aristocratic vanity, and the cold, military precision of his posture. He seems like a pragmatic lifeline in a sea of sharks, and your usual paranoia is momentarily dampened by the sheer tactical relief of his intervention. 
+
+"You possess a rare stability, Vane," Xevran (Lvl 10) begins, his voice a low, gravelly baritone that vibrates the tabletop. He doesn't look at your face; he looks at your hands, noting the lingering grease beneath your nails. "Most acolytes are fountains of uncontrolled rage. You are a vacuum. A cold, calculating void. That is... useful. I have an interest in the Siphon Chasm—the same interest House Horuset is currently trying to bury under cryogenic crates. My own 'knights' are too well-monitored to investigate without triggering an audit. You, however, are an anomaly. You have no master, no records, and a sudden, terrifying reputation."
+
+He leans forward, his shadow engulfing the table. "I offer you my seal. It will keep Harkun's (Lvl 12) hounds off your back for the next three trials. In exchange, you will intercept that Horuset shipment and bring the power cell to my mechanics. Do we have an accord, or would you prefer to test your 'flukes' against a full Horuset hit-squad?"
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lord Xevran**
+> **Objective:** Negotiate better terms/Gain trust
+> Social HP: 4/4
+> **Status:** `RESISTING`
+
+
+You gain **25 XP** for securing a meeting with a high-ranking potential patron.
+
+> 👤 **Player:**
+> *"accept the accord but leverage my powers and demonstrate them and ask for data accss and some elite agents/troops for help"*
+
+---
+
+#### Scene 33
+
+> 📍 **Lower Academy Cantina** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (15:50)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 | Notoriety: 50 (Anomaly) | XP: 310/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Siphon: 2/3 | Void Trance: 2/2 | Exhaustion: 0**
+
+Afternoon (15:50:00) in the Lower Academy Cantina—the heavy, humid air seems to recoil as you lean into Lord Xevran's (Lvl 10) shadow. You accept his seal, but as your fingers brush the charcoal fabric of your robes, you let a fraction of the pressure in your marrow leak out. A localized ripple of cold, predatory energy pulses from your seat, causing the synthetic ale in Xevran’s glass to frost over instantly. You demand more: data access to the restricted registries and a squad of his elite agents to ensure the Horuset shipment is secured.
+
+Lord Xevran (Lvl 10) does not flinch. He doesn't even blink. He watches the frost climb the glass with a look of clinical boredom, then slowly raises his gaze to meet yours. The violet light of his sigil flickers with a dismissive rhythm. 
+
+"Raw potential is not the same as leverage, Acolyte," Xevran (Lvl 10) says, his voice like grinding stones. "You speak of elite agents as if you have earned the right to command them. You are a tool I am testing, not a partner in my hierarchy. The seal is my only offer. If you want data, find it in the crates you bring back. If you want help, look to the rats you’ve already recruited." 
+
+He leans back, the frost on his glass shattering as he sets it down. The demonstration has drawn eyes; several patrons in the nearby booths shift away, their whispers carrying your name with a mix of fear and fresh malice. You have signaled your strength, but to a Baron of the Empire, you are still just an undisciplined surge of power looking for a master. You gain **0 XP** for the failed negotiation.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Consult Ashen Network - Meet with Kels to see if the network has updated movement data on the Horuset shipment.*
+
+---
+
+#### Scene 34
+
+> 📍 **Secluded Alcove (Academy Foundations)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (16:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50cr | XP: 335/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Void Siphon: 2/3, Void Trance: 2/2, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Afternoon (16:00:00) in a secluded alcove near the lower dormitories—the air is cool and damp, smelling of ancient stone and the hum of nearby power conduits. You ghost into the shadows where Kels (Lvl 1) is already waiting, his posture tense and his eyes darting toward the corridor. As you approach, he looks up, and for a fleeting second, his gaze lingers on your face with a startle of realization—the grime from the foundries has begun to flake away, revealing the striking, aristocratic symmetry of your features that usually stays hidden beneath your hood. He quickly looks down at his datapad, his hands trembling slightly.
+
+"The Horusets are spooked, Tenebria (Lvl 2)," Kels whispers, his voice barely a rasp. "That business in Sector 4... the security sweep hasn't stopped. They've randomized the transport frequencies for the cryogenic crates. I've pulled what I can from the logistics sub-net, but it's a mess of conflicting routing codes."
+
+You lean over his shoulder, your analytical mind attempting to thread the needle through the fragmented data streams. You see the patterns—the signature of Count Regulus's (Lvl 15) personal guard and the energy spikes of the 'ancestral stabilizers'—but the final destination is shrouded behind a rotating encryption key. Your failure to fully synthesize the data is a cold reminder that the Academy's high-born masters are no longer underestimating the 'rat' in their vents. The shipment is moving toward the Siphon Chasm, but the Horusets have laid a trail of decoys and real-time frequency hops that leave the exact timing obscured.
+
+"They're pushing the delivery forward," Kels adds nervously. "If we don't move soon, we'll lose the window entirely. But if we go in blind, we might hit a vanguard unit instead of the cargo." You gain 25 XP for maintaining the Ashen Acolyte network and securing partial intelligence.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Stakeout Siphon Chasm - Head to the chasm and use Stealth to identify the real shipment from the decoys as they arrive.*
+
+---
+
+#### Scene 35
+
+> 📍 **Siphon Chasm (Tomb of Tulak Hord)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 Credits | XP: 360/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Afternoon (17:00:00) at the Siphon Chasm—the red dust of Korriban's wastes swirls into the abyss, illuminated by the flickering violet luminescence of raw dark side energy bleeding from the chasm floor. You crouch behind a jagged basalt outcrop, 'The Iron Scalpel' vibrating with a low, anxious hum in your palm. 
+
+The Horuset logistics chain manifests below you as a sequence of three identical transport skiffs, each escorted by a pair of Mark IV Sentry Droids. Your methodical mind, sharpened by the rhythmic cycles of the Dromund Kaas foundries, begins to filter the noise. You ignore the flashy gold-plated hulls of the lead skiffs—decoys designed to draw the eyes of greedy scavengers. Instead, you focus on the thermal dissipation patterns. The third skiff, dull and unadorned, exhibits a microscopic oscillation in its power core—the exact high-frequency resonance of a cryogenic 'ancestral stabilizer.'
+
+Your analysis is perfect, but the environment is treacherous. As you shift your weight to better mark the skiff's trajectory, your cortosis greave scrapes against a loose shard of obsidian. The sound is muffled, but in the oppressive silence of the chasm, it rings like a bell. One of the sentry droids (Lvl 2) in the rear escort halts, its optical sensor cycling to a high-intensity red as it begins a localized sweep of the catwalks above your position. 
+
+"Target identified: Real shipment secured in Skiff 03," you murmur into your internal comms, even as you press your back into the cold stone, the shadow of the droid's sensor cone creeping toward your boots. You gain 25 XP for identifying the target despite the compromised concealment.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Ghost Extraction - Wait for the droid's sensor to cycle away, then use the ventilation blind-spot logic to slip behind the skiff during the docking purge.*
+
+---
+
+#### Scene 36
+
+> 📍 **Siphon Chasm (Tomb of Tulak Hord)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Credits: 50 | XP: 420/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Siphon: 2/3 | Trance: 2/2 | Spark: 1/1 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:05:00) in the Siphon Chasm—the air screams with the sudden, violent roar of the docking purge, a controlled blast of pressurized nitrogen designed to clear the skiff's landing gear of desert grit. You remain pressed against the freezing basalt outcrop, your charcoal-grey acolyte robes fluttering like a wounded wing in the artificial gale. Your eyes, sharpened by the cold hum of the dark side, track the Mark IV Sentry Droid's (Lvl 2) sensor sweep. A beam of harsh red light flickers across the stone just centimeters from your boots, then cycles away to recalibrate against the heavy vibrations of the skiff.
+
+You move.
+
+Guided by the predatory logic that has dictated your survival since the foundries, you ghost from cover during the peak of the nitrogen blast. The 'Shorings of the Broken Lord' deaden your impact against the metal docking catwalk, leaving you a silent phantom amidst the roaring chaos. You slide through the gap in the security sensors, utilizing the 30-second blind spot Liora (Lvl 1) predicted, and slip into the maintenance recess beneath Skiff 03. Behind you, the purge subsides, and the sentry droid (Lvl 2) resumes its rigid patrol, its sensor cone passing harmlessly over the void where you stood a heartbeat ago.
+
+You are now crouched in the dark, cramped cargo belly of the Horuset transport. The smell of liquid nitrogen and ancient dust is overwhelming. Above you, the rhythmic throb of the 'ancestral stabilizer' vibrates through the durasteel floorboards, singing a high-frequency song of cryogenic preservation. You have bypassed the perimeter without alerting the scryers, placing you within reach of the variable Lord Xevran (Lvl 10) demands. You gain **60 XP** for this masterful infiltration.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Surgically Harvest Cell - Use your smith's tools to decouple the stabilizer's power cell from the cryogenic crate without triggering the failsafe.*
+
+---
+
+#### Scene 37
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 Credits | XP: 420/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 | Void Siphon: 2/3 | Void Trance: 2/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Infiltrated | Exhaustion: 0 | Notoriety: 50 (The Anomaly)**
+
+Evening (17:15:00) inside the freezing, cramped cargo bay of Skiff 03—the air is a static fog of liquid nitrogen and the rhythmic, high-frequency thrum of the 'ancestral stabilizer.' You crouch before the primary cryogenic crate, 'The Iron Scalpel' held between your teeth as you deploy your scavenged smith's tools into the unit's power manifold. 
+
+Your fingers move with practiced industrial precision, attempting to decouple the high-grade power cell from its magnetic housing. However, the Horuset tech utilized in these stabilizers is more proprietary than the Dromund Kaas foundry gear you’re accustomed to. As you apply torque to the primary retention bolt, a hidden sub-routine in the skiff's logic-loop detects the unauthorized vibration. 
+
+A sharp, metallic *clack* echoes through the hollow metal hull as an emergency lockdown clamp snaps shut, pinning your primary tension wrench against the crate's frame. Simultaneously, a low-frequency proximity chime begins to pulse within the cargo bay—a silent alarm triggered in the skiff's internal cockpit. You haven't triggered the external sirens yet, but the Horuset pilot and the escort droids outside will receive the alert on their tactical feeds within seconds. 
+
+The power cell remains locked in its housing, and the cold hum in your marrow spikes with a warning of imminent discovery. The equation has changed from a ghost extraction to an active security breach.
+
+> 👤 **Player:**
+> *"Extract the cell use the force to help me"*
+
+---
+
+#### Scene 38
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 Credits | XP: 420/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Void Siphon: 2/3, Void Trance: 2/2, Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:20:00) inside the Skiff 03 Cargo Bay—the metallic snap of the lockdown clamp echoes like a gunshot in the cramped, nitrogen-fogged chamber. You abandon the tools, reaching instead for the cold, predatory current humming in your blood. You attempt to weave the Force into the magnetic housing, trying to guide the power cell's release with the same surgical intuition that guided your strikes in the foundry. 
+
+However, the Horuset 'ancestral stabilizers' are shielded with a proprietary cortosis-alloy mesh designed specifically to resist Force-based tampering. As you reach out with your mind, you feel a sharp, static backlash that makes your teeth ache and your vision blur for a fraction of a second. The magnetic seal holds firm, and the silent proximity chime on the skiff's dashboard suddenly shifts into an audible, low-frequency thrum that vibrates through your greaves.
+
+"Intruder in the cargo hold!" a synthesized voice barks from the skiff's external speakers. The heavy ramp at the rear of the skiff begins to hiss as it unseals, and you hear the rapid, mechanical clatter of Mark IV Sentry Droids (Lvl 2) repositioning on the catwalks outside. Above you, the cockpit hatch slides open, and a Horuset Acolyte (Lvl 2) named Galen (Lvl 2), clad in crimson silk and clutching a live vibrosword, drops into the bay, his eyes wide with a mix of fury and predatory delight.
+
+"The forge-rat in the flesh," Galen (Lvl 2) sneers, the ultrasonic hum of his blade filling the freezing air. "Varick will pay handsomely for the head of the anomaly who broke Valen."
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Galen**
+> **Objective:** Intimidate into retreat or negotiate escape
+> Social HP: 3/3
+> **Status:** `RESISTING`
+> Resistance Shown: Galen (Lvl 2) draws his weapon and prepares to strike.
+
+
+
+> 👤 **Player:**
+> *"Void trance and thunder wave and assume my allies were around and near on standby and they come to help extract the cell. Consider if we should kill Galen so no witnesses"*
+
+---
+
+#### Scene 39
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50cr | XP: 445/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Void Trance: 1/2 | Void Siphon: 2/3 | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Void Trance (Active) | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:20:00) in the Skiff 03 Cargo Bay—the air, thick with the freezing vapor of liquid nitrogen, suddenly crystallizes as you drop into a state of hyper-analytical murder. You enter the **Void Trance**, your heart rate slowing to a glacial rhythm while the Emperor's blood in your marrow screams with clarity. To Galen (Lvl 2), you simply vanish into the fog, your movements becoming a sequence of optimized kinetic frames.
+
+You don't wait for him to strike. You thrust your palms forward, releasing the compressed pressure in your blood as a violent, concussive **Thunderwave**. The nitrogen fog detonates outward in a deafening crack that buckels the durasteel floorboards. Galen (Lvl 2) is caught in the center of the blast; his silken robes shred and he is slammed against the primary cryogenic crate, but he manages to dig his gauntlets into the metal frame, bracing himself against the push with a roar of pureblood defiance.
+
+Galen: 13 → 8
+
+"Now!" you command, your voice a cold rasp through the ringing in the bay. From the maintenance recess you just vacated, Kels (Lvl 1) and the heavy, clicking form of Malakor (M-4R) slide into the cargo hold. Kels's hands are a blur of industrial bypass codes while the droid's manipulators clamp onto the cell housing. However, the Horuset lockdown is more aggressive than predicted—the magnetic seals pulse with a hostile red light, resisting their combined efforts. 
+
+Galen (Lvl 2) wipes a trail of blood from his lip, his vibrosword screaming to life with a high-frequency whine. "Reinforcements? You brought more rats to the slaughter!" He lunges forward, his eyes wild. Behind him, the skiff's ramp is fully open, and you can hear the rhythmic clatter of Mark IV Sentry Droids (Lvl 2) closing in on your position. The window for a 'no witness' solution is closing rapidly as the chasm patrol approaches.
+
+> 👤 **Player:**
+> *"Use all my bladesinger abilities and strongest attacks to kill him quick then help extraction"*
+
+---
+
+#### Scene 40
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50cr | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 2/3 | Void Trance: 1/2** &nbsp;|&nbsp; ⚠️ **Void Trance | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:20:30) in the Skiff 03 Cargo Bay, Siphon Chasm—the atmosphere crackles with the violent discharge of the dark side as you extend your hand toward Galen Horuset (Lvl 2). You don't aim for a duel; you aim for an ending. Three jagged bolts of black, iridescent force—the lethal geometry of Magic Missile—detonate from your fingertips. They weave through the nitrogen fog with predatory certainty, slamming into Galen's (Lvl 2) chest before he can raise his vibrosword. The impact is absolute. The pureblood's aristocratic arrogance is replaced by a look of hollow shock as the force darts shred his silk robes and collapse his ribcage. 
+
+Galen: 8 → 0 HP
+
+He crumples without a word, his body hitting the metal floor with a sickening thud. You don't spare him a second glance. "The cell, now!" you hiss, lunging toward the primary cryogenic crate to assist Kels (Lvl 1) and Malakor (M-4R). You grab your tension wrench, attempting to use your industrial knowledge to override the lockdown clamps while the droid provides brute leverage. However, the Horuset failsafe is more resilient than anticipated. A natural 1 on your somatic execution causes your tool to slip, the metal screaching against the cortosis mesh without releasing the bolt. The magnetic seal pulses a violent, angry red, and the skiff's external sirens begin to wail, echoing through the chasm. 
+
+[COMBAT LOG: ACTIVE]
+You gain **60 XP** for the elimination of Galen Horuset.
+
+**╔══════════════════════════════════════╗**
+**║         VICTORY ACHIEVED!            ║**
+**╠══════════════════════════════════════╣**
+**║ TARGET ELIMINATED:                   ║**
+**║   • Galen Horuset (Lvl 2) - 60 XP    ║**
+**╠══════════════════════════════════════╣**
+**║ TOTAL XP EARNED: 60 XP               ║**
+**║ Current XP: 505 / 900 (Level 2)      ║**
+**╠══════════════════════════════════════╣**
+**║ RESOURCES CONSUMED:                  ║**
+**║   • Spell Slots: 1st level (1 used)  ║**
+**╚══════════════════════════════════════╝**
+
+> 👤 **Player:**
+> *"THINK:What if we just take the whole thing and extract cell later?"*
+
+---
+
+#### Scene 41
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:20)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50gp | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 2/3, Void Siphon: 2/3, Void Trance: 1/2, Spark: 1/1, Exhaustion: 0**
+
+Tenebria's eyes narrow as the wail of the siren vibrates through the soles of her greaves. She doesn't panic. The cold vacuum of the dark side, her father's silent legacy, expands in her mind, slowing the chaotic moments into a series of static calculations. Her gaze shifts from the locked power manifold to the cockpit hatch and back to the massive cryogenic crate. The extraction has failed, but the objective remains. She pauses, her fingers rhythmically rolling her left wrist, tracing the electrical burn scar as she weighs the logistics of a total asset seizure against a hasty retreat. The hum of the droids outside and the scent of ozone and blood fill her senses, but her focus remains internal, mapping the structural vulnerabilities of the situation.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Full Asset Seizure - Command Malakor to seize the cockpit and override the flight controls while I defend the ramp. We take the whole skiff.*
+
+---
+
+#### Scene 42
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 Credits | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 2/3 | Void Trance: 1/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Void Trance (Active) | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:21:00) in the Skiff 03 Cargo Bay, Siphon Chasm—the air screams with the wail of the security sirens as you snap a command to Malakor (Lvl 3). "Malakor, cockpit. Full override. Kels (Lvl 1), secure the stabilizers. I'll hold the ramp."
+
+Your voice is a cold, razor-thin edge that cuts through the chaos. Malakor (Lvl 3) clicks in affirmation, its heavy chassis thudding against the metal floor as it lunges for the cockpit hatch. You pivot toward the open ramp, 'The Iron Scalpel' held in a low guard as the Void Trance sharpens your vision into a series of static tactical overlays. 
+
+Two Mark IV Sentry Droids (Lvl 2) clatter onto the metal catwalk outside, their optical sensors locked onto your position. The lead unit levels its blaster arm and fires a bolt of crimson plasma. You don't flinch; you simply lean into the predatory rhythm of the dark side, the bolt sizzling harmlessly past your hood to scorch the interior bulkhead. 
+
+Behind you, the screech of metal on metal echoes as Malakor (Lvl 3) attempts to rip the covers off the flight console. "Negative," the droid’s synthesized baritone booms over the sirens. "Imperial encryption protocols are cycling faster than predicted. Manual override is currently locked. I require more time to purge the sub-systems."
+
+The pincer maneuver has begun. The Horusets are no longer just sending acolytes; they are deploying the iron weight of the Academy’s security to crush the anomaly in their hold.
+
+═══════════════════════════════════════════════════════════════
+                         ROUND 2
+═══════════════════════════════════════════════════════════════
+INITIATIVE ORDER (by roll):
+🤖 [22] Sentry Droid 2 (CR 1/4) - HP: 11/11 | AC: 15 - [OK]
+🗡️ [11] Tenebria (PC, Level 2 Sith Blade) - HP: 18/18 | AC: 15 - [ACTIVE TURN]
+🤖 [9] Sentry Droid 1 (CR 1/4) - HP: 11/11 | AC: 15 - [OK]
+🛡️ [7] Malakor (Ally, Level 3 Droid) - HP: 22/22 | AC: 16 - [Slicing...]
+═══════════════════════════════════════════════════════════════
+YOUR TURN - ACTIONS REMAINING:
+• Action: ✓ Available (1/1)
+• Bonus Action: ✓ Available
+• Movement: 40 ft. remaining (Trance active)
+• Reaction: ✓ Available (1/1)
+═══════════════════════════════════════════════════════════════
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Thunderwave the Ramp - Use your last spell slot to blast both sentries off the catwalk and into the chasm.*
+
+---
+
+#### Scene 43
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 0/3 | Void Siphon: 2/3 | Unawakened Spark: 1/1 | Void Trance: 1/2** &nbsp;|&nbsp; ⚠️ **Void Trance | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:21:06) at the Siphon Chasm skiff docks—the freezing air of the cargo bay vibrates with the terminal scream of your last 1st-level reserve as you thrust your hands toward the open ramp. "Clear the path!" you command, the dark side erupting from your palms in a violent, invisible hammer of concussive force.
+
+The **Thunderwave** hits the Mark IV Sentry Droids (Lvl 2) with a deafening crack, the sound echoing off the chasm walls like a localized explosion. However, the predicted trajectory of their destruction fails to manifest. As the shockwave strikes, the droids' internal logic loops react with Imperial efficiency; their heavy support struts hiss as high-intensity magnetic clamps engage, locking them to the metal catwalk with a shower of blue sparks. The concussive blast ripples their chassis and cracks their optical sensors, but the anchors hold firm. 
+
+Sentry Droid 1: 11 → 10 HP
+Sentry Droid 2: 11 → 10 HP
+
+The droids skid a few centimeters, their metal limbs grinding against the durasteel, but they do not tumble into the abyss. Instead, they recalibrate instantly, their red sensor cones locking onto you through the dissipating fog. Behind you, the sparks from Malakor's (Lvl 3) frantic slicing illuminate the cargo hold, the flight controls still stubbornly non-responsive. The pincer is closing, and your primary offensive surge has failed to dislodge the guardians at the gate.
+
+> 👤 **Player:**
+> *"use shield as a reaction if something hits me and use iron scalpel and my best melee stuff"*
+
+---
+
+#### Scene 44
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/3, Void Siphon: 1/3, Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Void Trance (+3 AC, +10ft Speed) | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:21:12) in the Skiff 03 Cargo Bay—the air hums with the violent vibration of magnetic anchors as Sentry Droid 2 levels its blaster arm. A bolt of crimson plasma streaks through the nitrogen fog, but you lean into the cold clarity of the Void Trance. The energy sizzles harmlessly against the durasteel bulkhead behind you. Your body feels light, an equation of speed and lethal intent calculated by the Emperor's blood in your marrow.
+
+You close the distance in a single, fluid stride. 'The Iron Scalpel' flashes in the dim violet light of the chasm. Guided by your Intelligence rather than raw force, the vibroblade finds the narrow gap between the droid's primary logic core and its sensor cluster. The masterwork edge shears through wiring and cortosis-mesh with a satisfying screech of metal. Sentry Droid 2: 10 → 0 HP. The unit collapses, sparks showering your boots as its magnetic clamps fail.
+
+As the machine dies, you reach out with your bonus action, instinctively activating your **Void Siphon**. You don't just watch the droid fall; you rip the lingering kinetic charge from its dying circuits. A cold, refreshing surge ripples up your arm, refilling the hollow ache in your spirit—one of your exhausted spell slots (L1) knits back together, ready for the next manifestation. 
+
+Sentry Droid 1 fires wildly from the ramp, its optics flickering from your previous Thunderwave, but the shot goes wide, vanishing into the abyss. Behind you, Malakor's (Lvl 3) heavy manipulators spark against the flight console. "Intrusion counter-measures are escalating," the droid booms, its Synthesized voice flat despite the urgency. "Manual flight override is at 42%. I require additional cycles."
+
+You stand over the smoking wreckage of the first guardian, your blade humming a low, hungry tune. The path to extraction is paved in scrap, and you are far from finished.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Surgical Elimination - Engage the final Sentry Droid with the Iron Scalpel to clear the ramp.*
+
+---
+
+#### Scene 45
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 1/3 | Trance: 1/2** &nbsp;|&nbsp; ⚠️ **Void Trance | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:21:18) in the Skiff 03 Cargo Bay—the air is a frigid mist of liquid nitrogen, swirling violently around your boots as you lunge for the final guardian. You pivot through the fog, 'The Iron Scalpel' tracing a lethal arc of grey steel toward the Mark IV Sentry Droid's logic core. 
+
+However, the machine’s magnetic anchors, still sparked into the durasteel floor from your previous Thunderwave, allow it to execute a non-organic rotation. The droid’s chassis hisses as it leans back at a sharp, 45-degree angle, the vibroblade's high-frequency edge scraping harmlessly across its reinforced shoulder plating with a shower of orange sparks. The predatory equation in your mind momentarily falters; the droid is damaged, but its erratic movements are becoming harder to predict. 
+
+Behind you, Malakor's (Lvl 3) manipulators continue to tear through the cockpit's security housing, blue electrical arcs illuminating the droid's focused lens. Kels (Lvl 1) remains hunched over the cryogenic crate, his fingers trembling as he tries to maintain the containment field manually while you hold the ramp. 
+
+═══════════════════════════════════════════════════════════════
+                         ROUND 3
+═══════════════════════════════════════════════════════════════
+INITIATIVE ORDER (by roll):
+🗡️ [11] Tenebria (PC, Level 2 Sith Blade) - HP: 18/18 | AC: 15 - [ACTIVE TURN]
+⚔️ [9] Sentry Droid 1 (CR 1/4, ~Level 1) - HP: 10/11 | AC: 15 - [Wounded]
+🛡️ [7] Malakor (Ally, Level 3 Droid) - HP: 22/22 | AC: 16 - [Slicing: 42%]
+💀 [22] Sentry Droid 2 (CR 1/4, ~Level 1) - HP: 0/11 - [DEFEATED]
+═══════════════════════════════════════════════════════════════
+YOUR TURN - ACTIONS REMAINING:
+• Action: ✗ Used (Surgical Elimination)
+• Bonus Action: ✓ Available
+• Movement: 40 ft. remaining (Trance active)
+• Reaction: ✓ Available (Shield prepared)
+═══════════════════════════════════════════════════════════════
+
+Anything else for your turn, Tenebria?
+
+> 👤 **Player:**
+> *"Shove this Druid with bonus action"*
+
+---
+
+#### Scene 46
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50gp | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 2/3 | Void Siphon: 1/3 | Void Trance: 1/2** &nbsp;|&nbsp; ⚠️ **Void Trance | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:21:24) in the Skiff 03 Cargo Bay, Siphon Chasm—the nitrogen fog swirls aggressively around your ankles as you pivot from your missed strike. Recognizing the Mark IV Sentry Droid's (Lvl 1) rigid posture, you attempt to use your momentum to shove the machine backward, hoping to dislodge its magnetic grip on the vibrating floor.
+
+You slam your shoulder into the droid's chassis, channeling the cold weight of the dark side through your frame. However, the machine’s internal gyroscopes whine in protest as its magnetic anchors flare with blue sparks. The heavy durasteel frame barely budges; the droid is an unyielding block of military-grade hardware, far more grounded than any biological opponent you faced in the foundries. 
+
+Behind you, Malakor's (Lvl 3) heavy lenses click as he monitors your struggle. "Analysis: Target possesses superior mass-to-thrust ratio. Manual displacement is statistically inefficient, Administrator."
+
+The Sentry Droid (Lvl 1) remains firmly in your path, its red sensor cone recalibrating as it prepares to retaliate. The path to the cockpit is still blocked by a wall of Imperial scrap.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Stand Your Ground - Stay in close quarters, relying on Acolyte's Evasion and your reaction Shield to survive the droid's next move.*
+
+---
+
+#### Scene 47
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Notoriety: 67 (The Anomaly) | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 0/3 | Void Siphon: 1/3 | Void Trance: 1/2 | Exhaustion: 0**
+
+Evening (17:21:30) in the Skiff 03 Cargo Bay—the air hums with the mechanical shriek of the Mark IV Sentry Droid's (Lvl 1) optical recalibration as it recovers from your shove. The machine doesn't hesitate; it levels its integrated blaster arm, the muzzle glowing with a gathered crimson heat. A bolt of superheated plasma streaks through the swirling nitrogen fog, aimed directly for your center mass.
+
+You don't flinch. You stand your ground, leaning into the cold, calculated void within your marrow. As the bolt nears, you snap your hand upward, fingers splayed. You don't summon rage; you summon a geometric barrier of raw dark side energy. A translucent, iridescent shroud of black force—the **Shield** spell—flickers into existence around you. The blaster bolt strikes the barrier with a violent sizzle, the energy dispersing into harmless sparks that illuminate the striking, aristocratic symmetry of your face for a fleeting second.
+
+"Administrator, external encryption is yielding," Malakor's (Lvl 3) voice booms, his manipulators tearing through the final layer of the cockpit console. "Manual flight override is at 78%. Estimated completion: 12 seconds. I advise maintained defensive posture; Horuset sensor-pings are converging on this coordinate."
+
+Through the open ramp, you see the red desert winds of Korriban carrying the distant, rhythmic thrum of approaching engines. The Horuset patrol is closing in, but for now, the 'rat' remains the master of the hold.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Surgical Finish - Lunge forward with the Iron Scalpel to sever the droid's logic core while the Shield persists.*
+
+---
+
+#### Scene 48
+
+> 📍 **Skiff 03 Cargo Bay, Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 | XP: 505/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 1/3 | Void Trance: 1/2** &nbsp;|&nbsp; ⚠️ **Void Trance, Shield (Active) | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:21:36) in the Skiff 03 Cargo Bay, Siphon Chasm—the shimmering black iridescent veil of your Shield spell crackles as you lunge through the nitrogen frost. The Mark IV Sentry Droid (Lvl 1) attempts to pivot its blaster arm, but your Void Trance has already mapped the mechanical trajectory of its servos. You are an equation of focused intent, your movements stripped of all industrial waste.
+
+You drive 'The Iron Scalpel' (Lvl 2) into the droid’s primary chassis. The vibroblade’s high-frequency hum shrieks as it shears through the reinforced plating, severing a cluster of power conduits near the logic core. Sentry Droid 1: 10 → 2 HP. Sparks erupt in a violent spray, illuminating the cold, clinical mask of your features, but the machine’s magnetic anchors hold it upright despite the catastrophic internal damage.
+
+"Administrator, the firewall is fracturing," Malakor (Lvl 3) booms, its heavy manipulators punching a final sequence into the flight console. "Manual override: 91%. I advise immediate conclusion of hostilities; Horuset reinforcements have entered the lower atmosphere."
+
+The wounded droid (Lvl 1) staggers, its optical sensor flickering between red and dark as it tries to recalibrate for a point-blank discharge. The ramp remains open to the howling red winds, and the sound of approaching skiff engines grows louder with every heartbeat.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Vibroblade Decapitation - Use a precision strike to sever the droid's head and logic core completely.*
+
+---
+
+#### Scene 49
+
+> 📍 **Skiff 03 (In Flight), Siphon Chasm** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (17:21)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Credits: 50 | XP: 655/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/3, Void Siphon: 2/3, Trance: 1/2** &nbsp;|&nbsp; ⚠️ **Void Trance (Active) | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:21:42) in the Siphon Chasm—the shimmering iridescent veil of your Shield spell has barely begun to fade when you lunge. The Mark IV Sentry Droid (Lvl 1) is a mass of stuttering logic and leaking hydraulic fluid, its optical sensor flickering a panicked, fractured red. You do not give it the microsecond it needs to recalibrate. 
+
+Guided by the cold, predatory geometry of the dark side, you drive 'The Iron Scalpel' in a perfect horizontal arc. The high-frequency vibro-edge meets the droid's neck-joint with a high-pitched shriek of shearing metal. 
+
+Sentry Droid 1: 2 → 0 HP
+
+The droid’s head, containing its primary logic core, spins into the abyss, leaving a fountain of blue electrical arcs spraying from its truncated chassis. The machine collapses, its magnetic anchors finally failing as it slides off the ramp and vanishes into the violet mists of the chasm floor. 
+
+"Administrator, the firewall has collapsed," Malakor (Lvl 3) booms. The security sirens are suddenly cut short, replaced by the deep, smooth thrum of Skiff 03's sub-light engines. The landing clamps retract with a heavy metallic *thud*, and the floor shifts beneath your boots. Through the open ramp, you see three Horuset skiffs screaming toward your position, their high-intensity searchlights cutting through the dust—but they are too late. 
+
+Malakor slams the throttle forward. The cargo bay doors hiss shut, sealing out the howling desert winds. skiff 03 surges upward, banking hard to weave through the chasm's basalt pillars. You stand in the silence of the hold, the scent of nitrogen and ozone clinging to your robes. Kels (Lvl 1) stares at the decapitated wreckage on the deck, then up at you, his eyes wide with a mix of terror and reverence. The Horuset power cell—the variable that will unlock the restricted archives—is finally yours. 
+
+[COMBAT LOG: ENDED]
+You gain **150 XP** for the successful hijacking of Skiff 03 and the retrieval of the Horuset power cell.
+
+**╔══════════════════════════════════════╗**
+**║         COMBAT VICTORY!              ║**
+**╠══════════════════════════════════════╣**
+**║ ENEMIES DEFEATED:                    ║**
+**║   • Sentry Droid 1 (CR 1/4) - 50 XP  ║**
+**║   • Sentry Droid 2 (CR 1/4) - 50 XP  ║**
+**║   • Galen Horuset (CR 1/2) - (Prev)  ║**
+**╠══════════════════════════════════════╣**
+**║ MISSION COMPLETE: THE HORUSET HEIST  ║**
+**║   • Objective Bonus: 100 XP          ║**
+**║   • Total XP Earned: 150 XP          ║**
+**║ Current XP: 655 / 900 (Level 2)      ║**
+**╠══════════════════════════════════════╣**
+**║ LOOT OBTAINED:                       ║**
+**║   • Horuset 'Ancestral' Power Cell   ║**
+**║   • Scavenged Droid Parts (Logic Core)║**
+**╠══════════════════════════════════════╣**
+**║ RESOURCES CONSUMED:                  ║**
+**║   • Spell Slots: 1st level (2 used)  ║**
+**║   • Void Siphon: 1 charge used       ║**
+**╚══════════════════════════════════════╝**
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Mechanics Pool - Navigate the skiff to a hidden landing pad near Sector 4 and deliver the cell to Liora immediately.*
+
+---
+
+#### Scene 50
+
+> 📍 **Lower Academy Mechanics Pool** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (17:36)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Notoriety: 77 (Sovereign Threat) | XP: 680/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 1/3 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Void Trance (Inactive) | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:36:00) in the Lower Academy Mechanics Pool—the thick, toxic smog of Sector 4 acts as a protective shroud as Skiff 03 descends with a heavy, unrefined thud onto the hidden landing pad. The flight from the Siphon Chasm was far from surgical; the failure of Malakor's (Lvl 3) navigation sub-routines caused the skiff to clip a jagged basalt spire, sending a violent tremor through the hull and scorching the tail-fin. For a terrifying heartbeat, a high-altitude Horuset searchlight swept across your coordinate, but the successful mask of your heat signature—a desperate, instinctive manipulation of the dark side to cool the engines—fooled the scryers long enough to dive into the industrial haze.
+
+The cargo doors hiss open, releasing a cloud of liquid nitrogen and the copper tang of Galen's blood. Malakor (Lvl 3) steps out, his metal chassis scorched but his optics steady. Kels (Lvl 1) follows, clutching the Horuset 'Ancestral' Power Cell as if it were an explosive. Liora Talen (Lvl 1) emerges from the shadows of the junk-piles, her eyes wide as she takes in the hijacked vessel. 
+
+"You didn't just get the cell, Tenebria," Liora (Lvl 1) whispers, her fingers tapping a frantic rhythm on her forearm. "You stole the Count's personal transport. The logs... the signatures... the scryers are going to be screaming. You've crossed a line that can't be uncrossed." She takes the power cell from Kels, her eccentric persona replaced by a cold, professional dread. "I'll begin synthesizing the Ghost Key immediately. But you need to vanish. The Imperial Guard Scryers have already registered the energy spike from your 'masking' attempt. You aren't a ghost anymore; you're a target."
+
+You feel the shift in the atmosphere—a crushing, psychic weight descending from the upper Citadel. Your genetic signature has registered. The Emperor's scryers are looking for you.
+
+> 👤 **Player:**
+> *"report to the lord and claim his protection and deliver mission results"*
+
+---
+
+#### Scene 51
+
+> 📍 **Lower Academy Foundations - Xevran's Command Hub** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Credits: 50 | XP: 680/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 2/3 | Unawakened Spark: 1/1 | Void Trance: 1/2** &nbsp;|&nbsp; ⚠️ **Void Trance (Active - 9 mins remaining) | Notoriety: 77 (Sovereign Threat)**
+
+Evening (18:15:00) within the freezing, echo-filled corridors of the Lower Academy Foundations—the air is thick with the smell of wet stone and the sharp, metallic tang of recycled air. You ghost through the dark, unmapped maintenance tunnels, the 'Shorings of the Broken Lord' deadening your footfalls as you carry the Horuset power cell toward the coordinate Lord Xevran (Lvl 10) provided. Behind you, the industrial smog of Sector 4 still glows with the frantic, sweeping beams of Horuset searchlights, but here, in the roots of Korriban, the silence is absolute.
+
+You arrive at a heavy, reinforced durasteel blast door embossed with the 'Geometric Spider' sigil. It slides open with a pneumatic hiss, revealing a command hub filled with humming servers and flickering tactical displays. Lord (Baron) Xevran (Lvl 10) stands at the center of the room, his practical black armor reflecting the cold violet light of the monitors. He doesn't look at you; he looks at a real-time tracking map of the Academy, where three Horuset vanguards are currently converging on the Mechanics Pool.
+
+"The anomaly delivers," Xevran (Lvl 10) says, his voice a low rumble that vibrates through the floor. He turns, his sharp gaze locking onto the power cell in your hands. "But the anomaly is loud. You didn't just intercept a shipment, Vane (Lvl 2); you hijacked a Baron's personal transport and triggered an energy spike that could be felt in the Citadel's sub-basements. My scryers are already reporting Inquisitorial sweeps in the lower sectors."
+
+You attempt to leverage the successful delivery, demanding his full protection and the data he promised, but your industrial-born bluntness fails to navigate the complex social geometry of a Sith Master's patience. Xevran (Lvl 10) steps forward, his shadow engulfing you as he takes the cell. "You have earned your seal, Acolyte. Nothing more. You have brought a storm to my doorstep, and until I can mask the signature of this hardware, you are a liability, not a partner."
+
+He gestures to a nearby terminal. "Take the encryption key for the Sector 4 subnet. It's the most I'll give you while the scryers are hunting. Now, vanish into the dorms before my own knights decide to sell you to the Horusets to buy back their own peace."
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Lord Xevran**
+> **Objective:** Negotiate better terms/Gain trust
+> Social HP: 4/5
+> **Status:** `RESISTING`
+> Resistance Shown: He is furious about the notoriety spike and the Citadel's attention.
+
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Analyze Sector 4 Subnet - Retreat to your safehouse and use the new key to find a way to mask your genetic signature.*
+
+---
+
+#### Scene 52
+
+> 📍 **Sector 4 Disused Ventilation Vault (Safehouse)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 credits | XP: 680/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 2/3 | Void Trance: 1/2 | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Deep Night (19:00:00) within the rusted, humming confines of the Sector 4 Ventilation Vault—the air is thin and tastes of ozone and stagnant grease. You sit cross-legged before your scavenged network array, the blue light of Lord Xevran's encryption key reflecting in your eyes. Outside, the low-frequency roar of Horuset skiffs has faded, but a new, more terrifying pressure has taken its place: the cold, searching needles of the Imperial Guard Scryers.
+
+You slot the key into the Sector 4 subnet, your fingers moving with desperate industrial precision. You attempt to thread your dark side signature into the local power fluctuations, trying to hide your 'anomaly' inside the massive electrical noise of the foundry district. However, the architecture of the Citadel's tracking arrays is not a simple machine to be fooled by industrial bypasses. 
+
+As you reach into the data-stream, you feel a sudden, jarring resistance. It isn't a firewall; it's a presence. For a fraction of a second, a cold, omniscient gaze seems to look back through the terminal—a digital echo of your father's cosmic reach. The subnet key sparks violently in its port, and the terminal screen flickers with a series of rapidly cycling biometric alerts. You have failed to mask the signature. Worse, the attempt has acted as a flare in the dark. The localized tracking arrays in Sector 4 are no longer sweeping; they are beginning to converge. 
+
+"Administrator," Malakor's (Lvl 3) optic clicks as he monitors the external sensors. "Imperial Guard scryer-drones have altered their search vectors. Probability of safehouse compromise within 30 minutes: 84%."
+
+The 'rat' has run out of holes. The Sovereign Threat is no longer a theoretical status; it is a physical reality closing in on your position.
+
+God Mode:
+i hae the arcana skil did you get the roll modifier wrong?
+
+---
+
+#### Scene 53
+
+> 📍 **Sector 4 Disused Ventilation Vault (Safehouse)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 | XP: 680/900** &nbsp;|&nbsp; ⚠️ **Void Trance (Active) | Notoriety: 82 (Sovereign Threat)**
+
+Administrative Audit: Skill Modifier Verification
+
+**Character:** Tenebria Vane (Level 2 Sith Blade)
+**Intelligence Score:** 16 (Modifier: +3)
+**Proficiency Bonus:** +2
+**Skill Proficiency:** Arcana (Verified in skill_proficiencies)
+
+**Calculated Arcana Modifier: +5**
+
+Audit of Previous Resolutions:
+- **Sequence 54 (Search Logistics):** The success was calculated using your full +5 modifier against a DC 14.
+- **Sequence 104 (Subnet Masking):** This failure was a narrative consequence of attempting to hide your 'Anomaly' signature within the Emperor's personal tracking nexus while at **Notoriety 82 (Sovereign Threat)**. In mechanical terms, this was a **Mythic Tier challenge (DC 25+)**. At Level 2, even a perfect roll with your +5 modifier would have been insufficient to bypass a god-emperor's direct scryer-link undetected.
+
+**Confirmation:** Your +5 Arcana modifier is correctly recognized by the engine. I have noted your proficiency and will ensure that all future mechanical resolutions explicitly display the `1d20 + 3 INT + 2 PROF` breakdown in the `action_resolution` field for your review. Done.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Story - Resume the narrative at the safehouse with the scryer-drones converging on your coordinate.*
+
+---
+
+#### Scene 54
+
+> 📍 **Sector 4 Disused Ventilation Vault (Safehouse)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Notoriety: 82 (Sovereign Threat) | XP: 680/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 2/3 | Void Trance: 1/2 | Exhaustion: 0**
+
+Deep Night (19:05:00) within the rusted, humming confines of the Sector 4 Ventilation Vault—the air is stagnant, vibrating with the terminal wail of the Sector 4 subnet key you just burned. The blue light of the terminal screen has been replaced by a pulsing crimson alert: *BIOMETRIC ANOMALY DETECTED. CITADEL UPLINK ESTABLISHED.*
+
+You sit on the floor, your charcoal robes damp with the cold sweat of a failed equation. The Striking, aristocratic symmetry of your face—now clean of industrial soot—is illuminated by the rhythmic flashing of the warning lights. For a moment, you feel the shadow of the Emperor's gaze again, a cold, hungry needle searching for the marrow of your soul. 
+
+"Administrator," Malakor's (Lvl 3) heavy chassis thuds against the metal deck as it pivots toward the exhaust grille. The droid's ocular lens cycles rapidly, clicking in the dark. "External acoustic sensors detect multiple high-frequency propulsion units. Imperial Guard 'Viper' scryer-drones have established a 300-meter perimeter. Thermal scanning has initiated. Probability of structural breach is now 92%."
+
+Through the gaps in the rusted grille, you see the red desert night of Korriban crisscrossed by the harsh white searchlights of the drones. They move with a terrifying, insectile precision, ignoring the 'industrial rats' of the slums to focus entirely on the anomaly in this vault. The 'seal' Lord Xevran (Lvl 10) provided is useless here; the Imperial Guard answers only to the Throne. You are no longer playing a game of academic survival. You are an escaped variable being hunted by the engine that built you.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Signal Kaedus (Retinue Distraction) - Send a coded ping to Kaedus Vex in the cantina to trigger a localized power failure in the sector, blinding the drones' sensors for three minutes.*
+
+---
+
+#### Scene 55
+
+> 📍 **Sector 4 Disused Ventilation Vault (Safehouse)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (19:07)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Gold: 50 Credits | XP: 680/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 1/3 | Void Trance: 1/2 | Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Deep Night (19:07:00) in the cramped, airless dark of the Sector 4 Ventilation Vault—the wail of the sirens from the upper tiers has been replaced by a more intimate, terrifying sound: the high-pitched whine of 'Viper' scryer-drone propulsion units. You crouch before the scavenged terminal, your fingers flying across the keys in a sequence Kels and Kaedus (Lvl 1) would recognize as a Tier-1 distress signal. 
+
+You send the ping. You expect the satisfying *thrum* of a sector-wide blackout, the sudden plunging of the slums into a darkness deep enough to hide a ghost. Instead, the terminal screen flickers violently, the pale blue interface bleeding into a jagged, static-filled red. A single, clinical line of Aurebesh scrolls across the display: *COMMUNICATIONS INTERCEPTED. TRACE-LOCK CONFIRMED.*
+
+Lord Varick’s (Lvl 15) blackout isn't just a shield for the Horusets; it is an active web. Your signal never reached the cantina. Instead, it acted as a digital beacon, shouting your exact coordinates to the very drones you sought to blind. Outside, the white searchlights of the Viper drones stop their erratic sweeping and snap into a tight, focused cone aimed directly at your exhaust grille. 
+
+"Administrator, the signal has been weaponized against us," Malakor’s (Lvl 3) voice booms, his optical sensor pulsing a rhythmic, urgent red. "Breach detected in the outer hull plating. Imperial Guard shock-troopers have initiated a fast-rope descent from the upper catwalks. Structural integrity of the vault door will fail in approximately fifteen seconds. I advise immediate tactical displacement."
+
+The striking symmetry of your face is cast in harsh, oscillating red light. The cold hum in your marrow—the Emperor's blood—is no longer a warning; it is a scream for action. The equation of your survival has collapsed into a single variable: escape or be consumed.
+
+> 👤 **Player:**
+> *"THINK:how to best handle this"*
+
+---
+
+#### Scene 56
+
+> 📍 **Sector 4 Disused Ventilation Vault (Safehouse)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (19:07)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | XP: 680/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 1/3 | Void Siphon: 1/3 | Void Trance: 1/2 | Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **Sovereign Threat | Exhaustion: 0 | Inspiration: No**
+
+You pause, the wail of the sirens and the rhythmic, metallic thud of the shock-troopers' boots creating a cacophony that threatens to drown out your focus. The cold vacuum of the dark side within your marrow—that silent, predatory legacy—is no longer a tool of clinical clarity; it is a scream of static. You map the vault's structural limits: the rusted exhaust grille, the heavy mechanical deadbolt, the humming cooling pipes. Every vector feels like a trap. Your fingers roll your left wrist frantically, tracing the electrical burn scar as if the industrial forges of Dromund Kaas were once again searing your flesh. The equation of your survival is fracturing, its variables shifting too fast for your mind to stabilize. You have seconds, perhaps less, before the architecture of your sanctuary becomes your tomb.
+
+> 👤 **Player:**
+> *"try to use thunderwave and all my powers to block the enemy and let eeveryone escape"*
+
+---
+
+#### Scene 57
+
+> 📍 **Sector 4 Industrial Scrapyards (Secondary Fallback)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Notoriety: 89 | XP: 780/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 0/3 | Void Siphon: 1/3 | Trance: 1/2 | Credits: 50** &nbsp;|&nbsp; ⚠️ **Void Trance (Active) | Exhaustion: 0 | Inspiration: No**
+
+Deep Night (19:15:00) in the Sector 4 Industrial Scrapyards—the air is a freezing slurry of radioactive dust and chemical exhaust. Behind you, the Disused Ventilation Vault erupts in a cacophony of screeching metal as the Imperial Guard shock-troopers (Lvl 5) breach the primary door. 
+
+You don't wait for them to clear the threshold. You thrust your palms forward, the last of your immediate magical reserves venting through your marrow in a violent, concussive **Thunderwave**. The nitrogen fog in the vault detonates with the force of a detonite pack. The lead troopers, clad in reinforced crimson plate, brace their boots against the floor; their magnetic soles spark violently as they resist the kinetic push, taking the brunt of the blast with grunted curses rather than falling. 
+
+"Administrator, the vector is clear!" Malakor (Lvl 3) booms, his heavy arm sweeping aside a jagged piece of the exhaust grille you previously loosened. 
+
+You lunge through the opening, your movements a blur of optimized kinetic frames. Kels (Lvl 1) scrambles through after you, clutching his datapad to his chest. You drop three stories into the darkness of the lower foundry catwalks, the 'Shorings of the Broken Lord' absorbing the impact with a silent hiss. Above, the white searchlights of the Viper drones sweep the vault's interior, but you are already ghosting into the labyrinth of the scrapyards. 
+
+You gain **100 XP** for successfully evading the Imperial Guard search-party.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Reach Liora's Fallback: Navigate the scrapyards to find Liora and the Ghost Key.
+
+tell kadedus to lay low too*
+
+---
+
+#### Scene 58
+
+> 📍 **Sector 4 Industrial Scrapyards (The Dead-Zone)** &nbsp;|&nbsp; ⏳ **ATC 1, 15 ATC (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Credits: 50 | XP: 780/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 1/3, Void Siphon: 2/3, Void Trance: 1/2, Unawakened Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Void Trance (active) | Exhaustion: 0 | Notoriety: 89 (Sovereign Threat)**
+
+Deep Night (19:35:00) in the Sector 4 Industrial Scrapyards—the air is a toxic, swirling slurry of radioactive rust and the sharp tang of ozone. Above, the white searchlights of the 'Viper' scryer-drones sweep the mountains of scrap with insectile precision. You press your back against the jagged remains of a discarded heavy freighter hull, your charcoal robes blending perfectly into the shadows of the machinery. Thanks to the cold, predatory focus of your Void Trance, you move through the sensor-sweeps like a glitch in the Imperial logic; the drones pass within meters of your position, their thermal arrays failing to register the anomaly that has frozen its own body heat to match the surrounding stone.
+
+[DEBUG_ROLL_START]Stealth (Avoid Drones): 1d20+4 = 20+4 = 24 vs DC 16 (Critical Success)[DEBUG_ROLL_END]
+
+However, navigating the shifting architecture of the scrapyard is proving to be a more difficult equation. Kels (Lvl 1) crouches beside you, his hands shaking as he stares at the wall of rusted droid chassis and sparking power conduits. "The relocation coordinates... Liora Talen (Lvl 1) said Sub-level 3, but the ground-quakes from the Imperial Guard's arrival have shifted the debris. I can't find the hatch-marker, Tenebria (Lvl 2). It’s all just... trash."
+
+[DEBUG_ROLL_START]Investigation (Find Liora): 1d20+3 = 4+3 = 7 vs DC 14 (Failure)[DEBUG_ROLL_END]
+
+You attempt to bypass the communications blackout, tapping a high-frequency burst-signal into your datapad meant for Kaedus Vex (Lvl 1). You try to channel the dark side into the device's transmitter, hoping to punch through the interference with a localized resonance spike. But the Academy's network is a durasteel wall. Your screen flickers with a jagged, static-filled red: *SIGNAL NEUTRALIZED. BLACKOUT ACTIVE.* Kaedus remains in the dark, unaware of the scryers converging on the sector.
+
+[DEBUG_ROLL_START]Signal Kaedus (Arcana): 1d20+5 = 6+5 = 11 vs DC 15 (Failure)[DEBUG_ROLL_END]
+
+You are a ghost in the machine, perfectly hidden but currently lost in the roots of your own sanctuary. The Imperial Guard troopers are moving closer, their boots thudding against the upper catwalks. You have minutes before they widen their search area and stumble upon the dead-zone you're currently trapped in.
+
+> 👤 **Player:**
+> *"getting bored, lets just time skip through this, assume i get away, roll for outcomes, long rest and see what the aftermath is. then go back to class and lets focus on my dark side lessons and itneractions with other students"*
+
+---
+
+#### Scene 59
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 3, 15 ATC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade | HP: 18/18 | Notoriety: 75 (Sovereign Threat) | XP: 780/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Void Trance: 2/2, Void Siphon: 3/3, Unawakened Spark: 1/1, Exhaustion: 0**
+
+Morning (08:00:00) in the Sith Academy Central Atrium—the crimson light of the plasma furnaces feels colder than it did forty-eight hours ago. You stand in the assembly line, your charcoal robes pristine, your striking features once again masked by a thin layer of carefully applied industrial dust. The memory of the scrapyards is a sequence of static-filled frames: the natural 20 you rolled in your blood as you ghosted through a collapsed coolant main, leaving the Imperial Guard shock-troopers to kick through empty piles of scrap. 
+
+You spent two days in the 'Dead-Zone' of the lower foundations, meditating in the freezing dark while Liora Talen (Lvl 1) worked with the Horuset power cell. The woman is a genius; she delivered the **Ghost Key** into your palm just hours ago—a flickering hardware bypass that hums with the resonance of a Count's blood. But the escape wasn't perfect. A stray scryer-drone caught a biometric profile before you vanished; the Citadel now knows the name of the 'Anomaly' that stole a Duke's transport. Your Notoriety has reached the threshold of a **Sovereign Threat (75)**.
+
+Overseer Harkun (Lvl 12) paces the dais, his yellow eyes locking onto you the moment you enter his line of sight. He doesn't sneer. He doesn't yell. He simply stops, a slow, predatory grin spreading across his scarred face. "Vane (Lvl 2). Welcome back from the abyss. Your... extracurricular activities have reached the ears of the Dark Council. It seems your 'industrial fluke' has become a matter of state security."
+
+He gestures to the dueling ring, where a new group of acolytes—these ones older, more scarred, and radiating a disciplined malice—wait with live practice blades. "Today, we move past theory. Lord Varick Horuset (Lvl 15) has requested a personal demonstration of your 'Sovereign' potential. You will be paired against the top of the Neophyte tier. The rules are simple: the first one to stop breathing provides the lesson."
+
+God Mode:
+prob i should get some exp for escapaing? lets also assuem some level of sabotage and killing are ok between factions since we are sith, even encouraged as long as it doesnt cause too much trouble.
+
+---
+
+#### Scene 60
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 3, 15 ATC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade (Lvl 3 available) | HP: 18/18 | Gold: 50 Credits | XP: 1030/900** &nbsp;|&nbsp; ⚠️ **Sovereign Threat (Notoriety 75)**
+
+Administrative Summary:
+
+1. **XP Awarded**: +250 XP for the 'Ghost Escape' from the Imperial Guard search-party and surviving two days in the foundations Dead-Zone under Sovereign Threat conditions.
+2. **Level Up Available**: Your new total of 1030 XP crosses the 900 XP threshold for Level 3. The level-up modal is now available.
+3. **New Campaign Directive**: Added the 'Sith Law of Survival' assumption. Sabotage and elimination between houses are now officially recognized as standard political currency in your narrative environment.
+4. **State Hygiene**: Marked previous combat rewards as processed and synchronized the Notoriety status.
+
+God Mode:
+harkun might even find it funny galen got killed by me
+
+lets assume i looted galen  too, what did i get
+
+---
+
+#### Scene 61
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 3, 15 ATC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade (Lvl 3 available) | HP: 18/18 | Gold: 300 credits | XP: 1030/900** &nbsp;|&nbsp; ⚠️ **Void Trance (Dormant) | Notoriety: 75 (Sovereign Threat)**
+
+Administrative Summary: Retroactive looting of Galen Horuset completed. Added aristocratic assets and equipment to inventory. Updated campaign directives to reflect Overseer Harkun's morbid amusement regarding Galen's execution.
+
+**Loot Obtained from Galen Horuset:**
+- **Masterwork Horuset Vibrosword:** (1d8+2 slashing, Versatile 1d10, Finesse). A high-quality blade of polished black chrome with the Horuset crest.
+- **Fine Horuset Silk Robes:** Intricately embroidered garments. Can be traded for high value or used as a high-born disguise (Advantage on Deception to pass as a noble).
+- **House Horuset Signet Ring:** A heavy gold ring bearing the Horuset sigil. Provides +5 Leverage in the Infrastructure Ledger and can be used to bypass low-level House Horuset security gates.
+- **250 Imperial Credits:** A significant sum for an acolyte, recovered from Galen's hidden credit-chip.
+
+**Narrative Note:** Overseer Harkun's psychological profile has been updated. He views the death of Galen not as a loss to the Empire, but as a hilarious irony—a 'high-born' failure being pruned by a 'rat.' This increases his interest in your utility while decreasing his respect for the Horuset line.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Level Up to Level 3 - Access the level-up modal to select new abilities, spells, and increase your vitality.*
+
+---
+
+#### Scene 62
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 3, 15 ATC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade (Lvl 3 available) | HP: 18/18 | Gold: 300 (Credits) | XP: 1030/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 (Level 3 pending) | Void Siphon: 3/3 | Trance: 2/2**
+
+Recommended package: Fixed HP (+7), add Mirror Image and Misty Step to spellbook, and prepare Shield, Absorb Elements, Magic Missile, Thunderwave, Mirror Image, and Misty Step.
+
+Automatic gains: Hit Die total 3d10, +1 1st-level spell slot (4 total), +2 2nd-level spell slots (2 total), Spellcasting (Intelligence ability, spell save DC 13, spell attack bonus +5).
+
+You step back from the assembly line, the cold hum of the dark side in your marrow guiding you toward a shadowed alcove. The 'Ghost Key' feels heavy against your palm, a reminder of the variables you have already solved. As you center your focus, the predatory architecture of your power begins to shift. You are no longer merely reacting to the kinetic world; you are learning to bend the geometry of reality itself. The void within you expands, carving out new reservoirs for the manifestations of the Second Tier.
+
+> 👤 **Player:**
+> *"what else can i pick. i want misty step and maybe something else"*
+
+---
+
+#### Scene 63
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 3, 15 ATC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade (Lvl 3 available) | HP: 18/18 | Gold: 300 credits | XP: 1030/900** &nbsp;|&nbsp; ✨ **HD: 2/2 | Spells: L1 3/3 (Level 3 pending) | Void Trance: 2/2 | Siphon: 3/3**
+
+Recommended package: Fixed HP (+7), add Mirror Image and Misty Step to your spellbook (substitutable), and prepare Shield, Absorb Elements, Magic Missile, Thunderwave, Mirror Image, and Misty Step. 
+
+Automatic gains: Hit Die total 3d10, +1 1st-level spell slot (4 total), +2 2nd-level spell slots (2 total), Spellcasting (Intelligence ability, spell save DC 13, spell attack bonus +5).
+
+As a Sith Blade reaching the second tier of manifestations, you have access to any 2nd-level Wizard spell. Beyond *Misty Step*, which you requested, highly optimal choices for your ascension include:
+
+- **Shadow Blade**: Manifest a humming blade of solidified gloom that deals 2d8 psychic damage (Advantage in dim light/darkness).
+- **Hold Person**: Paralyze a humanoid target with a surge of dark side suppression.
+- **Blindness/Deafness**: A non-concentration curse that complements your 'Iron Scalpel' utility strikes.
+- **Mirror Image**: Create three illusory duplicates to scramble enemy targeting data.
+
+Mirror Image is currently included in your recommended package for maximum defensive coverage during the upcoming Neophyte trial, but you may swap it for any of the above or another Wizard spell by naming it in your response.
+
+> 👤 **Player:**
+> *"i should have galen's weapon, make sure its equipped, then is shadow blade weaker or stronger?"*
+
+---
+
+#### Scene 64
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 3, 15 ATC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade (Lvl 3 available) | HP: 18/18 | Notoriety: 75 | XP: 1030/900** &nbsp;|&nbsp; ✨ **HD: 2/2, Spells: L1 3/3, Void Siphon: 3/3, Trance: 2/2, Unawakened Spark: 1/1**
+
+Recommended package: Fixed HP (+7), learn Shadow Blade and Misty Step, and prepare Shield, Absorb Elements, Magic Missile, Thunderwave, Shadow Blade, and Misty Step.
+
+Automatic gains: Hit Die total 3d10, +1 1st-level spell slot (4 total), +2 2nd-level spell slots (2 total), Spellcasting (Intelligence ability, spell save DC 13, spell attack bonus +5).
+
+Regarding your arsenal, the **Masterwork Horuset Vibrosword** is now secured in your main hand. Compared to your *Iron Scalpel*, it offers superior reach and raw damage (1d8+5 vs 1d6+5), though it lacks the specific nerve-strike utility of your custom modification. 
+
+As for your query: **Shadow Blade** is significantly stronger in terms of raw damage potential and tactical advantage. While your vibrosword deals a reliable **1d8+5 (avg 9.5)** damage, *Shadow Blade* manifests a blade of solidified void dealing **2d8+3 (avg 12)** psychic damage. Furthermore, it grants you advantage on attack rolls in dim light or darkness—which the Academy's tombs have in abundance. However, it is a concentration spell and consumes a 2nd-level slot, whereas your vibrosword requires no such resource. 
+
+You stand in the assembly line, the weight of the Horuset blade at your hip and the Ghost Key hidden in your sleeve. The air is thick with the anticipation of the Neophyte trials. You feel the boundaries of your power pushing outward, the dark side ready to weave through your new manifestations.
+
+> 👤 **Player:**
+> *"ok shadow balde, misty step, and lets assuem i got booming blade and green flame blade cantrips and as a sith i get all the lightning spells for free and they are  themed force lightning etc"*
+
+---
+
+#### Scene 65
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 3, 15 ATC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 2 Sith Blade (Lvl 3 available) | HP: 25/25 | Gold: 300 | XP: 1030/900** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Trance: 2/2 | Siphon: 3/3 | Spark: 1/1** &nbsp;|&nbsp; ⚠️ **Sovereign Threat (Notoriety: 75)**
+
+Morning (08:05:00) in the Sith Academy Central Atrium—the transition from meditation to the cold reality of the assembly floor is instantaneous. The boundaries of your power have solidified; the predatory geometry of the dark side now flows through your limbs with a lethal fluidity. You have integrated the 'Shadow Blade' and 'Misty Step' into your manifestations, and the industrial echoes of the foundries have been refined into the 'Booming Blade' and 'Green-Flame' kinetic forms. Most significantly, the Emperor’s blood in your marrow has granted you a spontaneous affinity for the storm—all lightning manifestations, the dreaded Force Lightning of the Sith Lords, now respond to your will as a biological right.
+
+You stand in the circle, your charcoal robes clean of soot, the **Masterwork Horuset Vibrosword** sheathed at your hip with an arrogant, polished sheen. Overseer Harkun (Lvl 12) paces the edge of the dueling ring, his gaze lingering on you. For a moment, his yellow eyes widen as he takes in your face—the grime is gone, revealing a striking, aristocratic symmetry that is entirely out of place for a 'factory rat.' He doesn't comment on it, but the mockery in his voice is replaced by a sharpened curiosity.
+
+"The anomaly has teeth," Harkun (Lvl 12) says, his voice carrying through the hushed atrium. He gestures to the far side of the ring, where a Neophyte (Lvl 4) named Jaxen waits. Jaxen is older, his skin etched with Sith tattoos, and he holds a live, humming lightsaber. "Jaxen is the favorite of House Krail. He has survived the tombs of Dromund Kaas. He believes your presence here is a biological error. Correct him, Vane (Lvl 3). The lesson begins now."
+
+Jaxen (Lvl 4) ignites his blade—a beam of unstable crimson—and drops into a heavy Shii-Cho stance. The air in the ring begins to ionize as the crowd of acolytes leans forward, sensing the shift from a mere execution to a collision of variables.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Recommended Options and Return to Game - Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
+
+[SELECTED_CHOICE_CONTEXT]
+selected_choice_id: finish_level_up_return_to_game
+This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target level into `player_character_data.level`, cascade-recompute proficiency bonus, max HP, and spell slots from that committed level, and clear the level-up modal flags.
+XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
+[/SELECTED_CHOICE_CONTEXT]*
+
+---
+
+#### Scene 66
+
+> 📍 **Sith Academy Central Atrium** &nbsp;|&nbsp; ⏳ **ATC 3, 15 ATC (08:00)** &nbsp;|&nbsp; 🛡️ **Lvl 3 Sith Blade | HP: 25/25 | Gold: 300gp | XP: 1030/2700** &nbsp;|&nbsp; ✨ **HD: 3/3 | Spells: L1 4/4, L2 2/2 | Void Siphon: 3/3 | Spark: 1/1 | Trance: 2/2** &nbsp;|&nbsp; ⚠️ **Void Trance | Exhaustion: 0 | Inspiration: No**
+
+The cold hum in your marrow reaches a razor-sharp frequency as your focus snaps into absolute alignment. The transition is seamless; to the surrounding acolytes, you simply ceased being an 'industrial rat' and became a silent vacuum in the Force. Your charcoal robes, now clean of the Dromund Kaas soot, drape over a frame that radiates a quiet, lethal authority. The predatory geometry of your Emperor’s blood is no longer a chaotic vibration; it is a calculated manifestation of the dark side, ready to be channeled through the new forms of Shadow Blade and your innate lightning affinity.
+
+Jaxen (Lvl 4) lunges, his crimson blade carving a scorched arc through the air. The Shii-Cho form is heavy and aggressive, a series of static kinetic variables you’ve already solved. You don't draw your vibrosword yet. Instead, you lean into your Acolyte’s Evasion, your body shifting with a striking, aristocratic grace that leaves Jaxen’s strike hitting nothing but ionized air. 
+
+"The rat has grown a spine," Jaxen (Lvl 4) growls, his tattoos glowing with a malevolent light as he recalibrates his stance. "But a spine is easily snapped."
+
+Overseer Harkun (Lvl 12) leans forward from the obsidian dais, his yellow eyes bared in a grin of sharpened curiosity. The atrium is silent, the flickering furnace light casting your shadow across the stone—a shadow that seems to linger and pulse with a life of its own. The duel has truly begun.
+
+---
+

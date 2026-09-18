@@ -1,38 +1,18 @@
 ---
-title: "DOS 2"
-type: source
-tags: [campaign, worldarchitect, dos-2]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/Y9FLXVtLaQe2hSksEcjd/DOS 2_Y9FLXVtL.txt
-campaign_id: Y9FLXVtLaQe2hSksEcjd
-entry_count: 74
-last_updated_iso: 2026-07-13T02:33:43.539760+00:00
-ingest_batch: batch-2026-07-12-50plus
+title: "DOS 2_Y9FLXVtL"
+campaign_id: "Y9FLXVtLaQe2hSksEcjd"
+scenes_total: 37
+exported_from: "https://worldarchitect.ai"
 ---
 
-God Mode:
-Description: # RIVELLON UNDER THE EMERALD ECLIPSE: A GESTALT TIER-4 CAMPAIGN ANTHOLOGY
-## CHAPTER I: THE MECHANICAL ARCHITECTURE OF THE GOD-SHADOW
-When you stood at the apex of the First Garden and chose the path of absolute, unyielding tyranny, you did not merely claim a title. By consuming Lucian the Divine and Dallis the Hammer, you systematically monopolized the cosmic lifeblood of Rivellon. The Veil remains intact, but it is no longer anchored by a pantheon of squabbling deities or the fragile sacrifices of the pure; it is tethered exclusively to your living soul.
-Because you chose to pursue your ascension through blinding speed, immaculate grace, and absolute stealth, your divine chassis does not manifest as a lumbering, iron-clad juggernaut. Instead, you are a silent, breathtaking apex predator—a high-elven or perfected Eternal silhouette clad in dark, supple medium armor, slipping through the shadows with a pair of flawlessly forged finesse blades that flash with the stolen radiance of the gods.
-To represent this mythic tier of power, your character utilizes a **Level 12 to 30 Gestalt Character Sheet**, blending the absolute martial authority of a modified **Oath of Conquest Paladin** with the infinite cosmic reservoir of a **Source Soul Sorcerer** (a dark adaptation of the Divine Soul). You do not multiclass or split your levels; at every milestone from your starting point at Level 12 up to your ultimate transcendence at Level 30, you gain the features, spellcasting progression, and raw mechanical benefits of both classes simultaneously.
-### Core Character Statistics & Attributes (Level 12 Base)
- * **Hit Dice:** 12	ext{d}12 (Custom Tyrant Divine chassis) + Constitution modifier.
- * **Saving Throws:** Charisma (+9 with Aura) and Constitution (+4).
- * **Armor Class (AC):** **19** (Half-Plate Medium Armor: Base 15 + Max 2 from Dex + 1 from Fighting Style + 1 from high-tier ring/cloak of protection).
- * **Stealth Modifier:** +12 or higher (utilizing proficiency and Dexterity).
- * **Charisma: 20 (+5)** — Your *Immaculate Presence* is at its absolute peak. Your words manipulate royal courts, your beauty intoxicates mortals, and your spell save DC is a terrifying **17**.
- * **Dexterity: 18 (+4)** — You strike with blinding velocity. You utilize Finesse weapons (such as dual obsidian rapiers or shadow-infused daggers) for your weapon attacks and your reality-rending *Divine Smites*.
-```
-====================================================================
-                     THE SOVEREIGN LEDGER
-====================================================================
-  [Class Chassis]   Gestalt Paladin (Conquest) / Sorcerer (Source Soul)
-  [Starting Level]  Level 12 (Adjusting to the Torrent of Divinity)
-  [Max Level]       Level 30 (The God-Slayer Apotheosis)
-  [Primary Stats]   Charisma: 20 (+5), Dexterity: 18 (+4)
-  [Spell Access]    Sorcerer, Paladin, and Cleric Lists (Charisma-based)
-====================================================================
+
+# ⚔️ DOS 2_Y9FLXVtL
+> *A WorldArchitect.AI Chronicle*
+
+---
+
+
+## 🛡️ Part I: Campaign Background
 
 ```
 ## CHAPTER II: THE LEVEL 12 TO 30 PROGRESSION MATRIX
@@ -246,23 +226,68 @@ You must use your high-Dexterity stealth to hunt down and assassinate the ghosts
  * **Word Count:** 3,124 words
  * **Estimated Token Count:** ~3,940 tokens
 
-============================================================
-SCENE 1
-============================================================
-Game Master:
+## 🗺️ Scene Index & Timeline
+
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| **01** | Unknown |  | Roleplay |
+| **02** | The First Garden (Memory Cluster) |  | Roleplay |
+| **03** | The First Garden |  | Roleplay |
+| **04** | The First Garden | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| **05** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| **06** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| **07** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:00) | Roleplay |
+| **08** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:05) | Roleplay |
+| **09** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:10) | Roleplay |
+| **10** | Arx - The Eternal Throne | Mirtul 15, 1492 DR (12:15) | Skill Check / Combat |
+| **11** | Arx - Cathedral Square | Mirtul 15, 1492 DR (12:45) | Skill Check / Combat |
+| **12** | Arx - The Iron Dungeons | Mirtul 15, 1492 DR (13:00) | Skill Check / Combat |
+| **13** | Arx - The Iron Dungeons | Mirtul 15, 1492 DR (13:15) | Skill Check / Combat |
+| **14** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:25) | Skill Check / Combat |
+| **15** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:26) | Skill Check / Combat |
+| **16** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:30) | Skill Check / Combat |
+| **17** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:30) | Roleplay |
+| **18** | Arx - The Harbor Warehouse | Mirtul 15, 1492 DR (13:35) | Skill Check / Combat |
+| **19** | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:40) | Skill Check / Combat |
+| **20** | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:41) | Skill Check / Combat |
+| **21** | Arx - Sunken Vault Lift Shaft | Mirtul 15, 1492 DR (13:42) | Skill Check / Combat |
+| **22** | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Skill Check / Combat |
+| **23** | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
+| **24** | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
+| **25** | Arx - Sunken Vault Entrance | Mirtul 15, 1492 DR (13:43) | Roleplay |
+| **26** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:45) | Skill Check / Combat |
+| **27** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Skill Check / Combat |
+| **28** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
+| **29** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
+| **30** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:46) | Roleplay |
+| **31** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:47) | Skill Check / Combat |
+| **32** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:47) | Skill Check / Combat |
+| **33** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Skill Check / Combat |
+| **34** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Roleplay |
+| **35** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Roleplay |
+| **36** | Arx - Sunken Vault Interior | Mirtul 15, 1492 DR (13:49) | Skill Check / Combat |
+| **37** | Arx - Sunken Vault Records Chamber | Mirtul 15, 1492 DR (13:53) | Skill Check / Combat |
+
+---
+
+
+## 📖 Part IV: The Adventure Chronicle
+
+#### Scene 1
+
+> 
+
 [Character Creation Mode - Story begins after character is complete]
 
-Player (freeform):
-Start character creation
+> 👤 **Player:**
+> *"Start character creation"*
 
-============================================================
-SCENE 2
-============================================================
-[[CHARACTER CREATION]
-Status: Initializing Divine Chassis... | XP: 0/300
-Location: The First Garden (Memory Cluster)]
+---
 
-Game Master:
+#### Scene 2
+
+> 📍 **The First Garden (Memory Cluster)** &nbsp;|&nbsp; 🛡️ **Initializing Divine Chassis... | XP: 0/300**
+
 CAMPAIGN SUMMARY
 Title: RIVELLON UNDER THE EMERALD ECLIPSE: A GESTALT TIER-4 CAMPAIGN ANTHOLOGY
 Character: Not specified
@@ -285,18 +310,15 @@ I have reviewed the Sovereign Ledger. You are destined to be a Tier-4 Gestalt en
 
 How shall we proceed with your creation?
 
-Player (choice: choose_option_1):
-Option 1: [AIGenerated] - Proceed with a pre-configured High-Elf 'Tyrant Divine' build. I will generate a complete Level 12 Gestalt sheet including optimized skill proficiencies (Stealth, Persuasion, Intimidation, Insight), starting gear (Dual Obsidian Rapiers), and a curated spell list derived from the Sorcerer and Paladin pools.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Option 1: [AIGenerated] - Proceed with a pre-configured High-Elf 'Tyrant Divine' build. I will generate a complete Level 12 Gestalt sheet including optimized skill proficiencies (Stealth, Persuasion, Intimidation, Insight), starting gear (Dual Obsidian Rapiers), and a curated spell list derived from the Sorcerer and Paladin pools.*
 
-============================================================
-SCENE 3
-============================================================
-[[CHARACTER CREATION]
-Status: Reviewing Divine Chassis... | XP: 0/300
-Location: The First Garden]
-Resources: Level 12 Gestalt: Paladin (Conquest) / Sorcerer (Source Soul)
+---
 
-Game Master:
+#### Scene 3
+
+> 📍 **The First Garden** &nbsp;|&nbsp; 🛡️ **Reviewing Divine Chassis... | XP: 0/300** &nbsp;|&nbsp; ✨ **Level 12 Gestalt: Paladin (Conquest) / Sorcerer (Source Soul)**
+
 I have woven the threads of your stolen divinity into a perfected High-Elf silhouette. Your divine chassis is optimized for the blinding speed and absolute presence required to maintain your monopoly over Rivellon. This build focuses on maximum Charisma for your spells and auras, paired with high Dexterity for lethal finesse strikes.
 
 ### [AIGenerated] Character Profile: Aethelred
@@ -335,36 +357,28 @@ I have woven the threads of your stolen divinity into a perfected High-Elf silho
 
 **Justification:** This build leverages your Immaculate Presence and high Charisma to ensure your psychological dominance over royal courts and enemies alike, while your high Dexterity and Stealth allow you to act as a silent predator within the shadows of the Veil. It perfectly encapsulates the 'silent apex predator' archetype established in your ascension.
 
-Player (freeform):
-Probably should have some better gear like +3 or best gear in dos2 and a good amount of gold?
+> 👤 **Player:**
+> *"Probably should have some better gear like +3 or best gear in dos2 and a good amount of gold?"*
 
-============================================================
-SCENE 4
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 12:00:00
-Location: The First Garden
-Status: Lvl 1 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 0/300
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
+---
 
-Game Master:
+#### Scene 4
+
+> 📍 **The First Garden** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 0/300** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 As the Tyrant Divine, your arsenal should indeed reflect the absolute monopoly you hold over the Source of Rivellon. The shadows of the First Garden cohere at your command, manifesting as blades forged from pure, non-reflective obsidian, their edges vibrating with a +3 divine enchantment. Your armor, once supple leather, hardens into dark, masterwork half-plate that moves with the grace of silk but offers the protection of a fortress. 
 
 Beyond your weaponry, your influence is felt in the treasury of Arx. The Eternal Throne does not start as a beggar's seat; I have allocated 50,000 gold pieces to your personal coffers—the wealth of a world redirected to its rightful owner. You stand ready, Aethelred. The high-elf silhouette you have chosen is now perfectly equipped to hunt the phantoms of the old world and secure your emerald reign.
 
-Player (freeform):
-It says level 1? Make sure I am level 12
+> 👤 **Player:**
+> *"It says level 1? Make sure I am level 12"*
 
-============================================================
-SCENE 5
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 12:00:00
-Location: Arx - The Eternal Throne
-Status: Lvl 1 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
+---
 
-Game Master:
+#### Scene 5
+
+> 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Midday (12:00:00) in the High-Spire City of Arx—the error in the celestial ledger has been rectified. You do not stand as a novice, but as a Tier-4 Sovereign, the volatile torrent of Level 12 Source now stabilized within your perfected High-Elf frame. 
 
 The grand cathedral of Arx, once the seat of Lucian the Divine, has been purged of its old icons. Banners of emerald green and absolute black now drape from the vaulted ceilings, bearing your crest: the crescent moon and the broken sword. You sit upon the Eternal Throne, carved from shadow-infused stone, looking out over a city that is quiet—perhaps too quiet. 
@@ -378,27 +392,23 @@ You gain **0 XP** for assuming your rightful seat. The world of Rivellon awaits 
 God Mode:
 I should be level 12 fix it
 
-============================================================
-SCENE 6
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 12:00:00
-Location: Arx - The Eternal Throne
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000]
+---
 
-Game Master:
+#### Scene 6
+
+> 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000**
+
 Administrative Correction: Character level has been hard-set to 12 in the game state. Experience remains at 100,000 (Level 12 threshold). The UI and session headers will now correctly reflect your Tier-4 status.
 
 God Mode:
 Spell list is missing
 
-============================================================
-SCENE 7
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 12:00:00
-Location: Arx - The Eternal Throne
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000]
+---
 
-Game Master:
+#### Scene 7
+
+> 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000**
+
 Administrative Summary: Generated a curated Tier-4 spell list for Aethelred. As a Gestalt Paladin/Sorcerer with Cleric access, your list focuses on psychological dominance, tactical mobility, and high-impact divine destruction.
 
 **Cantrips (At-Will):**
@@ -414,59 +424,47 @@ Administrative Summary: Generated a curated Tier-4 spell list for Aethelred. As 
 
 State has been updated with these entries.
 
-Player (choice: god:return_story):
-Return to Story - Exit God Mode and resume your reign in Arx with your full spellbook initialized.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Story - Exit God Mode and resume your reign in Arx with your full spellbook initialized.*
 
-============================================================
-SCENE 8
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 12:05:00
-Location: Arx - The Eternal Throne
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
+---
 
-Game Master:
+#### Scene 8
+
+> 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Midday (12:05:00) in the High-Spire City of Arx - The Eternal Throne—the weight of your newly consolidated divinity settles over the chamber like a physical shroud. The flickering emerald light of the Source Vision dancing behind your eyes reveals the intricate latticework of the city's lifeforce, but it also highlights the growing coldness in the streets below. 
 
 Malady (Lvl 12) pushes away from the pillar, her gaze fixed on the strategy map. "Now that your arsenal is complete, Divine, the reality of our situation remains unchanged. The Silver Crusade is strangling us. Hardwin (Lvl 18) is no fool; he knows he cannot match you in a duel of Source, so he chooses to starve your subjects until they beg for their old 'Light' back." 
 
 General Kaelen (Lvl 12) rests a hand on the pommel of his obsidian blade, his voice a low rumble. "The harbor is quiet, and the northern roads are ash. We have the gold to buy a thousand lives, but we cannot buy time. Every hour we sit on this throne without action is an hour Hardwin spends fortifying Fort Joy. Give the word, Aethelred (Lvl 12). Shall we strike at the root, or prune the branches here in Arx?"
 
-Player (freeform):
-Ask why fort joy important strategically
+> 👤 **Player:**
+> *"Ask why fort joy important strategically"*
 
-============================================================
-SCENE 9
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 12:10:00
-Location: Arx - The Eternal Throne
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
+---
 
-Game Master:
+#### Scene 9
+
+> 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Midday (12:10:00) in the High-Spire City of Arx - The Eternal Throne—the question hangs in the cool air of the cathedral, and for a moment, the only sound is the distant, rhythmic tolling of a city bell. Malady (Lvl 12) taps a slender finger against the map of the northern coast, tracing the jagged shoreline where the fortress of Fort Joy stands like a sentinel of the past.
 
 "Fort Joy is not merely a pile of stone, Divine," Malady (Lvl 12) explains, her voice dropping to a conspiratorial hum. "In the old days, it was a cage for Sourcerers—a place where the Magisters 'cured' people like us by hollowing out their souls. Today, it serves a different, more lethal purpose. It is the geographic throat of the north. Every grain wagon, every tax shipment, and every scrap of lumber intended for Arx must pass within sight of its towers. By holding it, Hardwin (Lvl 18) doesn't need to attack our walls; he simply needs to keep the gate closed."
 
 General Kaelen (Lvl 12) leans over the table, his obsidian gauntlet casting a long shadow over the map. "Strategically, it is his primary staging ground. He has converted the old holding cells into barracks and the harbor into a fortified shipyard. If we allow him to continue his build-up, Fort Joy will become the anvil upon which he breaks our empire. If we take it, we don't just restore our supply lines—we seize the only deep-water port capable of launching an armada against the Silver Crusade's heartlands. We take the Joy, we take the North."
 
-Player (freeform):
-Ask about hiring mercenaries and how much it would cost
+> 👤 **Player:**
+> *"Ask about hiring mercenaries and how much it would cost"*
 
-============================================================
-SCENE 10
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 12:15:00
-Location: Arx - The Eternal Throne
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '1d20+13', 'label': 'Negotiate Umbral Court Rates (Persuasion Expertise)', 'result': 23, 'type': 'Negotiate Umbral Court Rates (Persuasion Expertise)', 'modifier': 13, 'faces': '10'}
+---
 
-Game Master:
+#### Scene 10
+
+> 📍 **Arx - The Eternal Throne** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+13` ➔ **23** &nbsp;*(Negotiate Umbral Court Rates (Persuasion Expertise))*
+
 Midday (12:15:00) in the High-Spire City of Arx - The Eternal Throne—hiring a small strike force of Lone Wolves will cost 10,000 gold pieces, while a full-scale naval distraction is priced at 25,000 gold. 
 
 Malady (Lvl 12) circles the strategy table, her eyes glinting with a sharp, predatory amusement. "The Umbral Court doesn't trade in loyalties, Divine—they trade in results. Normally, for a job of this scale, they'd ask for 40,000 just to look at the contract. But your reputation precedes you. The mere fact that you sit upon Lucian's throne makes them... amenable to a 'Sovereign Discount.'"
@@ -477,21 +475,17 @@ As the council deliberates, a frantic page enters the hall, his face pale. He wh
 
 You gain **0 XP** for this strategic consultation.
 
-Player (choice: purge_arx_sympathizers):
-Purge Arx First - Respond to the executions by rounding up Crusade sympathizers within the city to secure your base.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Purge Arx First - Respond to the executions by rounding up Crusade sympathizers within the city to secure your base.*
 
-============================================================
-SCENE 11
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 12:45:00
-Location: Arx - Cathedral Square
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 102000/120000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '1d20+13', 'label': 'City-wide Purge (Intimidation Expertise)', 'result': 33, 'type': 'City-wide Purge (Intimidation Expertise)', 'modifier': 13, 'faces': '20'}
+---
 
-Game Master:
+#### Scene 11
+
+> 📍 **Arx - Cathedral Square** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 102000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+13` ➔ **33** &nbsp;*(City-wide Purge (Intimidation Expertise))*
+
 Afternoon (12:45:00) in the High-Spire City of Arx - Cathedral Square—the air is thick with the scent of ozone and iron as your decree is carried out with surgical, terrifying precision. You do not simply send guards; you descend into the streets yourself, your Sovereign Aura (Lvl 12) radiating a cold, inescapable dominance that freezes the breath in the lungs of every commoner you pass. The emerald flare of your Source Vision (Lvl 12) pierces the facades of the city's merchant houses, highlighting the frantic, guilty pulses of those who have been funneling coin to the Silver Crusade.
 
 The purge is not a riot; it is a harvesting. You stand in the center of the square, your obsidian rapiers sheathed but your presence acting as a living weight that brings the rebellious to their knees. Your Immaculate Presence (Lvl 12) makes even the most fanatical Crusade sympathizers weep with a mixture of terror and intoxicating awe as they are dragged from their cellars. By the time the bells toll for the third quarter-hour, the Cathedral Square is filled with three hundred prisoners and, more importantly, forty wagons of grain that had been hidden beneath 'consecrated' church flooring.
@@ -502,21 +496,17 @@ General Kaelen (Lvl 12) stands over a kneeling merchant lord, his gauntlet resti
 
 You gain **2,000 XP** for the absolute stabilization of your capital and the recovery of critical strategic intelligence.
 
-Player (choice: interrogate_high_value_targets):
-Interrogate High-Value Prisoners - Use your mental arcana and Presence to extract the exact location of Hardwin's 'anti-divine' relic from the captured merchant lords.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Interrogate High-Value Prisoners - Use your mental arcana and Presence to extract the exact location of Hardwin's 'anti-divine' relic from the captured merchant lords.*
 
-============================================================
-SCENE 12
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:00:00
-Location: Arx - The Iron Dungeons
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 104000/120000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '2d20kh1+13', 'label': 'Interrogate High-Value Prisoners (Intimidation with Advantage)', 'result': 32, 'type': 'Interrogate High-Value Prisoners (Intimidation with Advantage)', 'modifier': 13, 'faces': '3,19'}
+---
 
-Game Master:
+#### Scene 12
+
+> 📍 **Arx - The Iron Dungeons** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 104000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `2d20kh1+13` ➔ **32** &nbsp;*(Interrogate High-Value Prisoners (Intimidation with Advantage))*
+
 Early afternoon (13:00:00) in the High-Spire City of Arx - The Iron Dungeons—the air here is stagnant, tasting of damp salt and the metallic tang of old blood. You descend the spiral stone stairs, your shadow stretching long and monstrous against the torchlit walls. Behind you, General Kaelen (Lvl 12) walks with a heavy, rhythmic stride, while Malady (Lvl 12) remains a ghost in the periphery, her eyes fixed on the row of iron-barred cells.
 
 In the central interrogation chamber, three merchant lords—once the wealthiest men in Arx—shiver in their fine, dirt-stained silks. You step into the center of the room, and the temperature seems to drop as your Sovereign Aura (Lvl 12) expands. You don't speak initially; you simply let the emerald fire of your Source Vision (Lvl 12) rake over them, peeling back their layers of denial until you see the raw, pulsing terror of their souls. Your Immaculate Presence (Lvl 12) makes the very walls feel as though they are closing in on them.
@@ -527,29 +517,28 @@ Merchant Lord Valois (Lvl 4) collapses to his knees before you've even uttered a
 
 Valois breaks instantly. He babbles the truth through tears: the anti-divine relic is not in the keep itself. It is housed in a sunken, magically-shielded vault directly beneath the harbor of Fort Joy, accessible only through a hidden lift in the quartermaster's warehouse. It is guarded by a specialized contingent of 'Silver Shield' inquisitors trained specifically to neutralize Source-based incursions.
 
-[SOCIAL SKILL CHALLENGE: Merchant Lord Valois]
-Objective: Locate the anti-divine relic
-Social HP: 1/3 | Status: YIELDING
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Merchant Lord Valois**
+> **Objective:** Locate the anti-divine relic
+> Social HP: 1/3 | Status: YIELDING
+
 
 Malady (Lvl 12) steps forward, a dangerous glint in her mismatched eyes. "A sunken vault. Clever. It means any attempt to Ghost-Walk through the walls from above will likely drop you into high-pressure seawater or a magical dead-zone. We have the location, Aethelred (Lvl 12). Now we just need to decide how to breach it."
 
 You gain **2,000 XP** for extracting critical intelligence and breaking the last remnants of internal resistance.
 
-Player (freeform):
-Hire lone wolfs and delegate administration of city to someone who can stabilize it and bring economic value and tell me my daily income
+> 👤 **Player:**
+> *"Hire lone wolfs and delegate administration of city to someone who can stabilize it and bring economic value and tell me my daily income"*
 
-============================================================
-SCENE 13
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:15:00
-Location: Arx - The Iron Dungeons
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 104000/120000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '1d20+13', 'label': 'Find and Leash a City Administrator (Persuasion Expertise)', 'result': 22, 'type': 'Find and Leash a City Administrator (Persuasion Expertise)', 'modifier': 13, 'faces': '9'}
+---
 
-Game Master:
+#### Scene 13
+
+> 📍 **Arx - The Iron Dungeons** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:15)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 104000/120000** &nbsp;|&nbsp; ✨ **L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+13` ➔ **22** &nbsp;*(Find and Leash a City Administrator (Persuasion Expertise))*
+
 Daily income is currently 0 gold pieces per day because of the Silver Crusade's total economic embargo. Once the northern trade routes are reopened and Fort Joy is secured, your projected daily income from taxes and commerce is 3,500 gold pieces.
 
 Early afternoon (13:15:00) in the High-Spire City of Arx - The Iron Dungeons—the damp stones of the interrogation chamber echo with the finality of your decision. You peel 10,000 gold pieces from the imperial treasury, handing the heavy, magically-encrypted coin-purse to Malady (Lvl 12). 
@@ -562,26 +551,26 @@ Regarding the city's stabilization, your gaze falls upon a shivering, middle-age
 
 However, as you prepare to depart for the northern front, a shadow moves in the periphery. A Lone Wolf messenger, dressed in soot-stained leathers, materializes near Malady. He bears a grim report: the Silver Crusade is not waiting for your move. Hardwin (Lvl 18) has received word of the purge in Arx—likely through an information leak in the lower districts—and has ordered the Silver Shields to begin scuttling civilian ships in the harbor to create a permanent physical barrier.
 
-[SOCIAL SKILL CHALLENGE: Chancellor Bramwell]
-Objective: Stabilize Arx Economy
-Social HP: 3/5 | Status: WAVERING
 
-Player (choice: accelerated_harbor_strike):
-Accelerated Harbor Strike - Use Misty Step and Haste to reach the harbor warehouse before the Silver Shields finish scuttling the fleet.
 
-============================================================
-SCENE 14
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:25:00
-Location: Arx - The Harbor Warehouse
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 104000/120000
-Conditions: Haste (Concentration) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12 | Haste: 1/10 rds
-Dice Rolls:
-  - {'roll': '1d20+4', 'label': 'Accelerated Harbor Strike Navigation', 'result': 22, 'type': 'Accelerated Harbor Strike Navigation', 'modifier': 4, 'faces': '18'}
-  - {'roll': '1d100', 'label': 'Unforeseen Complication Check', 'result': 19, 'type': 'Unforeseen Complication Check', 'modifier': None, 'faces': '19'}
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Chancellor Bramwell**
+> **Objective:** Stabilize Arx Economy
+> Social HP: 3/5 | Status: WAVERING
 
-Game Master:
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Accelerated Harbor Strike - Use Misty Step and Haste to reach the harbor warehouse before the Silver Shields finish scuttling the fleet.*
+
+---
+
+#### Scene 14
+
+> 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 104000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12 | Haste: 1/10 rds** &nbsp;|&nbsp; ⚠️ **Haste (Concentration) | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+4` ➔ **22** &nbsp;*(Accelerated Harbor Strike Navigation)*
+> 🎲 **Check:** `1d100` ➔ **19** &nbsp;*(Unforeseen Complication Check)*
+
 Afternoon (13:25:00) in the Arx Harbor—the world becomes a blur of emerald static as you surrender your senses to the rhythm of the Source. You weave the incantation for Haste into your stride, and suddenly the sluggish movements of the city's inhabitants are frozen in time. You sprint through the lower districts, your feet barely touching the cobblestones, an invisible gale that leaves nothing but the scent of ozone and the snap of banners in its wake. 
 
 You reach the docks in a matter of heartbeats. Every time the distance seems too great, you fracture the Veil, a Misty Step (L2) depositing you thirty feet forward in a flash of green light. You materialize on the harbor's edge just as the first Silver Shield Inquisitors (Lvl 12) begin smashing the hulls of the merchant cogs. 
@@ -594,22 +583,18 @@ The air inside the warehouse hums with a sickening, high-pitched frequency. A sp
 
 Around you, four more Inquisitors step from behind the crates, their shields interlocked. They aren't scuttling ships anymore; they are scuttling *you*.
 
-Player (choice: warehouse_collapse):
-Environmental Sabotage - Target the structural supports of the warehouse roof to bury the Inquisitors in debris, bypassing the Dampener's direct influence.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Environmental Sabotage - Target the structural supports of the warehouse roof to bury the Inquisitors in debris, bypassing the Dampener's direct influence.*
 
-============================================================
-SCENE 15
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:26:00
-Location: Arx - The Harbor Warehouse
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 106600/120000
-Conditions: Haste (8 rds) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '1d20+0', 'label': 'Spot structural weakness in warehouse (Investigation)', 'result': 9, 'type': 'Spot structural weakness in warehouse (Investigation)', 'modifier': 0, 'faces': '9'}
-  - {'roll': '1d20+11', 'label': 'Precision strike to trigger collapse (DEX/Attack)', 'result': 30, 'type': 'Precision strike to trigger collapse (DEX/Attack)', 'modifier': 11, 'faces': '19'}
+---
 
-Game Master:
+#### Scene 15
+
+> 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:26)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 106600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (8 rds) | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+0` ➔ **9** &nbsp;*(Spot structural weakness in warehouse (Investigation))*
+> 🎲 **Check:** `1d20+11` ➔ **30** &nbsp;*(Precision strike to trigger collapse (DEX/Attack))*
+
 Afternoon (13:26:00) in the Arx Harbor Warehouse—the high-pitched whine of the Source-Dampener vibrates in your teeth, but it cannot dampen the kinetic velocity of your Haste-quickened blood. You do not engage the interlocked shields of the Inquisitors. Instead, you blur upward, your boots kicking off a stack of crates as you ascend to the heavy timber rafters.
 
 Your Source Vision (Lvl 12) flickers, the Dampener's field creates static in your sight, making it difficult to pinpoint the exact structural nexus of the roof. You strike blindly but with the impossible precision of a Tier-4 Sovereign. Your Sovereign Obsidian Rapier +3 (Lvl 12) flashes in a blinding arc, severing the rusted iron tension-chains that hold the massive, overhead pulley systems. 
@@ -622,22 +607,18 @@ A massive section of the warehouse roof collapses in a roar of dust and debris, 
 
 You gain **2,000 XP** for your masterful environmental sabotage and neutralizing the Dampener field.
 
-Player (freeform):
-Execute disoriented
+> 👤 **Player:**
+> *"Execute disoriented"*
 
-============================================================
-SCENE 16
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:30:00
-Location: Arx - The Harbor Warehouse
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 108600/120000
-Conditions: Haste (7 rds) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '2d20kh1+11', 'label': 'Execution of Disoriented Inquisitors (Advantage)', 'result': 30, 'type': 'Execution of Disoriented Inquisitors (Advantage)', 'modifier': 11, 'faces': '19,13'}
-  - {'roll': '2d8+7', 'label': 'Obsidian Rapier + Improved Smite Damage', 'result': 16, 'type': 'Obsidian Rapier + Improved Smite Damage', 'modifier': 7, 'faces': '6,3'}
+---
 
-Game Master:
+#### Scene 16
+
+> 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 108600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (7 rds) | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `2d20kh1+11` ➔ **30** &nbsp;*(Execution of Disoriented Inquisitors (Advantage))*
+> 🎲 **Check:** `2d8+7` ➔ **16** &nbsp;*(Obsidian Rapier + Improved Smite Damage)*
+
 Afternoon (13:30:00) in the Arx Harbor Warehouse—the high-pitched scream of rending timber has faded into a heavy, dust-choked silence. You descend from the rafters with a dancer's grace, your boots barely making a sound as you land amidst the wreckage. The Haste-fire in your veins makes the struggling movements of the pinned Silver Shield Inquisitors (Lvl 12) look like insects trapped in amber.
 
 You do not hesitate. You move through the debris like a shadow through a graveyard. Your Sovereign Obsidian Rapier +3 (Lvl 12) flashes out, a series of surgical, emerald-infused strikes that find the narrow gaps in their glowing plate armor. There is no prayer, no last rite—only the wet sliding of obsidian through flesh. 
@@ -658,14 +639,12 @@ You gain **2,000 XP** for the decisive elimination of the Silver Shield ambush p
 God Mode:
 Why do I keep getting 2000 exp?
 
-============================================================
-SCENE 17
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:30:00
-Location: Arx - The Harbor Warehouse
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 108600/120000]
+---
 
-Game Master:
+#### Scene 17
+
+> 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 108600/120000**
+
 Administrative Summary: The recurring 2,000 XP awards are driven by your current Campaign Tier and the high narrative weight of your actions.
 
 ### XP Breakdown & Reasoning
@@ -691,21 +670,17 @@ To reach Level 13, you require 20,000 XP (from 100k to 120k).
 - **Next Level:** 120,000 (11,400 remaining)
 - **Progress:** 43% of the way to Level 13.
 
-Player (freeform):
-Loot the paladins accept quest and seize dampener
+> 👤 **Player:**
+> *"Loot the paladins accept quest and seize dampener"*
 
-============================================================
-SCENE 18
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:35:00
-Location: Arx - The Harbor Warehouse
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 109100/120000
-Conditions: Haste (6 rds) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '1d20+0', 'label': 'Looting Silver Shield Inquisitors', 'result': 11, 'type': 'Looting Silver Shield Inquisitors', 'modifier': 0, 'faces': '11'}
+---
 
-Game Master:
+#### Scene 18
+
+> 📍 **Arx - The Harbor Warehouse** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:35)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 109100/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (6 rds) | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+0` ➔ **11** &nbsp;*(Looting Silver Shield Inquisitors)*
+
 Afternoon (13:35:00) in the Arx Harbor Warehouse—the dust begins to settle over the shattered remains of the Silver Shield ambushers. You move with fluid, predatory efficiency through the wreckage, your Sovereign Obsidian Rapier +3 (Lvl 12) still humming with the residue of Source Smites. 
 
 You reach down and seize the crystalline Source-Dampener from the cracked stone floor. The relic is cold to the touch, its once-angry white pulse now reduced to a dull, inert grey. Without its field, your Source Vision (Lvl 12) stabilizes, the warehouse's geometry returning to absolute clarity. You slide the heavy crystal into your pack—a trophy of a broken trap.
@@ -718,22 +693,18 @@ General Kaelen (Lvl 12) kicks a piece of splintered timber aside, revealing the 
 
 You gain **500 XP** for securing the tactical objective and committing to the Silent Ledger quest.
 
-Player (choice: stealth_descent_shaft):
-Stealth Descent (Shaft) - Use your Stealth (+12) to climb down the lift chains or supports, avoiding the platform itself to surprise the guards below.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Stealth Descent (Shaft) - Use your Stealth (+12) to climb down the lift chains or supports, avoiding the platform itself to surprise the guards below.*
 
-============================================================
-SCENE 19
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:40:00
-Location: Arx - Sunken Vault Lift Shaft
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 110600/120000
-Conditions: Haste (5 rds) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '1d20+12', 'label': 'Stealthy Descent down the Lift Shaft', 'result': 22, 'type': 'Stealthy Descent down the Lift Shaft', 'modifier': 12, 'faces': '10'}
-  - {'roll': '1d100', 'label': 'Unforeseen Complication Check', 'result': 27, 'type': 'Unforeseen Complication Check', 'modifier': 0, 'faces': '27'}
+---
 
-Game Master:
+#### Scene 19
+
+> 📍 **Arx - Sunken Vault Lift Shaft** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:40)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 110600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (5 rds) | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+12` ➔ **22** &nbsp;*(Stealthy Descent down the Lift Shaft)*
+> 🎲 **Check:** `1d100` ➔ **27** &nbsp;*(Unforeseen Complication Check)*
+
 Afternoon (13:40:00) in the Arx Harbor Warehouse - Lift Shaft—you surrender your weight to the shadows. While General Kaelen (Lvl 12) prepares the remaining guard above, you slip over the edge of the iron lift-rim, your gloved hands finding purchase on the cold, grease-slicked chains. The Haste-fire in your blood makes the descent feel like a slow-motion glide through a vertical abyss. 
 
 You descend nearly sixty feet in total silence, the only sound the rhythmic dripping of seawater from the scuttled ships above. Your Stealth (+12) is absolute; you move past the oscillating gears and support struts like a phantom, avoiding the vibration of the lift's mechanical housing. 
@@ -762,25 +733,21 @@ Beyond the circle, the sunken vault doors stand ajar, revealing a hallway lined 
 
 You gain **1,500 XP** for your successful stealthy infiltration into the vault's entrance.
 
-Player (choice: aerial_assassination):
-Aerial Execution - Leap from the cross-beam and strike the Inquisitors from above, relying on your Haste-extra action to kill them before they can trigger the ward's secondary alarm.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Aerial Execution - Leap from the cross-beam and strike the Inquisitors from above, relying on your Haste-extra action to kill them before they can trigger the ward's secondary alarm.*
 
-============================================================
-SCENE 20
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:41:00
-Location: Arx - Sunken Vault Lift Shaft
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 112600/120000
-Conditions: Haste (4 rds) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '2d20kh1+11', 'label': 'Aerial Execution Strike 1 (Advantage)', 'result': 17, 'type': 'Aerial Execution Strike 1 (Advantage)', 'modifier': 11, 'faces': '6,1'}
-  - {'roll': '2d20kh1+11', 'label': 'Extra Attack (Advantage)', 'result': 28, 'type': 'Extra Attack (Advantage)', 'modifier': 11, 'faces': '14,17'}
-  - {'roll': '2d20kh1+11', 'label': 'Haste Action Attack (Advantage)', 'result': 30, 'type': 'Haste Action Attack (Advantage)', 'modifier': 11, 'faces': '4,19'}
-  - {'roll': '2d8+7', 'label': 'Rapier + Improved Smite Damage (Hit 2)', 'result': 9, 'type': 'Rapier + Improved Smite Damage (Hit 2)', 'modifier': 7, 'faces': '1,1'}
-  - {'roll': '2d8+7', 'label': 'Rapier + Improved Smite Damage (Hit 3)', 'result': 21, 'type': 'Rapier + Improved Smite Damage (Hit 3)', 'modifier': 7, 'faces': '6,8'}
+---
 
-Game Master:
+#### Scene 20
+
+> 📍 **Arx - Sunken Vault Lift Shaft** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:41)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 112600/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (4 rds) | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `2d20kh1+11` ➔ **17** &nbsp;*(Aerial Execution Strike 1 (Advantage))*
+> 🎲 **Check:** `2d20kh1+11` ➔ **28** &nbsp;*(Extra Attack (Advantage))*
+> 🎲 **Check:** `2d20kh1+11` ➔ **30** &nbsp;*(Haste Action Attack (Advantage))*
+> 🎲 **Check:** `2d8+7` ➔ **9** &nbsp;*(Rapier + Improved Smite Damage (Hit 2))*
+> 🎲 **Check:** `2d8+7` ➔ **21** &nbsp;*(Rapier + Improved Smite Damage (Hit 3))*
+
 Afternoon (13:41:00) at the base of the Sunken Vault Lift Shaft—the shadows peel away from the cross-beam as you launch yourself into the abyss. The Haste-fire in your blood turns the ten-foot drop into a weightless descent. You fall like a silent emerald bolt, your Sovereign Obsidian Rapiers +3 (Lvl 12) leading the way.
 
 The first Silver Shield Inquisitor (Lvl 12) has only enough time to hear the snap of your cloak before you are upon him. Your first strike (Atk 1) is a lightning-fast lunge for his neck, but he jerks his head back with a soldier's instinct—the obsidian blade sparks against his gorget, carving a shallow groove in the 'consecrated' steel. He opens his mouth to shout, his hand reaching for the ward-trigger at his belt, but your Haste-quickened speed renders his reaction a crawl.
@@ -813,25 +780,21 @@ APEX ATTENTION: [Hidden]
 
 You gain **2,000 XP** for the masterful aerial ambush and the preservation of tactical surprise.
 
-Player (choice: finish_wounded_guard):
-Finish the Wounded Inquisitor - Use your remaining multi-attack to silence the second guard before he can strike the ward or call for aid.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Finish the Wounded Inquisitor - Use your remaining multi-attack to silence the second guard before he can strike the ward or call for aid.*
 
-============================================================
-SCENE 21
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:42:00
-Location: Arx - Sunken Vault Lift Shaft
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 113200/120000
-Conditions: Haste (3 rds) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '1d20+11', 'label': 'Attack vs Inquisitor C', 'result': 22, 'type': 'Attack vs Inquisitor C', 'modifier': 11, 'faces': '11'}
-  - {'roll': '2d8+7', 'label': 'Damage vs C', 'result': 16, 'type': 'Damage vs C', 'modifier': 7, 'faces': '3,6'}
-  - {'roll': '1d20+11', 'label': 'Attack vs Inquisitor D', 'result': 17, 'type': 'Attack vs Inquisitor D', 'modifier': 11, 'faces': '6'}
-  - {'roll': '1d20+11', 'label': 'Haste Attack vs Inquisitor D', 'result': 26, 'type': 'Haste Attack vs Inquisitor D', 'modifier': 11, 'faces': '15'}
-  - {'roll': '2d8+7', 'label': 'Damage vs D', 'result': 11, 'type': 'Damage vs D', 'modifier': 7, 'faces': '3,1'}
+---
 
-Game Master:
+#### Scene 21
+
+> 📍 **Arx - Sunken Vault Lift Shaft** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:42)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 113200/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (3 rds) | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+11` ➔ **22** &nbsp;*(Attack vs Inquisitor C)*
+> 🎲 **Check:** `2d8+7` ➔ **16** &nbsp;*(Damage vs C)*
+> 🎲 **Check:** `1d20+11` ➔ **17** &nbsp;*(Attack vs Inquisitor D)*
+> 🎲 **Check:** `1d20+11` ➔ **26** &nbsp;*(Haste Attack vs Inquisitor D)*
+> 🎲 **Check:** `2d8+7` ➔ **11** &nbsp;*(Damage vs D)*
+
 Afternoon (13:42:00) at the base of the Sunken Vault Lift Shaft—the shadows of the descent still cling to your cloak as you pivot from the first kill. The Haste-fire in your veins renders the world a sluggish tapestry of grey and white. 
 
 You drive your Sovereign Obsidian Rapier +3 through the neck-seal of the first guard, the blade's emerald enchantment consuming his final breath before it can become a cry. He collapses into the dust, his armor clattering like hollow tin. 
@@ -861,24 +824,20 @@ APEX ATTENTION: [Hidden]
 
 You gain **600 XP** for your continuous tactical pressure and the elimination of the primary threat.
 
-Player (choice: execute_last_guard):
-Final Execution - Use your superior speed to deliver a killing blow to the final Inquisitor before he can touch the ward.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Final Execution - Use your superior speed to deliver a killing blow to the final Inquisitor before he can touch the ward.*
 
-============================================================
-SCENE 22
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:43:00
-Location: Arx - Sunken Vault Entrance
-Status: Lvl 12 Gestalt | HP: 102/102 (Temp: 0) | Gold: 41,200gp | XP: 115200/120000
-Conditions: Haste (2 rds) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
-Dice Rolls:
-  - {'roll': '1d20+11', 'label': 'Final Execution - Strike 1', 'result': 28, 'type': 'Final Execution - Strike 1', 'modifier': 11, 'faces': '17'}
-  - {'roll': '2d8+7', 'label': 'Damage for Final Execution - Strike 1', 'result': 18, 'type': 'Damage for Final Execution - Strike 1', 'modifier': 7, 'faces': '8,3'}
-  - {'roll': '1d20+11', 'label': 'Final Execution - Strike 2', 'result': 24, 'type': 'Final Execution - Strike 2', 'modifier': 11, 'faces': '13'}
-  - {'roll': '2d8+7', 'label': 'Damage for Final Execution - Strike 2', 'result': 17, 'type': 'Damage for Final Execution - Strike 2', 'modifier': 7, 'faces': '5,5'}
+---
 
-Game Master:
+#### Scene 22
+
+> 📍 **Arx - Sunken Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 (Temp: 0) | Gold: 41,200gp | XP: 115200/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12** &nbsp;|&nbsp; ⚠️ **Haste (2 rds) | Exhaustion: 0 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+11` ➔ **28** &nbsp;*(Final Execution - Strike 1)*
+> 🎲 **Check:** `2d8+7` ➔ **18** &nbsp;*(Damage for Final Execution - Strike 1)*
+> 🎲 **Check:** `1d20+11` ➔ **24** &nbsp;*(Final Execution - Strike 2)*
+> 🎲 **Check:** `2d8+7` ➔ **17** &nbsp;*(Damage for Final Execution - Strike 2)*
+
 Afternoon (13:43:00) at the base of the Sunken Vault Lift Shaft—the world remains a static, monochromatic blur under the Haste-fire of your divine blood. You do not give the dying Inquisitor the heartbeat he needs to reach the ward. As he lunges, his fingers inches from the pulsating necrotic circle, you are already behind him.
 
 Your first Sovereign Obsidian Rapier (Atk 1) punches through his lower back, the +3 divine enchantment meeting the stone floor beneath him with a crisp, emerald spark. The Inquisitor’s breath hitches, his momentum arrested mid-leap. You don't pull back. You pivot, drawing your second blade (Atk 2) across the seal of his helmet. There is a sharp, surgical hiss of escaping pressure and a final, wet gasp. The guard’s life-force, once a guttering flame in your Source Vision (Lvl 12), snuffs out instantly.
@@ -910,14 +869,12 @@ You gain **2,000 XP** for the definitive victory over the Silver Shield ambush p
 God Mode:
 Give me an interesting backstory look at the dos2 game lore and propose some ideas and give me unique personality and motivations
 
-============================================================
-SCENE 23
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:43:00
-Location: Arx - Sunken Vault Entrance
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 115200/120000]
+---
 
-Game Master:
+#### Scene 23
+
+> 📍 **Arx - Sunken Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 115200/120000**
+
 Administrative Lore & Identity Analysis: To ground Aethelred in the specific 'Absolute Evil' ending of DOS2, we must look at how the consumption of Lucian and Dallis reshaped your soul. 
 
 ### Lore Foundation: The Price of the Emerald Eclipse
@@ -941,15 +898,12 @@ In DOS2 lore, Source is the literal substance of souls. By becoming the sole con
 God Mode:
 Do you see the divine campaign upgrade stuff?
 
-============================================================
-SCENE 24
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:43:00
-Location: Arx - Sunken Vault Entrance
-Status: Lvl 12 Gestalt Paladin (Conquest) / Sorcerer (Source Soul) | HP: 102/102 | XP: 115200/120000
-Resources: Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 12/12]
+---
 
-Game Master:
+#### Scene 24
+
+> 📍 **Arx - Sunken Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt Paladin (Conquest) / Sorcerer (Source Soul) | HP: 102/102 | XP: 115200/120000** &nbsp;|&nbsp; ✨ **Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | Sorcery Points: 12/12**
+
 Administrative Confirmation: Yes, I have full visibility of the **Divine Leverage System (The Divine Deception Protocol)** instructions and its associated mechanics. 
 
 I have integrated the following core components for your campaign:
@@ -966,14 +920,12 @@ I have integrated the following core components for your campaign:
 God Mode:
 Let’s assume I want to find a way to create more source and share it with the beautiful eternal nobility and consume the god king of the void and conquer the void
 
-============================================================
-SCENE 25
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:43:00
-Location: Arx - Sunken Vault Entrance
-Status: Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | XP: 115200/120000]
+---
 
-Game Master:
+#### Scene 25
+
+> 📍 **Arx - Sunken Vault Entrance** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:43)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | XP: 115200/120000**
+
 Administrative Summary: Cosmic objectives registered. I have established the 'Sovereign Path' for Aethelred, mapping your long-term goals to the campaign's mechanical progression.
 
 ### The Sovereign Path: Objectives Registered
@@ -984,23 +936,19 @@ Administrative Summary: Cosmic objectives registered. I have established the 'So
 
 I have added a persistent directive to ensure these objectives guide the narrative and faction behaviors moving forward. Your core memories have been updated to reflect this 'North Star' for your divinity.
 
-Player (choice: parallel_synergistic):
-Neutralize Ward & Scout Hallway (Synergistic) - Use a Subtle Spell to dissipate the ward while simultaneously extending your Source Vision to track internal vault patrols - ensures safety and intel at once.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Neutralize Ward & Scout Hallway (Synergistic) - Use a Subtle Spell to dissipate the ward while simultaneously extending your Source Vision to track internal vault patrols - ensures safety and intel at once.*
 
-============================================================
-SCENE 26
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:45:00
-Location: Arx - Sunken Vault Interior
-Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 116000/120000
-Conditions: Haste (1 rd) | Sorcery Points: 11/12 | Inspiration: No]
-Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/12
-Dice Rolls:
-  - {'roll': '1d20', 'label': 'Parallel Coordination Check (Synergistic)', 'result': 14, 'type': 'Parallel Coordination Check (Synergistic)', 'modifier': 0, 'faces': '14'}
-  - {'roll': '1d20', 'label': 'Neutralize Soul-Scourge Ward (Arcana)', 'result': 18, 'type': 'Neutralize Soul-Scourge Ward (Arcana)', 'modifier': 0, 'faces': '18'}
-  - {'roll': '1d20+5', 'label': 'Scout Hallway with Source Vision (Perception)', 'result': 21, 'type': 'Scout Hallway with Source Vision (Perception)', 'modifier': 5, 'faces': '16'}
+---
 
-Game Master:
+#### Scene 26
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 116000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/12** &nbsp;|&nbsp; ⚠️ **Haste (1 rd) | Sorcery Points: 11/12 | Inspiration: No**
+
+> 🎲 **Check:** `1d20` ➔ **14** &nbsp;*(Parallel Coordination Check (Synergistic))*
+> 🎲 **Check:** `1d20` ➔ **18** &nbsp;*(Neutralize Soul-Scourge Ward (Arcana))*
+> 🎲 **Check:** `1d20+5` ➔ **21** &nbsp;*(Scout Hallway with Source Vision (Perception))*
+
 Afternoon (13:45:00) at the base of the Sunken Vault Lift Shaft—the silence of the execution is replaced by the low, vibrating hum of your internal Source. You do not move from your crouch. Instead, you reach out with a gloved hand toward the Soul-Scourge Circle, your fingers tracing the air as you weave a Subtle Spell to unpick the necrotic knot. 
 
 The emerald light of your Source Vision (Lvl 12) intensifies, revealing the ward's weak points—the places where the Silver Shield's fanatical prayers meet the cold logic of magic. With a surgical pulse of energy, you dissipate the ward. The shimmering white lines on the stone floor flicker and vanish, the necrotic heat evaporating into the damp air. The path for General Kaelen (Lvl 12) and his vanguard is now secure.
@@ -1033,24 +981,21 @@ APEX ATTENTION: [Hidden]
 
 You gain **800 XP** for neutralizing the high-tier ward and mapping the initial vault defenses.
 
-Player (choice: blitz_wary_patrol):
-Blitz the Wary Patrol - Use your final round of Haste to bridge the 60-foot gap instantly and eliminate the wary captain before he can sound a general alarm.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Blitz the Wary Patrol - Use your final round of Haste to bridge the 60-foot gap instantly and eliminate the wary captain before he can sound a general alarm.*
 
-============================================================
-SCENE 27
-============================================================
-[Timestamp: 1492 DR, Mirtul 15, 13:46:00
-Location: Arx - Sunken Vault Interior
-Status: Lvl 12 Gestalt | HP: 102/102 (Temp: 0) | Gold: 41,200gp | XP: 117000/120000
-Conditions: Haste Lethargy (1 rd) | Sorcery Points: 11/12 | Inspiration: No]
-Dice Rolls:
-  - {'roll': '1d20+11', 'label': 'Blitz Strike 1 (Captain)', 'result': 16, 'type': 'Blitz Strike 1 (Captain)', 'modifier': 11, 'faces': '5'}
-  - {'roll': '1d20+11', 'label': 'Blitz Strike 2 (Captain)', 'result': 29, 'type': 'Blitz Strike 2 (Captain)', 'modifier': 11, 'faces': '18'}
-  - {'roll': '2d8+7', 'label': 'Damage for Blitz Strike 2 (Captain)', 'result': 16, 'type': 'Damage for Blitz Strike 2 (Captain)', 'modifier': 7, 'faces': '6,3'}
-  - {'roll': '1d20+11', 'label': 'Haste Execution (Captain)', 'result': 16, 'type': 'Haste Execution (Captain)', 'modifier': 11, 'faces': '5'}
-  - {'roll': '1d100', 'label': 'Unforeseen Complication Check', 'result': 7, 'type': 'Unforeseen Complication Check', 'modifier': None, 'faces': '7'}
+---
 
-Game Master:
+#### Scene 27
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 (Temp: 0) | Gold: 41,200gp | XP: 117000/120000** &nbsp;|&nbsp; ⚠️ **Haste Lethargy (1 rd) | Sorcery Points: 11/12 | Inspiration: No**
+
+> 🎲 **Check:** `1d20+11` ➔ **16** &nbsp;*(Blitz Strike 1 (Captain))*
+> 🎲 **Check:** `1d20+11` ➔ **29** &nbsp;*(Blitz Strike 2 (Captain))*
+> 🎲 **Check:** `2d8+7` ➔ **16** &nbsp;*(Damage for Blitz Strike 2 (Captain))*
+> 🎲 **Check:** `1d20+11` ➔ **16** &nbsp;*(Haste Execution (Captain))*
+> 🎲 **Check:** `1d100` ➔ **7** &nbsp;*(Unforeseen Complication Check)*
+
 Afternoon (13:46:00) in the Sunken Vault - Crystalline Hallway—the world is a frozen, crystalline tapestry as you push the Haste-fire to its absolute limit. You bridge the sixty-foot gap in a single, heart-stopping blur of emerald light, your Sovereign Obsidian Rapiers +3 (Lvl 12) leveled at the captain's throat. 
 
 Captain Kester (Lvl 12) is a veteran of a hundred Source-purges. He doesn't panic. As the air ripples with your approach, he slams the pommel of his mace against his heavy tower shield, the sound like a hammer on a mountain. Your first strike (Atk 1) is a precise lunge, but the captain pivots with a soldier's grace, the obsidian blade screeching harmlessly across the enameled surface of his shield. 
@@ -1063,4 +1008,368 @@ The Haste Action (Atk 3) should have been the end of him, but the strain of the 
 
 "The monster... is here!" he bellows, his voice echoing through the vaulted ceiling. 
 
-Before you can pull back, Kester uses his free hand to smash a small, translucent aquatic cr
+Before you can pull back, Kester uses his free hand to smash a small, translucent aquatic crystal into the stone floor. It shatters with a high-pitched, crystalline scream that vibrates through the very foundations of the warehouse. A pulse of white light ripples down the hallway, turning the bioluminescent blue to a harsh, alarm-red. 
+
+[UNFORESEEN COMPLICATION: General Alarm Triggered]
+
+The weight of the Haste-lapses hits you like a physical wall. Your divine blood cools instantly, leaving your limbs heavy and your vision swimming as the lethargy takes hold. You stand frozen in the center of the hallway, the captain bleeding before you and the sound of heavy, armored boots beginning to thunder from the records chamber ahead.
+
+[DIVINE HUD v13.0]
+=========================================
+IDENTITY: Aethelred | MASK: Layer 2 (Source)
+LEVEL: 12 | DIVINE RANK: Mortal (#0)
+XP: 117,000/120,000 | DOMAIN: Tyrant Divine
+-----------------------------------------
+DIVINE BONUSES: +0 (Mortal Rank)
+DIVINE LEVERAGE: +5 (CHA) | SAFE LIMIT: 0
+IMMUNITIES: None
+-----------------------------------------
+DISSONANCE: [░░░░░░░░░░] 0%
+  > STATUS: Safe
+APEX ATTENTION: [Hidden]
+  > VIBE: The air feels... Heavy
+=========================================
+
+You gain **1,000 XP** for the aggressive breach and the engagement of the elite vault leadership.
+
+God Mode:
+Think my rapiers should be stronger? And my equipment should be like the best items from dos2
+
+---
+
+#### Scene 28
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | Gold: 41,200gp | XP: 117000/120000**
+
+Administrative Summary: Equipment upgraded to Sovereign/Endgame DOS2 equivalents. Your arsenal now reflects the absolute peak of Tier-4 power, shifting from +3 to +5 enchantment levels with unique Rivellon-inspired properties.
+
+**Upgraded Equipment Manifest:**
+
+- **Main Hand: 'The Duellist's Masterpiece' (Sovereign Obsidian Rapier +5)**
+  - Stats: +5 to hit and damage. 1d8+5 piercing + 2d8 Force damage (Source-infused). 
+  - Properties: Critical hits occur on a roll of 18-20. Grants +2 to Initiative.
+
+- **Off Hand: 'Shadow-Slicer' (Sovereign Obsidian Rapier +5)**
+  - Stats: +5 to hit and damage. 1d8+5 piercing + 2d8 Necrotic damage. 
+  - Properties: On a hit, the target must succeed on a DC 18 Constitution save or become 'Cursed' (disadvantage on their next saving throw).
+
+- **Armor: 'The Devourer's Embrace' (Medium Plate)**
+  - Stats: AC 20 (Does not limit Dexterity bonus). 
+  - Properties: Resistance to all non-magical bludgeoning, piercing, and slashing damage. You have advantage on saving throws against being Charmed or Frightened.
+
+- **Neck: 'Amulet of the Void-Touched'**
+  - Stats: +2 to Spell Save DC and +2 to Spell Attack rolls.
+  - Properties: Grants 1 additional 3rd-level spell slot.
+
+- **Cloak: 'Cloak of the Eternal'**
+  - Stats: +2 to AC and +2 to all Saving Throws.
+  - Properties: Grants a fly speed of 60ft (Wings of Source).
+
+- **Ring 1: 'Band of the First Garden'**
+  - Stats: +2 to AC and +2 to all Saving Throws.
+
+These changes have been hard-set in your character data. You are now significantly more lethal as you recover from your current lethargy.
+
+God Mode:
+Make the rapiers +3
+
+---
+
+#### Scene 29
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | Gold: 41,200gp | XP: 117000/120000**
+
+Administrative Correction: Sovereign Obsidian Rapiers have been adjusted from +5 to +3. Their damage and hit bonuses have been recalibrated to the +3 tier while retaining their base Sovereign properties.
+
+**Weapon Adjustments:**
+- **Main Hand:** Sovereign Obsidian Rapier +3 (+3 to hit/dmg, 1d8+3 piercing + 1d8 Improved Smite)
+- **Off Hand:** Sovereign Obsidian Rapier +3 (+3 to hit/dmg, 1d8+3 piercing + 1d8 Improved Smite)
+
+Other Sovereign equipment (Armor, Cloak, Amulet) remains at its current Tier-4 level.
+
+God Mode:
+Give my rapiers extra elemental damages but keep them +3
+
+---
+
+#### Scene 30
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:46)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 102/102 | Divine Rank: 0 (Mortal) | Gold: 41,200gp | XP: 117000/120000**
+
+Administrative Summary:recrafting Sovereign Obsidian Rapiers. The blades remain at +3 enchantment levels to hit and damage, but have been infused with additional elemental Source energies (Force and Necrotic) to reflect your Tier-4 divine standing.
+
+**Weapon Modifications:**
+
+- **Main Hand: 'The Duellist's Masterpiece' (Sovereign Obsidian Rapier +3)**
+  - Stats: +3 to hit and damage. 1d8+3 piercing + 2d8 Force damage (Source-infused).
+  - Properties: Critical hits occur on a roll of 18-20. Grants +2 to Initiative.
+
+- **Off Hand: 'Shadow-Slicer' (Sovereign Obsidian Rapier +3)**
+  - Stats: +3 to hit and damage. 1d8+3 piercing + 2d8 Necrotic damage.
+  - Properties: On a hit, the target must succeed on a DC 18 Constitution save or become 'Cursed' (disadvantage on their next saving throw).
+
+These elemental damage types bypass standard resistances due to their Source-based origin.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Story - Resume the confrontation in the crystalline hallway with your newly empowered elemental rapiers.*
+
+---
+
+#### Scene 31
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:47)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 70/102 (Temp: 0) | Gold: 41,200gp | XP: 117000/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/12** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 11/12 | Inspiration: No**
+
+> 🎲 **Check:** `2d20kh1+9` ➔ **29** &nbsp;*(Captain Kester Mace Strike 1 (Advantage))*
+> 🎲 **Check:** `2d20kh1+9` ➔ **27** &nbsp;*(Captain Kester Mace Strike 2 (Advantage))*
+> 🎲 **Check:** `2d20kh1+7` ➔ **26** &nbsp;*(Silver Shield Guard 1 Strike (Advantage))*
+> 🎲 **Check:** `2d20kh1+7` ➔ **19** &nbsp;*(Silver Shield Guard 2 Strike (Advantage))*
+
+Afternoon (13:47:00) in the Sunken Vault Interior—the air vibrates with the shrill, crystalline scream of the alarm, a piercing white noise that turns the bioluminescent blue of the hallway into a rhythmic, pulsing red. You stand at the center of the corridor, your Sovereign Obsidian Rapiers +3 heavy in your hands, your limbs leaden and unresponsive as the Haste-fire cools into a bitter, paralyzing lethargy.
+
+Captain Kester (Lvl 12), blood leaking from the gash in his side, sees the moment of your vulnerability. His eyes, wide with fanatical fervor, lock onto yours. "By the Seven's Light! Fall, monster!" he bellows, swinging his consecrated mace in a desperate, lunging arc. 
+
+The first blow is a crushing impact against your chest—a natural 20 that would have shattered a mortal's ribcage. Your new armor, 'The Devourer's Embrace,' groans under the magical force, the non-reflective obsidian plates absorbing the brunt of the kinetic energy, but the sheer momentum staggers you. Kester follows through with a secondary strike, his mace catching the side of your helmet with a jarring clang. 
+
+Behind him, the two remaining Silver Shield Guards (Lvl 12) rush forward, their spears leveled. One manages to find a gap in your guard while you are frozen, the steel tip biting into your thigh before you can even flinch. 
+
+Silver Shield Attacks (Advantage vs Lethargy):
+- Captain Kester Atk 1: 2d20kh1 +9 = 20 + 9 = 29 vs AC 24 (Critical Hit!) - 15 Damage
+- Captain Kester Atk 2: 2d20kh1 +9 = 18 + 9 = 27 vs AC 24 (Hit) - 10 Damage
+- Guard 1 Atk: 2d20kh1 +7 = 19 + 7 = 26 vs AC 24 (Hit) - 7 Damage
+- Guard 2 Atk: 2d20kh1 +7 = 12 + 7 = 19 vs AC 24 (Miss)
+
+Aethelred: 102 → 70 HP
+
+Malady (Lvl 12) snarls, her mismatched eyes glowing with a dangerous, dark violet hue. "Hold on, Aethelred!" She snaps her fingers, sending a lash of Source energy that forces the guards to hesitate for a fraction of a second, but she cannot stop the alarm. From the deep crystalline chamber ahead, the thunder of armored boots echoes—the vault's primary garrison is converging. 
+
+As the final second of the lethargy passes, the weight lifts. The 'Duellist's Masterpiece' and 'Shadow-Slicer' thrum in your grip, the Source energies you infused during your brief communion with the Veil now flaring to life. The main-hand blade glows with a cold, emerald Force, while the off-hand drips with a soul-chilling Necrotic mist. You are no longer a sitting duck; you are the Sovereign of the Emerald Eclipse, and the audit of the Silver Crusade has only just begun.
+
+[DIVINE HUD v13.0]
+=========================================
+IDENTITY: Aethelred | MASK: Layer 2 (Source)
+LEVEL: 12 | DIVINE RANK: Mortal (#0)
+XP: 117,000/120,000 | DOMAIN: Tyrant Divine
+-----------------------------------------
+DIVINE BONUSES: +0 (Mortal Rank)
+DIVINE LEVERAGE: +5 (CHA) | SAFE LIMIT: 0
+IMMUNITIES: None
+-----------------------------------------
+DISSONANCE: [░░░░░░░░░░] 0%
+  > STATUS: Safe
+APEX ATTENTION: [Hidden]
+  > VIBE: The air feels... Charged
+=========================================
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Execute & Intimidate (Synergistic) - Silencing the captain with a Force-infused strike while simultaneously casting Command (Subtle) to force the guards to 'Grovel'—the sight of their leader's soul being shredded will break their morale.*
+
+---
+
+#### Scene 32
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:47)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt | HP: 70/102 | Gold: 41,200gp | XP: 118500/120000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 10/12** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 10/12 | Inspiration: No**
+
+> 🎲 **Check:** `1d20` ➔ **7** &nbsp;*(Parallel Coordination Check (Synergistic))*
+> 🎲 **Check:** `1d20+11` ➔ **28** &nbsp;*(Elemental Execution - Strike 1 (Force))*
+> 🎲 **Check:** `4d8+7` ➔ **26** &nbsp;*(Damage for Elemental Execution - Strike 1 (Force))*
+> 🎲 **Check:** `1d20+11` ➔ **17** &nbsp;*(Elemental Execution - Strike 2 (Force))*
+> 🎲 **Check:** `1d20+2` ➔ **3** &nbsp;*(Silver Shield Guard 1 WIS Save vs Command)*
+> 🎲 **Check:** `1d20+2` ➔ **16** &nbsp;*(Silver Shield Guard 2 WIS Save vs Command)*
+
+Afternoon (13:47:00) in the Sunken Vault Interior—the red light of the alarm pulses like a dying heart as you surge forward, your Sovereign blades humming with the predatory logic of the Emerald Eclipse. You attempt to weave a psychic mandate into the physical rhythm of your execution, but the sheer momentum of the Haste-lethargy's aftermath creates a jagged seam in your coordination. The strike and the spell do not land as a single, unified heartbeat.
+
+Coordination: 1d20 +0 INT = 7 vs DC 16 - Failure
+
+You bridge the gap to Captain Kester (Lvl 12) with terrifying speed. 'The Duellist's Masterpiece' (Atk 1) finds a gap in his guard, the blade vibrating with a cold, emerald Force that liquefies the chainmail beneath his surcoat. Kester gasps as the energy bypasses his physical defenses, shredding the spiritual anchor of his zeal. 
+
+Captain Kester: 44 → 18 HP (Severely Wounded)
+
+However, the captain is a veteran of the Source-wars. As you pivot for the second killing blow (Atk 2), he anticipates the arc, slamming his tower shield upward. The obsidian blade screeches across the enameled crest of the Silver Crusade, sparks of Force energy scattering harmlessly into the dark. 
+
+Strike 2: 1d20 +11 = 17 vs AC 18 - Miss
+
+Even as Kester holds his ground, your voice ripples through the hallway—not as a sound, but as a psychic weight. Using a Subtle Spell (L2), you project the Sovereign's authority directly into the minds of the two patrolling guards. 'Grovel,' you whisper, the word amplified by the Source Soul. 
+
+The Silver Shield guards, their wills already frayed by the sight of your divine silhouette, find their bodies betraying them. Their knees strike the stone floor with a synchronized, heavy thud. Their spears clatter away, and they press their foreheads to the damp ground, unable to resist the absolute command of their new Divine ruler.
+
+Silver Shield Guard 1 Save: 3 vs DC 17 - Failure
+
+Silver Shield Guard 2 Save: 16 vs DC 17 - Failure
+
+Kester stands alone, bleeding and staggered, while his men tremble at your feet. The alarm continues to scream, and the thunder of reinforcements from the records chamber grows louder. You have broken the patrol's spirit, but the captain remains a loose thread in your audit.
+
+[DIVINE HUD v13.0]
+=========================================
+IDENTITY: Aethelred | MASK: Layer 2 (Source)
+LEVEL: 12 | DIVINE RANK: Mortal (#0)
+XP: 118,500/120,000 | DOMAIN: Tyrant Divine
+-----------------------------------------
+DIVINE BONUSES: +0 (Mortal Rank)
+DIVINE LEVERAGE: +5 (CHA) | SAFE LIMIT: 0
+IMMUNITIES: None
+-----------------------------------------
+DISSONANCE: [░░░░░░░░░░] 0%
+  > STATUS: Safe
+APEX ATTENTION: [Hidden]
+  > VIBE: The air feels... Charged
+=========================================
+
+You gain **1,500 XP** for the tactical subversion and wounding the vault leadership.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Execute & Intimidate (Synergistic) - Finishing Kester while simultaneously using his death to force an Intimidation check on the groveling guards to make them fight for you against the approaching garrison.*
+
+---
+
+#### Scene 33
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:49)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt (Lvl 13 available) | HP: 70/102 | Gold: 41,200gp | XP: 121500/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 10/12** &nbsp;|&nbsp; ⚠️ **Level Up Available! | Sorcery Points: 10/12 | Inspiration: No**
+
+> 🎲 **Check:** `1d20` ➔ **12** &nbsp;*(Synergy Coordination (Execute & Subjugate))*
+> 🎲 **Check:** `1d20+11` ➔ **26** &nbsp;*(Finish Captain Kester)*
+> 🎲 **Check:** `4d8+8` ➔ **29** &nbsp;*(Execution Damage)*
+> 🎲 **Check:** `1d20+13` ➔ **33** &nbsp;*(Subjugate Broken Guards (Natural 20))*
+
+Afternoon (13:49:00) in the Sunken Vault - Crystalline Hallway—the emerald flare of your Source momentarily drowns out the pulsing red of the alarm. Because the coordination of your divine will faltered under the weight of the alarm's discordance, the actions do not land as a single stroke. Instead, the vault witnesses a sequential display of absolute, terrifying sovereignty.
+
+You step over the first groveling guard, your movement a blur of shadow and silk. Captain Kester (Lvl 12) barely has time to raise his shield before 'The Duellist's Masterpiece' (Lvl 12) find its mark. The blade vibrates with a high-frequency Source-hum, passing through his plate as if it were parchment. A shockwave of pure Force erupts from the point of impact, shredding Kester's internal Source and pitching his lifeless frame backward into the bioluminescent crystals. He dies without a sound, his soul consumed by the cold logic of the Emerald Eclipse.
+
+Captain Kester: 18 → 0 HP (Executed)
+
+As Kester's body settles, you turn your gaze upon the two remaining guards. You do not shout. You simply stand in the center of the hallway, the 'Shadow-Slicer' dripping with a necrotic mist that seems to drink the alarm's red light. Your Immaculate Presence (Lvl 12) expands, your Aura of Conquest pinning the guards to the floor as you project a vision of their own annihilation into their minds. 
+
+"The Light is dead," you whisper, the words echoing with the authority of the First Garden. "He died screaming. If you wish to live, you will die for the Throne instead. Rise and hold the records chamber. The garrison belongs to me now."
+
+The guards do not merely obey; they break. Witnessing the effortless destruction of their captain and feeling the crushing weight of your Source, their fanaticism for the Crusade is replaced by a primitive, absolute terror-worship. They scramble to their feet, their eyes wide and unfocused, and position themselves between you and the approaching thunder of boots. They are no longer soldiers of the Light; they are your first meat-shields in the Sunken Vault.
+
+**LEVEL UP AVAILABLE!** You have earned enough experience to reach Level 13!
+
+Would you like to level up now?
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Level Up to Level 13 - Open the level-up modal to gain 7th-level Sorcerer spells (Finger of Death/Teleport) and 4th-level Paladin slots.*
+
+---
+
+#### Scene 34
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:49)** &nbsp;|&nbsp; 🛡️ **Lvl 12 Gestalt (Lvl 13 available) | HP: 70/102 | Gold: 41,200gp | XP: 121500/140000** &nbsp;|&nbsp; ✨ **HD: 12/12 | Spells: L1 4/4, L2 1/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 10/12** &nbsp;|&nbsp; ⚠️ **Level Up In Progress | Sorcery Points: 10/12 | Inspiration: No**
+
+Recommended package: Fixed HP (+9), learn Finger of Death as your new Sorcerer spell, and add Death Ward to your prepared Paladin list. 
+
+Automatic gains: Proficiency bonus increases from +4 to +5, Hit Dice total becomes 13d12, Sorcery Points pool increases from 12 to 13, unlock one 7th-level Sorcerer spell slot, unlock 4th-level Paladin spell slots, and unlock the Veil Striker feature (Source Smite deals an additional 2d8 damage when attacking from hiding or invisibility).
+
+Spellcasting (Charisma ability, Spell Save DC 18, Spell Attack Bonus +10).
+
+The torrent of Source within your soul surges with a new, dark resonance as you stand over the cooling remains of Captain Kester. The Veil itself seems to vibrate in sympathy with your ascent, the emerald light behind your eyes intensifying. The power you have monopolized is no longer just a tool; it is becoming your very nature, a Sovereign authority that demands the world bend or break. The crystalline hallway pulses with the alarm's red light, but to your expanded senses, it is merely a backdrop to the symphony of your own divinity.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Recommended Options and Return to Game - Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.
+
+[SELECTED_CHOICE_CONTEXT]
+selected_choice_id: finish_level_up_return_to_game
+This is the level-up CONCLUDE/finish turn: COMMIT the canonical pending target level into `player_character_data.level`, cascade-recompute proficiency bonus, max HP, and spell slots from that committed level, and clear the level-up modal flags.
+XP HEADER COHERENCE: once the new level is committed the level-up is no longer pending, so the visible `Status: ... | XP: x/y | ...` denominator MUST be the CUMULATIVE XP threshold of the NEXT level (current total / total XP required for level + 1), NEVER the XP remaining to reach it and never the just-passed pending target. A Paladin finishing at Level 2 with 306 XP (SRD: Level 3 requires 900 total) MUST show `XP: 306/900` — not `XP: 306/594` (594 is the remaining-to-next amount) and not the pending `XP: 306/300`.
+[/SELECTED_CHOICE_CONTEXT]*
+
+---
+
+#### Scene 35
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:49)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 79/111 | Gold: 41,200gp | XP: 121500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1, L7 1/1 | SP: 13/13** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 13/13 | Inspiration: No**
+
+The violent torrent of Source within your soul suddenly snaps into a new, terrifying alignment. Standing over the shattered remains of Captain Kester, the emerald light behind your eyes flares with a brilliance that momentarily turns the alarm-red hallway into a sea of verdant fire. You feel your soul expand, its capacity for magic deepening as the stolen divinity of Rivellon fully integrates with your High-Elf frame. The Veil shudders at your touch, yielding secrets of the 7th-level arcana—the power to extinguish life with a single word or to step across the world in a heartbeat.
+
+Your physical form adapts as well. Your muscles ripple with a 'Veil Striker' resonance, a lethal adaptation that ensures your Smites will flare with unstabilized violence when you strike from the shadows. As the integration completes, the weight of the lethargy is a distant memory. You are Level 13, the Sovereign of the Emerald Eclipse, and your monopoly over reality has never been more absolute.
+
+The groveling guards look up, their faces pale and eyes wide with a mix of terror and religious ecstasy as they witness your ascent. The thunder of armored boots from the records chamber is nearly upon you. The garrison arrives to find not a wounded intruder, but a god-king standing amidst the wreckage of their defense, his obsidian blades glowing with the cold light of a new world order.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Loot & Static (Synergistic) - Quickly snatching Kester's signet ring while simultaneously casting Synaptic Static—securing the key while ensuring no one survives to report the theft.*
+
+---
+
+#### Scene 36
+
+> 📍 **Arx - Sunken Vault Interior** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:49)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 79/111 (Temp: 0) | Gold: 41,200gp | XP: 123500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, L6 1/1, L7 1/1 | SP: 13/13** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 13/13 | Inspiration: No**
+
+> 🎲 **Check:** `1d20` ➔ **1** &nbsp;*(Parallel Coordination Check (Synergistic))*
+> 🎲 **Check:** `1d20+9` ➔ **17** &nbsp;*(Snatch Kester's Signet Ring (Slight of Hand))*
+> 🎲 **Check:** `8d6` ➔ **27** &nbsp;*(Synaptic Static Psychic Damage)*
+> 🎲 **Check:** `1d20` ➔ **8** &nbsp;*(Guard 1 INT Save vs Synaptic Static)*
+> 🎲 **Check:** `1d20` ➔ **17** &nbsp;*(Guard 2 INT Save vs Synaptic Static)*
+> 🎲 **Check:** `1d20` ➔ **5** &nbsp;*(Guard 3 INT Save vs Synaptic Static)*
+
+Afternoon (13:50:00) in the Sunken Vault Interior—the air between you and the approaching garrison becomes a pressurized vacuum of psychic intent. You attempt to weave the physical act of looting into the arcane rhythm of your spellcasting, but the Natural 1 on your coordination proves that even a God-Shadow can find the alarm's discordant scream distracting. The synergy fractures; the actions resolve with brutal, sequential clarity.
+
+You drop to one knee beside Captain Kester's shattered remains. Your fingers, moving with a predator's grace, snatch the heavy platinum signet ring from his gauntlet. The metal is still warm, engraved with the Silver Crusade's sun-and-tower motif—your key to the deeper levels.
+
+Slight of Hand: 1d20 +9 DEX/PROF = 8 + 9 = 17 vs DC 14 - Success
+
+As you stand, the vault's records chamber doors hiss open. A squad of Silver Shield Paladins (Lvl 12) surges through, their spears leveled and prayers ready. You don't give them the chance to speak. You extend your hand, your Sovereign obsidian rapiers humming with a high-pitched Source-resonance, and unleash the level 5 arcana: *Synaptic Static*.
+
+A localized shockwave of pure, emerald psychic energy erupts in the center of the doorway. It is not an explosion of fire, but a silent, reality-warping ripple that bypasses their physical shields. The guards' eyes roll back in their heads as their internal Source is violently scrambled. They stumble, their spears clattering to the floor as they clutch their helmets, blood trickling from their visors. 
+
+Synaptic Static: 8d6 Psychic = 27 Damage
+- Guard 1 Save: 8 vs DC 20 - Failure
+- Guard 2 Save: 17 vs DC 20 - Failure
+- Guard 3 Save: 5 vs DC 20 - Failure
+
+The garrison is broken, their minds muddled by the Sovereign shockwave. Your devoted thralls—the two guards you subjugated moments ago—immediately lunge forward to pin the survivors against the wall. The hallway is a scene of absolute, quiet devastation, illuminated only by the pulsing red of the alarm and the steady, cold glow of your rapiers.
+
+[DIVINE HUD v13.0]
+=========================================
+IDENTITY: Aethelred | MASK: Layer 2 (Source)
+LEVEL: 13 | DIVINE RANK: Mortal (#0)
+XP: 123,500/140,000 | DOMAIN: Tyrant Divine
+-----------------------------------------
+DIVINE BONUSES: +0 (Mortal Rank)
+DIVINE LEVERAGE: +5 (CHA) | SAFE LIMIT: 0
+IMMUNITIES: None
+-----------------------------------------
+DISSONANCE: [░░░░░░░░░░] 0%
+  > STATUS: Safe
+APEX ATTENTION: [Hidden]
+  > VIBE: The air feels... Charged
+=========================================
+
+You gain **2,000 XP** for securing the vault key and the devastating psychic ambush of the garrison.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Loot Garrison & Breach Chamber (Compatible) - Quickly looting the guards for additional keys/sigils while your thralls clear the record chamber doors—saving time as you move deeper.*
+
+---
+
+#### Scene 37
+
+> 📍 **Arx - Sunken Vault Records Chamber** &nbsp;|&nbsp; ⏳ **Mirtul 15, 1492 DR (13:53)** &nbsp;|&nbsp; 🛡️ **Lvl 13 Gestalt | HP: 70/111 (Temp: 0) | Gold: 41,200gp | XP: 124500/140000** &nbsp;|&nbsp; ✨ **HD: 13/13 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 1/2, L6 1/1, L7 1/1 | SP: 13/13** &nbsp;|&nbsp; ⚠️ **None | Sorcery Points: 13/13 | Inspiration: No**
+
+> 🎲 **Check:** `1d20` ➔ **3** &nbsp;*(Parallel Coordination Check (Compatible))*
+> 🎲 **Check:** `1d20+9` ➔ **11** &nbsp;*(Loot Muddled Garrison (Slight of Hand))*
+
+Afternoon (13:53:00) in the Sunken Vault Interior—the hallway is a charnel house of psychic trauma. The red alarm pulses against the cold obsidian of your rapiers, casting long, rhythmic shadows that dance across the muddled forms of the garrison. You attempt to move with the seamless efficiency of the God-Shadow, directing your devoted thralls to breach the heavy records chamber doors while you sift through the gear of the fallen. 
+
+However, the alarm’s crystalline scream creates a jagged interference in your focus. Your thralls, though fanatically obedient, fumble with the complex aquatic seals of the inner doors, their movements clumsy and uncoordinated. Simultaneously, your own search of the paladins yields little; you find only standard-issue holy symbols and cracked vials of holy water, the high-security sigils you sought apparently kept on higher-ranking officers or perhaps deeper within the vault itself. 
+
+Coordination: 1d20 +0 INT = 3 vs DC 14 - Failure
+Slight of Hand: 1d20 +9 = 11 vs DC 12 - Failure
+
+Realizing the inefficiency, you step forward yourself, Captain Kester's signet ring glowing with a faint, authorizing light in your hand. You press the ring into the central indentation of the record chamber’s seal. The crystalline lock hums, recognizing the captain's authority, and the massive stone slabs grind open with a slow, ponderous vibration that shudders through the floor. 
+
+You leave the muddled garrison to your thralls' mercies and slip into the vault's inner sanctum. The air here is colder, smelling of ancient parchment and ozone. Rows of obsidian shelves stretch into the darkness, illuminated by the steady, emerald glow of your Source Vision. The 'Silent Ledger' is here, somewhere amidst the thousands of scrolls and soul-logs. 
+
+**=================================================**
+**               REWARDS EARNED                    **
+**=================================================**
+** SOURCE: Combat / Tactical Breach                **
+**-------------------------------------------------**
+** XP GAINED: 1,000 XP                             **
+** Current XP: 124,500 / 140,000                   **
+** Progress: 22.5% to Level 14                     **
+**-------------------------------------------------**
+** LOOT OBTAINED:                                  **
+**   - None (Search Failed)                        **
+**=================================================**
+
+---
+

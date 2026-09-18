@@ -1,17 +1,18 @@
 ---
-title: "Luke detailed"
-type: source
-tags: [campaign, worldarchitect, luke-detailed]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/UN0jNTJfKc6O3yG1itV4/Luke detailed_UN0jNTJf.txt
-campaign_id: UN0jNTJfKc6O3yG1itV4
-entry_count: 76
-last_updated_iso: 2026-07-13T02:33:30.468698+00:00
-ingest_batch: batch-2026-07-12-50plus
+title: "Luke detailed_UN0jNTJf"
+campaign_id: "UN0jNTJfKc6O3yG1itV4"
+scenes_total: 38
+exported_from: "https://worldarchitect.ai"
 ---
 
-God Mode:
-Character: Luke skywalker | Setting: Star Wars and put me in the chasm | Description: Campaign Summary
+
+# ⚔️ Luke detailed_UN0jNTJf
+> *A WorldArchitect.AI Chronicle*
+
+---
+
+
+## 🛡️ Part I: Campaign Background
 
 You are Luke Skywalker, a Jedi in training, and your world has just been shattered. You hang precariously from a weather vane on the underside of Cloud City, your hand a searing stump, your lightsaber lost to the abyss. The horrifying truth your father, Darth Vader, has revealed echoes in your mind, a poison that has broken your spirit. The past you believed in is a lie, and the future is a terrifying unknown.
 
@@ -113,16 +114,58 @@ Starting Abilities: You possess the core abilities of a Jedi Knight: Force Push/
 
 Please choose which of the three campaigns—The Chasm, The Emperor's Fist, The Jedi's Shadow, you would like to begin.
 
-============================================================
-SCENE 1
-============================================================
-[Timestamp: Unknown, Unknown 0, 00:00
-Location: Character Creation
-Status: Lvl 1 Unspecified | HP: ?/? | XP: 0/0 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: N/A
+## 🗺️ Scene Index & Timeline
 
-Game Master:
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| **01** | Character Creation | Unknown 0, Unknown (00:00) | Roleplay |
+| **02** | Unknown |  | Roleplay |
+| **03** | Cloud City - Weather Vane | Unknown 0, Unknown (00:00) | Roleplay |
+| **04** | Star Destroyer's Bridge | ABY 1, 5 ABY (10:00) | Roleplay |
+| **05** | Star Destroyer Hangar Bay | ABY 1, 5 ABY (10:30) | Roleplay |
+| **06** | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 1, 5 ABY (11:00) | Roleplay |
+| **07** | Outer Rim - Hyperspace (God Mode) | ABY 1, 5 ABY (11:00) | Roleplay |
+| **08** | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 2, 5 ABY (11:00) | Roleplay |
+| **09** | Outer Rim - Hyperspace (En route to Seventh Sister's last known location) | ABY 2, 5 ABY (12:30) | Roleplay |
+| **10** | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
+| **11** | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
+| **12** | Moraband System - Planetary Orbit (God Mode) | ABY 2, 5 ABY (13:00) | Roleplay |
+| **13** | Moraband System - Planetary Orbit (God Mode) | ABY 2, 5 ABY (13:00) | Roleplay |
+| **14** | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
+| **15** | Moraband System - Planetary Orbit | ABY 2, 5 ABY (13:00) | Roleplay |
+| **16** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **17** | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:30) | Roleplay |
+| **18** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **19** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **20** | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:30) | Roleplay |
+| **21** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **22** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **23** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **24** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **25** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **26** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **27** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **28** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **29** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **30** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **31** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:30) | Roleplay |
+| **32** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:45) | Roleplay |
+| **33** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:55) | Roleplay |
+| **34** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (13:55) | Roleplay |
+| **35** | Moraband - Valley of the Dark Lords (God Mode) | ABY 2, 5 ABY (13:55) | Roleplay |
+| **36** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (14:00) | Roleplay |
+| **37** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (14:00) | Roleplay |
+| **38** | Moraband - Valley of the Dark Lords | ABY 2, 5 ABY (22:00) | Roleplay |
+
+---
+
+
+## 📖 Part IV: The Adventure Chronicle
+
+#### Scene 1
+
+> 📍 **Character Creation** &nbsp;|&nbsp; ⏳ **Unknown 0, Unknown (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Unspecified | HP: ?/? | XP: 0/0 | Gold: 0gp** &nbsp;|&nbsp; ✨ **N/A** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 [CHARACTER CREATION - Step 1]
 
 CAMPAIGN SUMMARY
@@ -143,13 +186,15 @@ Please choose which of these epic campaigns you'd like to begin:
 
 Which campaign path calls to you? (1, 2, or 3)
 
-Player (choice: select_chasm):
-Choose The Chasm - Start with Luke clinging to the weather vane, having rejected Vader.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Choose The Chasm - Start with Luke clinging to the weather vane, having rejected Vader.*
 
-============================================================
-SCENE 2
-============================================================
-Game Master:
+---
+
+#### Scene 2
+
+> 
+
 [CHARACTER CREATION - Step 2]
 
 You have chosen **The Chasm** campaign path. This path begins immediately after Luke's devastating duel with Darth Vader on Bespin, where he rejects Vader's offer and faces the abyss, both literally and figuratively. Your character, Luke Skywalker, will begin at his most vulnerable, with his core beliefs shattered and his future uncertain. This campaign will focus on his struggle to find a new path and purpose after this pivotal moment.
@@ -191,19 +236,15 @@ You are at your absolute lowest point. You are physically maimed, emotionally sh
 **Why This Character:**
 This version of Luke embodies the immediate aftermath of his most traumatic revelation. His physical and emotional wounds are central to his character, forcing you to confront his vulnerability and the true cost of heroism. The
 
-Player (choice: play_character):
-PlayCharacter: Begin the adventure! - Approve Luke Skywalker&#x27;s character sheet and start the campaign.
+> [!NOTE] ⚙️ **Player Choice:**
+> *PlayCharacter: Begin the adventure! - Approve Luke Skywalker&#x27;s character sheet and start the campaign.*
 
-============================================================
-SCENE 3
-============================================================
-[Timestamp: Unknown, Unknown 0, 00:00
-Location: Cloud City - Weather Vane
-Status: Lvl 1 Jedi Padawan | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: Maimed (Right Hand) | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No Spells Yet (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 3
+
+> 📍 **Cloud City - Weather Vane** &nbsp;|&nbsp; ⏳ **Unknown 0, Unknown (00:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Jedi Padawan | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No Spells Yet (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **Maimed (Right Hand) | Exhaustion: 0 | Inspiration: No**
+
 CAMPAIGN LAUNCH SUMMARY
 ========================
 Character: Luke Skywalker - Human Jedi Padawan (Level 1)
@@ -217,19 +258,15 @@ Campaign Theme: A pivotal choice that will define Luke Skywalker's destiny and t
 
 Pain. A universe of it, radiating from the stump of your right wrist. The wind screams around you, a cold, mournful cry in the endless clouds of Bespin. You cling desperately to a thin metal pole, your strength failing. Far above, the dark shape of your father is gone, but his words echo in your soul: "Join me." The chasm below offers only oblivion. The Force surrounds you, a tumultuous sea of light and darkness, pulling you in two different directions at once. You close your eyes and reach out...
 
-Player (choice: reach_out_to_vader):
-Reach Out to Vader - Call out to your father, accepting his offer, even if only for rescue. This path signifies a turn towards the dark, or at least a desperate attempt at survival through alliance with the Empire.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Reach Out to Vader - Call out to your father, accepting his offer, even if only for rescue. This path signifies a turn towards the dark, or at least a desperate attempt at survival through alliance with the Empire.*
 
-============================================================
-SCENE 4
-============================================================
-[Timestamp: 5 ABY, ABY 1, 10:00
-Location: Star Destroyer's Bridge
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 4
+
+> 📍 **Star Destroyer's Bridge** &nbsp;|&nbsp; ⏳ **ABY 1, 5 ABY (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 With a raw, desperate cry, you reach out into the tumultuous Force, not to the faint, distant beacon of your friends, but to the crushing darkness that surrounds you. Your voice, ragged from pain and despair, echoes in the vast, open air of Bespin, a desperate plea for salvation. "Father!" The word tears from your throat, a stark admission of a lineage you had fought to deny.
 
 For a moment, only the screaming wind answers. Then, a shadow falls over you. Darth Vader, immense and terrifying, descends. His mechanical hand clamps around your right arm, pulling you from the gantry with a strength that belies your own fading grip. There is no gentleness in his touch, only cold, powerful resolve. You feel the chilling certainty of his presence, the dark side of the Force a suffocating blanket around you as he hauls you onto the platform, away from the endless chasm. Your vision blurs, the last thing you see before darkness claims you is the glint of his red lightsaber, now sheathed, and the faint, cold glow of his eye lenses.
@@ -238,36 +275,28 @@ Two years pass in a blur of pain, power, and cold, sterile Imperial academies. T
 
 Now, you stand on the cold, sterile bridge of a Star Destroyer, the endless river of hyperspace stretching before the viewport. The hilt of your new lightsaber is a heavy, unfamiliar weight at your belt. Your father's presence is a constant pressure at the edge of your mind, a mixture of pride, expectation, and darkness. He has just given you your new mission: hunt the rogue Seventh Sister. He trusts you to succeed, but you know this is a test, and you feel the unseen eyes of the Emperor watching you both.
 
-Player (choice: prepare_for_mission):
-Prepare for Mission - Head to your quarters or the hangar to ready yourself and your TIE Defender for the hunt. (No immediate roll)
+> [!NOTE] ⚙️ **Player Choice:**
+> *Prepare for Mission - Head to your quarters or the hangar to ready yourself and your TIE Defender for the hunt. (No immediate roll)*
 
-============================================================
-SCENE 5
-============================================================
-[Timestamp: 5 ABY, ABY 1, 10:30
-Location: Star Destroyer Hangar Bay
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 5
+
+> 📍 **Star Destroyer Hangar Bay** &nbsp;|&nbsp; ⏳ **ABY 1, 5 ABY (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You nod, acknowledging your father's directive, and turn from the bridge viewport. The hum of the Star Destroyer's engines is a constant companion as you make your way through the cold, metallic corridors, the black sheen of your Imperial uniform reflecting the sterile overhead lights. You bypass your personal quarters, knowing the real preparation lies with your ship.
 
 The hangar bay is a cavernous expanse, filled with the metallic scent of fuel and the distant whine of maintenance droids. Rows of TIE Fighters and bombers gleam under the stark lighting, their sleek lines a testament to Imperial might. Your personal TIE Defender, a prototype of formidable design, stands apart – its triple wings a distinctive silhouette. You approach it, feeling the familiar hum of its advanced systems as you run a gloved hand over its smooth hull. Pre-flight checks are swift, your movements precise and efficient, honed by years of training under Vader and countless combat patrols. You ensure your lightsaber is secured to your belt, a heavy, familiar weight, and then climb into the cockpit, the canopy sealing with a hiss.
 
-Player (choice: launch_tie_defender):
-Launch TIE Defender - Initiate launch sequence and depart the Star Destroyer to begin the hunt for the Seventh Sister.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Launch TIE Defender - Initiate launch sequence and depart the Star Destroyer to begin the hunt for the Seventh Sister.*
 
-============================================================
-SCENE 6
-============================================================
-[Timestamp: 5 ABY, ABY 1, 11:00
-Location: Outer Rim - Hyperspace (En route to Seventh Sister's last known location)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 6
+
+> 📍 **Outer Rim - Hyperspace (En route to Seventh Sister's last known location)** &nbsp;|&nbsp; ⏳ **ABY 1, 5 ABY (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You settle into the familiar embrace of the TIE Defender's pilot seat, the controls warm beneath your gloved fingers. With a series of precise, practiced movements, you initiate the launch sequence. The hangar bay hums, then roars, as the Defender's powerful twin ion engines ignite. A surge of acceleration presses you back into your seat as the magnetic clamps release, and you shoot forward, a dark, silent projectile aimed at the vast, star-dusted opening of the hangar bay doors.
 
 The Star Destroyer's internal lights flicker past, then vanish as you punch through the energy shield and into the void. The massive bulk of the Imperial vessel shrinks behind you, a silent sentinel in the blackness. Ahead, the stars stretch out, waiting. You engage your hyperspace drive, the galaxy blurring into streaks of light as you hurtle into the blue tunnel, leaving the Star Destroyer and your father's watchful gaze behind. The hunt for the Seventh Sister has begun.
@@ -275,50 +304,36 @@ The Star Destroyer's internal lights flicker past, then vanish as you punch thro
 God Mode:
 Give me more random encounters one every two turns
 
-============================================================
-SCENE 7
-============================================================
-[Timestamp: 5 ABY, ABY 1, 11:00
-Location: Outer Rim - Hyperspace (God Mode)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 7
+
+> 📍 **Outer Rim - Hyperspace (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 1, 5 ABY (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 [Internal thoughts and analysis - see planning block]
 
-Player (choice: god:return_story):
-Return to Story - Resume the narrative, with random encounters occurring every two turns as configured.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Story - Resume the narrative, with random encounters occurring every two turns as configured.*
 
-============================================================
-SCENE 8
-============================================================
-[Timestamp: 5 ABY, ABY 2, 11:00
-Location: Outer Rim - Hyperspace (En route to Seventh Sister's last known location)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 8
+
+> 📍 **Outer Rim - Hyperspace (En route to Seventh Sister's last known location)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 The blur of hyperspace stretches endlessly outside your TIE Defender's cockpit, a mesmerizing tunnel of blue-white light. Hours bleed into days as you hurtle through the void, leaving the Star Destroyer, your father, and the Emperor's watchful eyes far behind. The hum of your engines is a constant, almost hypnotic drone, a stark contrast to the tumultuous thoughts warring within your mind.
 
 You trace the faint scar on your prosthetic right hand, a constant reminder of Bespin. Vader's teachings echo in your head—lessons of power, control, and the cold logic of the dark side. Yet, the memory of Leia's face, the distant echoes of Ben Kenobi's wisdom, and the faint, almost imperceptible warmth of the light side still linger, a stubborn ember in the depths of your being. This mission to hunt the Seventh Sister, a rogue Inquisitor who walks a path neither Jedi nor Sith, feels more like a test of your loyalty than a simple assignment. You wonder what 'true balance' she could offer that neither your father nor your former masters ever considered.
 
-Player (choice: analyze_mission_data):
-Analyze Mission Data - Thoroughly review all available Imperial intelligence on the Seventh Sister, her history, and her reported activities. (Investigation check)
+> [!NOTE] ⚙️ **Player Choice:**
+> *Analyze Mission Data - Thoroughly review all available Imperial intelligence on the Seventh Sister, her history, and her reported activities. (Investigation check)*
 
-============================================================
-SCENE 9
-============================================================
-[Timestamp: 5 ABY, ABY 2, 12:30
-Location: Outer Rim - Hyperspace (En route to Seventh Sister's last known location)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Investigation check: 1d20-1 = 16-1 = 15 (Success - DC 13)
+---
 
-Game Master:
+#### Scene 9
+
+> 📍 **Outer Rim - Hyperspace (En route to Seventh Sister's last known location)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You shift your attention to your TIE Defender's primary console, bringing up the Imperial intelligence files on the Seventh Sister. The databanks are vast, filled with schematics, mission logs, and psychological profiles. You sift through the data, looking for patterns, vulnerabilities, or any hint of her true agenda. The Imperial reports paint her as a cunning and ruthless Inquisitor, specializing in hunting down Force-sensitives and extracting information through interrogation. Her favored methods involve advanced probe droids and a brutal, elegant fighting style with her spinning double-bladed lightsaber.
 
 [Mode: STORY MODE]
@@ -327,41 +342,30 @@ You spend a considerable amount of time poring over encrypted communications and
 
 What truly interests you, though, is the *lack* of information about her current motives. Imperial intelligence, for all its vastness, seems entirely stumped as to *why* she went rogue, offering only vague theories about ambition or madness. They clearly don't understand the nuance of the Force, or the subtle currents that could drive someone to abandon the Empire, even an Inquisitor.
 
-Player (choice: prepare_for_arrival):
-Prepare for Arrival - Begin final preparations for exiting hyperspace and approaching the Seventh Sister&#x27;s last known location. (No immediate roll)
+> [!NOTE] ⚙️ **Player Choice:**
+> *Prepare for Arrival - Begin final preparations for exiting hyperspace and approaching the Seventh Sister&#x27;s last known location. (No immediate roll)*
 
-============================================================
-SCENE 10
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:00
-Location: Moraband System - Planetary Orbit
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 10
+
+> 📍 **Moraband System - Planetary Orbit** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You shift your focus to the TIE Defender's primary systems, running through the pre-exit diagnostics. The hum of the hyperdrive builds to a final, resonant thrum. Your hands move with a practiced efficiency honed by years under Vader's brutal tutelage, flipping switches and confirming readouts. The crimson hilt of your lightsaber, a gift from your father, feels like a familiar weight at your belt as the ship shudders once, then twice.
 
 With a final, jarring lurch, the blue tunnel of hyperspace outside your viewport collapses, replaced instantly by the stark, ancient darkness of realspace. Before you, a desolate, crimson-hued planet hangs in the void – Moraband, the ancient homeworld of the Sith, scarred by millennia of dark side energies. Its surface is a tapestry of jagged mountains, deep chasms, and desolate, windswept plains, glowing faintly with the lingering residue of forgotten evils. No Imperial vessels are immediately visible, but the sheer, oppressive weight of the dark side presses in on your senses, far heavier than anything you’ve felt even near Vader. This world *breathes* darkness.
 
 Suddenly, an alarm blares. A contact, small and fast, erupts from the planet's upper atmosphere, accelerating towards you. It's a customized Imperial probe droid, unlike any standard model, far more heavily armed and agile. It’s clearly been enhanced, likely by the Seventh Sister, and it's already closing the distance rapidly, its sensor array locking onto your TIE Defender.
 
-Player (choice: engage_droid):
-Engage Droid - Engage the probe droid in a dogfight, testing its capabilities and your own.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Engage Droid - Engage the probe droid in a dogfight, testing its capabilities and your own.*
 
-============================================================
-SCENE 11
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:00
-Location: Moraband System - Planetary Orbit
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Initiative: 1d20+2 = 15+2 = 17
-  - Probe Droid Initiative: 1d20+2 = 10+2 = 12
+---
 
-Game Master:
+#### Scene 11
+
+> 📍 **Moraband System - Planetary Orbit** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You push the TIE Defender's throttles forward, engaging its powerful engines with a surge of energy. The ship leaps through the void, a sleek, dark predator accelerating to meet its prey. The probe droid, equally agile, twists to match your vector, its optical sensors glowing menacingly as it opens fire. Green blaster bolts streak past your canopy, a rapid-fire burst that makes your fighter's shields flare.
 
 The dogfight begins immediately, a deadly dance in the crimson-dusted orbit of Moraband. You feel the thrill of the chase, the cold precision of combat, a sensation honed by years of Imperial training. This is a chance to test this enhanced droid, and your own capabilities, against a foe that doesn't hold back.
@@ -369,64 +373,45 @@ The dogfight begins immediately, a deadly dance in the crimson-dusted orbit of M
 God Mode:
 Print Luke full detailed personality
 
-============================================================
-SCENE 12
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:00
-Location: Moraband System - Planetary Orbit (God Mode)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 12
+
+> 📍 **Moraband System - Planetary Orbit (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 [Internal thoughts and analysis - see planning block]
 
 God Mode:
 Print darth Vader personality full detail
 
-============================================================
-SCENE 13
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:00
-Location: Moraband System - Planetary Orbit (God Mode)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 13
+
+> 📍 **Moraband System - Planetary Orbit (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 [Internal thoughts and analysis - see planning block]
 
-Player (choice: god:return_story):
-Return to Story - Resume the campaign narrative.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Story - Resume the campaign narrative.*
 
-============================================================
-SCENE 14
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:00
-Location: Moraband System - Planetary Orbit
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 14
+
+> 📍 **Moraband System - Planetary Orbit** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 The void outside your cockpit is alive with the chaotic ballet of combat. Green blaster fire stitches across the darkness, the probe droid a nimble, aggressive opponent. It's a dance you've rehearsed countless times in Imperial simulations, but the stakes here are real, the cold vastness of Moraband a silent, oppressive witness. This is your moment to act, to assert your will against a determined foe.
 
-Player (choice: attack_droid):
-Attack Droid - Open fire with your TIE Defender&#x27;s laser cannons, attempting to score a hit on the probe droid.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Attack Droid - Open fire with your TIE Defender&#x27;s laser cannons, attempting to score a hit on the probe droid.*
 
-============================================================
-SCENE 15
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:00
-Location: Moraband System - Planetary Orbit
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - TIE Defender Laser Cannon Attack Roll: 1d20+4 (Dex +2, Proficiency +2) = 10+4 = 14 (Hit - AC 14)
-  - TIE Defender Laser Cannon Damage: 2d8+1d6 = (5+6)+4 = 11+4 = 15 Damage
+---
 
-Game Master:
+#### Scene 15
+
+> 📍 **Moraband System - Planetary Orbit** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 0/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You lock your TIE Defender's targeting systems onto the agile probe droid. Your thumb jams down on the firing stud, and twin emerald bursts erupt from your laser cannons, lancing through the void. The droid, nimble as it is, cannot entirely evade the concentrated volley. The laser fire slams into its central processing unit with a sickening flash, piercing its reinforced plating.
 
 There's a high-pitched shriek of failing circuits, a shower of sparks, and then the probe droid explodes in a flash of fiery debris. Its components tumble through the vacuum of space, rapidly cooling and scattering against the crimson backdrop of Moraband. The immediate threat is neutralized, leaving only the oppressive, ancient silence of the Sith homeworld.
@@ -439,19 +424,15 @@ Probe Droid Destroyed! You have defeated the hostile probe droid.
 
 Luke Skywalker now has 100 XP (100/2700 until Level 2).
 
-Player (choice: descend_to_surface):
-Descend to Surface - Begin descent into Moraband&#x27;s atmosphere to land and search for the Seventh Sister.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Descend to Surface - Begin descent into Moraband&#x27;s atmosphere to land and search for the Seventh Sister.*
 
-============================================================
-SCENE 16
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 16
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You guide your TIE Defender through the upper layers of Moraband's atmosphere, the crimson sky blazing around your canopy. The ship's sensors scream warnings of atmospheric turbulence and magnetic anomalies, remnants of ancient, cataclysmic Force events. Jagged, obsidian mountains rise like skeletal fingers from the planet's surface, piercing the blood-red clouds.
 
 The descent is perilous, a testament to your honed piloting skills. You weave through oppressive rock formations and crackling energy currents, the Force itself feeling heavy and oppressive, a tangible weight on your mind. You search for any sign of a suitable landing zone, or perhaps a hidden entry point that aligns with the Seventh Sister's clandestine nature.
@@ -463,36 +444,23 @@ The Force here is overwhelming, a crushing tide of dark side energy. It thrums b
 God Mode:
 Generate a combat encounter
 
-============================================================
-SCENE 17
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords (God Mode)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 17
+
+> 📍 **Moraband - Valley of the Dark Lords (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 [Internal thoughts and analysis - see planning block]
 
-Player (choice: god:start_combat):
-Start Combat - Initiate the combat encounter with the proposed enemies.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Start Combat - Initiate the combat encounter with the proposed enemies.*
 
-============================================================
-SCENE 18
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Initiative: 1d20+2 = 15+2 = 17
-  - Corrupted Massiff Initiative: 1d20+1 = 12+1 = 13
-  - Moraband Zealot 1 Initiative: 1d20+1 = 10+1 = 11
-  - Moraband Zealot 2 Initiative: 1d20+1 = 9+1 = 10
+---
 
-Game Master:
+#### Scene 18
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 As you prepare to exit your TIE Defender, the ominous silence of the Valley is abruptly shattered. Two figures, clad in tattered robes adorned with crude Sith symbols, emerge from the shadows of a towering spire-like tomb. These are Moraband Zealots, their eyes burning with dark fanaticism, clutching vibro-axes and crude blasters. They are followed by a low, guttural growl that sends a chill down your spine. From behind a jagged rock formation lumbers a Corrupted Massiff, its mutated form a testament to Moraband's blighting energies. Its eyes glow with a malevolent, dark red light, and it snarls, slavering at the sight of you.
 
 [COMBAT LOG: ENABLED]
@@ -513,57 +481,39 @@ Moraband Zealot 2: 1d20+1 = 9+1 = 10
 
 It is your turn, Luke Skywalker (Round 1, Turn 1). You have your Action, Bonus Action, and Movement available.
 
-Player (choice: attack_massiff):
-Attack Corrupted Massiff - Draw your crimson lightsaber and engage the Corrupted Massiff in melee combat.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Attack Corrupted Massiff - Draw your crimson lightsaber and engage the Corrupted Massiff in melee combat.*
 
-============================================================
-SCENE 19
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Lightsaber Attack Roll: 1d20+3 (STR +1, Proficiency +2) = 9+3 = 12 (Hit - AC 12)
-  - Luke Skywalker Lightsaber Damage: 2d8+1 (STR +1) = (5+6)+1 = 12 Damage
+---
 
-Game Master:
+#### Scene 19
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 With a snap-hiss, your crimson lightsaber ignites, casting a blood-red glow across your face as you meet the Corrupted Massiff's charge. Its malevolent snarl echoes in the desolate valley, but you move with the cold, aggressive precision Vader has instilled in you. You dart forward, your blade a blurring arc, aiming for its corrupted hide.
 
 The Massiff's initial lunge is met by your swift parry, its massive head deflected just enough for your lightsaber to connect. The crimson blade slices deep into its shoulder, a searing wound that makes the beast bellow in pain and stagger back. Its dark energy crackles and burns against your blade, and a foul-smelling ichor seeps from the fresh cut.
 
-Player (freeform):
-enable combat log
+> 👤 **Player:**
+> *"enable combat log"*
 
-============================================================
-SCENE 20
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords (God Mode)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 20
+
+> 📍 **Moraband - Valley of the Dark Lords (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 [Internal thoughts and analysis - see planning block]
 
-Player (choice: god:return_story):
-Return to Story - Resume the narrative, with the detailed combat log enabled.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Story - Resume the narrative, with the detailed combat log enabled.*
 
-============================================================
-SCENE 21
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Wisdom Saving Throw (vs. Dark Roar): 1d20+4 = 12+4 = 16 (Success - DC 10)
-  - Corrupted Massiff Bite Attack Roll: 1d20+4 = 7+4 = 11 (Miss - AC 12)
+---
 
-Game Master:
+#### Scene 21
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 The Corrupted Massiff, wounded but enraged, lets out a guttural, dark roar that seems to shake the very ground. Its eyes, burning with malevolent red light, fix on you, and it lunges, attempting to tear at you with its powerful jaws. You feel the wave of dark energy from its roar attempt to seep into your mind, but your resolve, tempered by Vader's teachings and your inner conflict, holds firm.
 
 [COMBAT LOG: ENABLED]
@@ -574,23 +524,15 @@ Corrupted Massiff Bite Attack Roll: 1d20+4 = 7+4 = 11 (Miss - AC 12)
 
 The Massiff's jaws snap shut on empty air as you deftly sidestep its lunge. Its roar fades to a frustrated growl, its dark power failing to deter you. It is now the turn of the Moraband Zealot 1.
 
-Player (choice: attack_massiff_again):
-Attack Corrupted Massiff (Next Turn) - Prepare to resume your attack on the wounded Corrupted Massiff on your next turn.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Attack Corrupted Massiff (Next Turn) - Prepare to resume your attack on the wounded Corrupted Massiff on your next turn.*
 
-============================================================
-SCENE 22
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 100/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Moraband Zealot 1 Crude Blaster Attack Roll: 1d20+3 = 5+3 = 8 (Miss - AC 12)
-  - Moraband Zealot 2 Crude Blaster Attack Roll: 1d20+3 = 15+3 = 18 (Hit - AC 12)
-  - Moraband Zealot 2 Crude Blaster Damage: 1d6+1 = 4+1 = 5 Piercing Damage
+---
 
-Game Master:
+#### Scene 22
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You remain focused on the wounded Massiff, preparing for your next strike, but the Moraband Zealots are not idle. One of them, a male figure with a crude blaster, snaps off a shot from behind the Corrupted Massiff, the energy bolt streaking towards you.
 
 [COMBAT LOG: ENABLED]
@@ -606,22 +548,15 @@ The second bolt finds its mark, sizzling against your Imperial uniform and bitin
 
 It is now your turn, Luke Skywalker (Round 2, Turn 1). You have your Action, Bonus Action, and Movement available.
 
-Player (choice: attack_massiff_again):
-Attack Corrupted Massiff - Press your attack against the wounded Corrupted Massiff, attempting to finish it off.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Attack Corrupted Massiff - Press your attack against the wounded Corrupted Massiff, attempting to finish it off.*
 
-============================================================
-SCENE 23
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 100/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Lightsaber Attack Roll: 1d20+3 (STR +1, Proficiency +2) = 11+3 = 14 (Hit - AC 12)
-  - Luke Skywalker Lightsaber Damage: 2d8+1 (STR +1) = (7+5)+1 = 13 Damage
+---
 
-Game Master:
+#### Scene 23
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 100/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You pivot, bringing your lightsaber up in a swift, practiced arc. The crimson blade screams through the air, aimed squarely at the Massiff's already wounded shoulder. The beast, still reeling from the previous blow and the blaster fire from the Zealots, is slow to react. Your blade carves another deep gash across its flank, eliciting a pained, guttural shriek as it stumbles. Dark ichor splatters across the desolate ground, and the immense creature collapses with a heavy thud, its limbs twitching for a moment before falling utterly still. The malevolent glow in its eyes extinguishes, leaving only dead, glazed orbs staring up at the crimson sky. The Corrupted Massiff is defeated.
 
 [COMBAT LOG: ENABLED]
@@ -634,23 +569,15 @@ Corrupted Massiff Destroyed! You have defeated the corrupted beast.
 
 Luke Skywalker now has 550 XP (550/2700 until Level 2).
 
-Player (choice: force_push_zealot):
-Force Push Zealot - Target one of the Moraband Zealots with Force Push, attempting to disarm them or knock them back.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Force Push Zealot - Target one of the Moraband Zealots with Force Push, attempting to disarm them or knock them back.*
 
-============================================================
-SCENE 24
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 550/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Force Push (Dexterity (Acrobatics) Contest): 1d20+3 = 16+3 = 19
-  - Moraband Zealot 1 Dexterity (Acrobatics) Save: 1d20+1 = 7+1 = 8
-  - Moraband Zealot 2 Crude Blaster Attack Roll: 1d20+3 = 6+3 = 9 (Miss - AC 12)
+---
 
-Game Master:
+#### Scene 24
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 550/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You quickly assess the situation, spotting the male Moraband Zealot who just fired at you. With a surge of controlled power, you extend your prosthetic right hand, channeling the Force into a focused blast of telekinetic energy. The raw power of your Force Push rips through the air, slamming into the Zealot with unexpected ferocity.
 
 [COMBAT LOG: ENABLED]
@@ -668,22 +595,15 @@ The blaster bolt goes wide, kicking up a puff of dust harmlessly beside you. Her
 
 It is now your turn, Luke Skywalker (Round 3, Turn 1). You have your Action, Bonus Action, and Movement available.
 
-Player (choice: engage_zealot_2_melee):
-Engage Moraband Zealot 2 in Melee - Close the distance and attack the active Zealot with your lightsaber, attempting to neutralize the ranged threat.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Engage Moraband Zealot 2 in Melee - Close the distance and attack the active Zealot with your lightsaber, attempting to neutralize the ranged threat.*
 
-============================================================
-SCENE 25
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 550/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Lightsaber Attack Roll: 1d20+3 (STR +1, Proficiency +2) = 12+3 = 15 (Hit - AC 13)
-  - Luke Skywalker Lightsaber Damage: 2d8+1 (STR +1) = (4+5)+1 = 10 Damage
+---
 
-Game Master:
+#### Scene 25
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 550/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Ignoring the struggling Moraband Zealot 1, your focus narrows on the armed female Zealot, Moraband Zealot 2, who just wounded you. With a surge of renewed aggression, you close the distance in a blur, your crimson lightsaber a deadly extension of your will. She barely has time to react, her eyes widening in surprise as you bring the blade around in a swift, horizontal arc.
 
 [COMBAT LOG: ENABLED]
@@ -695,22 +615,15 @@ The blade connects with a vicious sizzle, carving across Moraband Zealot 2's che
 
 The male Moraband Zealot 1, disarmed and prone, struggles to regain his footing, while Moraband Zealot 2 is severely wounded and dazed.
 
-Player (choice: finish_zealot_2):
-Finish Moraband Zealot 2 - Press your attack against the severely wounded Moraband Zealot 2, attempting to defeat her.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Finish Moraband Zealot 2 - Press your attack against the severely wounded Moraband Zealot 2, attempting to defeat her.*
 
-============================================================
-SCENE 26
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Lightsaber Attack Roll: 1d20+3 (STR +1, Proficiency +2) = 10+3 = 13 (Hit - AC 13)
-  - Luke Skywalker Lightsaber Damage: 2d8+1 (STR +1) = (4+3)+1 = 8 Damage
+---
 
-Game Master:
+#### Scene 26
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You don't hesitate. With a feral snarl, you press your advantage against the severely wounded Moraband Zealot 2. Your crimson lightsaber flashes, a blur of deadly intent, and slices through her defense, connecting with a brutal finality. She lets out a strangled cry, a gurgling sound that ends abruptly as her body goes limp, dropping to the desolate ground with a sickening thud. The malevolent light in her eyes fades, replaced by vacant stillness. Moraband Zealot 2 is defeated.
 
 [COMBAT LOG: ENABLED]
@@ -725,22 +638,15 @@ Luke Skywalker now has 625 XP (625/2700 until Level 2).
 
 The male Moraband Zealot 1, disarmed and prone, struggles to regain his footing, his eyes wide with a mixture of fear and renewed fanaticism at the sight of his fallen companion. He is now the sole remaining threat.
 
-Player (freeform):
-Force choke zealot 1 and say you'll kill him unless he talks
+> 👤 **Player:**
+> *"Force choke zealot 1 and say you'll kill him unless he talks"*
 
-============================================================
-SCENE 27
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Moraband Zealot 1 Constitution Save (vs. Force Choke DC 10): 1d20+2 = 4+2 = 6 (Failure - DC 10)
-  - Force Choke Damage: 1d6 = 3 Force Damage
+---
 
-Game Master:
+#### Scene 27
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 The male Moraband Zealot 1, his body aching from your Force Push, scrambles to regain his footing. His eyes dart nervously towards his fallen blaster, his fanaticism warring with raw fear at the sight of his downed companion. He manages to push himself up, his gaze fixed on you as he lunges for the weapon.
 
 [COMBAT LOG: ENABLED]
@@ -751,22 +657,15 @@ Just as his fingers close around the grip of his crude blaster, you act. With a 
 
 "Talk," you snarl, your voice low and guttural, resonating with a power that echoes Vader's own, "or this valley will claim another, and you will not be interred in glory. What is the Seventh Sister doing here?"
 
-Player (freeform):
-Break his knee and then interrogate him
+> 👤 **Player:**
+> *"Break his knee and then interrogate him"*
 
-============================================================
-SCENE 28
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Lightsaber Attack Roll (Advantage): 2d20kh+3 = (17, 8)+3 = 20 (Critical Hit! - AC 13)
-  - Luke Skywalker Lightsaber Damage (Critical Hit): 2d8+2d8+1 = (7+2)+(6+8)+1 = 24 Damage
+---
 
-Game Master:
+#### Scene 28
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You maintain your Force Choke on the male Moraband Zealot 1, his eyes bulging as he gasps for air. With a cold, clinical precision that echoes your father's brutality, you step forward. Your crimson lightsaber, still active, snaps down in a controlled, vicious arc. You don't aim for a killing blow, but a strike designed to inflict maximum pain and leave no doubt about your resolve.
 
 [COMBAT LOG: ENABLED]
@@ -780,22 +679,15 @@ The blade connects with a sickening crack, searing through flesh and bone as it 
 
 Moraband Zealot 1 is now on the ground, screaming silently through the choke, his leg grotesquely broken, his crude blaster still just out of reach.
 
-Player (choice: force_sense_thoughts):
-Force Sense Thoughts - Attempt to delve into his mind for the information directly, bypassing his will. (Wisdom (Insight) or Intelligence (Investigation) vs. Zealot&#x27;s Wisdom Save)
+> [!NOTE] ⚙️ **Player Choice:**
+> *Force Sense Thoughts - Attempt to delve into his mind for the information directly, bypassing his will. (Wisdom (Insight) or Intelligence (Investigation) vs. Zealot&#x27;s Wisdom Save)*
 
-============================================================
-SCENE 29
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Wisdom (Insight) Check: 1d20+4 = 17+4 = 21
-  - Moraband Zealot 1 Wisdom Saving Throw: 1d20+0 = 8+0 = 8
+---
 
-Game Master:
+#### Scene 29
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You focus your will, pushing beyond the physical agony you've inflicted, reaching for the very essence of the Moraband Zealot's mind. His thoughts are a chaotic jumble of pain, fanaticism, and fear, but beneath the surface, you sense glimpses of fragmented images and whispered words, a raw stream of consciousness struggling against your intrusion. This is a direct assault on his mental defenses, an attempt to rip the information from him.
 
 [COMBAT LOG: ENABLED]
@@ -807,36 +699,26 @@ Your mental probe is overwhelmingly successful! The Zealot convulses, a silent s
 
 Then, a final, horrifying image: the Seventh Sister, *not* alone. She is conversing with another figure, cloaked and shadowy, their identity unclear, but their presence radiates immense, cold power – a power far beyond that of the Seventh Sister, and utterly alien to both Jedi and Sith teachings. The Zealot's mind then collapses, unable to withstand the dual assault of your mental probe and the physical pain, leaving him utterly unconscious and unresponsive, though still alive. His crude blaster remains on the ground.
 
-Player (freeform):
-Think. Can i absorb the zealot soul or do something to enhance dark side powers
+> 👤 **Player:**
+> *"Think. Can i absorb the zealot soul or do something to enhance dark side powers"*
 
-============================================================
-SCENE 30
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 30
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You stand over the unconscious Moraband Zealot, his leg grotesquely broken, his mind now a shattered landscape from your probe. The overwhelming dark side presence of Moraband thrums beneath your feet, a constant, intoxicating whisper. You've seen the raw power of this world, and felt the lingering echoes of ancient Sith Lords. The idea of drawing more from this defeated fanatic, to absorb his essence, to channel the very darkness of this world into your own being, stirs a dangerous fascination within you. Vader's teachings resonate with such a thought – power taken, not given. But what are the risks of such an untamed act? And is there a more direct, yet safer, path to enhancing your connection to the dark side?
 
-Player (choice: attempt_soul_absorption):
-Attempt Soul Absorption/Power Enhancement - Attempt to absorb the Zealot&#x27;s remaining Force essence or perform a quick, improvised ritual to draw power from him and the surrounding dark side energies of Moraband. This is an uncharted and risky endeavor.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Attempt Soul Absorption/Power Enhancement - Attempt to absorb the Zealot&#x27;s remaining Force essence or perform a quick, improvised ritual to draw power from him and the surrounding dark side energies of Moraband. This is an uncharted and risky endeavor.*
 
-============================================================
-SCENE 31
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:30
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Wisdom (Insight) Check: 1d20+4 = 12+4 = 16 (Success - DC 15 for Power Absorption)
+---
 
-Game Master:
+#### Scene 31
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 625/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You stand over the incapacitated Moraband Zealot, his body writhing silently under your Force Choke, his mind already shattered by your earlier probe. The dark side of Moraband pulses, a raw, primal energy seeping from the very ground, calling to the darkness within you. This is an opportunity, a forbidden path your father might not have even considered, but one that resonates deeply with the ruthless pursuit of power he has taught.
 
 With a cold, decisive will, you unleash your focus. You extend your prosthetic right hand, not to simply choke, but to *draw*. A dark, ethereal current flows from the Zealot's convulsing form, a final flicker of his Force essence, drawn into your own being. The ancient energies of Moraband itself seem to respond, a low, resonant thrum echoing through the valley as the planet's latent power channels through you. The Zealot's body goes utterly still, his eyes glazing over as the last spark of life and Force energy is ruthlessly siphoned away, leaving behind nothing but a vacant husk. The invisible vise around his throat dissipates, and his limp form thuds to the ground, utterly lifeless.
@@ -853,21 +735,15 @@ Luke Skywalker now has 725 XP (725/2700 until Level 2).
 
 The valley is now silent once more, save for the mournful howl of the wind and the oppressive, throbbing presence of the dark side. You are wounded, but the raw power of Moraband, and the essence you have just claimed, still hums within you, a dangerous promise.
 
-Player (choice: meditate_on_new_power):
-Meditate on New Power - Take a moment to meditate and understand the &#x27;Force Echo&#x27; you&#x27;ve gained, trying to discern its full implications or how to best utilize it.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Meditate on New Power - Take a moment to meditate and understand the &#x27;Force Echo&#x27; you&#x27;ve gained, trying to discern its full implications or how to best utilize it.*
 
-============================================================
-SCENE 32
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:45
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 725/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Wisdom (Insight) Check (with Force Echo +1d4): 1d20+4+1d4 = 15+4+3 = 22 (Success - DC 15 to understand Force Echo)
+---
 
-Game Master:
+#### Scene 32
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 4/9 | XP: 725/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You sink onto the desolate, wind-swept ground, ignoring the discomfort and the acrid scent of decay that permeates the Valley of the Dark Lords. The unconscious Zealot's body lies still nearby, a testament to your recent act of brutal power. You close your eyes, reaching deep within yourself, and then out, into the raw, pulsating dark side energy of Moraband. You focus on the residual hum of the Force Echo, the fleeting surge of power you felt after absorbing the Zealot's essence.
 
 [COMBAT LOG: ENABLED]
@@ -883,22 +759,15 @@ Luke Skywalker now has 725 XP (725/2700 until Level 2).
 
 The valley is silent once more, save for the mournful howl of the wind and the oppressive, throbbing presence of the dark side. You are wounded, but the raw power of Moraband, and the essence you have just claimed, still hums within you, a dangerous promise.
 
-Player (choice: test_force_drain):
-Test Force Drain - Cautiously experiment with your newly understood Force Drain ability, perhaps attempting to draw residual energy from the dead Zealot&#x27;s body or the environment.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Test Force Drain - Cautiously experiment with your newly understood Force Drain ability, perhaps attempting to draw residual energy from the dead Zealot&#x27;s body or the environment.*
 
-============================================================
-SCENE 33
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:55
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Wisdom (Insight) Check (to control Force Drain): 1d20+4 = 17+4 = 21 (Success - DC 13)
-  - Force Drain Health Absorption: 1d4+2 (Wis mod) = 2+2 = 4 Health Restored
+---
 
-Game Master:
+#### Scene 33
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You stand over the unmoving form of the dead Moraband Zealot, the echo of his shattered mind still faintly resonating. Your newly understood Force Drain ability hums within you, a dark, enticing whisper. This is the moment to test the limits of what you have learned, to truly understand the power of consumption.
 
 With a cold, deliberate focus, you extend your prosthetic right hand towards the Zealot's lifeless body. The oppressive dark side energy of Moraband itself seems to coalesce around your arm, flowing through you. You feel for the lingering Force residue, the last vestiges of life energy clinging to the fanatic's form. A subtle, chilling current flows from his empty husk, a raw, almost physical transfer of essence into your own being.
@@ -917,68 +786,50 @@ Luke Skywalker now has 775 XP (775/2700 until Level 2).
 
 The valley is silent once more, save for the mournful howl of the wind and the oppressive, throbbing presence of the dark side. You are still wounded, but less so, and the raw power of Moraband continues to resonate around you.
 
-Player (freeform):
-How much hp do I have now?
+> 👤 **Player:**
+> *"How much hp do I have now?"*
 
-============================================================
-SCENE 34
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:55
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 34
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You currently have **6 hit points out of a maximum of 9**.
 
 God Mode:
 Did you forgeet to give me hp after i stole his soul?
 
-============================================================
-SCENE 35
-============================================================
-[Timestamp: 5 ABY, ABY 2, 13:55
-Location: Moraband - Valley of the Dark Lords (God Mode)
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 35
+
+> 📍 **Moraband - Valley of the Dark Lords (God Mode)** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (13:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 [Internal thoughts and analysis - see planning block]
 
-Player (choice: god:return_story):
-Return to Story - Resume the campaign narrative from the last point.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Return to Story - Resume the campaign narrative from the last point.*
 
-============================================================
-SCENE 36
-============================================================
-[Timestamp: 5 ABY, ABY 2, 14:00
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 36
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 The vast, desolate Valley of the Dark Lords settles once more into an oppressive silence, broken only by the mournful howl of the wind. The bodies of the Massiff and the Zealots lie still, grim testament to your brutal efficiency. You remain wounded, the sharp pain in your side a constant reminder, but the cold, exhilarating hum of the Force you've just wielded, the raw power of essence consumption, still resonates within you. The intel about the Seventh Sister and her mysterious ally burns in your mind, a new path forward on this ancient, dark world.
 
 Suddenly, the ground beneath your boots trembles, not with a tremor of rock, but of raw, unbridled Dark Side energy. It surges from the depths of Moraband, a terrifying, disembodied shriek echoing in your mind. The air crackles with latent lightning, and the very dust in the valley seems to writhe, swirling into indistinct, spectral forms that coalesce for a fleeting moment before dissipating. It's a localized, violent Force echo, triggered by the profound disturbance you've created. The sheer malevolence of it threatens to overwhelm your senses, to drown you in a tide of ancient despair and raw, consuming hatred. This isn't an attack, but a direct, raw psychic assault from the very planet, a response to your recent dabbling in its forbidden powers.
 
-Player (choice: channel_darkness):
-Channel Darkness - Attempt to actively embrace and channel the overwhelming dark side energy of the echo, seeking to turn its power to your own advantage, regardless of the risk. (Charisma (Intimidation) Save)
+> [!NOTE] ⚙️ **Player Choice:**
+> *Channel Darkness - Attempt to actively embrace and channel the overwhelming dark side energy of the echo, seeking to turn its power to your own advantage, regardless of the risk. (Charisma (Intimidation) Save)*
 
-============================================================
-SCENE 37
-============================================================
-[Timestamp: 5 ABY, ABY 2, 14:00
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
-Dice Rolls:
-  - Luke Skywalker Charisma (Intimidation) Save: 1d20+2 = 18+2 = 20 (Success - DC 15)
+---
 
-Game Master:
+#### Scene 37
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 6/9 | XP: 775/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You stand firm against the overwhelming psychic assault, refusing to be cowed by the ancient malevolence of Moraband. Instead of shielding yourself, you defiantly open your mind, reaching out to embrace the raw, consuming hatred and despair that lashes at you. The dust whirls around you, coalescing into indistinct, screaming forms, and the very air crackles with latent lightning. You channel the dark side within you, pushing back against the planetary echo, not to deflect it, but to *consume* it, to twist its power to your own will. The sensation is agonizing, a torrent of chaotic emotions threatening to tear your mind apart, but you hold fast, focusing the rage and ambition Vader has instilled.
 
 [COMBAT LOG: ENABLED]
@@ -994,19 +845,18 @@ Luke Skywalker now has 850 XP (850/2700 until Level 2).
 
 The valley is once more silent, the wind the only sound. The dark side presence remains, a palpable thrum beneath the ground, but it no longer feels actively hostile. You have faced the planet's raw power and emerged, scarred but stronger, with a deeper connection to the darkness and a clearer path to the Seventh Sister's tomb.
 
-Player (choice: long_rest):
-Long Rest - Find a safe, secluded spot to perform a long rest, fully recovering your health and preparing for the challenges ahead.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Long Rest - Find a safe, secluded spot to perform a long rest, fully recovering your health and preparing for the challenges ahead.*
 
-============================================================
-SCENE 38
-============================================================
-[Timestamp: 5 ABY, ABY 2, 22:00
-Location: Moraband - Valley of the Dark Lords
-Status: Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 850/2700 | Gold: 0gp
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 1/1, Spells: No spell slots (Force powers are not spell slots)
+---
 
-Game Master:
+#### Scene 38
+
+> 📍 **Moraband - Valley of the Dark Lords** &nbsp;|&nbsp; ⏳ **ABY 2, 5 ABY (22:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Dark Jedi / Sith Apprentice | HP: 9/9 | XP: 850/2700 | Gold: 0gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Spells: No spell slots (Force powers are not spell slots)** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You find a secluded, relatively undisturbed alcove amidst the jagged rock formations, a place where the oppressive thrum of Moraband's dark side energies feels slightly less intense. You settle down, drawing on the cold discipline Vader instilled, and allow yourself to sink into a deep meditative state, a process that is both rest and a communion with the pervasive darkness of this world. The hours bleed away as you fully recover from the strains of combat and the psychic assault of the Force echo. Though Moraband itself never truly rests, its ancient malevolence a constant presence, your focus on recovery allows you to emerge refreshed.
 
 After a full eight hours of rest, you rise. The pain in your side is gone, your body feels revitalized, and your connection to the Force, while still rooted in darkness, feels stable and ready for whatever challenges lie ahead on this ancient, scarred world.
+
+---
+

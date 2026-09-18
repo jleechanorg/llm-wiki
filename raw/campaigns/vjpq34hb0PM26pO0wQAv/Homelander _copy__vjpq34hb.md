@@ -1,26 +1,85 @@
 ---
-title: "Homelander (copy)"
-type: source
-tags: [campaign, worldarchitect, homelander-copy]
-date: 2026-07-13
-source_file: /Users/jleechan/llm_wiki/raw/campaigns/vjpq34hb0PM26pO0wQAv/Homelander _copy__vjpq34hb.txt
-campaign_id: vjpq34hb0PM26pO0wQAv
-entry_count: 98
-last_updated_iso: 2026-07-13T02:34:17.934755+00:00
-ingest_batch: batch-2026-07-12-50plus
+title: "Homelander _copy__vjpq34hb"
+campaign_id: "vjpq34hb0PM26pO0wQAv"
+scenes_total: 49
+exported_from: "https://worldarchitect.ai"
 ---
+
+
+# ⚔️ Homelander _copy__vjpq34hb
+> *A WorldArchitect.AI Chronicle*
+
+---
+
+
+## 🛡️ Part I: Campaign Background
 
 God Mode:
 Character: Homelander | Setting: Homelander but make me neutral alignment. Let’s put me in season  1 of the boys and make it fully faithful to the show
 
-============================================================
-SCENE 1
-============================================================
-[Timestamp: 2024, May 15, 09:00:00
-Location: Vought Tower, New York City
-Status: Character Creation in Progress]
+## 🗺️ Scene Index & Timeline
 
-Game Master:
+| Scene | Location | In-Game Time | Focus |
+| :---: | :--- | :--- | :--- |
+| **01** | Vought Tower | May 15, 2024 (09:00) | Roleplay |
+| **02** | Vought Tower - Executive Suite |  | Roleplay |
+| **03** | Vought Tower - 99th Floor (The Seven's Conference Room) | May 26, 2024 DR (12:00) | Roleplay |
+| **04** | Vought Tower | May 26, 2024 DR (09:00) | Roleplay |
+| **05** | Vought Tower - Homelander's Quarters | May 15, 2019 (12:00) | Roleplay |
+| **06** | Vought Tower - Homelander's Quarters | May 15, 2019 (12:05) | Social Challenge |
+| **07** | Vought Tower - Homelander's Quarters | 5 15, 2019 (12:05) | Roleplay |
+| **08** | Vought Tower - Homelander's Quarters | Month 5, 2019 (Day 15) | Roleplay |
+| **09** | Vought Tower - Homelander's Quarters | 5 15, 2019 (12:10) | Roleplay |
+| **10** | Diamond District Rooftops | Month 5, 2019 (Day 15) | Roleplay |
+| **11** | Diamond District Rooftops | Month 5, 2019 (Day 15) | Roleplay |
+| **12** | Diamond District Rooftops | May 15, 2019 DR (12:15) | Roleplay |
+| **13** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 DR (12:25) | Roleplay |
+| **14** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 (12:30) | Roleplay |
+| **15** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 DR (12:45) | Boss Surrender |
+| **16** | Vought Tower - Holding Sub-Level 4 | 5 15, 2019 DR (12:50) | Boss Surrender |
+| **17** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 DR (12:55) | Roleplay |
+| **18** | Vought Tower - Holding Sub-Level 2 (Comfort Wing) | May 15, 2019 (13:10) | Roleplay |
+| **19** | Diamond District - 'The Sound of Silence' Basement | Month 5 Day 15, 2019 DR (13:25) | Roleplay |
+| **20** | Diamond District - 'The Sound of Silence' Basement | May 15, 2019 (13:30) | Roleplay |
+| **21** | Diamond District - 'The Sound of Silence' Basement | Month 5, 2019 (Day 15) | Boss Surrender |
+| **22** | Diamond District - 'The Sound of Silence' Basement | May 15, 2019 DR (13:30) | Roleplay |
+| **23** | Diamond District - 'The Sound of Silence' Basement | Month 5, 2019 (Day 15) | Roleplay |
+| **24** | Meatpacking District - Outside Club 'Nightshade' | May 15, 2019 (14:00) | Roleplay |
+| **25** | Meatpacking District - Outside Club 'Nightshade' | Month 5, 2019 (Day 15) | Roleplay |
+| **26** | Meatpacking District - Outside Club 'Nightshade' | Month 5, 2019 (Day 15) | Roleplay |
+| **27** | Meatpacking District - Outside Club 'Nightshade' | May 15, 2019 (14:10) | Roleplay |
+| **28** | Vought Tower - Stillwell's Office | May 15, 2019 (14:22) | Roleplay |
+| **29** | Vought Tower - Stillwell's Office | May 15, 2019 (14:27) | Boss Surrender |
+| **30** | Vought Tower - Stillwell's Office | May 15, 2019 DR (14:27) | Roleplay |
+| **31** | Vought Tower - The Seven's Lounge | May 15, 2019 DR (14:42) | Roleplay |
+| **32** | Vought Tower - The Seven's Lounge | May 15, 2019 (14:52) | Social Challenge |
+| **33** | Vought Tower - Hero Management Floor | May 15, 2019 (15:12) | Social Challenge |
+| **34** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 (15:35) | Roleplay |
+| **35** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 (15:45) | Social Challenge |
+| **36** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 DR (15:55) | Boss Surrender |
+| **37** | Harlem - 135th Street Social Club | May 15, 2019 DR (16:15) | Roleplay |
+| **38** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 (16:45) | Roleplay |
+| **39** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 (17:00) | Social Challenge |
+| **40** | Vought Tower - Holding Sub-Level 4 | Month 5, 2019 (Day 15) | Roleplay |
+| **41** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 DR (17:30) | Boss Surrender |
+| **42** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 (17:35) | Roleplay |
+| **43** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 DR (17:40) | Social Challenge |
+| **44** | Vought Tower - Holding Sub-Level 4 | May 15, 2019 (17:45) | Roleplay |
+| **45** | Langley | May 15, 2019 (18:15) | Roleplay |
+| **46** | Gravelly Point Park | May 15, 2019 (19:30) | Social Challenge |
+| **47** | Gravelly Point Park | May 15, 2019 DR (19:45) | Roleplay |
+| **48** | Vought Wellness Retreat | May 15, 2019 (19:50) | Roleplay |
+| **49** | Vought Wellness Retreat | May 15, 2019 (19:50) | Roleplay |
+
+---
+
+
+## 📖 Part IV: The Adventure Chronicle
+
+#### Scene 1
+
+> 📍 **Vought Tower, New York City** &nbsp;|&nbsp; ⏳ **May 15, 2024 (09:00)** &nbsp;|&nbsp; 🛡️ **Character Creation in Progress**
+
 [CHARACTER CREATION - Initial Choice]
 
 Welcome to **The Boys: Season 1 - Neutral Ground**. 
@@ -36,20 +95,14 @@ You are **Homelander**, the world's greatest superhero and leader of The Seven. 
 
 How would you like to build your version of Homelander?
 
-Player (choice: ai_generated):
-AI Generated - Let the AI design a high-power Homelander build (Neutral alignment) including stats, abilities, and equipment suitable for The Seven.
+> [!NOTE] ⚙️ **Player Choice:**
+> *AI Generated - Let the AI design a high-power Homelander build (Neutral alignment) including stats, abilities, and equipment suitable for The Seven.*
 
-============================================================
-SCENE 2
-============================================================
-[[CHARACTER CREATION - AI Generated]
-Timestamp: 2024, May 26, 12:00:00
-Location: Vought Tower - Executive Suite
-Status: Lvl 1 Sovereign | HP: 185/185 | XP: 165000/195000 | Gold: 50,000]
-Resources: Heat Vision: 5/5, Flight: Infinite, Sonic Shout: 3/3
+---
 
-Game Master:
-[CHARACTER CREATION - Review]
+#### Scene 2
+
+> 📍 **Vought Tower - Executive Suite** &nbsp;|&nbsp; 🛡️ **Lvl 1 Sovereign | HP: 185/185 | XP: 165000/195000 | Gold: 50,000** &nbsp;|&nbsp; ✨ **Heat Vision: 5/5, Flight: Infinite, Sonic Shout: 3/3**
 
 Based on your request, I have engineered a high-power, neutral-alignment build for **Homelander**. This version of John is a Tier 3 'Sovereign' entity—a being of immense physical power who operates on a continental scale. While you possess the strength to level cities, your neutral alignment means you are driven by a complex mix of self-preservation, a desire for genuine connection (however warped), and a professional commitment to the Vought brand, rather than the sociopathic whims of your canon counterpart.
 
@@ -77,19 +130,14 @@ Based on your request, I have engineered a high-power, neutral-alignment build f
 
 Does this high-power build for Homelander meet your approval?
 
-Player (freeform):
-Give me like 20 dex. Use usd instead of gold. List all my powers and abilities. I should be like a gestalt fighter paladin
+> 👤 **Player:**
+> *"Give me like 20 dex. Use usd instead of gold. List all my powers and abilities. I should be like a gestalt fighter paladin"*
 
-============================================================
-SCENE 3
-============================================================
-[Timestamp: 2024 DR, May 26, 12:00:00
-Location: Vought Tower - 99th Floor (The Seven's Conference Room)
-Status: Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 265,000/305,000 | USD: $50,000]
-Resources: HD: 15/15, Lay on Hands: 75/75, Action Surge: 1/1, Heat Vision (Smites): L1 4/4, L2 3/3, L3 3/3, L4 2/2
+---
 
-Game Master:
-[CHARACTER CREATION - Review]
+#### Scene 3
+
+> 📍 **Vought Tower - 99th Floor (The Seven's Conference Room)** &nbsp;|&nbsp; ⏳ **May 26, 2024 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 265,000/305,000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Lay on Hands: 75/75, Action Surge: 1/1, Heat Vision (Smites): L1 4/4, L2 3/3, L3 3/3, L4 2/2**
 
 I have adjusted your build to incorporate the **Gestalt Fighter/Paladin** framework, specifically tailored for a Tier 3 Supe. Your Dexterity has been increased to 20, making you as fast and precise as you are powerful. Your wealth is now tracked in **USD (Vought Credits)**, reflecting your status as the premier asset of the world's most powerful corporation.
 
@@ -114,19 +162,15 @@ I have adjusted your build to incorporate the **Gestalt Fighter/Paladin** framew
 
 Does this ultimate Homelander build meet your approval, or shall we make further adjustments to your divine perfection?
 
-Player (freeform):
-Give me some epic +3 gear and start the game
+> 👤 **Player:**
+> *"Give me some epic +3 gear and start the game"*
 
-============================================================
-SCENE 4
-============================================================
-[Timestamp: 2024 DR, May 26, 09:00:00
-Location: Vought Tower
-Status: Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 225000/265000 | Gold: $50,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Action Surge: 1/1, Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 4
+
+> 📍 **Vought Tower** &nbsp;|&nbsp; ⏳ **May 26, 2024 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 225000/265000 | Gold: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Action Surge: 1/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 The morning sun glints off the reinforced glass of Vought Tower, casting long, sharp shadows across your private quarters. You stand before the floor-to-ceiling mirror, the weight of the American flag draped over your shoulders feeling heavier than any physical burden. This isn't the life of a monster, nor is it the life of a saint. It is a life of management. 
 
 Your new tactical suit, reinforced with experimental Vought polymers and lined with a micro-weave of +3 ballistic protection, fits like a second skin. It feels impenetrable, a physical manifestation of your status as the world's ultimate deterrent. Your heat vision hums behind your retinas, a coiled spring of radiant energy tuned to a lethal precision. 
@@ -137,19 +181,15 @@ A soft chime sounds at the door. Madelyn Stillwell enters, her heels clicking rh
 
 You look at her, the rhythmic thumping of her heart audible even over the ambient hum of the building's HVAC system. She's anxious, but she trusts you to fix it. As a neutral force in this den of vipers, you have a choice: maintain the corporate peace, or start digging into the cracks appearing in Vought's facade.
 
-Player (choice: finish_character_creation_start_game):
-Finish Character Creation and Start Game - Finalize this character and start the adventure.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Finish Character Creation and Start Game - Finalize this character and start the adventure.*
 
-============================================================
-SCENE 5
-============================================================
-[Timestamp: 2019, May 15, 12:00:00
-Location: Vought Tower - Homelander's Quarters
-Status: Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 165,000/195,000 | USD: $50,000
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: Heat Vision: 5/5, Lay on Hands: 75/75, Action Surge: 1/1, Indomitable: 2/2, USD: $50,000
+---
 
-Game Master:
+#### Scene 5
+
+> 📍 **Vought Tower - Homelander's Quarters** &nbsp;|&nbsp; ⏳ **May 15, 2019 (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 165,000/195,000 | USD: $50,000** &nbsp;|&nbsp; ✨ **Heat Vision: 5/5, Lay on Hands: 75/75, Action Surge: 1/1, Indomitable: 2/2, USD: $50,000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Midday (12:00:00)
 
 The midday sun pours through the floor-to-ceiling windows of your private quarters, illuminating the dust motes dancing in the air of the world's most expensive real estate. Below, the chaotic hum of New York City is a muffled, distant vibration, but to your ears, it is a symphony of millions. You can hear the screech of tires ten blocks away, the rhythmic thumping of jackhammers, and the thousands of overlapping heartbeats that define the city you 'protect.'
@@ -160,19 +200,15 @@ Madelyn Stillwell stands just inside the doorway, the scent of her expensive per
 
 You turn away from the glass, the eagle-head pauldrons of your +3 tactical suit catching the light. The micro-weave of the fabric feels tight and responsive, a reminder of the billions Vought has invested in your skin. You aren't the sadistic child they raised you to be, but you aren't a naive boy from a farm either. You are an asset, and right now, the assets of The Seven are drifting out of alignment.
 
-Player (choice: press_stillwell_for_truth):
-Press Stillwell for Info - Look Madelyn in the eye and listen to her pulse. Demand the truth about where Translucent was really sent.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Press Stillwell for Info - Look Madelyn in the eye and listen to her pulse. Demand the truth about where Translucent was really sent.*
 
-============================================================
-SCENE 6
-============================================================
-[Timestamp: 2019, May 15, 12:05:00
-Location: Vought Tower - Homelander's Quarters
-Status: Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 165,000/195,000 | USD: $50,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 6
+
+> 📍 **Vought Tower - Homelander's Quarters** &nbsp;|&nbsp; ⏳ **May 15, 2019 (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 165,000/195,000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Midday (12:05:00) in Vought Tower, Homelander's Quarters—the soft hum of the city continues, but the air in the room suddenly feels heavy, pressurized by your mere presence. You take a slow, deliberate step toward Madelyn (Lvl 5), closing the distance until you're towering over her. You don't blink; you simply stare into her eyes, searching for the slightest hitch in her pulse, the tiniest dilation of her pupils.
 
 Her heart rate remains impossibly steady—a testament to the Vought psychologists who trained her—but you can see the faint tightening of her knuckles as she grips her tablet. You don't need your ears to know she's holding back. 
@@ -181,23 +217,23 @@ Her heart rate remains impossibly steady—a testament to the Vought psychologis
 
 Madelyn (Lvl 5) holds your gaze for a second longer than a normal human could manage, but eventually, her professional mask flickers. She exhales a breath she didn't realize she was holding. "He was following a lead in the Diamond District, John. A potential leak regarding Compound V. He didn't check in at the first rally point." She pauses, her voice losing its maternal warmth. "If the boys we've been tracking have him... it's a disaster. Find him. Silently."
 
-[SOCIAL SKILL CHALLENGE: Madelyn Stillwell]
-Objective: Uncover the truth about Translucent's disappearance
-NPC Social HP: 6/8 | Status: WAVERING
-Resistance Shown: Tightened grip on tablet, guarded posture, brief silence.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Madelyn Stillwell**
+> **Objective:** Uncover the truth about Translucent's disappearance
+> NPC Social HP: 6/8 | Status: WAVERING
+> Resistance Shown: Tightened grip on tablet, guarded posture, brief silence.
+
 
 God Mode:
 Make me neutral evil also I think I should win most heart rate rolls ? In the show he can easily see it? Maybe give me expertise and advantage
 
-============================================================
-SCENE 7
-============================================================
-[Timestamp: 2019, 5 15, 12:05:00.000001
-Location: Vought Tower - Homelander's Quarters
-Status: Lvl 1 Gestalt Fighter/Paladin (Vought-Enhanced) | HP: 185/185 | XP: 165,100/195,000 | USD: 50,000
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
+---
 
-Game Master:
+#### Scene 7
+
+> 📍 **Vought Tower - Homelander's Quarters** &nbsp;|&nbsp; ⏳ **5 15, 2019 (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt Fighter/Paladin (Vought-Enhanced) | HP: 185/185 | XP: 165,100/195,000 | USD: 50,000** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 ### Administrative Override Successful
 
 **Campaign State Modified:**
@@ -212,19 +248,15 @@ Game Master:
 
 The story remains frozen at **12:05:00**. You may now return to the narrative with these enhanced capabilities.
 
-Player (freeform):
-Redo the roll on her heart rate
+> 👤 **Player:**
+> *"Redo the roll on her heart rate"*
 
-============================================================
-SCENE 8
-============================================================
-[Timestamp: 2019, Month 5, Day 15, 12:05:00
-Location: Vought Tower - Homelander's Quarters
-Status: Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 168,100/195,000 | USD: $50,000
-Conditions: Superior Super-Senses | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Action Surge: 1/1, Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 8
+
+> 📍 **Vought Tower - Homelander's Quarters** &nbsp;|&nbsp; ⏳ **Month 5, 2019 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 168,100/195,000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Action Surge: 1/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Superior Super-Senses | Exhaustion: 0 | Inspiration: No**
+
 Midday (12:05:00) in Vought Tower, Homelander's Quarters—the ambient hum of the building becomes a roar of sensory data as you focus your gaze on Madelyn (Lvl 5). You don't just see her; you see the rhythmic flutter of her carotid artery and hear the wet, heavy thud of her heart. With your new ruthless clarity, the maternal warmth she projects feels like a cheap, transparent film stretched over a engine of pure panic.
 
 She tries to hold your gaze, but your eyes—expertly calibrated to catch every micro-expression—see the truth before she speaks it. Her heart skips a beat when you mention the Diamond District. Her pupils dilate at the mention of the 'leak.' You aren't just the face of Vought anymore; you are the predator, and she is the handler realizing the cage door was never truly locked.
@@ -235,24 +267,23 @@ Madelyn (Lvl 5) swallows hard, the sound amplified in your ears like a crashing 
 
 You gain **3,000 XP** for breaking Madelyn's professional composure and extracting high-priority intelligence.
 
-[SOCIAL SKILL CHALLENGE: Madelyn Stillwell]
-Objective: Uncover the truth about Translucent's disappearance
-NPC Social HP: 4/8 | Status: YIELDING
-Resistance Shown: Physiological distress, rapid heart rate, verbal compliance.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Madelyn Stillwell**
+> **Objective:** Uncover the truth about Translucent's disappearance
+> NPC Social HP: 4/8 | Status: YIELDING
+> Resistance Shown: Physiological distress, rapid heart rate, verbal compliance.
+
 
 God Mode:
 Demand Specific Location - Force Madelyn to provide the exact coordinates or the last rally point in the Diamond District.
 
-============================================================
-SCENE 9
-============================================================
-[Timestamp: 2019, 5 15, 12:10:00
-Location: Vought Tower - Homelander's Quarters
-Status: Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 169100/195000 | USD: 50,000
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: Action Surge: 1/1, Indomitable: 2/2, Lay on Hands: 75/75, Heat Vision Smite: 5/5
+---
 
-Game Master:
+#### Scene 9
+
+> 📍 **Vought Tower - Homelander's Quarters** &nbsp;|&nbsp; ⏳ **5 15, 2019 (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt Fighter/Paladin | HP: 185/185 | XP: 169100/195000 | USD: 50,000** &nbsp;|&nbsp; ✨ **Action Surge: 1/1, Indomitable: 2/2, Lay on Hands: 75/75, Heat Vision Smite: 5/5** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 You lean in, the proximity of your face to Madelyn's forcing her to acknowledge the god standing before her. Your pupils catch every micro-tremor in her irises; your ears filter out the hum of the air conditioning to focus on the frantic, wet thumping of her heart, now hammering against her ribs like a trapped bird. 
 
 "The Diamond District is a big place, Madelyn," you say, your voice barely a whisper, yet vibrating with the threat of a sonic boom. "I don't do 'general vicinity.' I want the street. I want the building. I want the floor."
@@ -263,21 +294,17 @@ She flinches as you speak, her professional poise finally snapping under the wei
 
 She looks up at you, her eyes wide, searching for any sign of the 'John' she thinks she can control. You don't give her the satisfaction. You simply memorize the coordinates, the digital map burned into your retinas. The Invisible Man is in a hole, and it's time for the sun to look inside.
 
-Player (choice: scout_diamond_district):
-Subtle Reconnaissance: Land a few blocks away and use your super-senses to observe the shop from the rooftops before entering.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Subtle Reconnaissance: Land a few blocks away and use your super-senses to observe the shop from the rooftops before entering.
 
-have maeve on standby
+have maeve on standby*
 
-============================================================
-SCENE 10
-============================================================
-[Timestamp: 2019, Month 5, Day 15, 12:15:00
-Location: Diamond District Rooftops
-Status: Lvl 1 Gestalt | HP: 185/185 | XP: 172,100/190,000 | Gold: 50,000 USD
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: Lay on Hands: 75/75, Heat Vision: 5/5, Sonic Shout: 3/3, Action Surge: 1/1, Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 10
+
+> 📍 **Diamond District Rooftops** &nbsp;|&nbsp; ⏳ **Month 5, 2019 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Gestalt | HP: 185/185 | XP: 172,100/190,000 | Gold: 50,000 USD** &nbsp;|&nbsp; ✨ **Lay on Hands: 75/75, Heat Vision: 5/5, Sonic Shout: 3/3, Action Surge: 1/1, Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You launch from the balcony of Vought Tower, a sonic boom rippling through the glass behind you as you bank hard toward the Diamond District. The wind howls against your tactical suit, but you barely feel the friction. You attempt to stick a silent landing on the gravel-topped roof of an apartment complex two blocks from 'The Sound of Silence,' but the patriotic snap of your cape is too loud in the narrow urban canyon. A group of teenagers on a fire escape across the street freeze, their phones already out and recording. 'Oh my god, it's him!' one screams, but you ignore them with the practiced indifference of a god.
 
 Your focus narrows on the repair shop. You activate your X-ray vision, peeling back the brick and mortar like wet paper. In the basement, beneath a floor of dusty television parts, you find him. Translucent is visible only as a shimmering distortion inside a heavy zinc-lined cage—Wait, no, the cage is open, but the room itself is lined. You can see his internal organs vibrating. 
@@ -291,16 +318,12 @@ Maeve's voice crackles back, heavy with her usual cynicism. 'Copy that, John. Tr
 God Mode:
 i should be level 15. fix it
 
-============================================================
-SCENE 11
-============================================================
-[Timestamp: 2019, Month 5, Day 15, 12:15:00
-Location: Diamond District Rooftops
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 172,100 | Vought Credits: $50,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: Action Surge: 1/1, Indomitable: 2/2, Lay on Hands: 75/75, Smite Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/1
+---
 
-Game Master:
+#### Scene 11
+
+> 📍 **Diamond District Rooftops** &nbsp;|&nbsp; ⏳ **Month 5, 2019 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 172,100 | Vought Credits: $50,000** &nbsp;|&nbsp; ✨ **Action Surge: 1/1, Indomitable: 2/2, Lay on Hands: 75/75, Smite Slots: L1 4/4, L2 3/3, L3 3/3, L4 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 ### Administrative Override: Character Level Corrected
 
 **Character Sheet Synchronization:**
@@ -318,14 +341,12 @@ The story remains frozen at **12:15:00**. You are currently on the rooftop overl
 God Mode:
 give me all my proper spells/abilities for level 15 gestalt class fighter/paladin
 
-============================================================
-SCENE 12
-============================================================
-[Timestamp: 2019 DR, May 15, 12:15:00
-Location: Diamond District Rooftops
-Status: Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 172,100/195,000 | Gold: 50,000 USD]
+---
 
-Game Master:
+#### Scene 12
+
+> 📍 **Diamond District Rooftops** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (12:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 172,100/195,000 | Gold: 50,000 USD**
+
 ### Gestalt Character Sheet Finalized: Homelander (Lvl 15 Fighter/Paladin)
 
 You have been granted the full suite of abilities for a Level 15 Gestalt Fighter/Paladin. This represents the peak of Vought's biological engineering, combining peerless martial prowess with divine-tier radiant energy (Compound V).
@@ -355,18 +376,15 @@ You have been granted the full suite of abilities for a Level 15 Gestalt Fighter
 **Vought-Enhanced Prepared Spells:**
 - *Command, Wrathful Smite, Shield of Faith, Hold Person, Spiritual Weapon, Blinding Smite, Haste, Staggering Smite, Death Ward, Dominate Beast.*
 
-Player (freeform):
-fly through the floor and knockout butcher, french, hughie in order and tie them up and bring to vought
+> 👤 **Player:**
+> *"fly through the floor and knockout butcher, french, hughie in order and tie them up and bring to vought"*
 
-============================================================
-SCENE 13
-============================================================
-[Timestamp: 2019 DR, May 15, 12:25:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 172100/195000 | USD: $50,000]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 13
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 172100/195000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Indomitable: 2/2**
+
 The gravel beneath your boots is the last thing the teenagers on the street see before you punch through the air, diving straight through the roof of 'The Sound of Silence.' You don't bother with the door; you are the storm. You shatter through the second floor and the basement ceiling in a single, thunderous blur of concrete and splintered wood. 
 
 As you breach the basement, a series of tripwires snap. Frenchie's eyes widen as he reaches for a detonator, and a massive explosion of high-voltage capacitors and shaped C4 charges erupts directly beneath your feet. The blast is enough to level a townhouse, but to you, it feels like a warm breeze. You emerge from the smoke, your cape singed but your skin unblemished. 
@@ -379,19 +397,15 @@ You don't waste words. You find a roll of industrial-strength cable in the corne
 
 Ten minutes later, you are standing in the high-security holding sub-level of Vought Tower. Madelyn Stillwell is already there, her face pale as she looks at the three bound, battered men. 'John,' she whispers, her heart rate spiking to 140. 'You brought them here? To the building?'
 
-Player (choice: search_captives):
-Search the Captives - Thoroughly search their belongings for intel or Compound V samples before they wake up.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Search the Captives - Thoroughly search their belongings for intel or Compound V samples before they wake up.*
 
-============================================================
-SCENE 14
-============================================================
-[Timestamp: 2019, May 15, 12:30:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 172100/195000 | USD: $50,000
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Second Wind: 1/1 | Lay on Hands: 75/75
+---
 
-Game Master:
+#### Scene 14
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 (12:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 172100/195000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Second Wind: 1/1 | Lay on Hands: 75/75** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Midday (12:30:00)
 
 You stand over the three men, your eyes glowing with a faint blue hum as your X-ray vision peels back the layers of their filthy clothing. You ignore the frantic, wet thumping of Madelyn’s heart behind you, focusing instead on the physical contents of their pockets. You toss a few mundane items onto the sterile floor—a burner phone with a cracked screen from the boy, a set of lockpicks and a half-eaten croissant from the Frenchman, and a blood-stained crowbar you took from Butcher earlier.
@@ -404,18 +418,15 @@ No vials of Compound V. No encrypted ledgers. No 'smoking gun' that explains how
 
 You look down at Butcher. His heartbeat is steady, even in unconsciousness. He’s a professional. The boy, however, is a different story—his pulse is already beginning to spike as he nears the surface of consciousness. You haven't found the proof, but you have the men. And in this tower, you are the judge, jury, and executioner.
 
-Player (freeform):
-Separate them into different cells and wake up Hughie first and interrogate him. Make sure frenchie and but her are helpless. Naked, fully tied up, blindfolded, arms and legs can’t move
+> 👤 **Player:**
+> *"Separate them into different cells and wake up Hughie first and interrogate him. Make sure frenchie and but her are helpless. Naked, fully tied up, blindfolded, arms and legs can’t move"*
 
-============================================================
-SCENE 15
-============================================================
-[Timestamp: 2019 DR, May 15, 12:45:00
-Location: Vought Tower - Holding Sub-Level 4, Interrogation Cell 1
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 172550/195000 | USD: $50,000]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Indomitable: 2/2 | Lay on Hands: 75/75
+---
 
-Game Master:
+#### Scene 15
+
+> 📍 **Vought Tower - Holding Sub-Level 4, Interrogation Cell 1** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (12:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 172550/195000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Indomitable: 2/2 | Lay on Hands: 75/75**
+
 Afternoon (12:45:00) in Vought Tower, Holding Sub-Level 4—the hum of the high-security ward is a sterile, mechanical buzz. At your quiet command, the Vought security team stripped the captives of every shred of dignity and utility. You watched through the reinforced glass, your X-ray vision tracking the spike in their cortisol levels as they were separated. Butcher (Lvl 10) and Frenchie (Lvl 4) are now secured in adjacent isolation units, blindfolded and bound in heavy-duty restraints that pin their limbs against cold steel chairs. They are naked, exposed, and utterly helpless, their heartbeats muffled by the thick zinc-lined walls of their individual tombs.
 
 You step into Interrogation Cell 1. Hughie (Lvl 1) is a pathetic sight. He is trembling so violently that the metal chair beneath him rattles against the floor. The blindfold covers his eyes, but you can see the frantic darting of his pupils behind the fabric. His heart is hammering at 150 beats per minute, a frantic, wet thud that fills your ears. Madelyn (Lvl 5) stands in the shadows of the observation deck, her silhouette a dark shape against the glowing monitors.
@@ -424,23 +435,24 @@ You lean down, your cape brushing the floor, and whisper directly into Hughie's 
 
 You reach out, your gloved fingers tracing the line of his jaw. He flinches as if burned. "Tell me about the leak. Tell me what Butcher was looking for, and maybe I can convince Madelyn to let you go home. You gain 450 XP for breaking the weak link."
 
-[SOCIAL SKILL CHALLENGE: Hughie Campbell]
-Objective: Extract information about the Compound V leak
-NPC Social HP: 0/2 | Status: SURRENDERED
-Resistance Shown: Frantic physiological distress, sobbing, immediate verbal collapse.
 
-Player (choice: question_hughie_leak):
-Question about the Leak - Demand the source of their intel on Compound V. Who in Vought is talking to them?
 
-============================================================
-SCENE 16
-============================================================
-[Timestamp: 2019 DR, 5 15, 12:50:00
-Location: Vought Tower - Holding Sub-Level 4, Interrogation Cell 1
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 174750/195000 | USD: 50,000]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Second Wind: 1/1
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Hughie Campbell**
+> **Objective:** Extract information about the Compound V leak
+> NPC Social HP: 0/2 | Status: SURRENDERED
+> Resistance Shown: Frantic physiological distress, sobbing, immediate verbal collapse.
 
-Game Master:
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Question about the Leak - Demand the source of their intel on Compound V. Who in Vought is talking to them?*
+
+---
+
+#### Scene 16
+
+> 📍 **Vought Tower - Holding Sub-Level 4, Interrogation Cell 1** &nbsp;|&nbsp; ⏳ **5 15, 2019 DR (12:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 174750/195000 | USD: 50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Second Wind: 1/1**
+
 Afternoon (12:50:00) in Vought Tower, Holding Sub-Level 4—the sterile scent of ozone and floor cleaner fills the interrogation room as you loom over the broken form of Hughie Campbell (Lvl 1). Your shadow swallows him whole. You can hear the snot bubbling in his nose and the frantic, shallow gasps of a man who has looked into the sun and realized it is hungry.
 
 "The leak, Hughie," you repeat, your voice as smooth as silk and as heavy as a tombstone. "Who told you about the V? Was it someone in this building?"
@@ -451,29 +463,28 @@ You feel the shift in his pulse—he's not lying. The fear is too pure for decep
 
 In the observation deck, you hear Madelyn Stillwell’s (Lvl 5) heart skip a beat at the mention of A-Train. The 'leak' wasn't a person; it was a mistake. A-Train’s (Lvl 12) sloppiness has brought the wolves to the door. You gain **2,200 XP** for extracting the true nature of the Compound V security breach.
 
-[SOCIAL SKILL CHALLENGE: Hughie Campbell]
-Objective: Extract information about the Compound V leak
-NPC Social HP: 0/2 | Status: SURRENDERED
-Resistance Shown: None. Target has reached total psychological collapse.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Hughie Campbell**
+> **Objective:** Extract information about the Compound V leak
+> NPC Social HP: 0/2 | Status: SURRENDERED
+> Resistance Shown: None. Target has reached total psychological collapse.
+
 
 [MILESTONE ACHIEVED: The Weak Link Breaks]
 • Event: Hughie Campbell reveals A-Train as the unintentional source of the leak.
 • XP EARNED: 2,200 XP
 • Current XP: 174750 / 195000 (Level 15)
 
-Player (freeform):
-press him for the tech wizard and then internally think if its more usfeul to kill him or spare him
+> 👤 **Player:**
+> *"press him for the tech wizard and then internally think if its more usfeul to kill him or spare him"*
 
-============================================================
-SCENE 17
-============================================================
-[Timestamp: 2019 DR, May 15, 12:55:00
-Location: Vought Tower - Holding Sub-Level 4, Interrogation Cell 1
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 175,250/195,000 | USD: 50,000
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1
+---
 
-Game Master:
+#### Scene 17
+
+> 📍 **Vought Tower - Holding Sub-Level 4, Interrogation Cell 1** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (12:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 175,250/195,000 | USD: 50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Afternoon (12:55:00) in the sterile, zinc-lined silence of Interrogation Cell 1—the smell of Hughie's (Lvl 1) terror is thick enough to taste. You lean closer, the blue glow of your eyes reflecting in the tears soaking his blindfold. Your super-senses map the frantic vibration of his vocal cords before he even speaks.
 
 "The tech-wizard, Hughie," you rumble, your voice vibrating the floor plates. "The one who helped you disappear. I want a name. I want a face. Don't make me go looking for it in your head."
@@ -488,19 +499,15 @@ You glance up at the observation glass, knowing Madelyn (Lvl 5) is watching. Spa
 
 You gain **500 XP** for extracting Frenchie's base of operations and completing Hughie's psychological dismantling.
 
-Player (freeform):
-spare hughie for leverage, be good cop, give him some food/water and let him go in a more comfortable cell for now. Then persuade him to tell me wher translucent is. Say I'll discipline A-train but he realizes he did try to murder translucent. Its a greater crime than a train accidental kill. Portray myself as a good guy and upholder of the law
+> 👤 **Player:**
+> *"spare hughie for leverage, be good cop, give him some food/water and let him go in a more comfortable cell for now. Then persuade him to tell me wher translucent is. Say I'll discipline A-train but he realizes he did try to murder translucent. Its a greater crime than a train accidental kill. Portray myself as a good guy and upholder of the law"*
 
-============================================================
-SCENE 18
-============================================================
-[Timestamp: 2019, May 15, 13:10:00
-Location: Vought Tower - Holding Sub-Level 2 (Comfort Wing)
-Status: Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 175250/195000 | USD: $50,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Action Surge: 1/1
+---
 
-Game Master:
+#### Scene 18
+
+> 📍 **Vought Tower - Holding Sub-Level 2 (Comfort Wing)** &nbsp;|&nbsp; ⏳ **May 15, 2019 (13:10)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 175250/195000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You signal the guards. The heavy zinc door of Interrogation Cell 1 slides open with a pneumatic hiss. You don't use force this time; you reach down, your +3 tactical gloves gentle as you peel the blindfold from Hughie's (Lvl 1) puffy, tear-streaked face. He blinks against the sterile LED lights, flinching away, but you offer a hand—the hand of the world's savior.
 
 "I'm sorry about the theater, Hughie," you say, your voice vibrating with a practiced, warm resonance that has soothed millions. "The people upstairs... they get nervous. But I've seen the footage of Robin. What A-Train did... it was a tragedy. A horrible, sloppy accident. And I promise you, as the leader of this team, he will be disciplined. Properly."
@@ -513,18 +520,15 @@ Hughie stares at the sandwich, his lower lip trembling. He looks up at you, sear
 
 You Gain 1,500 XP for successfully shifting Hughie's perception of your alignment and securing the hostage's location through 'Good Cop' manipulation.
 
-Player (freeform):
-precision rescue but bring hughie and have him disbale the trap and if somehow that fails use my laser vision
+> 👤 **Player:**
+> *"precision rescue but bring hughie and have him disbale the trap and if somehow that fails use my laser vision"*
 
-============================================================
-SCENE 19
-============================================================
-[Timestamp: 2019 DR, Month 5 Day 15, 13:25:00
-Location: Diamond District - 'The Sound of Silence' Basement
-Status: Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 179750/195000 | USD: $50,000]
-Resources: Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 19
+
+> 📍 **Diamond District - 'The Sound of Silence' Basement** &nbsp;|&nbsp; ⏳ **Month 5 Day 15, 2019 DR (13:25)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 179750/195000 | USD: $50,000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2**
+
 Afternoon (13:25:00) in the Diamond District.
 
 You don't fly back; you descend like a falling star, Hughie tucked under your arm like a sack of groceries. The air screams around you, the sonic boom of your transit shattering windows for three blocks. You land in the alley behind 'The Sound of Silence' with enough force to crack the asphalt, the teenagers from earlier likely still staring at the sky in Midtown.
@@ -549,18 +553,15 @@ Translucent exhales a shimmering, distorted breath, his heart rate finally dropp
 
 You gain 3,000 XP for a high-precision rescue under pressure.
 
-Player (freeform):
-have hughie apologize to translucent and remind him that murdering a different hero for a train crimes isnt justifce, then inteorrogate trnslent
+> 👤 **Player:**
+> *"have hughie apologize to translucent and remind him that murdering a different hero for a train crimes isnt justifce, then inteorrogate trnslent"*
 
-============================================================
-SCENE 20
-============================================================
-[Timestamp: 2019, May 15, 13:30:00
-Location: Diamond District - 'The Sound of Silence' Basement
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 181250/195000 | USD: 50,000]
-Resources: Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 20
+
+> 📍 **Diamond District - 'The Sound of Silence' Basement** &nbsp;|&nbsp; ⏳ **May 15, 2019 (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 181250/195000 | USD: 50,000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2**
+
 Afternoon (13:30:00)
 
 You loom over the shivering form of Hughie Campbell, your hand resting with deceptive gentleness on his shoulder. Your cape drapes over him like the shadow of a monolithic god. "Apologize, Hughie," you command, your voice a smooth, terrifying purr. "Apologize to the man you tried to murder."
@@ -575,19 +576,15 @@ Your eyes narrow. Your **Superior Super-Senses** kick into overdrive. You aren't
 
 "Did you, now?" You lean in, your face inches from his. With a natural 20 on your Insight, you don't just suspect he's hiding something—you know it. You can see the microscopic sweat beads forming on his brow. "Because your heart tells me you're terrified. And it tells me you're holding back. What did they find, Translucent? What did Frenchie pull out of your head before I got here? Or better yet... what did you tell them?"
 
-Player (choice: press_translucent_hard):
-Press Translucent Hard - Use your Intimidation expertise to force Translucent to admit what he leaked or what was taken.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Press Translucent Hard - Use your Intimidation expertise to force Translucent to admit what he leaked or what was taken.*
 
-============================================================
-SCENE 21
-============================================================
-[Timestamp: 2019, Month 5, Day 15, 13:30:00
-Location: Diamond District - 'The Sound of Silence' Basement
-Status: Lvl 15 Gestalt | HP: 185/185 | XP: 181250/195000 | USD: $50,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1
+---
 
-Game Master:
+#### Scene 21
+
+> 📍 **Diamond District - 'The Sound of Silence' Basement** &nbsp;|&nbsp; ⏳ **Month 5, 2019 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt | HP: 185/185 | XP: 181250/195000 | USD: $50,000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 You loom over the semi-visible man, your shadow stretching across the damp basement floor like a shroud. You don't just stand there; you lean in until the ozone scent of your heat vision is the only thing he can smell. Your eyes don't just glow; they pulse with the rhythmic, lethal heat of a dying star.
 
 "John... please," he stammers, his carbon-hard skin flickering as his concentration wavers. 
@@ -602,22 +599,23 @@ From the shadows near the entrance, you hear a sharp intake of breath. Maeve eme
 
 "He's telling the truth, John," Maeve says, her voice flat. "I can hear his lungs whistling. They didn't just interrogate him. They butchered him."
 
-[SOCIAL SKILL CHALLENGE: Translucent]
-Objective: Find out what was leaked/taken
-NPC Social HP: 0/5 | Status: SURRENDERED
-Resistance Shown: Shimmering skin flicker, stuttering, final verbal collapse.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Translucent**
+> **Objective:** Find out what was leaked/taken
+> NPC Social HP: 0/5 | Status: SURRENDERED
+> Resistance Shown: Shimmering skin flicker, stuttering, final verbal collapse.
+
 
 God Mode:
 Wait didn’t I  already capture frenchie?
 
-============================================================
-SCENE 22
-============================================================
-[Timestamp: 2019 DR, May 15, 13:30:00
-Location: Diamond District - 'The Sound of Silence' Basement
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 181,250/195,000 | Gold: 50,000 USD]
+---
 
-Game Master:
+#### Scene 22
+
+> 📍 **Diamond District - 'The Sound of Silence' Basement** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (13:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 181,250/195,000 | Gold: 50,000 USD**
+
 Correct. You have already captured Frenchie (Serge), Billy Butcher, and Hughie Campbell. 
 
 **Current Status of the Captives:**
@@ -630,14 +628,12 @@ The planning option 'Hunt Frenchie' in the previous turn was a narrative inconsi
 God Mode:
 Why did this happen? What did you see in the game state data or events to get this wrong ?
 
-============================================================
-SCENE 23
-============================================================
-[Timestamp: 2019, Month 5, Day 15, 13:30:00
-Location: Diamond District - 'The Sound of Silence' Basement
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 181250/195000 | Gold: 50000]
+---
 
-Game Master:
+#### Scene 23
+
+> 📍 **Diamond District - 'The Sound of Silence' Basement** &nbsp;|&nbsp; ⏳ **Month 5, 2019 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 181250/195000 | Gold: 50000**
+
 Explanation of Narrative Inconsistency:
 
 **The Error:** In Turn 42, I suggested a planning choice to 'Hunt Frenchie' despite him being in a Vought isolation cell since Turn 26.
@@ -652,19 +648,15 @@ I have reinforced the `core_memories` and `entity_tracking` to explicitly show t
 
 **The Path Forward:** The planning option has been administratively corrected to **'Secure Koreatown Workshop'**. This reflects the actual tactical need: finding the skin sample Frenchie harvested before it can be used or recovered by other associates (like Mother's Milk or the Female).
 
-Player (freeform):
-Let’s give Maeve the credit and she can triumphantly carry out translucent and tell Madelyn to just send a team of elite operatives to the lab. I then bring hughie to A train and pull a train out of the scene he’s causing
+> 👤 **Player:**
+> *"Let’s give Maeve the credit and she can triumphantly carry out translucent and tell Madelyn to just send a team of elite operatives to the lab. I then bring hughie to A train and pull a train out of the scene he’s causing"*
 
-============================================================
-SCENE 24
-============================================================
-[Timestamp: 2019, May 15, 14:00:00
-Location: Meatpacking District - Outside Club 'Nightshade'
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 185750/195000 | USD: $50,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1, Second Wind: 1/1, Lay on Hands: 75/75
+---
 
-Game Master:
+#### Scene 24
+
+> 📍 **Meatpacking District - Outside Club 'Nightshade'** &nbsp;|&nbsp; ⏳ **May 15, 2019 (14:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 185750/195000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1, Second Wind: 1/1, Lay on Hands: 75/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Afternoon (14:00:00)
 
 You look at Maeve, your expression a practiced mask of strategic magnanimity. "Maeve. Take him," you command, gesturing to the shivering, semi-visible Translucent. "Take him back to Vought. Tell the press you tracked the signal, you led the breach. You're the hero of the hour. Madelyn will love the 'Goddess of War' narrative for the Midwest demographic."
@@ -688,14 +680,12 @@ A-Train (Lvl 12) freezes, the frantic vibration of his muscles snapping into a p
 God Mode:
 Let’s slow down my exp a bit. Only award it for bigger things like 3000 exp probably too much for intimidating A train
 
-============================================================
-SCENE 25
-============================================================
-[Timestamp: 2019, Month 5, Day 15, 14:00:00
-Location: Meatpacking District - Outside Club 'Nightshade'
-Status: Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 185750/195000 | USD: 50,000]
+---
 
-Game Master:
+#### Scene 25
+
+> 📍 **Meatpacking District - Outside Club 'Nightshade'** &nbsp;|&nbsp; ⏳ **Month 5, 2019 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 185750/195000 | USD: 50,000**
+
 XP progression speed has been adjusted. 
 
 I have recalibrated the reward thresholds to align with a more deliberate campaign pace. For a Level 15 character needing 195,000 XP for the next level, a 3,000 XP award represented nearly a third of the remaining progression for a single social interaction. 
@@ -711,14 +701,12 @@ I have added this as a persistent directive to ensure future awards remain consi
 God Mode:
 Let’s change the dynamic between Maeve and me. Rather than pathetic she thinks I’m ruthless and evil but I do have a soft spot for her. So giving her the credit was actually intended to help her
 
-============================================================
-SCENE 26
-============================================================
-[Timestamp: 2019, Month 5, Day 15, 14:00:00
-Location: Meatpacking District - Outside Club 'Nightshade'
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 185750/195000 | USD: 50,000]
+---
 
-Game Master:
+#### Scene 26
+
+> 📍 **Meatpacking District - Outside Club 'Nightshade'** &nbsp;|&nbsp; ⏳ **Month 5, 2019 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 185750/195000 | USD: 50,000**
+
 Administrative changes applied to relationship dynamics and XP pacing.
 
 **Relationship Update: Queen Maeve**
@@ -737,18 +725,15 @@ Administrative changes applied to relationship dynamics and XP pacing.
 - Hughie and A-Train are currently with you outside Club 'Nightshade'.
 - Time remains frozen at 14:00:00.
 
-Player (freeform):
-Resume A train confrontation and translucent isn’t in custody. Reprimand a train and have him apologize to hughie. Say even if it was an accident he killed someone
+> 👤 **Player:**
+> *"Resume A train confrontation and translucent isn’t in custody. Reprimand a train and have him apologize to hughie. Say even if it was an accident he killed someone"*
 
-============================================================
-SCENE 27
-============================================================
-[Timestamp: 2019, May 15, 14:10:00
-Location: Meatpacking District - Outside Club 'Nightshade'
-Status: Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 186000/195000 | USD: $50,000]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Exhaustion: 0
+---
 
-Game Master:
+#### Scene 27
+
+> 📍 **Meatpacking District - Outside Club 'Nightshade'** &nbsp;|&nbsp; ⏳ **May 15, 2019 (14:10)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 186000/195000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Exhaustion: 0**
+
 Outside 'Nightshade,' the afternoon sun feels cold against the jagged edges of the Meatpacking District. You drag A-Train (Lvl 12) through the velvet ropes, the neon pulse of the club replaced by the harsh, judgmental glare of the New York sky. Reggie is vibrating so hard your tactical suit hums in sympathy; his heart is a wet, frantic machine hitting 220 beats per minute, the scent of ozone and synthetic Compound V radiating off him in waves.
 
 You shove him toward Hughie (Lvl 1), who is standing on the cracked pavement, looking like he might vanish if the wind picks up. The paparazzi are a swarm of clicking shutters and flashing lights at the edge of the police line, but they don't matter. Only the god and his errant disciple matter now.
@@ -769,19 +754,15 @@ Reggie's shoulders slump. The vibration stops, replaced by a pathetic, shudderin
 
 Hughie stares at him, his mouth hanging open, caught between the impossible reality of a Supe's apology and the cold, terrifying shadow you cast over both of them.
 
-Player (freeform):
-Send A train to rehab and tell him he’s lucky that’s the only punishment and really frighten him with my killing intent. Then bring hughie back to the tower with Madelyn. Tell her I’m inclined to let him go but we need some assurances he won’t talk.
+> 👤 **Player:**
+> *"Send A train to rehab and tell him he’s lucky that’s the only punishment and really frighten him with my killing intent. Then bring hughie back to the tower with Madelyn. Tell her I’m inclined to let him go but we need some assurances he won’t talk."*
 
-============================================================
-SCENE 28
-============================================================
-[Timestamp: 2019, May 15, 14:22:00
-Location: Vought Tower - Stillwell's Office
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186300/195000 | Gold: 50,000 USD
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 28
+
+> 📍 **Vought Tower - Stillwell's Office** &nbsp;|&nbsp; ⏳ **May 15, 2019 (14:22)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186300/195000 | Gold: 50,000 USD** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Afternoon (14:22:00)
 
 You lean into A-Train’s personal space, the smell of ozone from your heat vision mingling with the metallic scent of his synthetic sweat. You don't say a word at first; you simply let your eyes pulse with a faint, crimson heat, monitoring the frantic stutter of his heart. "You’re going to rehab, Reggie," you whisper, your voice a razor blade against his ear. "And you’re going to thank the cameras for the 'opportunity to heal.' Because if I see you vibrating like a junkie on my street again, I won't send you to Vought Wellness. I'll send you to a closed-casket funeral. Do you understand?"
@@ -796,19 +777,15 @@ Madelyn looks from the shivering boy to you, her heartbeat spiking as she proces
 
 Madelyn (Lvl 5) stares at Hughie, her knuckles whitening as she grips the edge of her mahogany desk. Her pulse is rhythmic but hard. "Let him go? John, he’s seen the sub-levels. He knows about the V. He’s a walking subpoena. We can't just 'trust' a civilian who was part of a cell that kidnapped a member of The Seven. Assurances aren't enough—we need a permanent solution."
 
-Player (freeform):
-Send A train to rehab and tell him he’s lucky that’s the only punishment and really frighten him with my killing intent. Then bring hughie back to the tower with Madelyn. Tell her I’m inclined to let him go but we need some assurances he won’t talk
+> 👤 **Player:**
+> *"Send A train to rehab and tell him he’s lucky that’s the only punishment and really frighten him with my killing intent. Then bring hughie back to the tower with Madelyn. Tell her I’m inclined to let him go but we need some assurances he won’t talk"*
 
-============================================================
-SCENE 29
-============================================================
-[Timestamp: 2019, May 15, 14:27:00
-Location: Vought Tower - Stillwell's Office
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186,550/195,000 | USD: $50,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Second Wind: 1/1 | Action Surge: 1/1 | Lay on Hands: 75/75
+---
 
-Game Master:
+#### Scene 29
+
+> 📍 **Vought Tower - Stillwell's Office** &nbsp;|&nbsp; ⏳ **May 15, 2019 (14:27)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186,550/195,000 | USD: $50,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Second Wind: 1/1 | Action Surge: 1/1 | Lay on Hands: 75/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Afternoon (14:27:00) in the clinical luxury of Madelyn Stillwell’s (Lvl 5) office—the scent of fresh lilies is thick enough to be stifling. Below, A-Train (Lvl 12) has already been loaded into a black Vought SUV, his heart rate still a ragged, stuttering mess in your ears. He won't be vibrating for a long time; the look in your eyes before you sent him to 'Vought Wellness' made it clear that his next mistake would be his last. You gain **100 XP** for effectively neutralizing a teammate's liability through raw intimidation.
 
 In the office, Hughie (Lvl 1) sits paralyzed, his eyes darting between the expensive mahogany furniture and the god who just saved him from a thermite bomb. Madelyn (Lvl 5) paces behind her desk, her heels clicking like a countdown. 
@@ -819,10 +796,13 @@ You set your glass of milk down and lean against the floor-to-ceiling window, th
 
 Madelyn stops pacing. She looks at you, searching for the sociopath she raised, but finds only the ruthless, calculated strategist you've become. Her heart rate finally levels out into a dull, resigned thud. "Fine," she whispers. "He’s your asset. But if he so much as breathes a word to a blogger, I’m holding you accountable for the cleanup." You gain **150 XP** for securing a strategic asset and bending Vought leadership to your will.
 
-[SOCIAL SKILL CHALLENGE: Madelyn Stillwell]
-Objective: Persuade her to spare Hughie
-NPC Social HP: 2/8 | Status: SURRENDERED
-Resistance Shown: She has yielded to your logic and personal authority.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Madelyn Stillwell**
+> **Objective:** Persuade her to spare Hughie
+> NPC Social HP: 2/8 | Status: SURRENDERED
+> Resistance Shown: She has yielded to your logic and personal authority.
+
 
 **╔══════════════════════════════════════╗**
 **║       MILESTONE ACHIEVED!            ║**
@@ -840,14 +820,12 @@ Resistance Shown: She has yielded to your logic and personal authority.
 God Mode:
 Let’s stop this milk stuff and the homelander weirdness and issues. Make me intelligent and evil and ruthless but not pathetic and weird
 
-============================================================
-SCENE 30
-============================================================
-[Timestamp: 2019 DR, May 15, 14:27:00
-Location: Vought Tower - Stillwell's Office
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186,550/195,000 | USD: $50,000]
+---
 
-Game Master:
+#### Scene 30
+
+> 📍 **Vought Tower - Stillwell's Office** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (14:27)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186,550/195,000 | USD: $50,000**
+
 ### Personality Recalibration: The High-Functioning Sovereign
 
 **Administrative Changes Applied:**
@@ -862,18 +840,15 @@ Game Master:
 
 The campaign remains frozen at **14:27:00**. You are currently in Madelyn Stillwell's office with the secured asset, Hughie Campbell.
 
-Player (freeform):
-Tell Hughie he gets to live and will be monitored for now but we will give him a salary and let him do whatever he wants. Also since I feel bad he can call my cell if there’s some life threatening emergency. On the other hand if he betrays me he knows it’ll be bad. Show him my killing intent. Then go meet Maeve and try to persuade her I’m looking out for hers explain translucent is an idiot but I respect her
+> 👤 **Player:**
+> *"Tell Hughie he gets to live and will be monitored for now but we will give him a salary and let him do whatever he wants. Also since I feel bad he can call my cell if there’s some life threatening emergency. On the other hand if he betrays me he knows it’ll be bad. Show him my killing intent. Then go meet Maeve and try to persuade her I’m looking out for hers explain translucent is an idiot but I respect her"*
 
-============================================================
-SCENE 31
-============================================================
-[Timestamp: 2019 DR, May 15, 14:42:00
-Location: Vought Tower - The Seven's Lounge
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186,850/195,000 | USD: 50,000]
-Resources: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 31
+
+> 📍 **Vought Tower - The Seven's Lounge** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (14:42)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186,850/195,000 | USD: 50,000** &nbsp;|&nbsp; ✨ **L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2**
+
 Afternoon (14:42:00)
 
 You turn back to Hughie (Lvl 1), your expression shifting from the calculating mask you wore for Madelyn to something almost... paternal. It is a clinical choice, a precisely tuned frequency of kindness designed to anchor his loyalty through the only thing more powerful than fear: a sense of belonging. 
@@ -896,19 +871,15 @@ You leave him there and ascend to the 99th floor, finding Queen Maeve (Lvl 14) i
 
 Maeve (Lvl 14) finally looks at you. Her pulse hitches, just for a second—not in fear, but in a flicker of genuine surprise. She searches your face, looking for the lie, but your ENTJ clarity provides none. For a moment, the icy resentment in her eyes softens into a wary, complicated trust.
 
-Player (freeform):
-Further convince her. Explain I am ruthless but I do care for her in my own way. Ask her if she wants anything g
+> 👤 **Player:**
+> *"Further convince her. Explain I am ruthless but I do care for her in my own way. Ask her if she wants anything g"*
 
-============================================================
-SCENE 32
-============================================================
-[Timestamp: 2019, May 15, 14:52:00
-Location: Vought Tower - The Seven's Lounge
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186,850 / 195,000 | Gold: 50,000 USD
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 32
+
+> 📍 **Vought Tower - The Seven's Lounge** &nbsp;|&nbsp; ⏳ **May 15, 2019 (14:52)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 186,850 / 195,000 | Gold: 50,000 USD** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Afternoon (14:52:00)
 
 You don't move closer; you maintain the distance of a peer, giving her the dignity you know she craves. Your super-senses monitor the slow, steady deceleration of her heart. The surprise you detected earlier is hardening into something more durable—a recognition of your ENTJ logic. To a woman surrounded by corporate sycophants and shallow narcissists, your cold, surgical honesty is more refreshing than any lie.
@@ -919,10 +890,13 @@ You lean back against the reinforced glass, the sky over Manhattan turning a haz
 
 Maeve (Lvl 14) takes a long, slow sip of her drink, her pulse now as steady as a metronome. She looks at you, and for the first time, the icy resentment is gone, replaced by a calculating, cold alliance. "I want the girl, Starlight, kept away from the deep-end for a week. She's green, John. If Stillwell throws her to the wolves in Midtown, she'll break, and I'll have to clean up the mess. Give me the time to train her properly. My way."
 
-[SOCIAL SKILL CHALLENGE: Queen Maeve]
-Objective: Solidify trust and alliance
-NPC Social HP: 6/8 | Status: WAVERING
-Resistance Shown: Lingering cynicism, cautious request for authority.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Queen Maeve**
+> **Objective:** Solidify trust and alliance
+> NPC Social HP: 6/8 | Status: WAVERING
+> Resistance Shown: Lingering cynicism, cautious request for authority.
+
 
 **╔══════════════════════════════════════╗**
 **║       MILESTONE ACHIEVED!            ║**
@@ -936,19 +910,15 @@ Resistance Shown: Lingering cynicism, cautious request for authority.
 **║   • Tactical Alliance (Starlight)    ║**
 **╚══════════════════════════════════════╝**
 
-Player (freeform):
-Agree and then go meet starlight and oversee her intake and greet her politely
+> 👤 **Player:**
+> *"Agree and then go meet starlight and oversee her intake and greet her politely"*
 
-============================================================
-SCENE 33
-============================================================
-[Timestamp: 2019, May 15, 15:12:00
-Location: Vought Tower - Hero Management Floor
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 187,100/195,000 | Gold: 50,000 USD
-Conditions: Superior Super-Senses | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Second Wind: 1/1 | Indomitable: 2/2
+---
 
-Game Master:
+#### Scene 33
+
+> 📍 **Vought Tower - Hero Management Floor** &nbsp;|&nbsp; ⏳ **May 15, 2019 (15:12)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 187,100/195,000 | Gold: 50,000 USD** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Second Wind: 1/1 | Indomitable: 2/2** &nbsp;|&nbsp; ⚠️ **Superior Super-Senses | Exhaustion: 0 | Inspiration: No**
+
 Afternoon (15:12:00)
 
 You incline your head to Maeve, the gesture sharp and decisive. "You have her for a week, Maggie. No interference from Stillwell, no PR schedules. Just you and the girl. Teach her to be an asset, not a headline." You watch the slight relaxation in her shoulders—not a sign of weakness, but of a professional acknowledging a successful negotiation. "I'm heading down to intake. I want to see our future before the marketing department polishes the soul out of her."
@@ -961,23 +931,24 @@ Annie blinks, her eyes wide with a mixture of awe and dawning terror. She takes 
 
 "And you will," you reply, offering a smile that is 90% warmth and 10% predatory warning. "But it's a difficult transition. I've spoken with Queen Maeve. She’s going to personally oversee your integration for the first week. She's the best we have, Annie. Listen to her, and you might just survive the first month."
 
-[SOCIAL SKILL CHALLENGE: Queen Maeve]
-Objective: Solidify trust and alliance
-NPC Social HP: 4/8 | Status: WAVERING
-Resistance Shown: Strategic request granted; she is monitoring your follow-through.
 
-Player (freeform):
-Tell Madelyn to leave starlight to Maeve and narrate starlight reaction. She should be happy since she’s a big maeve fan. Then go interrogate frenchie first
 
-============================================================
-SCENE 34
-============================================================
-[Timestamp: 2019, May 15, 15:35:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 187,100 / 195,000 | Gold: 50,000 USD]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Queen Maeve**
+> **Objective:** Solidify trust and alliance
+> NPC Social HP: 4/8 | Status: WAVERING
+> Resistance Shown: Strategic request granted; she is monitoring your follow-through.
 
-Game Master:
+
+
+> 👤 **Player:**
+> *"Tell Madelyn to leave starlight to Maeve and narrate starlight reaction. She should be happy since she’s a big maeve fan. Then go interrogate frenchie first"*
+
+---
+
+#### Scene 34
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 (15:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 187,100 / 195,000 | Gold: 50,000 USD** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1**
+
 Afternoon (15:12:00) - Before leaving the intake room, you tap your comms, the sub-vocal mic transmitting your order directly to Madelyn Stillwell (Lvl 5). "Madelyn, the girl stays with Maeve. No PR, no interviews, no mid-day talk shows for the next week. Clear her schedule. I'm busy with the Frenchman."
 
 Beside you, Annie January (Lvl 5)—Starlight—looks as if she's just been handed the keys to the kingdom. Her heart rate, which was a frantic thrum of anxiety, suddenly leaps into a rhythmic, melodic staccato of pure, unadulterated joy. Her eyes shine with a light that has nothing to do with her powers. "Queen Maeve? Really?" she whispers, her voice trembling with excitement. "I... I've had her poster on my wall since I was six. I won't let you down, Mr. Homelander. I promise!"
@@ -990,19 +961,15 @@ Afternoon (15:35:00) - You step into Interrogation Cell 2. The air here is frigi
 
 Frenchie remains silent, his jaw set in a hard, defiant line. Your Intimidation fails to break his professional training; he is used to the dark rooms of the world. However, his body is an open book to your **Superior Super-Senses**. You don't need him to speak. You monitor the rhythmic flutter of his carotid artery and the way his pupils contract behind the blindfold when you mention the sample. His heart rate is high—135 beats per minute—but it hitches specifically when you glance toward the corner of the room where his burner phone was recovered. He's not just hiding information; he's terrified that you've already found the digital breadcrumbs.
 
-Player (freeform):
-Exploit tells and also retcon my money I should be pretty rich as homelander maybe 10M net worth
+> 👤 **Player:**
+> *"Exploit tells and also retcon my money I should be pretty rich as homelander maybe 10M net worth"*
 
-============================================================
-SCENE 35
-============================================================
-[Timestamp: 2019, May 15, 15:45:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 186,850/195,000 | USD: $10,000,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Lay on Hands: 75/75
+---
 
-Game Master:
+#### Scene 35
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 (15:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Fighter/Paladin | HP: 185/185 | XP: 186,850/195,000 | USD: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Lay on Hands: 75/75** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Afternoon (15:45:00) in the frigid, industrial silence of Sub-Level 4. Serge (Lvl 4) remains motionless in his restraints, his breathing shallow and controlled—the mark of a man who has spent years evading authorities. But he is not dealing with authorities now. He is dealing with a Sovereign.
 
 You lean in, your face inches from his blindfold, and let the low-frequency hum of your presence vibrate through the zinc-lined walls. "You're very disciplined, Serge," you whisper, your voice a smooth, cold resonance. "Your face says nothing. But your heart... your heart is screaming."
@@ -1015,23 +982,24 @@ Serge's (Lvl 4) jaw tightens, but you can feel the sudden, cold sweat breaking a
 
 Serge shudders, a low groan escaping his throat as his internal defenses collapse under the weight of your ENTJ clarity. The professional mask hasn't just slipped; it has been surgically removed.
 
-[SOCIAL SKILL CHALLENGE: Serge (Frenchie)]
-Objective: Locate the stolen skin sample/digital backup
-NPC Social HP: 2/4 | Status: WAVERING
-Resistance Shown: Professional interrogation resistance, controlled breathing, final physiological surrender.
 
-Player (choice: press_for_mm_location):
-Press for MM's Location - Force Frenchie to reveal where Mother's Milk is hiding. Use his fear for his friend as leverage.
 
-============================================================
-SCENE 36
-============================================================
-[Timestamp: 2019 DR, May 15, 15:55:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 187,050/195,000 | Net Worth: $10.0M]
-Resources: HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Exhaustion: 0
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Serge (Frenchie)**
+> **Objective:** Locate the stolen skin sample/digital backup
+> NPC Social HP: 2/4 | Status: WAVERING
+> Resistance Shown: Professional interrogation resistance, controlled breathing, final physiological surrender.
 
-Game Master:
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Press for MM's Location - Force Frenchie to reveal where Mother's Milk is hiding. Use his fear for his friend as leverage.*
+
+---
+
+#### Scene 36
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (15:55)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 187,050/195,000 | Net Worth: $10.0M** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Exhaustion: 0**
+
 Late afternoon (15:55:00) in the sterile, air-conditioned chill of Vought Tower's Holding Sub-Level 4—the only sound is the rhythmic, panicked drumming of Serge's (Lvl 4) heart against his ribs. You lean in until your nose is inches from his blindfold, the ozone scent of coiling heat vision thickening the air between you.
 
 "You're thinking about Marvin, aren't you?" you whisper, your voice vibrating with a frequency that rattles the zinc-lined walls. "You're thinking about his wife. His daughter. You're wondering if they're home right now, or if they're out getting ice cream, completely unaware that their lives are about to end because you wanted to play chemist."
@@ -1040,24 +1008,24 @@ Through your Superior Super-Senses, you watch the chaotic surge of adrenaline in
 
 Serge's (Lvl 4) breath hitches—a total physiological admission. He doesn't need to speak; the sudden, sharp contraction of his pupils and the temporary cessation of his breathing tell you everything. The 'MM' contact isn't just a friend; he's the final contingency, and you've just found him. You gain **400 XP** for surgically dismantling Frenchie's loyalty and securing Mother's Milk's location.
 
-[SOCIAL SKILL CHALLENGE: Serge (Frenchie)]
-Objective: Locate the stolen skin sample/digital backup
-Social HP: 0/4 | Status: SURRENDERED
-Resistance Shown: None. Target has reached total psychological and physiological collapse.
 
-Player (freeform):
-Have tactical team on standby then try to capture MM quietly
 
-============================================================
-SCENE 37
-============================================================
-[Timestamp: 2019 DR, May 15, 16:15:00
-Location: Harlem - 135th Street Social Club
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 187,850/195,000 | USD: $10,000,000
-Conditions: Normal | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Serge (Frenchie)**
+> **Objective:** Locate the stolen skin sample/digital backup
+> Social HP: 0/4 | Status: SURRENDERED
+> Resistance Shown: None. Target has reached total psychological and physiological collapse.
 
-Game Master:
+
+
+> 👤 **Player:**
+> *"Have tactical team on standby then try to capture MM quietly"*
+
+---
+
+#### Scene 37
+
+> 📍 **Harlem - 135th Street Social Club** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (16:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 187,850/195,000 | USD: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
 Late afternoon (16:15:00) in Harlem, 135th Street—you intended to be a shadow, a silent predator descending upon a cornered mouse. But as you bank low over the brownstones, the aerodynamic drag against your tactical suit creates a high-pitched scream that you can't quite suppress. You land three blocks away, and despite your 20 Dexterity, the sheer mass of your power makes the sidewalk buckle. A car alarm wails, and the rhythmic chatter of the street suddenly dies as heads turn toward the blue-and-red god who just cratered the concrete.
 
 "Quiet" is no longer an option. 
@@ -1074,19 +1042,15 @@ You don't use the stairs. You simply sink through the floor of the social club, 
 
 Mother's Milk (Lvl 6) freezes. He doesn't look at the God-King standing in the dust of his ceiling; he looks at the screen, his jaw set in a hard, professional line. But his pulse is a frantic, wet thud in your ears. He knows he's beaten. You gain **400 XP** for successfully locating the final cell member and preventing the immediate destruction of the evidence.
 
-Player (freeform):
-Capture him and bring back to voight tower cell and intrrogate
+> 👤 **Player:**
+> *"Capture him and bring back to voight tower cell and intrrogate"*
 
-============================================================
-SCENE 38
-============================================================
-[Timestamp: 2019, May 15, 16:45:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | Net Worth: $10,000,000 | XP: 188000/7000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1
+---
 
-Game Master:
+#### Scene 38
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 (16:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | Net Worth: $10,000,000 | XP: 188000/7000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
 Late afternoon (16:15:00) in the basement of the Harlem social club—dust still hangs in the air from your thunderous descent as Mother's Milk (Lvl 6) remains frozen, his finger centimeters from the 'Delete' key. You don't move with the frantic haste of a human; you move with the inevitable, crushing momentum of a glacier. Before his synapses can even fire the command to his muscles, your hand is there. You don't grab the keyboard; you simply wrap your fingers around his wrist. The sound of his radius and ulna groaning under the mere suggestion of your strength is the only thing that breaks the silence.
 
 "Marvin," you rumble, the frequency of your voice causing the cooling fans in the server rack to rattle. "You're a family man. You're thinking about Janine. You're thinking about how much she'll miss her father if he disappears into a Vought black site because he couldn't follow a simple instruction." You slowly peel his hand away from the terminal. "Alpha-6, move in. Secure the hardware. I'm taking the asset."
@@ -1099,18 +1063,15 @@ Late afternoon (16:45:00) in Vought Tower, Holding Sub-Level 4—you deposit Mar
 
 Marvin's (Lvl 6) jaw sets, his pulse spiking as he hears his daughter's name, but he remains silent. He is a harder nut to crack than the others, his resolve anchored in a deep-seated hatred that even your killing intent cannot immediately wither. You gain **150 XP** for the successful capture and the opening salvo of a high-stakes interrogation.
 
-Player (choice: exploit_family_connection):
-The Janine Lever - Show him live surveillance footage of his family (simulated or real) to prove they are within your reach at any moment.
+> [!NOTE] ⚙️ **Player Choice:**
+> *The Janine Lever - Show him live surveillance footage of his family (simulated or real) to prove they are within your reach at any moment.*
 
-============================================================
-SCENE 39
-============================================================
-[Timestamp: 2019, May 15, 17:00:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 188,750 / 195,000 | USD: $10,000,000]
-Resources: HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Rage: N/A | Exhaustion: 0
+---
 
-Game Master:
+#### Scene 39
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 (17:00)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 188,750 / 195,000 | USD: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Rage: N/A | Exhaustion: 0**
+
 Late afternoon (17:00:00) in Vought Tower, Holding Sub-Level 4—the cold, recycled air of the isolation wing carries the faint scent of ozone and Marvin T. Milk’s (Lvl 6) sweat. You reach out and tap a command on the wall terminal. A screen flickers to life directly in front of Marvin’s blindfolded face, the light bleeding through the fabric in a harsh, electronic blue.
 
 "You're a professional, Marvin. I respect that," you say, your voice a smooth, low-frequency hum that vibrates his very marrow. "But professionals have anchors. Weights that keep them grounded in a world that wants to pull them under." You peel the blindfold from his eyes. He blinks, his pupils contracting sharply against the glow of the screen. 
@@ -1123,25 +1084,25 @@ Marvin’s (Lvl 6) heart rate, which he had fought to keep at a rhythmic 120, su
 
 Marvin shudders, a low, guttural groan escaping his throat as his eyes fill with a desperate, helpless rage. He doesn't look at you; he can't take his eyes off the screen. You've found the anchor, and you've just cut the line.
 
-[SOCIAL SKILL CHALLENGE: Mother's Milk]
-Objective: Extract CIA contacts and data keys
-Social HP: 11/12 | Status: WAVERING
-Resistance Shown: Visceral emotional distress, rapid physiological breakdown, desperate silence.
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Mother's Milk**
+> **Objective:** Extract CIA contacts and data keys
+> Social HP: 11/12 | Status: WAVERING
+> Resistance Shown: Visceral emotional distress, rapid physiological breakdown, desperate silence.
+
 
 You gain **750 XP** for executing a masterfully cruel psychological strike that bypasses his professional training.
 
-Player (choice: offer_the_pact):
-The Sovereign's Mercy - Offer to have the Alpha-6 team 'extract' his family to a safe house and provide them with new identities if he surrenders the data keys and identifies the CIA mole.
+> [!NOTE] ⚙️ **Player Choice:**
+> *The Sovereign's Mercy - Offer to have the Alpha-6 team 'extract' his family to a safe house and provide them with new identities if he surrenders the data keys and identifies the CIA mole.*
 
-============================================================
-SCENE 40
-============================================================
-[Timestamp: 2019, Month 5, Day 15, 17:15:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 188,750/195,000 | USD: $10,000,000]
-Resources: Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Indomitable: 2/2 | Lay on Hands: 75/75
+---
 
-Game Master:
+#### Scene 40
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **Month 5, 2019 (Day 15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 188,750/195,000 | USD: $10,000,000** &nbsp;|&nbsp; ✨ **Slots: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Indomitable: 2/2 | Lay on Hands: 75/75**
+
 The blue glow of the monitor reflects in your irises, casting a cold, flickering light across the sterile interrogation cell. You don't look at the screen; you keep your eyes fixed on Marvin (Lvl 6), watching the sweat bead on his forehead and the way his hands clench against the zinc-lined restraints. 
 
 "Look at her, Marvin," you whisper, your voice a smooth, resonant vibration that carries no malice—only the weight of an inevitable conclusion. "She’s happy. She’s safe. And I want to keep it that way. I’m not Butcher. I don’t believe in collateral damage when a tactical surgical strike is more efficient."
@@ -1156,17 +1117,227 @@ Marvin: 185 → 190 BPM. He swallows hard, his jaw trembling. "Rayner," he gasps
 
 You offer a thin, cold smile and pat his shoulder with a gloved hand. "Good choice, Marvin. You just saved your world."
 
-Player (choice: verify_intel_stillwell):
-Verify with Stillwell - Exit the cell and provide the key and name to Madelyn; have Vought Tech confirm the partition exists while Alpha-6 moves on the family.
+> [!NOTE] ⚙️ **Player Choice:**
+> *Verify with Stillwell - Exit the cell and provide the key and name to Madelyn; have Vought Tech confirm the partition exists while Alpha-6 moves on the family.*
 
-============================================================
-SCENE 41
-============================================================
-[Timestamp: 2019 DR, May 15, 17:30:00
-Location: Vought Tower - Holding Sub-Level 4
-Status: Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 189,750/195,000 | Gold: $10,000,000
-Conditions: None | Exhaustion: 0 | Inspiration: No]
-Resources: HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Exhaustion: 0
+---
 
-Game Master:
-Evening (17:15:00) in Vought Tower, Holding Sub-Level 4—the heavy zinc door of the interrogation cell hisses shut, sealing Marvin T. Milk (Lvl 6) 
+#### Scene 41
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (17:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 189,750/195,000 | Gold: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Exhaustion: 0** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:15:00) in Vought Tower, Holding Sub-Level 4—the heavy zinc door of the interrogation cell hisses shut, sealing Marvin T. Milk (Lvl 6) inside with the flickering image of his daughter's playground. You step into the observation corridor where Madelyn Stillwell (Lvl 5) is waiting, her fingers tracing the edge of her tablet with a nervous, rhythmic energy.
+
+"He broke," you state, your voice a cool, clinical resonance that vibrates through the reinforced glass. "The CIA contact is Susan Rayner (Lvl 8). Deputy Director. She’s the one holding the leash. The data is on an encrypted partition in the Harlem server we seized. The key is 'LoveSausage2019'."
+
+Madelyn’s (Lvl 5) heart rate, which had been a steady thrum of anticipation, skips a beat before accelerating into a triumphant rhythm. "Rayner? That’s high-level. If we can link her to Butcher's (Lvl 10) cell, we can dismantle the CIA's Supe oversight for a decade." She taps a series of rapid commands into her tablet. "I’m alerting Vought Tech now. They'll begin the remote sweep. If the key is valid, that skin sample data will be deleted before the end of the hour."
+
+You lean back against the wall, the American flag on your cape catching the sterile LED light. "And the family, Madelyn. I gave Marvin my word. Alpha-6 is to extract them immediately. New identities, a safe house in the Berkshires, and a full Vought stipend. I want them to be ghosts. If Butcher or Rayner find so much as a hair from Janine's head, I’m holding the tactical lead personally responsible."
+
+Madelyn (Lvl 5) nods, her professional mask fully restored. "It's already in motion, John. Alpha-6 has secured the perimeter. They'll be 'relocated' before dinner." She pauses, her pulse slowing as she considers the strategic landscape. "You've handled this with remarkable efficiency. Butcher and Frenchie (Lvl 4) are still in holding, but with the data secured and Rayner exposed, they’re just corpses we haven't buried yet."
+
+You gain **500 XP** for securing the tactical keys to the Boys' operation and initiating the systematic removal of their CIA support.
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Mother's Milk**
+> **Objective:** Extract CIA contacts and data keys
+> Social HP: 0/12 | Status: SURRENDERED
+> Resistance Shown: None. Target has reached total psychological and physiological collapse.
+
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *The Traitor's Reveal - Visit Butcher's cell and show him the footage of the Harlem server being wiped. Break his spirit by revealing that Marvin sold him out for his family's safety.*
+
+---
+
+#### Scene 42
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 (17:35)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 189,750/195,000 | USD: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:35:00) in the frigid, zinc-lined silence of Vought Tower's Holding Sub-Level 4—the air is heavy with the scent of industrial cleaner and the metallic tang of Butcher's (Lvl 10) sweat. You step into his isolation unit, the heavy door sliding shut with a final, echoing clank. Billy Butcher is a mess of bruised ribs and defiant silence, his limbs forced into a static sprawl by the restraints, but his eyes—uncovered as you peel back the blindfold—are still burning with a gutteral, street-level hatred.
+
+"Look at me, William," you rumble, your voice a low-frequency vibration that makes the zinc plates hum. You don't wait for a response. You tap a command on your Vought-issued tablet, projecting a high-resolution feed onto the wall. Butcher’s rhythmic, soldier’s pulse hitches as he sees the Harlem social club's server rack being dismantled by Vought Tech. Then, the camera shifts to a safe house in the Berkshires. Janine is there, laughing as a Vought agent in a tactical vest hands her a stuffed animal.
+
+"The data is gone, William. LoveSausage2019. A bit crude, even for your Frenchman, don't you think?" You lean in until the blue-white hum of your heat vision is the only thing illuminating his face. Your Superior Super-Senses catch the sudden, violent surge of adrenaline—his heart rate leaps from a steady 70 to a frantic 155. "Marvin didn't even put up a fight. He traded your 'revolution' for a suburban safe house and a Vought stipend. He chose his daughter over your vendetta. You're not a leader, William. You're a ghost story that just ran out of pages."
+
+Butcher’s jaw sets so hard you hear the enamel creak, but the physiological truth is undeniable. The surge of cortisol in his blood is a chemical admission of total defeat. His pupils contract to pinpricks, and for the first time, the rhythmic 'thump-thump' of his heart sounds hollow, like a drum beating in an empty room. He doesn't look at the screen anymore; he looks at the floor, the fire in his eyes flickering toward a cold, dark ash. You gain **450 XP** for the systematic psychological destruction of the cell's leadership.
+
+> 👤 **Player:**
+> *"interrogate butcher"*
+
+---
+
+#### Scene 43
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (17:40)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 190,600/195,000 | USD: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Class Features: Action Surge 1/1, Indomitable 2/2, Heat Vision 5/5, Lay on Hands 75/75** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:40:00) in the frigid, industrial silence of Sub-Level 4—the hum of the building's power grid is the only witness to the systematic dismantling of a man's soul. You stand motionless, your cape casting a monolithic shadow that swallows Billy Butcher (Lvl 10) whole. The footage on the wall—Janine laughing in a Vought safe house—is a radiant, colorful contrast to the gray, zinc-lined tomb of the cell.
+
+"The Frenchman is talking, William," you whisper, your voice a smooth, terrifying resonance that vibrates through Butcher's chair. "The big man, Marvin, didn't just talk—he negotiated. He looked at the future I offered his daughter and he realized that your little 'crusade' was just a way for a bitter man to die in the gutter." Your Superior Super-Senses trace the stuttering rhythm of his heart; it’s no longer the rhythmic beat of a soldier, but the frantic, hollow thud of a man who has lost his gravity. 
+
+Butcher tries to spit, but his mouth is dry, his physiological systems paralyzed by the sheer pressure of your killing intent. He doesn't look at you, but you can see the way his eyes track the movement of the Vought guard on the screen—the man Marvin trusted to protect his child. 
+
+"You're alone now, William," you continue, leaning in until the blue-white hum of your retinas is the only light in his world. "No data. No team. No CIA backing. Susan Rayner is already being purged from the system. But I'm feeling... generous. I could leave you here to rot, or I could give you a choice. You know how Rayner thinks. You know her dead-man's switches. You help me finish this, and maybe I let Marvin and Serge keep their new lives. If you don't... well, I've already shown you how easy it is to find a playground in Harlem."
+
+Butcher’s head drops, his shoulders slumping as the last of his ideological armor cracks. The silence that follows isn't defiant; it's the silence of a man realizing he's been fighting a god with a paper sword. You gain **400 XP** for the systematic psychological destruction of the cell's leadership.
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Billy Butcher**
+> **Objective:** Break ideological resolve
+> NPC Social HP: 8/12 | Status: WAVERING
+> Resistance Shown: Enamel-creaking jaw clench, initial refusal to look, final physical slump.
+
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Offer the Leash - Tell Butcher that if he helps you dismantle Rayner's career and purge her 'Plan B' data, you will guarantee the safety of Serge and Marvin's family. Turn him into a deniable Vought asset.*
+
+---
+
+#### Scene 44
+
+> 📍 **Vought Tower - Holding Sub-Level 4** &nbsp;|&nbsp; ⏳ **May 15, 2019 (17:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 190,600/195,000 | USD: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Second Wind: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Evening (17:45:00) in the frigid, zinc-lined silence of Holding Sub-Level 4—the air remains pressurized by the weight of your presence. You stand over the slumped form of Billy Butcher (Lvl 10), your expression devoid of the theatrical anger he expects. Instead, you look at him with the clinical detachment of a scientist examining a failed experiment that might still have one useful byproduct.
+
+"Look at the screen, William," you rumble, your voice low and resonant, vibrating the very steel of his chair. "Marvin and Serge are currently enjoying the Sovereign's mercy. They have futures. Janine has a father. But that future is a fragile thing, anchored entirely to my whim. You, on the other hand, are a dead man. Susan Rayner (Lvl 8) will burn you to save herself the moment she realizes her 'Boys' are in my cage."
+
+You lean down, the blue-white hum of your heat vision casting long, sharp shadows across the floor. "I'm offering you a leash. Help me dismantle Rayner. Give me the locations of her physical backups and the protocols for her dead-man's switches. In exchange, I keep Serge and Marvin's family in the Berkshires. I turn you into a deniable asset—a ghost who hunts the people who actually sold you out." You pause, your Superior Super-Senses tracking the heavy, rhythmic thud of his heart. "Be the professional, William. Save your men by burying your pride."
+
+Butcher: 155 → 142 BPM. The frantic pace slows as his tactical mind begins to grind against his hatred. He looks up at you, his eyes red-rimmed and hollow. The silence stretches, heavy and thick. Finally, he speaks, his voice a dry rasp. "You... you'd really let 'em live? The Frenchman and the big man?"
+
+"As long as you are useful, they are safe," you reply. "The moment you hesitate, they become casualties. It's a very simple contract."
+
+Butcher (Lvl 10) closes his eyes, a shuddering breath escaping his lungs as he finally yields. "Rayner has a safety deposit box... First National in Langley. Physical drive. If she don't check in by 20:00, it goes to the Times. And her 'Plan B'... it's a server in an old fallout shelter in West Virginia."
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Billy Butcher**
+> **Objective:** Break ideological resolve
+> Social HP: 6/12 | Status: YIELDING
+> Resistance Shown: A final, desperate attempt to verify your terms before surrendering the Langley data.
+
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Dual Strike (Synergistic) - Personally fly to Langley while simultaneously ordering Alpha-6 to breach the West Virginia shelter using the intel Butcher just provided.*
+
+---
+
+#### Scene 45
+
+> 📍 **Langley, Virginia** &nbsp;|&nbsp; ⏳ **May 15, 2019 (18:15)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 190900/195000 | USD: 10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **None | Exhaustion: 0 | Inspiration: No**
+
+Evening (18:15:00) in Langley, Virginia—the sun dips below the horizon, casting the First National Bank in long, predatory shadows as you descend from the clouds. The air still screams from your supersonic transit, but your focus is surgical. Before leaving Vought Tower, you issued a sub-vocal command to Alpha-6: 'West Virginia. Sector 7 fallout shelter. Purge everything. If a single packet of data leaves that server, you don\'t come home.'
+
+While the tactical team breaches the mountain facility with the codes Butcher surrendered, you manifest inside the bank's vault. There is no alarm; you simply vibrate through the reinforced steel and concrete, a ghost in the machine of human security. You find safety deposit box #402. With a flick of your finger, the lock mechanism shears like paper. Inside lies a ruggedized physical drive—Rayner's insurance policy.
+
+Your tablet chimes. A secure feed from Alpha-6 shows the West Virginia server rack engulfed in thermite. 'Objective secured, sir. Data sanitized. No survivors.' Simultaneously, you crush the Langley drive in your palm, the microscopic circuits reduced to dust. The 20:00 deadline passes not with a roar, but with a silent, clinical erasure. Susan Rayner (Lvl 8) just lost her teeth, and she doesn't even know it yet.
+
+**[REWARD: DUAL STRIKE SUCCESS]**
+• Synergistic Execution (Langley/WV): 500 XP
+• CIA Contingency Purged: 800 XP
+• **TOTAL XP EARNED: 1,300 XP**
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *The Velvet Glove - Arrange a private meeting with Rayner. Show her the dust of her drive and offer her a choice: work for me as a CIA mole, or disappear like her 'Plan B.'*
+
+---
+
+#### Scene 46
+
+> 📍 **Gravelly Point Park, Arlington** &nbsp;|&nbsp; ⏳ **May 15, 2019 (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Fighter/Paladin | HP: 185/185 | XP: 192,200/195,000 | USD: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Lay on Hands: 75/75 | Action Surge: 1/1** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Nightfall (19:30:00) at Gravelly Point Park—the roar of jet engines from Reagan National Airport periodically drowns out the world, providing a clinical, industrial rhythm to the meeting. Susan Rayner (Lvl 8) stands by the Potomac, her silhouette sharp against the city lights. She doesn't turn when you descend, but your super-senses catch the sudden, violent spike in her heart rate—115 beats per minute—as the air pressure shifts around you.
+
+"You're late, John," she says, her voice a practiced CIA rasp. She still thinks she has the Langley drive. She still thinks she has the West Virginia backup.
+
+You step into the light of a nearby lamp, your +3 tactical suit gleaming. You don't speak. Instead, you slowly open your palm, letting a fine, metallic dust trickle through your fingers. The wind catches it, carrying the remains of her safety deposit box into the dark water. 
+
+Rayner's breath hitches. Through your Superior Super-Senses, you watch her pupils dilate in a spasm of pure, bureaucratic terror. You hear the moment her 'Plan B' goes silent in her mind. "West Virginia is a crater, Susan. Langley is a memory. And Butcher? He's currently deciding whether he likes the Berkshires enough to stay on my leash."
+
+You lean in, the blue-white hum of your heat vision illuminating the sweat beads on her brow. "The world thinks you're a patriot. I'm offering you the chance to stay one. You become my eyes inside Langley. You tell me who's looking, who's leaking, and who's planning. In return, you keep your career. If you refuse... well, I've already shown you how easy it is to make things disappear."
+
+Rayner (Lvl 8) stares at the Potomac, her jaw tight. Her heart is a frantic, wet thrumming—145 beats per minute. She is looking for an exit that no longer exists.
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Susan Rayner**
+> **Objective:** Coerce Rayner into becoming a Vought mole
+> NPC Social HP: 6/10 | Status: WAVERING
+> Resistance Shown: Professional deflection, initial denial, physiological shock.
+
+
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Total Institutional Capture (Synergistic) - Have Butcher call her now to confirm he's 'flipped' while I personally hand her a Vought-encrypted comms device, proving I already own her entire network.*
+
+---
+
+#### Scene 47
+
+> 📍 **Gravelly Point Park, Arlington** &nbsp;|&nbsp; ⏳ **May 15, 2019 DR (19:45)** &nbsp;|&nbsp; 🛡️ **Lvl 15 Gestalt Supe | HP: 185/185 | XP: 194,600/195,000 | Gold: $10,000,000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Heat Vision: 5/5 | Lay on Hands: 75/75** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
+
+Nightfall (19:45:00) at Gravelly Point Park—the humid air from the Potomac clings to your tactical suit as the low, menacing hum of a descending jet vibrates through the asphalt. You don't move. You simply watch Susan Rayner (Lvl 8), her face illuminated by the harsh blue light of the Vought-encrypted comms device you've placed in her trembling hand.
+
+Suddenly, the device chimes. It's an incoming video call. Rayner flinches, her heart rate spiking to a frantic 155 BPM. She looks at you, terror clear in her eyes, then taps the screen. 
+
+Billy Butcher (Lvl 10) appears on the display. He is still in the zinc-lined cell, his face a map of bruises, but his eyes are hollow—the fire of his crusade extinguished. "Susan," he rasps, his voice breaking through the speaker like static. "It's over. John... he's got the families. He's got the servers. Don't be a martyr for a ghost story. Just... take the deal."
+
+The silence that follows is heavier than the jet engines overhead. Rayner stares at the frozen image of her lead operative—the man she thought was her blunt-force instrument—surrendering to the inevitable. Through your Superior Super-Senses, you hear her physiological defenses finally collapse. The frantic hammering of her heart slows into a heavy, defeated thud. Her pupils contract, focus returning not as defiance, but as cold, bureaucratic resignation. 
+
+"The First National drive was my only insurance," she whispers, her gaze dropping to the metallic dust at her feet. "You've taken everything, John. You haven't just beaten me; you've erased me." She slowly closes her fingers around the Vought phone. "Tell me what you want to know from the Langley meetings. I'll be your eyes."
+
+You gain **1,200 XP** for the total institutional capture of a high-level CIA asset and the neutralization of her dead-man's switches.
+
+
+
+> [!NOTE] 🎯 **SOCIAL SKILL CHALLENGE: Susan Rayner**
+> **Objective:** Coerce Rayner into becoming a Vought mole
+> NPC Social HP: 3/10 | Status: YIELDING
+> Resistance Shown: Total physiological and ideological surrender following Butcher's confirmation.
+
+
+Your victory is interrupted by a sharp, rhythmic pulsing from your own tablet—an emergency high-priority alert from Vought Tower. Simultaneously, Maeve's voice crackles over your sub-vocal comms, her pulse hard and urgent. "John, we have a localized catastrophe. A-Train just breached the heavy-containment wing at Vought Wellness. He's vibrating through concrete, and the medical staff can't get near him without being turned into a red mist. PR is losing the blackout window. You need to get back here."
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Surgical Shutdown - Fly to Vought Wellness immediately. Use your speed to intercept A-Train and knock him out before he can exit the facility perimeter.*
+
+---
+
+#### Scene 48
+
+> 📍 **Vought Wellness Retreat, Catskills** &nbsp;|&nbsp; ⏳ **May 15, 2019 (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 (Lvl 16 available) Gestalt Fighter/Paladin | HP: 185/185 | USD: $10,000,000 | XP: 195000/195000** &nbsp;|&nbsp; ✨ **HD: 15/15 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Action Surge: 1/1 | Second Wind: 1/1 | Lay on Hands: 75/75**
+
+Nightfall (19:50:00) at the Vought Wellness Retreat—the idyllic mountain air is choked with the acrid scent of pulverized concrete and ozone. You descend from the clouds like a silent, vengeful thunderbolt, your eyes already calibrated to the frantic, high-frequency distortion of A-Train’s (Lvl 12) heart. The secure medical wing is a ruin; walls have been reduced to white powder where Reggie’s vibrating mass bypassed structural physics, and the screams of the orderlies are being silenced by the rhythmic, supersonic hum of his passage.
+
+Through the dust and the strobe-like flickers of failing emergency lights, your **Superior Super-Senses** lock onto him. He is a blue-black blur, caught in a feedback loop of V-withdrawal and neurological shock, his heart hammering at a lethal 240 beats per minute. You don't hesitate. You calculate his trajectory with surgical ENTJ precision and intercept him at the threshold of the perimeter gate.
+
+You manifest in his path, the sheer displacement of your arrival creating a vacuum that pulls the dust toward you. Before his hyper-accelerated synapses can react, your hand—weighted with the momentum of your flight—connects with the side of his head. It is a clinical strike, precisely tuned to disrupt his vestibular system without shattering his skull. The vibration stops instantly. A-Train’s momentum carries him into the dirt at your feet, his body finally still, his heart rate dropping into a heavy, drug-addled stupor.
+
+A-Train: 85 → 76 (Unconscious).
+
+You stand over him as the Vought tactical teams finally breach the courtyard, their rifles lowered in awe. The 'rehab' narrative is hanging by a thread, but the asset is contained. You gain **400 XP** for the surgical containment of a Tier 2 Supe threat and the preservation of Vought’s public image.
+
+> [!NOTE] ⚙️ **Player Choice:**
+> *Apply Level 16 Upgrades - Take a moment to center your focus and unlock new Fighter/Paladin capabilities.*
+
+---
+
+#### Scene 49
+
+> 📍 **Vought Wellness Retreat, Catskills** &nbsp;|&nbsp; ⏳ **May 15, 2019 (19:50)** &nbsp;|&nbsp; 🛡️ **Lvl 15 (Lvl 16 available) | HP: 185/185 | USD: 10,000,000 | XP: 195000/195000** &nbsp;|&nbsp; ✨ **HD: 15/15, Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2, Lay on Hands: 75/75, Action Surge: 1/1, Indomitable: 2/2**
+
+Nightfall (19:50:00) at the Vought Wellness Retreat—the mountain air is still, save for the distant hum of tactical extraction teams. You stand over the unconscious form of Reggie, the acrid scent of ozone and the heavy thud of your own pulse the only things grounding you in the aftermath. Within you, the Compound V in your blood seems to hum with a new, sharper frequency. Your focus narrows; the political chess match with Rayner and the tactical suppression of the Boys have hardened your resolve, clarifying your understanding of the power you wield.
+
+You close your eyes for a brief microsecond, centering your ENTJ clarity. The world around you is a collection of variables to be managed, and you feel the capacity to manage them expanding. This is not the erratic surge of a junkie like A-Train, but the calculated growth of a Sovereign entity.
+
+Recommended package:
+- **Fixed HP**: +12 (6 Base + 6 Constitution)
+- **Ability Score Improvement**: +2 Charisma (Increases Aura of Protection to +5 and bolsters all Social checks)
+
+---
+
