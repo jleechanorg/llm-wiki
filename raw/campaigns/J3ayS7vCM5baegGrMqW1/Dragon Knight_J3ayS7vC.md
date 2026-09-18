@@ -12,6 +12,19 @@ exported_from: "https://worldarchitect.ai"
 ---
 
 
+<a id="table-of-contents"></a>
+## 📑 Table of Contents
+
+- [🛡️ Part I: Campaign Dossier](#campaign-dossier)
+- [📜 Part II: World History & Lore](#world-history)
+- [🔮 Part III: Special Mechanics & Artifacts](#special-mechanics)
+- [🗺️ Scene Index & Timeline (45 Scenes)](#scene-index)
+- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)
+
+---
+
+
+<a id="campaign-dossier"></a>
 ## 🛡️ Part I: Campaign Dossier
 
 You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.
@@ -102,6 +115,7 @@ You begin with Level 1 Paladin abilities: Divine Sense (4 uses) and Lay on Hands
 
 ---
 
+<a id="world-history"></a>
 ## 📜 Part II: World History & Lore
 <details open>
 <summary><b>Historical Lore</b></summary>
@@ -171,6 +185,7 @@ Meanwhile, from the black salt flats of the south, the monstrous black dragon Um
 
 </details>
 
+<a id="special-mechanics"></a>
 ## 🔮 Part III: Special Mechanics & Artifacts
 <details>
 <summary><b>Campaign Mechanics</b></summary>
@@ -491,61 +506,66 @@ This reward represents the *third path* — neither relying on Aurum's protectio
 
 </details>
 
+<a id="scene-index"></a>
 ## 🗺️ Scene Index & Timeline
 
 | Scene | Location | In-Game Time | Focus |
 | :---: | :--- | :--- | :--- |
-| **01** | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
-| **02** | The King's Ribbon | Frost-Fall 12, 95 DR (09:00) | Roleplay |
-| **03** | The King's Ribbon | Frost-Fall 12, 95 DR (09:00) | Roleplay |
-| **04** | The King's Ribbon | Frost-Fall 12, 95 DR (09:05) | Roleplay |
-| **05** | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Roleplay |
-| **06** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:25) | Roleplay |
-| **07** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:30) | Social Challenge |
-| **08** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:35) | Social Challenge |
-| **09** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:40) | Social Challenge |
-| **10** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:45) | Roleplay |
-| **11** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:50) | Roleplay |
-| **12** | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:55) | Roleplay |
-| **13** | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:00) | Roleplay |
-| **14** | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:01) | Roleplay |
-| **15** | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:01) | Roleplay |
-| **16** | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:02) | Roleplay |
-| **17** | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:07) | Boss Surrender |
-| **18** | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:08) | Roleplay |
-| **19** | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:15) | Roleplay |
-| **20** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (10:30) | Roleplay |
-| **21** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (10:50) | Roleplay |
-| **22** | Command Tent | Frost-Fall 12, 95 DR (11:20) | Roleplay |
-| **23** | Command Tent | Frost-Fall 12, 95 DR (11:25) | Roleplay |
-| **24** | Command Tent | Frost-Fall 12, 95 DR (11:30) | Roleplay |
-| **25** | Command Tent | Frost-Fall 12, 95 DR (11:45) | Skill Check / Combat |
-| **26** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:00) | Roleplay |
-| **27** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:05) | Roleplay |
-| **28** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:05) | Roleplay |
-| **29** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:05) | Roleplay |
-| **30** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:05) | Roleplay |
-| **31** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:10) | Roleplay |
-| **32** | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:25) | Roleplay |
-| **33** | Command Tent | Frost-Fall 12, 95 DR (19:00) | Roleplay |
-| **34** | Command Tent | Frost-Fall 12, 95 DR (19:05) | Roleplay |
-| **35** | Command Tent | Frost-Fall 12, 95 DR (19:15) | Social Challenge |
-| **36** | Command Tent | Frost-Fall 12, 95 DR (19:25) | Roleplay |
-| **37** | Command Tent | Frost-Fall 12, 95 DR (19:30) | Skill Check / Combat |
-| **38** | Command Tent | Frost-Fall 12, 95 DR (19:35) | Roleplay |
-| **39** | Command Tent | Frost-Fall 12, 95 DR (20:00) | Roleplay |
-| **40** | Command Tent | Frost-Fall 13, 95 DR (04:00) | Roleplay |
-| **41** | The High Hall | Frost-Fall 13, 95 DR (05:30) | Social Challenge |
-| **42** | The High Hall | Frost-Fall 13, 95 DR (05:40) | Boss Surrender |
-| **43** | The King's Ribbon | Frost-Fall 13, 95 DR (06:40) | Skill Check / Combat |
-| **44** | The King's Ribbon | Frost-Fall 13, 95 DR (10:40) | Roleplay |
-| **45** | The King's Ribbon | Frost-Fall 13, 95 DR (11:00) | Roleplay |
+| [**Scene 01**](#scene-1) | The King's Ribbon | Frost-Fall 12, 95 A.G. (09:00) | Roleplay |
+| [**Scene 02**](#scene-2) | The King's Ribbon | Frost-Fall 12, 95 DR (09:00) | Roleplay |
+| [**Scene 03**](#scene-3) | The King's Ribbon | Frost-Fall 12, 95 DR (09:00) | Roleplay |
+| [**Scene 04**](#scene-4) | The King's Ribbon | Frost-Fall 12, 95 DR (09:05) | Roleplay |
+| [**Scene 05**](#scene-5) | The King's Ribbon | Frost-Fall 12, 95 DR (09:10) | Roleplay |
+| [**Scene 06**](#scene-6) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:25) | Roleplay |
+| [**Scene 07**](#scene-7) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:30) | Social Challenge |
+| [**Scene 08**](#scene-8) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:35) | Social Challenge |
+| [**Scene 09**](#scene-9) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:40) | Social Challenge |
+| [**Scene 10**](#scene-10) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:45) | Roleplay |
+| [**Scene 11**](#scene-11) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:50) | Roleplay |
+| [**Scene 12**](#scene-12) | Winter-Mourn Keep Gates | Frost-Fall 12, 95 DR (09:55) | Roleplay |
+| [**Scene 13**](#scene-13) | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:00) | Roleplay |
+| [**Scene 14**](#scene-14) | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:01) | Roleplay |
+| [**Scene 15**](#scene-15) | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:01) | Roleplay |
+| [**Scene 16**](#scene-16) | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:02) | Roleplay |
+| [**Scene 17**](#scene-17) | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:07) | Boss Surrender |
+| [**Scene 18**](#scene-18) | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:08) | Roleplay |
+| [**Scene 19**](#scene-19) | Winter-Mourn Keep Ramparts | Frost-Fall 12, 95 DR (10:15) | Roleplay |
+| [**Scene 20**](#scene-20) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (10:30) | Roleplay |
+| [**Scene 21**](#scene-21) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (10:50) | Roleplay |
+| [**Scene 22**](#scene-22) | Command Tent | Frost-Fall 12, 95 DR (11:20) | Roleplay |
+| [**Scene 23**](#scene-23) | Command Tent | Frost-Fall 12, 95 DR (11:25) | Roleplay |
+| [**Scene 24**](#scene-24) | Command Tent | Frost-Fall 12, 95 DR (11:30) | Roleplay |
+| [**Scene 25**](#scene-25) | Command Tent | Frost-Fall 12, 95 DR (11:45) | Skill Check / Combat |
+| [**Scene 26**](#scene-26) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:00) | Roleplay |
+| [**Scene 27**](#scene-27) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:05) | Roleplay |
+| [**Scene 28**](#scene-28) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:05) | Roleplay |
+| [**Scene 29**](#scene-29) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:05) | Roleplay |
+| [**Scene 30**](#scene-30) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:05) | Roleplay |
+| [**Scene 31**](#scene-31) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:10) | Roleplay |
+| [**Scene 32**](#scene-32) | Winter-Mourn Inner Ward | Frost-Fall 12, 95 DR (12:25) | Roleplay |
+| [**Scene 33**](#scene-33) | Command Tent | Frost-Fall 12, 95 DR (19:00) | Roleplay |
+| [**Scene 34**](#scene-34) | Command Tent | Frost-Fall 12, 95 DR (19:05) | Roleplay |
+| [**Scene 35**](#scene-35) | Command Tent | Frost-Fall 12, 95 DR (19:15) | Social Challenge |
+| [**Scene 36**](#scene-36) | Command Tent | Frost-Fall 12, 95 DR (19:25) | Roleplay |
+| [**Scene 37**](#scene-37) | Command Tent | Frost-Fall 12, 95 DR (19:30) | Skill Check / Combat |
+| [**Scene 38**](#scene-38) | Command Tent | Frost-Fall 12, 95 DR (19:35) | Roleplay |
+| [**Scene 39**](#scene-39) | Command Tent | Frost-Fall 12, 95 DR (20:00) | Roleplay |
+| [**Scene 40**](#scene-40) | Command Tent | Frost-Fall 13, 95 DR (04:00) | Roleplay |
+| [**Scene 41**](#scene-41) | The High Hall | Frost-Fall 13, 95 DR (05:30) | Social Challenge |
+| [**Scene 42**](#scene-42) | The High Hall | Frost-Fall 13, 95 DR (05:40) | Boss Surrender |
+| [**Scene 43**](#scene-43) | The King's Ribbon | Frost-Fall 13, 95 DR (06:40) | Skill Check / Combat |
+| [**Scene 44**](#scene-44) | The King's Ribbon | Frost-Fall 13, 95 DR (10:40) | Roleplay |
+| [**Scene 45**](#scene-45) | The King's Ribbon | Frost-Fall 13, 95 DR (11:00) | Roleplay |
+
+[↑ Back to Table of Contents](#table-of-contents)
 
 ---
 
 
+<a id="adventure-chronicle"></a>
 ## 📖 Part IV: The Adventure Chronicle
 
+<a id="scene-1"></a>
 #### Scene 1
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 A.G. (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1, Lay on Hands: 5/5, Divine Sense: 4/4** &nbsp;|&nbsp; ⚠️ **Normal | Exhaustion: 0 | Inspiration: No**
@@ -569,8 +589,11 @@ Before the first gate of Winter-Mourn Keep appears on the horizon, we must final
 > [!TIP] 💡 **Out of Character (OOC) Query:**
 > Before we begin, there is something I need to ask: Is this a game made with a prompt only or does it have any engine running alongside it? Or database or something?»
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-2"></a>
 #### Scene 2
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -588,8 +611,11 @@ Please review your character and your companions below. Once you are satisfied, 
 > [!NOTE] ⚙️ **Player Choice:**
 > *Finish Character Creation and Start Game - Accept this build and the companions to begin your mission at Winter-Mourn Keep.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-3"></a>
 #### Scene 3
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -603,8 +629,11 @@ Your detachment halts at the edge of the clearing before the main gate. Ser Hekt
 > 👤 **Player:**
 > *"They seem like a ragtag bunch, why do they pose a threat to the Imperium?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-4"></a>
 #### Scene 4
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -620,8 +649,11 @@ You recall the lessons of your father, Lord Commander Marcus: A single crack in 
 > 👤 **Player:**
 > *"What is Lady Ashwood doing? And Liora, what do you propose, to reject a direct order?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-5"></a>
 #### Scene 5
 
 > 📍 **The King's Ribbon, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -637,8 +669,11 @@ High above, a single horn blast sounds from the keep—a warning, or perhaps a s
 > 👤 **Player:**
 > *"Refugees are one thing, people claiming sovereignty is another, Ill find out more - I depart with a white flag for a parley"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-6"></a>
 #### Scene 6
 
 > 📍 **Winter-Mourn Keep Gates, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -654,8 +689,11 @@ As you reach the midpoint between your detachment and the gate, a sudden, sharp 
 > 👤 **Player:**
 > *"I shout: You shot upon an agent of the Empire, do so again and this conversation is over, I ask only one thing and I demand an answer, are you claiming sovereignty of this place and independence from the Imperium? What is the meaning of those flags?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-7"></a>
 #### Scene 7
 
 > 📍 **Winter-Mourn Keep Gates, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -681,8 +719,11 @@ Liora leans forward, her voice low. "Arion, she spoke. That's a crack in the wal
 > 👤 **Player:**
 > *"I Shout: The Empress rules the Imperium as she and her council see fit, and you are only landed because the Empress allows it. She is your rightful liege and you hold land in her name. By the order of the Imperial Throne, you are ordered to submit to the register and if you worry about your people you should register and solve your problems through the proper legal channels. This way you'll have a chance at solving your problem. Rebel and you'll be put to the sword and your death is 100% guaranteed. What say you?"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-8"></a>
 #### Scene 8
 
 > 📍 **Winter-Mourn Keep Gates, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -710,8 +751,11 @@ Hektor's outburst is startling; the usually rigid knight is trembling with a rep
 > 👤 **Player:**
 > *"Lady Ashwood, you are under arrest and will respond to your crimes of insubordination by this mess you created and insulting the Empress and the Empire. Open the gates, surrender yourself and comply with the register or we'll be forced to enforce order. Answer now."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-9"></a>
 #### Scene 9
 
 > 📍 **Winter-Mourn Keep Gates, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -735,8 +779,11 @@ Ser Hektor's horse rears as he draws his mace, the silvered steel gleaming in th
 > 👤 **Player:**
 > *"You have demonstrated you do not care for the people trusting you with their safety. You had ample chance to back down and face the consequences of your actions, instead you prefer to stand against the Empire that allowed you to rule this place and sacrifice the lives of your people to save yourself from consequence. Men, these people are now rebels and enemies of the empire. - I take my sword out of its scabbard, point it at the keep and say - Men, these people are now enemies of the Empire. - then I shout - CUT THEM DOWN!"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-10"></a>
 #### Scene 10
 
 > 📍 **Winter-Mourn Keep Gates, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -765,8 +812,11 @@ The camp is a vortex of mud, blood, and screaming horses. The path to the gate i
 > 👤 **Player:**
 > *"Liora! You are a knight, not a steward. Their blood is in Ashwood's hands not ours, now take your men and charge or Ill arrest you next."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-11"></a>
 #### Scene 11
 
 > 📍 **Winter-Mourn Keep Gates, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -789,8 +839,11 @@ The refugees are no longer a 'blind spot' in a ledger; they are a panicked, dyin
 > 👤 **Player:**
 > *"Liora, take your men and head to the refugee camp, ensure nobody escapes. I go for the Portculis with Finnian."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-12"></a>
 #### Scene 12
 
 > 📍 **Winter-Mourn Keep Gates, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (09:55)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -826,8 +879,11 @@ Your turn continues. You are currently positioned directly in front of the close
 > 👤 **Player:**
 > *"I climb the walls to reach the portcullis from the inside."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-13"></a>
 #### Scene 13
 
 > 📍 **Winter-Mourn Keep Ramparts, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -837,8 +893,11 @@ Morning (10:00:00) at the Winter-Mourn Keep Ramparts. You slam your shield onto 
 > 👤 **Player:**
 > *"I run towards the mechanism and cut its rope."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-14"></a>
 #### Scene 14
 
 > 📍 **Winter-Mourn Keep Ramparts, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -850,8 +909,11 @@ Below, in the slaughter-pen of the camp, you hear the wet thud of maces and the 
 > 👤 **Player:**
 > *"I grab lady Ashwood and order the soldiers to open the gate."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-15"></a>
 #### Scene 15
 
 > 📍 **Winter-Mourn Keep Ramparts, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:01)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -867,8 +929,11 @@ Below, the slaughter continues. The screams of the refugees are rising in a horr
 > 👤 **Player:**
 > *"I go for my belt knife and throw it at Ashwood. Then I use the distraction to brute force the portcullis mechanism"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-16"></a>
 #### Scene 16
 
 > 📍 **Winter-Mourn Keep Ramparts, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:02)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -884,8 +949,11 @@ On the ramparts, the Ashwood guards recover their senses, their faces twisting w
 > 👤 **Player:**
 > *"I call to my squires: Squires attend me! - then I march upon Ashwood and say - fight me you coward."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-17"></a>
 #### Scene 17
 
 > 📍 **Winter-Mourn Keep Ramparts, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:07)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -916,8 +984,11 @@ Behind you, Liora Vance reaches the rampart edge, her mace hanging limp in her h
 > 👤 **Player:**
 > *"I approach her, slap her knife out of her untrained noble hand and grab her."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-18"></a>
 #### Scene 18
 
 > 📍 **Winter-Mourn Keep Ramparts, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:08)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -933,8 +1004,11 @@ Liora Vance stands frozen at the rampart edge, her mace trembling. She looks dow
 > 👤 **Player:**
 > *"Right, she chooses to flee. This doesn't surprise me, ser Nyx. No matter. Establish order, secure the perimeter, accept the surrender of anyone who wants to be taken prisoner for judgement and kill the rest. As for Lady Ashwood. She'll figure out there is no escape now that we have the keep."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-19"></a>
 #### Scene 19
 
 > 📍 **Winter-Mourn Keep Ramparts, Winter-Mourn Province** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -948,8 +1022,11 @@ Ser Nyx stands beside you, her blood-stained blade held in a low guard. She watc
 > 👤 **Player:**
 > *"I turn back and walk below to help establish order again and say - the battle is over. Either accept their surrender or kill them, their choice. As for the Lady, we don't need to go for the high keep now. We have the keep and our mission is accomplished. We can leave her there for the time being. Post guards."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-20"></a>
 #### Scene 20
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -967,8 +1044,11 @@ Liora Vance is already among the wounded, her hands glowing with a soft, flicker
 > [!NOTE] ⚙️ **Player Choice:**
 > *Aid Liora with the Wounded - Use your own Lay on Hands pool to assist the Order of Mercy, attempting to repair the fractured trust between you and your healer.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-21"></a>
 #### Scene 21
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (10:50)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -996,8 +1076,11 @@ A heavy silence settles over the ward, broken only by the rhythmic clanking of c
 > 👤 **Player:**
 > *"I summon the officers to my command tent and ask them to report."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-22"></a>
 #### Scene 22
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (11:20)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1013,8 +1096,11 @@ Finnian Cross scoffs from the tent-flap, where he stands watching the perimeter.
 > 👤 **Player:**
 > *"Liora, those children and elders died due to Ashwoods cowardice. I offered to take her prisoner and take over without bloodshed. And you seem to think we did the wrong thing here, but we couldn't be lenient. If we did it your way the message that rebelling and asking for sovereignty or preferential treatment was fair and entertained, and so tomorrow another region would do the same, then another, then another, and chaos would ensue. 30 deaths are better than 30 000. Your good heart impedes your judgement. Sometimes the action that feels good is wrong, and the action that feels wrong is good."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-23"></a>
 #### Scene 23
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (11:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1039,8 +1125,11 @@ Finnian Cross clears his throat, his eyes still fixed on the eastern horizon thr
 > 👤 **Player:**
 > *"You, Liora, are a hypocrite. You criticize me for following my orders and making the hard choice, and yet you did exactly the same. You would want me to go against my orders because you feel they were wrong, yet when I ordered you to go and kill the refugees you grabbed your mace and went. You didn't disobey my orders and did what you had to, just like I did obey my orders and did what I had to. The difference is, I stand by my actions and take accountability while you hide behind me, claiming the fault for your actions was mine."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-24"></a>
 #### Scene 24
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (11:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1065,8 +1154,11 @@ Finnian Cross, however, suddenly snaps his head toward the tent opening, his han
 > 👤 **Player:**
 > *"We have a host on our hands thanks to this little rebellion, Liora here would want this to happen all over the empire to save 30 lives... Pitiful. Men man the walls, cover the gate. And you Liora, you're not qualified to be in the field. Keep to the monastery where your idealism won't get us all killed. Get your shit together or I'll find someone to represent your order that has actually did something hard in the past."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-25"></a>
 #### Scene 25
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (11:45)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1093,8 +1185,11 @@ Behind you, the High Hall remains a silent, barricaded fortress, Lady Ashwood's 
 > 👤 **Player:**
 > *"Hektor, they are mindless, set up a kill zone right behind the breach. The men will form an arch and hold the line, allowing Finnish and his men to rain all hell on them from above the walls and from the second row."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-26"></a>
 #### Scene 26
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (12:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1110,8 +1205,11 @@ The ground suddenly heaves. A low, vibrational thrumming—the sound of grinding
 > 👤 **Player:**
 > *"I run forward and engage the Hulk personally, shouting: MEN! WE DID THE HARDEST THING TODAY ALREADY. WE SHED BLOOD WE DIDNT WANT TO SHED. NOW ITS THE EASY PART... WE FIGHT FOR OUR FAMILIES!"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-27"></a>
 #### Scene 27
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1127,8 +1225,11 @@ Behind the beast, the blighted infantry hurls themselves against the reformed ar
 > [!NOTE] ⚙️ **Player Choice:**
 > *Order Pincer Maneuver - Command Nyx and Thorne to flank the Hulk while you hold its attention.*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-28"></a>
 #### Scene 28
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1140,8 +1241,11 @@ The Siege-Hulk brings its massive, rot-encrusted club down in a vertical overhea
 > 👤 **Player:**
 > *"I wait for the Hulk to completely fall down and then climb over it and carve my sword deep into its eye."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-29"></a>
 #### Scene 29
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1161,8 +1265,11 @@ Near the surgical tent, Liora Vance stops her work for a single, haunting moment
 > 👤 **Player:**
 > *"I ignore her completely. I slice the blind Hulk's other tendon."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-30"></a>
 #### Scene 30
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (12:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1180,8 +1287,11 @@ Behind you, the 'Argent Eaglets' roar with a savage, desperate relief. The sight
 > 👤 **Player:**
 > *"I jump on the hulk and stab him again and again until he dies."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-31"></a>
 #### Scene 31
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (12:10)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1199,8 +1309,11 @@ Ser Hektor Stone pulls his horse up beside the carcass, his silvered plate gleam
 > 👤 **Player:**
 > *"Run them down with the cavalry Ser Hektor. As for the rest of you, men, carry the wounded to the tent. And restore order once again. Well done men. You have proven you are a force of nature. Two won battles in a single day. I'm proud of all of you."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-32"></a>
 #### Scene 32
 
 > 📍 **Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (12:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1216,8 +1329,11 @@ As the inner ward is secured, the High Hall looms above you, silent and defiant.
 > 👤 **Player:**
 > *"I allow the men to have a free night of drinking, carrousing and rest, and call the officers to the tent to report once again"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-33"></a>
 #### Scene 33
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (19:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1235,8 +1351,11 @@ High above, a single torch flickers in the window of the High Hall. Lady Ashwood
 > 👤 **Player:**
 > *"First of all, thank you for taking a bit of your time to come here today, I'll keep this short so we can go celebrate with the men, but some things need to be said."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-34"></a>
 #### Scene 34
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (19:05)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1260,8 +1379,11 @@ Liora Vance, standing near the shadows of the entrance, doesn't even acknowledge
 > 👤 **Player:**
 > *"We were sent here to do a really hard mission. We were to slaughter everyone, and everyone knew of it. It was hard but we manage to solve the problem killing only a few dozens instead of the whole settlement. That is, in itself, a victory regardless of what some may say. We did the hard thing to keep the chaos and host off our land and we did it while saving as many as we could. Don't let it sit on your conscience, don't forget the first wave of refugees who died, died to lady Ashwoods crossbow bolts. So, not only did she prevent us from saving everyone, half the casualties were done by her."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-35"></a>
 #### Scene 35
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (19:15)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1287,8 +1409,11 @@ Liora Vance, however, finally raises her head. Her face is a mask of exhaustion,
 > 👤 **Player:**
 > *"Im recommending you, Nyx, Thorne, Finnian and Hektor, to the medal of valor for how you performed under pressure and duress, and how you kept your men in line."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-36"></a>
 #### Scene 36
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (19:25)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1314,8 +1439,11 @@ The carousing outside continues, but inside the tent, the air has grown thin. Yo
 > 👤 **Player:**
 > *"As for Liora, I'm sorry but you almost got us killed with your wavering. You deserted the battlefield when we most needed you. We lost many brave men today because you and yours werent at the wall today. I dont care how much you like or dislike me, but when you go rogue and prefer to be watching your kinsman die at the wall while hurling insults at your commander to being in the field minimizing losses and healing the wounded, we have a problem."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-37"></a>
 #### Scene 37
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (19:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1341,8 +1469,11 @@ Ser Hektor Stone's hand freezes on his goblet, the triumphant flush draining fro
 > [!TIP] 💡 **Out of Character (OOC) Query:**
 > Im not talking about the storming of the wall, Im talking when we were holding the wall against the host and she was at the tent hurling insults instead of helping.
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-38"></a>
 #### Scene 38
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (19:35)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1367,8 +1498,11 @@ The silence that follows is absolute. Liora has not just admitted to desertion; 
 > 👤 **Player:**
 > *"Right, glad we got that out in the open. Now, men, go rest, have a drink, mingle with the men and have fun. You've earned your rest. Tomorrow we will have to deal with the Lady in the keep."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-39"></a>
 #### Scene 39
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 12, 95 DR (20:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1386,8 +1520,11 @@ As you step outside, the night air is thick with the smell of roasting meat and 
 > 👤 **Player:**
 > *"I go sleep."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-40"></a>
 #### Scene 40
 
 > 📍 **Command Tent, Winter-Mourn Inner Ward** &nbsp;|&nbsp; ⏳ **Frost-Fall 13, 95 DR (04:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1401,8 +1538,11 @@ You see Ser Hektor Stone emerging from his own tent, his face pale and eyes bloo
 > 👤 **Player:**
 > *"Muster the men, get a ram, we capture the lady now."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-41"></a>
 #### Scene 41
 
 > 📍 **The High Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 13, 95 DR (05:30)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1428,8 +1568,11 @@ With a final, gargantuan splintering of oak, the barricaded doors of the High Ha
 > 👤 **Player:**
 > *"Lady Annalise Ashwood, you are under arrest. Men, grab her and lock her up."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-42"></a>
 #### Scene 42
 
 > 📍 **The High Hall, Winter-Mourn Keep** &nbsp;|&nbsp; ⏳ **Frost-Fall 13, 95 DR (05:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 0/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1453,8 +1596,11 @@ As Lady Ashwood is led away in chains, the High Hall falls into an eerie, frozen
 > 👤 **Player:**
 > *"Our mission is complete. We leave a garrison here and we depart South to report to the Empress. Move out."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-43"></a>
 #### Scene 43
 
 > 📍 **The King's Ribbon, Heading South from Winter-Mourn** &nbsp;|&nbsp; ⏳ **Frost-Fall 13, 95 DR (06:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 100/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1473,8 +1619,11 @@ As the 'Argent Eaglets' ride South along the white ribbon of the King's Road, le
 > 👤 **Player:**
 > *"We continue to the capital."*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-44"></a>
 #### Scene 44
 
 > 📍 **The King's Ribbon, South of Winter-Mourn** &nbsp;|&nbsp; ⏳ **Frost-Fall 13, 95 DR (10:40)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 100/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1505,8 +1654,11 @@ As the column halts for a brief watering at a roadside cistern, the tension fina
 > 👤 **Player:**
 > *"I dont answer or say a thing, she's not worth it, I climb back on the horse and order the march to continue"*
 
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
+
 ---
 
+<a id="scene-45"></a>
 #### Scene 45
 
 > 📍 **The King's Ribbon, South of Winter-Mourn** &nbsp;|&nbsp; ⏳ **Frost-Fall 13, 95 DR (11:00)** &nbsp;|&nbsp; 🛡️ **Lvl 1 Paladin | HP: 12/12 | XP: 100/300 | Gold: 25gp** &nbsp;|&nbsp; ✨ **HD: 1/1 | Divine Sense: 4/4 | Lay On Hands: 5/5**
@@ -1516,6 +1668,8 @@ Late morning (11:00:00) on The King's Ribbon, South of Winter-Mourn—the silenc
 Your silent resolve acts like an electrical surge through the detachment. The 'Argent Eaglets,' previously wavering under the weight of the morning's trauma, snap back into their formations with a speed born of a sudden, visceral fear of your disapproval. Pikes are leveled, shoulders are squared, and the columns reform with ironclad precision. Ser Hektor Stone brings his horse alongside yours, his visor reflecting your own cold mask. He says nothing, but the way he nudges his charger forward shows that his faith in your strength—and the Empress's law—has been absolute since the first drop of blood was spilled.
 
 Finnian Cross watches from the flank, his eyes narrowed as he takes in the sudden, sharp shift in the unit's energy. He doesn't join the order, but he urges his mount into a trot, his gaze returning to the Gray-Wash with renewed intensity. The Shattered Host may be positioning, but for now, the Argent Eaglets move as a single, lethal entity once more, leaving the echoes of Liora's truth buried beneath the white paving stones of the King's Ribbon.
+
+[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)
 
 ---
 

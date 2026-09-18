@@ -152,13 +152,29 @@ exported_from: "https://worldarchitect.ai"
         premise = cleaned_preamble[:idx_history].replace("# Campaign summary", "").strip()
         history = cleaned_preamble[idx_history:idx_details].replace("# World History", "").strip()
         details = cleaned_preamble[idx_details:idx_rules if idx_rules != -1 else None].replace("## V1 - Campaign Details", "").strip()
-        body_sections.append(f"## 🛡️ Part I: Campaign Dossier\n\n{premise}\n\n---\n\n{details}")
-        body_sections.append(f"## 📜 Part II: World History & Lore\n<details open>\n<summary><b>Historical Lore</b></summary>\n\n{history}\n\n</details>")
+        body_sections.append(f"<a id=\"campaign-dossier\"></a>\n## 🛡️ Part I: Campaign Dossier\n\n{premise}\n\n---\n\n{details}")
+        body_sections.append(f"<a id=\"world-history\"></a>\n## 📜 Part II: World History & Lore\n<details open>\n<summary><b>Historical Lore</b></summary>\n\n{history}\n\n</details>")
         if idx_rules != -1:
             rules = cleaned_preamble[idx_rules:].strip()
-            body_sections.append(f"## 🔮 Part III: Special Mechanics & Artifacts\n<details>\n<summary><b>Campaign Mechanics</b></summary>\n\n{rules}\n\n</details>")
+            body_sections.append(f"<a id=\"special-mechanics\"></a>\n## 🔮 Part III: Special Mechanics & Artifacts\n<details>\n<summary><b>Campaign Mechanics</b></summary>\n\n{rules}\n\n</details>")
     elif cleaned_preamble:
-        body_sections.append(f"## 🛡️ Part I: Campaign Background\n\n{cleaned_preamble}")
+        body_sections.append(f"<a id=\"campaign-dossier\"></a>\n## 🛡️ Part I: Campaign Background\n\n{cleaned_preamble}")
+
+    toc_lines = [
+        "<a id=\"table-of-contents\"></a>",
+        "## 📑 Table of Contents\n",
+    ]
+    if idx_history != -1 and idx_details != -1:
+        toc_lines.append("- [🛡️ Part I: Campaign Dossier](#campaign-dossier)")
+        toc_lines.append("- [📜 Part II: World History & Lore](#world-history)")
+        if idx_rules != -1:
+            toc_lines.append("- [🔮 Part III: Special Mechanics & Artifacts](#special-mechanics)")
+    elif cleaned_preamble:
+        toc_lines.append("- [🛡️ Part I: Campaign Background](#campaign-dossier)")
+    toc_lines.append(f"- [🗺️ Scene Index & Timeline ({total_scenes} Scenes)](#scene-index)")
+    toc_lines.append("- [📖 Part IV: The Adventure Chronicle](#adventure-chronicle)")
+    toc_lines.append("\n---\n")
+    table_of_contents_md = "\n".join(toc_lines)
 
     scene_records = []
     for i in range(1, len(scenes_split), 2):
@@ -235,7 +251,12 @@ exported_from: "https://worldarchitect.ai"
             "player_type": player_type,
         })
 
-    index_md = "## 🗺️ Scene Index & Timeline\n\n| Scene | Location | In-Game Time | Focus |\n| :---: | :--- | :--- | :--- |\n"
+    index_md = (
+        "<a id=\"scene-index\"></a>\n"
+        "## 🗺️ Scene Index & Timeline\n\n"
+        "| Scene | Location | In-Game Time | Focus |\n"
+        "| :---: | :--- | :--- | :--- |\n"
+    )
     for s in scene_records:
         ts_f = format_timestamp(s["timestamp"])
         loc_s = s["location"].split(",")[0].strip() or "Unknown"
@@ -246,10 +267,10 @@ exported_from: "https://worldarchitect.ai"
             tag = "Boss Surrender"
         elif "WAVERING" in s["gm_text"]:
             tag = "Social Challenge"
-        index_md += f"| **{s['num']:02d}** | {loc_s} | {ts_f} | {tag} |\n"
-    index_md += "\n---\n"
+        index_md += f"| [**Scene {s['num']:02d}**](#scene-{s['num']}) | {loc_s} | {ts_f} | {tag} |\n"
+    index_md += "\n[↑ Back to Table of Contents](#table-of-contents)\n\n---\n"
 
-    chronicle_md = "## 📖 Part IV: The Adventure Chronicle\n\n"
+    chronicle_md = "<a id=\"adventure-chronicle\"></a>\n## 📖 Part IV: The Adventure Chronicle\n\n"
     for s in scene_records:
         num = s["num"]
         ts_disp = format_timestamp(s["timestamp"])
@@ -266,7 +287,7 @@ exported_from: "https://worldarchitect.ai"
             hud_parts.append(f"⚠️ **{s['conditions']}**")
         hud_bar = " &nbsp;|&nbsp; ".join(hud_parts)
 
-        chronicle_md += f"#### Scene {num}\n\n> {hud_bar}\n"
+        chronicle_md += f"<a id=\"scene-{num}\"></a>\n#### Scene {num}\n\n> {hud_bar}\n"
         if s["dice"]:
             chronicle_md += s["dice"]
         chronicle_md += "\n" + s["gm_text"] + "\n\n"
@@ -279,9 +300,9 @@ exported_from: "https://worldarchitect.ai"
                 chronicle_md += f"> [!NOTE] ⚙️ **Player Choice:**\n> *{p_content}*\n\n"
             else:
                 chronicle_md += f'> 👤 **Player:**\n> *"{p_content}"*\n\n'
-        chronicle_md += "---\n\n"
+        chronicle_md += "[↑ Scene Index](#scene-index) &nbsp;|&nbsp; [↑ Top](#table-of-contents)\n\n---\n\n"
 
-    full_md_parts = [frontmatter, header_md] + body_sections + [index_md, chronicle_md]
+    full_md_parts = [frontmatter, header_md, table_of_contents_md] + body_sections + [index_md, chronicle_md]
     return "\n\n".join(full_md_parts)
 
 def convert_single_file(input_path: str, output_path: str = None) -> bool:
